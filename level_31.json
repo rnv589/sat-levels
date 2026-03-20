@@ -1,0 +1,167 @@
+{
+  "level": 31,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_31.png",
+  "questions": [
+    {
+      "word": "PROSAIC",
+      "correct_definition": "plain, lacking liveliness",
+      "distractors": [
+        "Relating to the art of effective and persuasive writing.",
+        "Advocating for forward movement or progress.",
+        "Pertaining to a formal speech or public address.",
+        "Written in a highly decorative and imaginative style.",
+        "Characterized by a deliberate and careful choice of words.",
+        "Expressing a strong affirmation or endorsement.",
+        "Of or relating to the study of ancient literary texts.",
+        "Marked by an objective and fact-based approach.",
+        "Concerned primarily with the professional aspects of a career.",
+        "Indicating a preference for established methods or traditions."
+      ]
+    },
+    {
+      "word": "PROTEAN",
+      "correct_definition": "able to change shape; displaying great variety",
+      "distractors": [
+        "Relating to the earliest or original form of something.",
+        "Characterized by being of primary or fundamental importance.",
+        "Strongly advocating for a particular idea or cause.",
+        "Tending to protect or safeguard others from harm.",
+        "Exhibiting meticulous attention to detail and procedure.",
+        "Having a tendency to postpone tasks or avoid responsibilities.",
+        "Marked by a simple, unadorned, or basic design.",
+        "Pertaining to the introductory or initial phase of an activity.",
+        "Known for displaying exceptional bravery and valor.",
+        "Characterized by a steadfast adherence to principles or beliefs."
+      ]
+    },
+    {
+      "word": "PUERILE",
+      "correct_definition": "juvenile, immature",
+      "distractors": [
+        "spotless, untainted",
+        "impoverished, destitute",
+        "hazardous, dangerous",
+        "feeble, weak",
+        "potent, powerful",
+        "intricate, complex",
+        "fragmented, disjointed",
+        "unblemished, pristine",
+        "didactic, instructive",
+        "ubiquitous, pervasive"
+      ]
+    },
+    {
+      "word": "PUNGENT",
+      "correct_definition": "having a pointed, sharp quality\u2014often used to describe smells",
+      "distractors": [
+        "Relating to a minor penalty or a mild form of reprimand.",
+        "Exhibiting a refined and gracious manner, often in social interactions.",
+        "Marked by a tendency to delay or postpone important tasks.",
+        "Displaying a highly perceptive and acutely intelligent mind, particularly in debate.",
+        "Having a mild and unstimulating flavor or aroma, often described as tasteless.",
+        "Easily compressed and capable of absorbing large quantities of liquid.",
+        "Describing an object that tapers to a fine point, capable of piercing.",
+        "Delivering a sudden, forceful blow or impact with a fist.",
+        "Characterized by a deep feeling of remorse or a prick of conscience.",
+        "Having a sluggish or dull quality, often associated with a lack of vitality."
+      ]
+    },
+    {
+      "word": "QUELL",
+      "correct_definition": "to control or diffuse a potentially explosive situation",
+      "distractors": [
+        "To recede from a challenging confrontation due to apprehension or timidity.",
+        "To cause a subterranean source of liquid to flow forth vigorously.",
+        "To emit a sudden, loud, and often high-pitched vocal outburst.",
+        "To establish a formal and binding commitment or understanding between parties.",
+        "To carefully assemble and verify data from disparate origins.",
+        "To peal a resonant chime, marking a solemn occasion or announcement.",
+        "To apportion tasks or funds methodically among designated recipients.",
+        "To immerse oneself deeply in a subject of profound intellectual inquiry.",
+        "To forcibly dislodge an object that is firmly entrenched or embedded.",
+        "To construct an intricate textile or framework using interwoven strands."
+      ]
+    },
+    {
+      "word": "RAPPORT",
+      "correct_definition": "mutual understanding and harmony",
+      "distractors": [
+        "A quick and witty verbal response.",
+        "The ability to swiftly recall information.",
+        "A sudden burst of intense emotion.",
+        "A formal written account of an event.",
+        "The architectural design of an entrance or gateway.",
+        "A designated area for loading and unloading cargo.",
+        "The art of carrying oneself with dignity and grace.",
+        "A legal document outlining responsibilities.",
+        "A sharp, critical assessment or rebuke.",
+        "A series of rapid, successive knocks or taps."
+      ]
+    },
+    {
+      "word": "RAUCOUS",
+      "correct_definition": "loud, boisterous",
+      "distractors": [
+        "Having a rough, coarse texture; not smooth.",
+        "Describing something raw or uncooked; unrefined.",
+        "Marked by crude or unrefined manners; vulgar.",
+        "Wild and untamed; lacking discipline.",
+        "Ancient or archaic; pertaining to a past era.",
+        "Difficult to traverse or navigate; rugged.",
+        "Having deep roots or origins; well-established.",
+        "Marked by decay or decomposition; putrid.",
+        "Being stubborn or obstinate; unyielding.",
+        "Lacking grace or elegance; unpolished."
+      ]
+    },
+    {
+      "word": "REFRACT",
+      "correct_definition": "to distort, change",
+      "distractors": [
+        "To mend or repair a damaged object.",
+        "To reflect light or sound waves off a surface.",
+        "To reconstruct or build something anew.",
+        "To forcefully resist or be stubborn.",
+        "To break off into separate, smaller segments.",
+        "To extract a fragment from a larger mass.",
+        "To return to a previous state of disrepair.",
+        "To divide into opposing factions or groups.",
+        "To refuse to acknowledge a truth or fact.",
+        "To repeat a broken action or process."
+      ]
+    },
+    {
+      "word": "REPLETE",
+      "correct_definition": "full, abundant",
+      "distractors": [
+        "Repeated or re-enacted; done again.",
+        "Returned to its original position or state.",
+        "Made obsolete or irrelevant; no longer in use.",
+        "Denied or refused; rejected.",
+        "Copied exactly; duplicated.",
+        "Drained of resources; nearly empty.",
+        "Compensated for a loss; reimbursed.",
+        "Characterized by extensive replies or retorts.",
+        "Folded or creased multiple times.",
+        "Held back or restrained; suppressed."
+      ]
+    },
+    {
+      "word": "REPULSE",
+      "correct_definition": "to disgust",
+      "distractors": [
+        "To send back a rhythmic signal.",
+        "To cause a repeated throbbing sensation.",
+        "To bring back into vigorous activity.",
+        "To feel a recurring strong urge.",
+        "To restore to a state of normal function.",
+        "To echo a sound or movement.",
+        "To cause something to retract inward.",
+        "To generate a recurring burst of energy.",
+        "To stimulate a faded memory.",
+        "To restore regular beating."
+      ]
+    }
+  ]
+}

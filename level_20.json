@@ -1,0 +1,167 @@
+{
+  "level": 20,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_20.png",
+  "questions": [
+    {
+      "word": "ASCRIBE",
+      "correct_definition": "to assign, credit, attribute to",
+      "distractors": [
+        "To write down or record information accurately.",
+        "To sign one's name at the end of a document.",
+        "To commit to a belief or organization through a formal process.",
+        "To engrave or carve text into a durable surface.",
+        "To provide a detailed verbal account of an event.",
+        "To dictate words for transcription by another person.",
+        "To compose a written work, such as an essay or story.",
+        "To make a written application for a position or service.",
+        "To formally register one's attendance or presence.",
+        "To enter data or figures into an official register."
+      ]
+    },
+    {
+      "word": "ASSUAGE",
+      "correct_definition": "to ease, pacify",
+      "distractors": [
+        "To make a sudden, forceful attack.",
+        "To determine the worth or importance of.",
+        "To assume a particular role or identity.",
+        "To give reluctant consent or approval.",
+        "To press or urge someone strongly.",
+        "To form an opinion without sufficient evidence.",
+        "To apply pressure to shape or mold.",
+        "To demonstrate profound wisdom.",
+        "To make a difficult situation more complicated.",
+        "To gather facts or information."
+      ]
+    },
+    {
+      "word": "ATROPHY",
+      "correct_definition": "to wither away, decay",
+      "distractors": [
+        "To aggressively confront an opponent.",
+        "To bestow an award for excellence.",
+        "To carefully analyze a complex problem.",
+        "To turn away from a difficult truth.",
+        "To deliberately sabotage an effort.",
+        "To formally present a grievance.",
+        "To struggle against an overwhelming force.",
+        "To interpret a text incorrectly.",
+        "To seek refuge from danger.",
+        "To alter one's course or direction."
+      ]
+    },
+    {
+      "word": "AUDIBLE",
+      "correct_definition": "able to be heard",
+      "distractors": [
+        "Capable of being seen clearly.",
+        "Able to be trusted or believed.",
+        "Pertaining to the sense of taste.",
+        "Able to be corrected or improved.",
+        "Capable of being performed with skill.",
+        "Relating to the examination of accounts.",
+        "Able to be manipulated or controlled.",
+        "Prone to making mistakes.",
+        "Worthy of praise or commendation.",
+        "Capable of causing fear or dread."
+      ]
+    },
+    {
+      "word": "AUGMENT",
+      "correct_definition": "to add to, expand",
+      "distractors": [
+        "To listen attentively and respond.",
+        "To correct or amend a text.",
+        "To divide into smaller segments.",
+        "To organize in a structured manner.",
+        "To make oneself completely independent.",
+        "To make something appear more appealing.",
+        "To bring a difficult situation to an end.",
+        "To polish or refine a surface.",
+        "To restrict or limit growth.",
+        "To create something entirely new."
+      ]
+    },
+    {
+      "word": "AUSTERE",
+      "correct_definition": "very bare, bleak",
+      "distractors": [
+        "Relating to the study of ancient cultures.",
+        "Having a strong, metallic sound.",
+        "Marked by an artificial or false appearance.",
+        "Characterized by an excessive love of luxury.",
+        "Able to withstand extreme pressure.",
+        "Possessing a brilliant, sparkling quality.",
+        "A state of emotional numbness.",
+        "Given to wild, uncontrolled behavior.",
+        "Pertaining to the arrangement of celestial bodies.",
+        "Exhibiting a highly refined sense of taste."
+      ]
+    },
+    {
+      "word": "BASHFUL",
+      "correct_definition": "shy, excessively timid",
+      "distractors": [
+        "Full of boisterous energy; festive and lively.",
+        "Prone to forceful impact or striking; aggressive.",
+        "Eager to speak out or express strong opinions; outspoken.",
+        "Displaying excessive self-assurance; arrogant.",
+        "Quick to become angry or show irritation.",
+        "Marked by a tendency to interrupt others; intrusive.",
+        "Having a rough or crude way of speaking.",
+        "Inclined to boast about one's accomplishments; conceited.",
+        "Showing intense excitement or passionate fervor.",
+        "Characterized by a lack of respect for social norms."
+      ]
+    },
+    {
+      "word": "BATTERY",
+      "correct_definition": "a device that supplies power",
+      "distractors": [
+        "A group of heavy artillery pieces.",
+        "The unlawful touching of another person.",
+        "A large array of similar components.",
+        "A coordinated series of difficult tasks.",
+        "A fortified structure for offensive weapons.",
+        "The act of striking repeatedly with force.",
+        "A comprehensive set of evaluative measures.",
+        "A legal offense involving physical violence.",
+        "A collection of instruments working together.",
+        "A rapid succession of forceful impacts."
+      ]
+    },
+    {
+      "word": "BEGUILE",
+      "correct_definition": "to trick, deceive",
+      "distractors": [
+        "To provide guidance or direction.",
+        "To confess wrongdoing or guilt.",
+        "To adorn or decorate elaborately.",
+        "To initiate or begin a process.",
+        "To stare intently or gaze.",
+        "To obtain something by effort.",
+        "To make a loud, mournful sound.",
+        "To become entangled or trapped physically.",
+        "To illuminate or brighten.",
+        "To restrain or hold back."
+      ]
+    },
+    {
+      "word": "BESEECH",
+      "correct_definition": "to beg, plead, implore",
+      "distractors": [
+        "To meticulously observe or scrutinize.",
+        "To make a formal public declaration.",
+        "To cause to be fully understood.",
+        "To approach with an offer of peace or truce.",
+        "To search diligently for a hidden object.",
+        "To provide assistance or support to someone in need.",
+        "To enclose or contain completely.",
+        "To discuss a matter at length and in detail.",
+        "To express strong approval or commendation.",
+        "To instruct or guide with great care."
+      ]
+    }
+  ]
+}

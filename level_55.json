@@ -1,0 +1,167 @@
+{
+  "level": 55,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_55.png",
+  "questions": [
+    {
+      "word": "DEVIOUS",
+      "correct_definition": "not straightforward, deceitful",
+      "distractors": [
+        "Lacking in energy or vigor; enervated.",
+        "Following a path that is physically circuitous or indirect.",
+        "Characterized by intense emotional depth or sincerity.",
+        "Difficult to grasp or comprehend due to complexity.",
+        "Deprived of fundamental necessities or support.",
+        "Marked by swift, skillful, and precise movement.",
+        "Firmly established or deeply embedded in something.",
+        "To cause widespread destruction or damage.",
+        "Showing great attention to detail; meticulous.",
+        "Departing significantly from a standard or norm; aberrant."
+      ]
+    },
+    {
+      "word": "DISPARAGE",
+      "correct_definition": "to criticize or speak ill of",
+      "distractors": [
+        "To separate two things that were formerly joined or considered a pair.",
+        "To prepare something with a lack of care or attention to detail.",
+        "To cause something to vanish or cease to exist suddenly.",
+        "To arrange items in an untidy or haphazard order.",
+        "To embark on a difficult or perilous journey.",
+        "To struggle fiercely against a formidable opponent or obstacle.",
+        "To divide something into disproportionate or unfair portions.",
+        "To prevent a plan or action from coming to fruition.",
+        "To distribute or scatter widely across a large area.",
+        "To remove an individual from a position of authority or esteem."
+      ]
+    },
+    {
+      "word": "DISPARATE",
+      "correct_definition": "sharply differing, containing sharply contrasting elements",
+      "distractors": [
+        "Unequal in rank or social standing; inferior in status.",
+        "Not adequately prepared or equipped for a task; unready.",
+        "To criticize or belittle someone's worth; to disparage.",
+        "Widely separated physically; located far apart from each other.",
+        "Lacking a corresponding match or partner; single and solitary.",
+        "Scattered in a random or unorganized manner; disordered.",
+        "To cause to disappear; to make vanish or become invisible.",
+        "Falling below an acceptable standard; substandard or deficient.",
+        "Having given up all hope; overcome by a sense of futility.",
+        "Broken down into small, distinct pieces; fragmented."
+      ]
+    },
+    {
+      "word": "DISREPUTE",
+      "correct_definition": "a state of being held in low regard",
+      "distractors": [
+        "A formal refusal to acknowledge a previously recognized fact.",
+        "The deliberate act of removing oneself from a position of authority.",
+        "A lengthy and bitter argument or disagreement.",
+        "The complete cancellation of an established agreement or contract.",
+        "A condition of being unable to recall past events accurately.",
+        "A sudden and unexpected breaking apart of a unified entity.",
+        "The inability to find an acceptable solution to a problem.",
+        "A ceremonial stripping of one's previously earned honors.",
+        "A widespread public expression of skepticism or disbelief.",
+        "The act of deliberately undermining the foundation of an institution."
+      ]
+    },
+    {
+      "word": "DISSEMBLE",
+      "correct_definition": "to conceal, fake",
+      "distractors": [
+        "To take apart into its constituent elements.",
+        "To fail to be alike or show similarity.",
+        "To openly declare or make public.",
+        "To formally dismiss a group or gathering.",
+        "To scatter widely or disperse an object.",
+        "To express strong opposition or disagreement.",
+        "To present distinct features or characteristics.",
+        "To confuse or throw into disorder.",
+        "To show a lack of integrity or moral principle.",
+        "To demonstrate a lack of coordination or unity."
+      ]
+    },
+    {
+      "word": "DISSIPATE",
+      "correct_definition": "to disappear, cause to disappear",
+      "distractors": [
+        "To drink slowly, cause to drink slowly.",
+        "To reject vigorously, cause to be repulsed.",
+        "To cause disarray, to throw into disorder.",
+        "To remove a covering, cause to be exposed.",
+        "To speak with disrespect, cause to be defamed.",
+        "To drain completely, cause to be exhausted.",
+        "To create a division, cause to be separated.",
+        "To fail to anticipate, cause to be surprised.",
+        "To scatter light, cause to reflect brightly.",
+        "To prevent from occurring, cause to be obstructed."
+      ]
+    },
+    {
+      "word": "DIVULGE",
+      "correct_definition": "to reveal something secret",
+      "distractors": [
+        "To publicly criticize or condemn.",
+        "To divide into two distinct parts.",
+        "To express oneself in a coarse or vulgar manner.",
+        "To make something less clear or precise.",
+        "To remove something from general circulation.",
+        "To create a public disturbance or outcry.",
+        "To descend to a lower social standing.",
+        "To deliberately hide information from the public.",
+        "To argue against a widely held belief.",
+        "To split a group into opposing viewpoints."
+      ]
+    },
+    {
+      "word": "DUPLICITY",
+      "correct_definition": "crafty dishonesty",
+      "distractors": [
+        "The state of having two distinct and often contradictory aspects.",
+        "The quality of being easily reproduced or copied.",
+        "An instance of being unsure or indecisive between two choices.",
+        "The act of performing two different actions at the same time.",
+        "A situation characterized by having two equally strong but opposing forces.",
+        "The property of a material to exist in two different forms.",
+        "The art of creating convincing imitations or forgeries.",
+        "A tendency to speak in a way that suggests two meanings.",
+        "The condition of being divided into two separate and equal parts.",
+        "The ability to quickly multiply or increase in number."
+      ]
+    },
+    {
+      "word": "EBULLIENT",
+      "correct_definition": "extremely lively, enthusiastic",
+      "distractors": [
+        "Exhibiting great physical strength and stamina.",
+        "Stubbornly resistant to change or persuasion.",
+        "Prone to intense bursts of anger or emotional agitation.",
+        "Characterized by a profound sense of sadness or gloom.",
+        "Extremely shy and reluctant to interact with others.",
+        "Completely depleted of energy or vitality.",
+        "Displaying a hostile and confrontational attitude.",
+        "Mentally unclear or disoriented.",
+        "Unable to make decisions quickly or firmly.",
+        "Marked by a profound lack of interest or concern."
+      ]
+    },
+    {
+      "word": "EFFULGENT",
+      "correct_definition": "radiant, splendorous",
+      "distractors": [
+        "requiring considerable exertion or effort",
+        "flowing or streaming forth in abundance",
+        "having a forceful and imposing presence",
+        "complete, thorough, and exhaustive in scope",
+        "emitting a foul or putrid odor",
+        "elusive, difficult to grasp or capture",
+        "characterized by sudden, explosive force or anger",
+        "provoking an intense emotional response",
+        "tending to forgive or overlook faults",
+        "powerfully effective, having a great impact"
+      ]
+    }
+  ]
+}

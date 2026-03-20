@@ -1,0 +1,151 @@
+{
+  "level": 97,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_97.png",
+  "questions": [
+    {
+      "word": "EFFERVESCENT",
+      "correct_definition": "bubbly, lively",
+      "distractors": [
+        "Requiring immense physical or mental exertion.",
+        "Characterized by an intense, almost feverish, determination.",
+        "Tending to dissipate or fade away quickly.",
+        "Undergoing a slow process of internal change or development.",
+        "Emitting a strong and pervasive odor.",
+        "Skillful at avoiding direct answers or confrontations.",
+        "Producing a strong and immediate impact or result.",
+        "Prone to sudden, uncontrollable bursts of anger.",
+        "Characterized by a rapid increase in size or volume.",
+        "Having a powerful and noticeable effect on surroundings."
+      ]
+    },
+    {
+      "word": "INEXTRICABLE",
+      "correct_definition": "hopelessly tangled or entangled",
+      "distractors": [
+        "Unable to be tricked or deceived.",
+        "Incapable of being explained or understood.",
+        "Something that cannot be avoided; inevitable.",
+        "Irresistible; too strong to be overcome.",
+        "Impossible to dislodge or pull out from a fixed position.",
+        "Not capable of being easily cut or broken.",
+        "Beyond the possibility of being changed or altered.",
+        "A situation from which there is no escape or refuge.",
+        "Difficult to manage or control; stubborn.",
+        "Incapable of being solved or figured out, like a complex problem."
+      ]
+    },
+    {
+      "word": "PEJORATIVE",
+      "correct_definition": "derogatory, uncomplimentary",
+      "distractors": [
+        "Pertaining to the lowest or most inferior rank.",
+        "Characterized by intense personal regret or remorse.",
+        "Relating to a formal legal proceeding or judgment.",
+        "A sudden and devastating collapse or failure.",
+        "To delay or postpone an action indefinitely.",
+        "Involving a persistent and irritating annoyance.",
+        "To pierce or make a hole through something.",
+        "Requiring extraordinary effort or extreme difficulty.",
+        "The act of giving false testimony under oath.",
+        "Marked by extreme poverty and destitution."
+      ]
+    },
+    {
+      "word": "VINDICTIVE",
+      "correct_definition": "vengeful",
+      "distractors": [
+        "Pertaining to the act of clearing someone of blame or suspicion.",
+        "Characterized by a strong desire to prove one's innocence or rightness.",
+        "Inclined to make definitive statements or pronouncements.",
+        "Having the ability to foresee future events or outcomes.",
+        "Quick to judge or condemn others based on limited evidence.",
+        "Displaying firm convictions and an unwavering resolve.",
+        "Able to overcome difficulties or challenges with resilience.",
+        "Skillful in articulate expression and debate.",
+        "Given to making decisions quickly and without hesitation.",
+        "Possessing a keen sense of observation and discernment."
+      ]
+    },
+    {
+      "word": "COMPREHENSIVE",
+      "correct_definition": "including everything",
+      "distractors": [
+        "Pertaining to understanding a specific topic in depth.",
+        "Having the ability to control multiple factors simultaneously.",
+        "Capable of foreseeing potential problems or outcomes.",
+        "Easily understood by a wide audience.",
+        "Quickly able to adapt to new environments or ideas.",
+        "Combining disparate pieces of information to form a new conclusion.",
+        "Requiring immediate action or urgent attention.",
+        "Showing sensitivity to prior experiences or lessons.",
+        "Formulating a shared understanding among a group.",
+        "To capture and present complex ideas in a simplified form."
+      ]
+    },
+    {
+      "word": "CONTEMPORANEOUS",
+      "correct_definition": "existing during the same time",
+      "distractors": [
+        "Lasting for only a brief duration.",
+        "Pertaining to modern styles or current events.",
+        "Occurring in a steady and continuous manner.",
+        "Reflecting a particular mood or disposition.",
+        "Having a unified and agreed-upon structure.",
+        "Done at a precise and opportune moment.",
+        "Developing gradually or over an extended period.",
+        "Capable of adapting to different eras or settings.",
+        "Consistent and uniform across different instances.",
+        "Operating in defiance of conventional timelines."
+      ]
+    },
+    {
+      "word": "GRANDILOQUENCE",
+      "correct_definition": "lofty, pompous language",
+      "distractors": [
+        "The art of making grand gestures while speaking.",
+        "An overbearing display of wealth or luxury.",
+        "The quality of being able to speak multiple languages fluently.",
+        "A prolonged and difficult negotiation.",
+        "A profound silence observed in a grand setting.",
+        "The construction of elaborate architectural designs.",
+        "An exaggerated sense of one's own importance or abilities.",
+        "The study of ancient and noble languages.",
+        "A formal decree or proclamation issued by an authority.",
+        "The act of speaking in a very loud and booming voice."
+      ]
+    },
+    {
+      "word": "JUXTAPOSITION",
+      "correct_definition": "the act of placing two things next to each other for implicit comparison",
+      "distractors": [
+        "The act of making a judgment based on conflicting evidence.",
+        "The authoritative power to oversee a specific territory or domain.",
+        "The defense or explanation of something as being right or reasonable.",
+        "A state of being in perfect alignment or equilibrium.",
+        "The practice of assigning a rank or status within a hierarchy.",
+        "A military strategy involving the simultaneous attack from two different directions.",
+        "The art of arranging elements in an aesthetically pleasing manner.",
+        "The precise location or bearing of an object in space.",
+        "The act of firmly stating one's opinion or belief on a matter.",
+        "The process of proving the validity or correctness of a statement."
+      ]
+    },
+    {
+      "word": "INCONTROVERTIBLE",
+      "correct_definition": "indisputable",
+      "distractors": [
+        "Unable to be controlled or managed effectively.",
+        "Not subject to alteration or fundamental change.",
+        "Lacking confidence or emotional stability.",
+        "Hesitant to engage in confrontation or debate.",
+        "Difficult to physically turn away from or avoid.",
+        "Not having an opposing side actively presenting a viewpoint.",
+        "Impossible to transform from one state or belief to another.",
+        "Highly contentious or provoking widespread disagreement.",
+        "Unwilling to reconsider one's established beliefs.",
+        "Incapable of being fully grasped or comprehended."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 3,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_3.png",
+  "questions": [
+    {
+      "word": "TOME",
+      "correct_definition": "a large book",
+      "distractors": [
+        "A surgical instrument used for precise incisions.",
+        "The process of separating complex elements into simpler parts.",
+        "A deep, narrow cut or chasm in the earth.",
+        "A detailed anatomical diagram or chart.",
+        "An ancient decree or proclamation of law.",
+        "A profound statement of philosophical truth.",
+        "A vast body of accumulated knowledge within a specific field.",
+        "The highest point or culmination of an achievement.",
+        "A ceremonial headdress worn by ancient rulers.",
+        "A foundational principle or axiom in a field of study."
+      ]
+    },
+    {
+      "word": "ABASE",
+      "correct_definition": "to humiliate, degrade",
+      "distractors": [
+        "To establish a foundation or starting point.",
+        "To remove the core or essential part.",
+        "To simplify to its most fundamental elements.",
+        "To deviate from an accepted standard or norm.",
+        "To physically lower an object or structure.",
+        "To withdraw from a difficult situation.",
+        "To provide a basic framework or outline.",
+        "To diminish in quantity or intensity.",
+        "To set an initial benchmark or criterion.",
+        "To separate from its original support."
+      ]
+    },
+    {
+      "word": "ABATE",
+      "correct_definition": "to reduce, lessen",
+      "distractors": [
+        "To intensify or make stronger.",
+        "To complicate or make more difficult.",
+        "To confirm or give formal approval.",
+        "To strike down with force.",
+        "To rise up or increase in volume.",
+        "To separate into distinct categories.",
+        "To provoke or incite to action.",
+        "To repair or restore to good condition.",
+        "To remove completely; to abolish.",
+        "To prevent from occurring; to avert."
+      ]
+    },
+    {
+      "word": "ABHOR",
+      "correct_definition": "to hate, detest",
+      "distractors": [
+        "To cause one to shiver or tremble uncontrollably, as from cold.",
+        "To formally renounce a right or claim; to reject an offer.",
+        "To fully absorb knowledge; to comprehend entirely.",
+        "To deviate sharply from a planned course; to go astray.",
+        "To remove an obstruction; to clear a path or way.",
+        "To indefinitely postpone or delay an action.",
+        "To make something stronger or more rigid.",
+        "To lower in dignity, status, or reputation.",
+        "To utter a loud, piercing cry or scream.",
+        "To physically pull back or retract a part of the body."
+      ]
+    },
+    {
+      "word": "ABIDE",
+      "correct_definition": "to put up with",
+      "distractors": [
+        "To wait patiently for a specific time.",
+        "To make a solemn pledge or promise.",
+        "To cease all activity suddenly.",
+        "To deliberately keep out of sight.",
+        "To establish residence in a foreign land.",
+        "To consent to the terms of a contract.",
+        "To depart swiftly without notice.",
+        "To challenge authority or established norms.",
+        "To make a public declaration or announcement.",
+        "To provide comfort or support to others."
+      ]
+    },
+    {
+      "word": "ABORT",
+      "correct_definition": "to give up on a half-\ufb01nished project or effort",
+      "distractors": [
+        "to completely erase the initial details of a plan or design.",
+        "to prevent an idea or concept from gaining acceptance or popularity.",
+        "to separate and discard undesirable elements from a collection.",
+        "to redirect a course of action to a less favorable outcome.",
+        "to forcefully detach an object from its original mounting.",
+        "to lighten a heavy load by removing unnecessary components.",
+        "to cause an immediate and unexpected halt to movement.",
+        "to trace back the fundamental cause or source of a problem.",
+        "to disavow a previously stated opinion or promise.",
+        "to avoid a difficult or unpleasant task through clever means."
+      ]
+    },
+    {
+      "word": "ACUTE",
+      "correct_definition": "sharp, severe",
+      "distractors": [
+        "precise and exact in detail",
+        "to divide into distinct parts",
+        "demonstrating quick and insightful perception",
+        "to gather or increase gradually",
+        "having a sour or bitter taste",
+        "full of energy and enthusiasm",
+        "to agree to a demand or request",
+        "occurring suddenly and unexpectedly",
+        "to obtain or gain possession of",
+        "forming an angle of less than ninety degrees"
+      ]
+    },
+    {
+      "word": "ADEPT",
+      "correct_definition": "extremely skilled",
+      "distractors": [
+        "Having a profound understanding of a topic.",
+        "Quickly able to grasp new information.",
+        "Easily accepting new situations or changes.",
+        "Capable of adjusting smoothly to varying conditions.",
+        "Thoughtfully considering all available options.",
+        "Assigned to a specific role or responsibility.",
+        "Possessing a strong natural talent for something.",
+        "Perfectly suitable for a particular role.",
+        "Deeply dedicated to a particular activity.",
+        "Fully prepared and ready for any task."
+      ]
+    },
+    {
+      "word": "ADORN",
+      "correct_definition": "to decorate",
+      "distractors": [
+        "To adjust one's behavior or attitude.",
+        "To affirm a statement or belief.",
+        "To acquire something by effort or skill.",
+        "To order items in a systematic way.",
+        "To adapt to a new and difficult situation.",
+        "To assign a role or responsibility.",
+        "To absorb information or nutrients.",
+        "To earn a reward or recognition.",
+        "To advise someone on a difficult matter.",
+        "To acknowledge a person's presence."
+      ]
+    },
+    {
+      "word": "AGILE",
+      "correct_definition": "quick, nimble",
+      "distractors": [
+        "Easily annoyed or agitated; irritable.",
+        "To collect or combine into a mass; to accumulate.",
+        "Pertaining to the science or practice of farming; agrarian.",
+        "Showing signs of old age or decay; senile.",
+        "Characterized by a vivid, sparkling quality; brilliant.",
+        "To make larger or more extensive; to expand.",
+        "Capable of being easily influenced; pliable.",
+        "Marked by intense activity or effort; strenuous.",
+        "To give consent or approval; to agree.",
+        "Having a sharp, penetrating quality; acute."
+      ]
+    }
+  ]
+}

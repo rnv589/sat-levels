@@ -1,0 +1,167 @@
+{
+  "level": 87,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_87.png",
+  "questions": [
+    {
+      "word": "UTILITARIAN",
+      "correct_definition": "relating to or aiming at usefulness",
+      "distractors": [
+        "relating to a universal truth or principle.",
+        "aiming at shared ownership or communal benefit.",
+        "concerned with literary analysis or critical interpretation.",
+        "pertaining to a legal obligation or contractual agreement.",
+        "characterized by adherence to strict rules or traditional norms.",
+        "describing something that is fundamental or elemental in nature.",
+        "involving a process of consolidation or unification.",
+        "dedicated to the preservation of ancient texts or cultural heritage.",
+        "relating to the initial stage of development or formation.",
+        "focused on the equitable distribution of resources or wealth."
+      ]
+    },
+    {
+      "word": "VACILLATE",
+      "correct_definition": "to \ufb02uctuate, hesitate",
+      "distractors": [
+        "To declare something void or invalid.",
+        "To create an empty space or void.",
+        "To leave a place permanently.",
+        "To become entirely empty of content.",
+        "To move with incredible speed and agility.",
+        "To express a strong and unyielding belief.",
+        "To administer a medical immunization.",
+        "To remove all impurities from a substance.",
+        "To inflict severe and lasting damage.",
+        "To spend time away from work or duty."
+      ]
+    },
+    {
+      "word": "VENERABLE",
+      "correct_definition": "deserving of respect because of age or achievement",
+      "distractors": [
+        "Having a deceptive outer layer or superficial attractiveness.",
+        "Able to openly express strong feelings or opinions.",
+        "Capable of being sold or distributed widely in commerce.",
+        "Tending to inflict harm or possess a poisonous quality.",
+        "Characterized by remarkable quickness or high rates of speed.",
+        "Relating to a natural course or channel, such as for blood or water.",
+        "Difficult to perceive or understand due to being carefully obscured.",
+        "Easily broken or damaged, indicating a delicate physical state.",
+        "Possessing a sharply unpleasant or acrid taste or demeanor.",
+        "Pertaining to the act of hunting or pursuing game animals."
+      ]
+    },
+    {
+      "word": "VICARIOUS",
+      "correct_definition": "experiencing through another",
+      "distractors": [
+        "Pertaining to a subordinate or deputy role.",
+        "Involving a moral failing or weakness.",
+        "Subject to sudden or frequent change.",
+        "Showing extreme caution or prudence.",
+        "Characterized by being unstable and dangerous.",
+        "Full of life, energy, and enthusiasm.",
+        "Having an insatiable appetite or desire.",
+        "Serving as an unofficial or unauthorized representative.",
+        "Requiring delicate handling or careful attention.",
+        "Intentionally cruel or violent."
+      ]
+    },
+    {
+      "word": "VINDICATE",
+      "correct_definition": "to avenge; to free from allegation; to set free",
+      "distractors": [
+        "To declare with absolute certainty.",
+        "To defeat an opponent decisively.",
+        "To point out a significant flaw.",
+        "To impose a mandatory directive.",
+        "To bind with legal obligations.",
+        "To obtain through persistent effort.",
+        "To make a solemn vow or promise.",
+        "To signify an important event.",
+        "To compel agreement through argument.",
+        "To assert dominance over rivals."
+      ]
+    },
+    {
+      "word": "VITRIOLIC",
+      "correct_definition": "having a caustic quality",
+      "distractors": [
+        "displaying abundant energy and liveliness",
+        "characterized by transparency or clarity",
+        "exhibiting an air of triumph or dominance",
+        "of minimal importance or consequence",
+        "relating to the sense of sight or vision",
+        "similar in structure or growth to a climbing vine",
+        "possessing a smooth, highly reflective surface",
+        "characterized by swift movement and dexterity",
+        "demonstrating considerable strength and endurance",
+        "associated with the internal organs or viscera"
+      ]
+    },
+    {
+      "word": "WHIMSICAL",
+      "correct_definition": "fanciful, full of whims",
+      "distractors": [
+        "Pertaining to a faint, rustling sound; whispery.",
+        "Characterized by slight physical infirmity or delicate health; frail.",
+        "Marked by rapid movement or quick-wittedness; agile.",
+        "Tending to express sorrow or complaint; doleful.",
+        "Of exceedingly small size; minuscule.",
+        "Producing a soft, high-pitched sound; whistling.",
+        "Inclined to sudden fits of temper or irritation; petulant.",
+        "Exhibiting quiet humility or a subdued manner; meek.",
+        "Requiring careful attention to intricate details; painstaking.",
+        "Possessing a keen sense of perception or deep understanding; astute."
+      ]
+    },
+    {
+      "word": "WIZENED",
+      "correct_definition": "dry, shrunken, wrinkled",
+      "distractors": [
+        "full of profound insight or wisdom",
+        "to become knowledgeable through experience",
+        "dazzlingly bright or brilliant",
+        "to move with a swift, whistling sound",
+        "characterized by cunning or cleverness",
+        "to yearn deeply or wish intensely",
+        "to expand or grow in size",
+        "to become thoroughly saturated or wet",
+        "twisted or turned into coils",
+        "to emit a high-pitched, piercing sound"
+      ]
+    },
+    {
+      "word": "AGGRANDIZE",
+      "correct_definition": "to increase or make greater",
+      "distractors": [
+        "To make something appear more impressive or magnificent than it truly is.",
+        "To establish a large and ornate structure or monument.",
+        "To treat someone with excessive formality or deference due to their status.",
+        "To develop a complex and far-reaching strategy or plan.",
+        "To provide a substantial financial donation or gift.",
+        "To trace one's ancestry back to an important or noble family.",
+        "To make a situation unnecessarily complicated or difficult.",
+        "To decorate an area with opulent and extravagant furnishings.",
+        "To deliver a speech in an overly dramatic and pompous style.",
+        "To attribute an exaggerated level of importance to trivial matters."
+      ]
+    },
+    {
+      "word": "AMBIVALENT",
+      "correct_definition": "having opposing feelings",
+      "distractors": [
+        "Possessing strength in two distinct areas.",
+        "Capable of seeing an issue from multiple perspectives.",
+        "Able to use both hands with equal skill.",
+        "Uncertain about the validity of a statement.",
+        "Having a strong desire for something.",
+        "Displaying boldness or courage in a difficult situation.",
+        "Engaging in two activities simultaneously.",
+        "Assigning worth to two different outcomes.",
+        "Capable of moving effectively in two directions.",
+        "Having a preference for either of two available options."
+      ]
+    }
+  ]
+}

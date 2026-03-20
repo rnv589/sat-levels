@@ -1,0 +1,167 @@
+{
+  "level": 28,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_28.png",
+  "questions": [
+    {
+      "word": "MODICUM",
+      "correct_definition": "a small amount of something",
+      "distractors": [
+        "A fashionable accessory or item of clothing.",
+        "A slight alteration or adjustment made to something.",
+        "A prevailing custom or manner of doing things.",
+        "A temporary state of being or condition.",
+        "A formal plea or request for reconsideration.",
+        "An exemplary instance or model to be followed.",
+        "A method or procedure for achieving a specific outcome.",
+        "A device used for precise measurement or calibration.",
+        "A declaration of one's intent or purpose.",
+        "A state of calm or emotional composure."
+      ]
+    },
+    {
+      "word": "MOLLIFY",
+      "correct_definition": "to soften in temper",
+      "distractors": [
+        "To grind into a fine powder.",
+        "To coat with a protective layer.",
+        "To cause to become rigid or unyielding.",
+        "To shape or sculpt from a pliable material.",
+        "To amplify sound or intensify light.",
+        "To spread rapidly over a surface.",
+        "To make something more complex or intricate.",
+        "To introduce impurities or defects.",
+        "To extract liquid through crushing.",
+        "To construct a defensive barrier."
+      ]
+    },
+    {
+      "word": "MUNDANE",
+      "correct_definition": "concerned with the world rather than with heaven, commonplace",
+      "distractors": [
+        "pertaining to the administration or governance of a city or municipality",
+        "displaying exceptional generosity or liberality in giving",
+        "consisting solely of physical matter, devoid of spiritual or emotional qualities",
+        "characterized by an immaculate state of order and cleanliness",
+        "knowledgeable about diverse international customs and global affairs",
+        "having a conspicuously elevated or rounded shape",
+        "concerned with the study of ancient historical events or forgotten cultures",
+        "prone to solitary thought and withdrawn from social interaction",
+        "of profound or monumental significance and impact",
+        "excessively devoted to the accumulation of material possessions and wealth"
+      ]
+    },
+    {
+      "word": "MUTABLE",
+      "correct_definition": "able to change",
+      "distractors": [
+        "able to remain silent",
+        "able to be shared by many",
+        "able to defy authority",
+        "able to be disfigured",
+        "able to be muffled or quieted",
+        "able to be clearly heard",
+        "able to incite conflict",
+        "able to be universally understood",
+        "able to withstand pressure",
+        "able to be combined with others"
+      ]
+    },
+    {
+      "word": "NASCENT",
+      "correct_definition": "in the process of being born or coming into existence",
+      "distractors": [
+        "Relating to the sense of smell; having a particular odor.",
+        "Characterized by a strong, unpleasant smell or taste.",
+        "Pertaining to the central point or core of an object.",
+        "Marked by a noticeable upward movement or inclination.",
+        "Occurring at or near the hundredth iteration or part.",
+        "Having a profound or ancient origin; very old.",
+        "Displaying a remarkable degree of insight or understanding.",
+        "Concerned with the study of natural and physical phenomena.",
+        "Being of a national character or belonging to a specific country.",
+        "Causing a feeling of nausea or profound disgust."
+      ]
+    },
+    {
+      "word": "NOISOME",
+      "correct_definition": "unpleasant, offensive, especially to the sense of smell",
+      "distractors": [
+        "Causing or characterized by a loud, irritating sound.",
+        "Full of unnecessary or disruptive sounds; excessively loud.",
+        "Inclined to make complaints or express dissatisfaction loudly.",
+        "Producing a dull, continuous buzzing or humming sound.",
+        "A person who creates a public disturbance through shouting.",
+        "Causing a feeling of gloom or sadness; melancholy.",
+        "Difficult to deal with or manage; troublesome.",
+        "Marked by a lack of clarity, making it hard to understand or perceive.",
+        "Excessively talkative or verbose in an annoying way.",
+        "Tending to provoke argument or disagreement through one's manner."
+      ]
+    },
+    {
+      "word": "NOMADIC",
+      "correct_definition": "wandering from place to place",
+      "distractors": [
+        "Pertaining to a name or designation.",
+        "Characterized by an unstable mental state.",
+        "Relating to a system of official nominations.",
+        "Exhibiting wild and uncontrolled behavior.",
+        "Having an insignificant or trivial value.",
+        "Marked by a compulsive or habitual tendency.",
+        "Showing a complete lack of emotional expression.",
+        "Descriptive of a harsh or inhospitable climate.",
+        "Pertaining to a fixed and unchanging routine.",
+        "Tending to avoid all forms of social contact."
+      ]
+    },
+    {
+      "word": "NOMINAL",
+      "correct_definition": "tri\ufb02ing, insigni\ufb01cant",
+      "distractors": [
+        "Pertaining to a name or designation.",
+        "Reflecting a standard or average condition.",
+        "Expressed as a numerical value.",
+        "Serving as a designated classification.",
+        "Related to the process of choosing a candidate.",
+        "Describing an ideal or exemplary form.",
+        "Having an official or recognized title.",
+        "Representing a stated or face value.",
+        "Concerned with the act of identifying things.",
+        "Denoting an essential or fundamental characteristic."
+      ]
+    },
+    {
+      "word": "NURTURE",
+      "correct_definition": "to assist the development of",
+      "distractors": [
+        "to enumerate various possibilities",
+        "to fortify against attack",
+        "to structure an organizational system",
+        "to measure the precise dimensions of",
+        "to enforce a mandatory decree",
+        "to arrange elements into a specific order",
+        "to remove all impurities from",
+        "to establish a firm boundary",
+        "to replicate a natural phenomenon",
+        "to extract vital resources from"
+      ]
+    },
+    {
+      "word": "OBSCURE",
+      "correct_definition": "unclear, partially hidden",
+      "distractors": [
+        "To successfully overcome a challenge.",
+        "To make a situation perfectly clear and transparent.",
+        "To record a musical composition precisely.",
+        "To obtain a valuable object through effort.",
+        "To reject a proposal vehemently.",
+        "To provide a strong, protective covering.",
+        "To bring to light new information.",
+        "To establish a foundation for a new structure.",
+        "To thoroughly examine a document for errors.",
+        "To make an important public declaration."
+      ]
+    }
+  ]
+}

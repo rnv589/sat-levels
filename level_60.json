@@ -1,0 +1,167 @@
+{
+  "level": 60,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_60.png",
+  "questions": [
+    {
+      "word": "INSTIGATE",
+      "correct_definition": "to urge, goad",
+      "distractors": [
+        "To brand with disgrace or infamy.",
+        "To establish securely; to fix in position.",
+        "To conduct a detailed inquiry; to investigate.",
+        "To infuse a quality or idea gradually.",
+        "To suppress or stifle a feeling or action.",
+        "To cause to stop or cease moving forward.",
+        "To examine thoroughly for facts or truth.",
+        "To contemplate one's inner thoughts; to ponder.",
+        "To formalize a procedure or new beginning.",
+        "To offer guidance or formal instruction."
+      ]
+    },
+    {
+      "word": "INSURGENT",
+      "correct_definition": "one who rebels",
+      "distractors": [
+        "one who fails to rise",
+        "one who enters swiftly",
+        "one of a common origin",
+        "one who directs a group",
+        "one who is highly courteous",
+        "one who incites rapid movement",
+        "one who prevents a sudden increase",
+        "one who exerts excessive pressure",
+        "one who belongs to the masses",
+        "one who quickly ascends"
+      ]
+    },
+    {
+      "word": "IRASCIBLE",
+      "correct_definition": "easily angered",
+      "distractors": [
+        "Easily forgotten or removed.",
+        "Lacking rational thought.",
+        "Prone to sudden, erratic shifts.",
+        "Displaying shimmering, colorful light.",
+        "Difficult to fully grasp or understand.",
+        "Having a harsh, grating quality.",
+        "Capable of being restored or renewed.",
+        "Inclined to act impulsively.",
+        "Easily swayed by external forces.",
+        "Suffering from a chronic ailment."
+      ]
+    },
+    {
+      "word": "LAUDATORY",
+      "correct_definition": "expressing admiration or praise",
+      "distractors": [
+        "Pertaining to the enactment or enforcement of laws.",
+        "Expressing deep sorrow or lamentation.",
+        "Characterized by a loud or clamorous sound.",
+        "Relating to the foundation or establishment of an institution.",
+        "Indicating a state of weariness or lack of energy.",
+        "Descriptive of a heavy burden or oppressive weight.",
+        "Concerned with the precise measurement or evaluation of something.",
+        "Tending towards extreme slowness or deliberation.",
+        "Pertaining to a large or extensive tract of land.",
+        "Reflecting a state of confusion or disarray."
+      ]
+    },
+    {
+      "word": "LETHARGIC",
+      "correct_definition": "in a state of sluggishness or apathy",
+      "distractors": [
+        "Pertaining to something that is deadly or capable of causing death.",
+        "A state of profound and irreversible memory loss.",
+        "Characterized by an inability to form coherent speech or articulate thoughts.",
+        "Lacking significant weight, substance, or intellectual depth.",
+        "A tendency towards sudden, violent, or explosive emotional outbursts.",
+        "Remaining concealed or intentionally hidden from view.",
+        "A severe and often chronic allergic reaction to environmental triggers.",
+        "Displaying extreme fragility and susceptibility to damage.",
+        "A condition marked by extreme gullibility and susceptibility to deceit.",
+        "Causing an overwhelming sense of fear or dread."
+      ]
+    },
+    {
+      "word": "LIABILITY",
+      "correct_definition": "something for which one is legally responsible, usually involving a disadvantage or risk",
+      "distractors": [
+        "The mental or physical aptitude for performing a complex task effectively.",
+        "The tendency to deliberately misrepresent facts or intentions.",
+        "The characteristic of being stably positioned or securely affixed.",
+        "A feeling of cheerful lightness or a lack of seriousness.",
+        "A strong bond of mutual support or a formal agreement between parties.",
+        "The condition of being easily swayed or manipulated by external forces.",
+        "A legal right or privilege granted to an individual or corporation.",
+        "The quality of being readily accessible or available for use or engagement.",
+        "The inclination to make solemn promises or binding agreements.",
+        "The degree to which someone or something can be relied upon or trusted."
+      ]
+    },
+    {
+      "word": "MAELSTROM",
+      "correct_definition": "a destructive whirlpool which rapidly sucks in objects",
+      "distractors": [
+        "A powerful and unpredictable current of air that causes rapid erosion of landscapes.",
+        "A sudden and overwhelming series of misfortunes or disasters that befall a community.",
+        "A widespread moral decline or corruption within a society, leading to social unrest.",
+        "A deep, impassable chasm or ravine that forms a natural barrier.",
+        "An intricate and overwhelming bureaucratic system known for its inefficiency and endless delays.",
+        "A secretive and influential organization dedicated to spreading misinformation and chaos.",
+        "A massive and rapid landslide that engulfs entire villages in its path.",
+        "An excessive and unmanageable accumulation of details or tasks that paralyzes action.",
+        "A rapidly expanding and intensely hot cloud of volcanic ash and gas.",
+        "An immense and unyielding gravitational pull exerted by a celestial body."
+      ]
+    },
+    {
+      "word": "MALLEABLE",
+      "correct_definition": "capable of being shaped or transformed",
+      "distractors": [
+        "Capable of causing harm or detriment.",
+        "Prone to suffering from an illness or weakness.",
+        "Inclined toward malevolence or evil intent.",
+        "Easily misunderstood or subject to misinterpretation.",
+        "Having a disagreeable or offensive quality to the senses.",
+        "Tending to be sluggish, inactive, or slow to react.",
+        "Possessing an inherent ability to strike or inflict damage.",
+        "Highly resistant to external pressure or alteration.",
+        "Capable of being easily swayed or misguided in judgment.",
+        "Given to expressing discontent or a complaining nature."
+      ]
+    },
+    {
+      "word": "MERCURIAL",
+      "correct_definition": "characterized by rapid change or temperamentality",
+      "distractors": [
+        "Having the properties of a heavy, silvery-white liquid metal.",
+        "Referring to a substance that is highly toxic or poisonous.",
+        "Characterized by a highly polished or reflective surface.",
+        "Pertaining to conditions of extreme heat or intense solar radiation.",
+        "Relating to objects moving in a fixed, elliptical path around a central body.",
+        "Displaying exceptional eloquence or skill in communication.",
+        "Pertaining to the swift and efficient delivery of messages or goods.",
+        "Concerning transactions related to trade, profit, or financial gain.",
+        "Exhibiting a shiny, metallic luster often associated with precious minerals.",
+        "Indicating something that is fleeting or ephemeral, like a vapor."
+      ]
+    },
+    {
+      "word": "NEFARIOUS",
+      "correct_definition": "heinously villainous",
+      "distractors": [
+        "Markedly lacking in essential nutrients.",
+        "Unable to be accurately or fully understood.",
+        "Exhibiting an excessive fondness for flattery.",
+        "Relating to a diverse or multifaceted collection.",
+        "Characterized by a persistent feeling of dread or apprehension.",
+        "Disastrously ineffective or unproductive.",
+        "Causing widespread confusion or disarray.",
+        "Having an overly complex or intricate structure.",
+        "Pertaining to a large, diverse group.",
+        "Indicating a serious deficiency or affliction."
+      ]
+    }
+  ]
+}

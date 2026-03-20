@@ -1,0 +1,167 @@
+{
+  "level": 85,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_85.png",
+  "questions": [
+    {
+      "word": "PENULTIMATE",
+      "correct_definition": "next to last",
+      "distractors": [
+        "The very last or final part of something.",
+        "Describing something as being second best.",
+        "A harsh and definitive conclusion.",
+        "Occurring just before the initial stage.",
+        "Being of the highest possible quality or degree.",
+        "A state of endless or perpetual existence.",
+        "Marked by extreme difficulty and hardship.",
+        "To delay or postpone an action indefinitely.",
+        "The primary cause or original source.",
+        "A complete and utter failure."
+      ]
+    },
+    {
+      "word": "PERFUNCTORY",
+      "correct_definition": "showing little interest or enthusiasm",
+      "distractors": [
+        "Done with extreme care and precision.",
+        "Performed meticulously and without fault.",
+        "Carried out according to strict rules or guidelines.",
+        "Serving a specific, essential function.",
+        "Completed in a comprehensive and exhaustive manner.",
+        "Having reached its full operational capacity.",
+        "Executed with professional exactitude.",
+        "Relating to the successful accomplishment of a task.",
+        "Mandatory and unable to be avoided.",
+        "A task that must be done perfectly."
+      ]
+    },
+    {
+      "word": "PRIVATION",
+      "correct_definition": "lacking basic necessities",
+      "distractors": [
+        "A special right or advantage given to a select few.",
+        "The act of keeping something confidential or secret.",
+        "A formal request or petition for a specific action.",
+        "The state of being excessively cautious or timid.",
+        "The process of preparing a document or speech.",
+        "An exclusive claim or ownership over a particular territory.",
+        "The deliberate act of avoiding public attention or scrutiny.",
+        "A personal belief or conviction held with great certainty.",
+        "The forceful removal of an individual from a position of authority.",
+        "A state of deep contemplation or intense personal reflection."
+      ]
+    },
+    {
+      "word": "PULCHRITUDE",
+      "correct_definition": "physical beauty",
+      "distractors": [
+        "The state of deep intellectual thought.",
+        "The quality of being readily pulverized.",
+        "A powerful, inexplicable urge to journey.",
+        "The careful process of gathering data.",
+        "A rich, low-pitched musical note.",
+        "The ability to exert persistent physical energy.",
+        "A condition of complete mental disarray.",
+        "The trait of extreme carefulness and diligence.",
+        "A hard, outer protective covering.",
+        "The intentional misrepresentation of facts."
+      ]
+    },
+    {
+      "word": "PUNCTILIOUS",
+      "correct_definition": "eager to follow rules or conventions",
+      "distractors": [
+        "Consistently arriving precisely on schedule for all social or business engagements.",
+        "Possessing an expert command of grammatical rules and correct punctuation usage.",
+        "Characterized by a keen, incisive intellect and a sharp, biting wit.",
+        "Overly concerned with the observation and recording of extremely minute details.",
+        "Readily taking offense or feeling insulted by even slight criticisms.",
+        "Skilled at making clear, forceful, and convincing points in an argument.",
+        "Demonstrating a decisive and unwavering commitment to specific actions or goals.",
+        "Having a strong inclination to point out and criticize minor flaws or errors.",
+        "Given to making abrupt or sudden decisions without much forethought.",
+        "Possessing the ability to initiate actions or ideas with great force and impact."
+      ]
+    },
+    {
+      "word": "QUERULOUS",
+      "correct_definition": "whiny, complaining",
+      "distractors": [
+        "Full of questions; inquisitive.",
+        "Marked by uncertainty or doubt.",
+        "Eager to seek knowledge or information.",
+        "Characterized by deep thought or reflection.",
+        "Reluctant to accept answers without examination.",
+        "Having a curious or exploratory nature.",
+        "Displaying a tendency to hesitate.",
+        "Quick to challenge assumptions.",
+        "Fond of riddles or puzzles.",
+        "Exhibiting careful consideration."
+      ]
+    },
+    {
+      "word": "QUOTIDIAN",
+      "correct_definition": "daily",
+      "distractors": [
+        "Relating to a direct quotation.",
+        "A fixed or assigned quantity.",
+        "Happening at irregular or unpredictable times.",
+        "Pertaining to the customs of an ancient era.",
+        "A commonly used phrase or expression.",
+        "Pertaining to the act of formal recitation.",
+        "Divided into distinct portions.",
+        "Characteristic of a particular cultural tradition.",
+        "Pertaining to a highly significant event.",
+        "Occurring at varying or inconsistent rates."
+      ]
+    },
+    {
+      "word": "RECIPROCATE",
+      "correct_definition": "to give in return",
+      "distractors": [
+        "To repeat an action or statement.",
+        "To proceed with a task immediately.",
+        "To adjust or balance a scale precisely.",
+        "To hold back information or feelings.",
+        "To make a formal declaration publicly.",
+        "To obtain something by force or trickery.",
+        "To make a decision after much deliberation.",
+        "To bring about a reconciliation between parties.",
+        "To offer assistance or help readily.",
+        "To verify the accuracy of data or claims."
+      ]
+    },
+    {
+      "word": "RECLUSIVE",
+      "correct_definition": "solitary, shunning society",
+      "distractors": [
+        "Tending to return to a former, more primitive state.",
+        "Easily closed or shut without effort.",
+        "Characterized by repeated acts of sealing or confining.",
+        "To rebel against established rules or norms.",
+        "Having the quality of being tightly enclosed or sealed.",
+        "Causing a strong reaction or hostile response.",
+        "A sudden, forceful shutting or blocking.",
+        "Inclined to review or reflect on past events.",
+        "Pertaining to something that is carefully concealed or hidden.",
+        "To recover from illness or a difficult situation."
+      ]
+    },
+    {
+      "word": "REDOUBTABLE",
+      "correct_definition": "formidable",
+      "distractors": [
+        "Capable of being easily doubted or questioned.",
+        "Open to repeated scrutiny or re-evaluation.",
+        "Able to restore one's faith or certainty.",
+        "Easily surmountable or overcome.",
+        "Pertaining to a defensive stronghold or outpost.",
+        "Subject to frequent changes of opinion.",
+        "Requiring careful and continuous reconsideration.",
+        "Able to be successfully reestablished or rebuilt.",
+        "Causing indecision or vacillation.",
+        "Quickly and easily dispelled."
+      ]
+    }
+  ]
+}

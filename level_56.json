@@ -1,0 +1,167 @@
+{
+  "level": 56,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_56.png",
+  "questions": [
+    {
+      "word": "EGREGIOUS",
+      "correct_definition": "extremely bad",
+      "distractors": [
+        "Pertaining to a solitary or isolated existence.",
+        "Characterized by a remarkable uniqueness or distinction.",
+        "Inclined to combine or integrate with a group.",
+        "Fond of company; sociable and outgoing.",
+        "Occurring infrequently; notably rare.",
+        "Of exceptionally high quality or merit.",
+        "Easily perceived or noticed; conspicuous.",
+        "Relating to the general body or common mass.",
+        "To gather together into a collection or group.",
+        "Marked by a strong sense of individuality."
+      ]
+    },
+    {
+      "word": "ELABORATE",
+      "correct_definition": "complex, detailed, intricate",
+      "distractors": [
+        "Demanding strenuous physical exertion.",
+        "Recently formed or freshly created.",
+        "Designed to expel or remove harmful elements.",
+        "Exhausted or depleted from excessive work.",
+        "Intentionally simplified for easier understanding.",
+        "Precisely calculated or accurately measured.",
+        "Created or operating beyond standard conventions.",
+        "Serving to purify or refine a raw material.",
+        "Accomplished with diligent and painstaking care.",
+        "Having fully developed or matured over time."
+      ]
+    },
+    {
+      "word": "ELUCIDATE",
+      "correct_definition": "to clarify, explain",
+      "distractors": [
+        "To illuminate or light up a dark area.",
+        "To skillfully evade or escape detection.",
+        "To gradually wear away or diminish a surface.",
+        "To raise or lift to a higher status or position.",
+        "To make something appear translucent or transparent.",
+        "To drain or reduce the concentration of a substance.",
+        "To extract or forcibly remove from a fixed position.",
+        "To emit a luminous glow or radiate light.",
+        "To forcefully expel or discharge matter.",
+        "To provide evidence or proof for a claim."
+      ]
+    },
+    {
+      "word": "EMACIATED",
+      "correct_definition": "very thin, enfeebled looking",
+      "distractors": [
+        "To be softened by soaking in liquid.",
+        "To be freed from constraints or bondage.",
+        "To be excessively decorated or adorned.",
+        "To be robust and full of vitality.",
+        "To be overcome with intense emotion or passion.",
+        "To be imitated or closely mimicked.",
+        "To be completely satisfied, especially with food or drink.",
+        "To be made clear or understandable.",
+        "To be ground down into a pulpy mass.",
+        "To be expelled or forcibly removed from a place."
+      ]
+    },
+    {
+      "word": "EMBELLISH",
+      "correct_definition": "to decorate, adorn",
+      "distractors": [
+        "To make a loud, resonant sound.",
+        "To confuse or complicate matters.",
+        "To cause to become swollen or distended.",
+        "To establish firmly or embed deeply.",
+        "To issue a formal command or decree.",
+        "To make something clear or readily apparent.",
+        "To conceal or disguise skillfully.",
+        "To wrap or enfold completely.",
+        "To illuminate or cast light upon.",
+        "To exaggerate or overstate a fact."
+      ]
+    },
+    {
+      "word": "EMOLLIENT",
+      "correct_definition": "soothing",
+      "distractors": [
+        "Deeply emotional",
+        "Widely esteemed",
+        "Readily resilient",
+        "Easily swayed",
+        "Cloyingly sweet",
+        "Slow-moving and slimy",
+        "Syrupy sweet",
+        "Excessively flattering",
+        "Highly pliable",
+        "Urgently needed"
+      ]
+    },
+    {
+      "word": "EMPIRICAL",
+      "correct_definition": "based on observation or experience",
+      "distractors": [
+        "Relating to the study of ancient empires and their governance.",
+        "Pertaining to the science of heat, combustion, or thermal energy.",
+        "Derived from purely logical deduction and theoretical principles.",
+        "Governed by strict moral codes and unyielding ethical standards.",
+        "Having an inherent tendency to cause bewilderment or mental confusion.",
+        "Concerning the precise measurement and systematic quantification of data.",
+        "Originating from a deep emotional response or personal sentiment.",
+        "Marked by a lack of distinctness, clarity, or specific definition.",
+        "Describing a condition of being physically weak or mentally impaired.",
+        "Based on a system of beliefs held by a specific community or group."
+      ]
+    },
+    {
+      "word": "ENIGMATIC",
+      "correct_definition": "mystifying, cryptic",
+      "distractors": [
+        "relating to robust vitality or force.",
+        "characterized by strict adherence to rules or doctrine.",
+        "relating to a mechanical system or structure.",
+        "fully encompassing or engulfing something.",
+        "producing a dulling or weakening effect.",
+        "pertaining to fundamental or foundational principles.",
+        "describing something that is highly intricate and detailed.",
+        "characterized by division into numerous small parts.",
+        "involving strong feelings of jealousy or covetousness.",
+        "serving as a model or ideal example."
+      ]
+    },
+    {
+      "word": "EPHEMERAL",
+      "correct_definition": "short-lived, \ufb02eeting",
+      "distractors": [
+        "Pertaining to events that reoccur daily; diurnal.",
+        "Existing only on the surface; lacking depth or substance.",
+        "Occurring at the exact moment of a significant event.",
+        "Relating to a sudden, widespread disease outbreak.",
+        "Characterized by an airy, delicate, or ethereal quality.",
+        "Marking a distinct period in history or development.",
+        "Displaying intense emotional fervor or passion.",
+        "Occurring exclusively during daylight hours.",
+        "Of an elevated or superior rank or position.",
+        "Causing a powerful or lasting impression."
+      ]
+    },
+    {
+      "word": "ETYMOLOGY",
+      "correct_definition": "the history of words, their origin and development",
+      "distractors": [
+        "The study of the causes and origins of diseases and pathological conditions.",
+        "The scientific study of the origins of the universe and celestial bodies.",
+        "The study of human societies, their cultures, and social development.",
+        "The branch of biology concerned with the evolutionary development of organisms.",
+        "The philosophical study of the nature of knowledge, truth, and justified belief.",
+        "The geological study of ancient rock formations and their composition.",
+        "The process of determining the absolute true meaning of ancient texts and scriptures.",
+        "The branch of philosophy dealing with moral principles and values.",
+        "The fundamental and essential principles guiding human behavior and interaction.",
+        "The comprehensive study of various insect species and their life cycles."
+      ]
+    }
+  ]
+}

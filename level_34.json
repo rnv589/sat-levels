@@ -1,0 +1,167 @@
+{
+  "level": 34,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_34.png",
+  "questions": [
+    {
+      "word": "UPBRAID",
+      "correct_definition": "to criticize or scold severely",
+      "distractors": [
+        "To intricately weave threads or hair together.",
+        "To raise an object to a higher level or position.",
+        "To offer strong encouragement or support to someone.",
+        "To complicate a simple matter through excessive detail.",
+        "To adorn or decorate elaborately for a special occasion.",
+        "To secure something firmly by tying it with ropes.",
+        "To initiate a new project or venture with great enthusiasm.",
+        "To construct a building or tower using multiple layers.",
+        "To present a formal petition or demand to an authority.",
+        "To quickly assemble or prepare something for immediate use."
+      ]
+    },
+    {
+      "word": "VAPID",
+      "correct_definition": "lacking liveliness, dull",
+      "distractors": [
+        "Turning quickly into a gas or vapor.",
+        "Moving with great speed and force.",
+        "Having a strong, pungent odor or taste.",
+        "Easily evaporated or diffused.",
+        "A sudden, brief burst of energy.",
+        "Speaking excessively and without substance.",
+        "Lacking physical density or mass.",
+        "Prone to quick and erratic changes.",
+        "Displaying an overly confident or boastful attitude.",
+        "Becoming gradually weaker or less effective."
+      ]
+    },
+    {
+      "word": "VEX",
+      "correct_definition": "to confuse or annoy",
+      "distractors": [
+        "To bring into view or make apparent.",
+        "To carry or move from one place to another.",
+        "To apply a great deal of physical force.",
+        "To prohibit or stop an activity from happening.",
+        "To examine in detail or verify truth.",
+        "To change direction suddenly and sharply.",
+        "To amplify or increase the intensity of something.",
+        "To secure or attach firmly to a surface.",
+        "To pledge solemnly or make a sacred oath.",
+        "To discard entirely or eliminate from existence."
+      ]
+    },
+    {
+      "word": "WRATH",
+      "correct_definition": "vengeful anger, punishment",
+      "distractors": [
+        "A winding or twisting motion.",
+        "The gradual deterioration or decay of a substance.",
+        "A strenuous physical struggle or contest.",
+        "Profound weariness or mental exhaustion.",
+        "A persistent, irritating annoyance or bother.",
+        "A severe and debilitating physical ailment.",
+        "A sudden, violent wrenching or tearing.",
+        "A feeling of profound sorrow and despondency.",
+        "An intricate and complex arrangement.",
+        "Deep and bitter regret for past actions."
+      ]
+    },
+    {
+      "word": "ABDICATE",
+      "correct_definition": "to give up a position, usually one of leadership",
+      "distractors": [
+        "To formally deny any involvement in a crime.",
+        "To publicly declare one's disapproval of an action.",
+        "To verbally condemn or denounce a person or group.",
+        "To retract a previously issued statement or order.",
+        "To reject a proposal or offer through formal declaration.",
+        "To give a definitive command or instruction.",
+        "To accuse someone falsely of wrongdoing.",
+        "To disavow responsibility for a failed project.",
+        "To pronounce judgment or an official verdict.",
+        "To formally object to a decision or policy."
+      ]
+    },
+    {
+      "word": "ABJECT",
+      "correct_definition": "wretched, pitiful",
+      "distractors": [
+        "To throw away or discard completely.",
+        "Sudden expulsion or forceful removal.",
+        "Dismissed or rejected with disdain.",
+        "Reduced to a lower rank or status.",
+        "Cast out from society; ostracized.",
+        "An abrupt or sudden interruption.",
+        "To evade or escape from responsibility.",
+        "Strongly opposed or resistant to.",
+        "Thrown into confusion or disorder.",
+        "Refusing to accept or acknowledge."
+      ]
+    },
+    {
+      "word": "ABJURE",
+      "correct_definition": "to reject, renounce",
+      "distractors": [
+        "To make a false declaration under oath.",
+        "To solemnly urge or entreat.",
+        "To remove oneself from a difficult situation.",
+        "To forcibly separate from a group.",
+        "To legally bind oneself to an agreement.",
+        "To present evidence in a court of law.",
+        "To pass a harsh judgment upon.",
+        "To pardon a convicted criminal.",
+        "To send someone into exile from a country.",
+        "To officially establish a new law."
+      ]
+    },
+    {
+      "word": "ABROGATE",
+      "correct_definition": "to abolish, usually by authority",
+      "distractors": [
+        "to delegate authority to a subordinate.",
+        "to introduce a new rule or law, often forcefully.",
+        "to break a promise or agreement, usually without warning.",
+        "to aggressively interrogate someone suspected of a crime.",
+        "to temporarily suspend operations or a decision.",
+        "to physically remove a barrier or obstacle.",
+        "to make a formal request for an exemption.",
+        "to openly disregard a well-established custom.",
+        "to formally reject a nomination or proposal.",
+        "to deny access or entry to a restricted area."
+      ]
+    },
+    {
+      "word": "ABSTRUSE",
+      "correct_definition": "hard to comprehend",
+      "distractors": [
+        "to deliberately conceal information",
+        "marked by sudden, forceful action",
+        "having a detached or aloof demeanor",
+        "to forcefully reject an idea",
+        "lacking moral honesty or truth",
+        "to shorten or condense a text",
+        "inclined to be abrupt in speech",
+        "to push something aside roughly",
+        "difficult to dislodge or remove",
+        "to be taken away unexpectedly"
+      ]
+    },
+    {
+      "word": "ACCOLADE",
+      "correct_definition": "high praise, special distinction",
+      "distractors": [
+        "A ceremonial parade or stately march.",
+        "A type of formal neckwear or ornate collar.",
+        "A mutual understanding or formal compact.",
+        "A carefully curated group or assembly.",
+        "An intricate knot used for binding or securing.",
+        "A forceful impact or sudden clash.",
+        "A sweetened fruit drink or refreshment.",
+        "A chronological record or detailed report.",
+        "An exclusive social gathering or secret organization.",
+        "A makeshift shelter or temporary dwelling."
+      ]
+    }
+  ]
+}

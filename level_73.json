@@ -1,0 +1,167 @@
+{
+  "level": 73,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_73.png",
+  "questions": [
+    {
+      "word": "GRIEVOUS",
+      "correct_definition": "injurious, hurtful; serious or grave in nature",
+      "distractors": [
+        "Characterized by profound and unyielding sadness; mournful.",
+        "Easily provoked to anger or resentment; irritable.",
+        "Exhibiting a strong inclination to complain or lament; querulous.",
+        "Causing a sense of unease or discomfort; unsettling to the mind.",
+        "Slow to respond or react to stimuli; sluggish.",
+        "Requiring exceptional effort or perseverance; arduous.",
+        "Marked by deep regret or remorse for past actions; penitent.",
+        "A tendency to cling to old grudges or resentments; bitter.",
+        "Pertaining to the act of expressing formal grievance or complaint; litigious.",
+        "Causing a feeling of heavy emotional burden or despondency; oppressive to the spirit."
+      ]
+    },
+    {
+      "word": "HALLOWED",
+      "correct_definition": "revered, consecrated",
+      "distractors": [
+        "Lacking substance; empty or superficial.",
+        "Permitted by authority; sanctioned.",
+        "Pertaining to a grand public building or corridor.",
+        "Producing a distinct reverberation; resounding.",
+        "Designated for a particular use; apportioned.",
+        "Marked by a festive, often eerie, autumnal observance.",
+        "Encircled by a luminous ring; glorified visually.",
+        "Put into effective use; controlled for productivity.",
+        "Gathered or collected from a source; amassed.",
+        "Stopping intermittently; characterized by hesitation."
+      ]
+    },
+    {
+      "word": "ICONOCLAST",
+      "correct_definition": "one who attacks common beliefs or institutions",
+      "distractors": [
+        "One who studies ancient religious symbols and their significance.",
+        "A person skilled in the artistic restoration of historical artifacts.",
+        "An artist renowned for creating visually striking and monumental sculptures.",
+        "A sacred object or image serving as a focus of religious devotion.",
+        "One who meticulously documents and archives historical visual records.",
+        "A specialized instrument used for shattering rock samples in geology.",
+        "A rare and highly prized gem known for its unique reflective qualities.",
+        "An individual who devoutly follows and champions traditional artistic styles.",
+        "A compilation of emblematic designs or heraldic devices.",
+        "One who discovers and excavates ancient ruins and forgotten cities."
+      ]
+    },
+    {
+      "word": "IDOLATROUS",
+      "correct_definition": "excessively worshipping one object or person",
+      "distractors": [
+        "Pertaining to the admiration of famous individuals or public figures.",
+        "Characterized by an adherence to unattainable standards or perfection.",
+        "Exhibiting excessive admiration for oneself and one's achievements.",
+        "Devoted intensely to a particular hobby, interest, or specific task.",
+        "Skillful in the creation of intricate sculptures or artistic representations.",
+        "Inclined to be inactive, lazy, or avoiding responsibility.",
+        "Characterized by deceptive or misleading appearances designed to trick.",
+        "Showing profound respect and deference to elders or tradition.",
+        "Marked by an extreme focus on collecting or studying historical artifacts.",
+        "Conforming perfectly to a particular type or model."
+      ]
+    },
+    {
+      "word": "IMPECCABLE",
+      "correct_definition": "exemplary, \ufb02awless",
+      "distractors": [
+        "impoverished, penurious",
+        "invulnerable, unassailable",
+        "incomprehensible, abstruse",
+        "unchangeable, constant",
+        "obstructive, hindering",
+        "deleterious, noxious",
+        "unswayable, obdurate",
+        "restricted, constrained",
+        "embedded, inserted",
+        "diffident, fearful"
+      ]
+    },
+    {
+      "word": "IMPLACABLE",
+      "correct_definition": "incapable of being appeased or mitigated",
+      "distractors": [
+        "Difficult to dislodge from a firmly established position.",
+        "Not easily swayed by emotional appeals or sentimental gestures.",
+        "Unable to find a state of inner calm or serenity.",
+        "Incapable of being accurately measured or precisely located.",
+        "Impossible to replicate or copy with exact precision.",
+        "Resistant to any form of external pressure or influence.",
+        "Having a tendency to remain fixed and unmoving, like a statue.",
+        "Not capable of being damaged or harmed by physical force.",
+        "Lacking the ability to adapt to new environments or circumstances.",
+        "Impossible to prevent or stop once it has begun."
+      ]
+    },
+    {
+      "word": "INCENDIARY",
+      "correct_definition": "a person who agitates",
+      "distractors": [
+        "A person who specializes in internal diagnostic procedures.",
+        "A person who collects and archives historical documents.",
+        "A person whose work involves creating aromatic candles.",
+        "A person responsible for enforcing strict moral guidelines.",
+        "A person who manages the lighting for theatrical productions.",
+        "A person who studies the geological formation of volcanic ash.",
+        "A person who investigates minor accidents or occurrences.",
+        "A person known for their inability to keep secrets.",
+        "A person skilled in the art of decorative carving or etching.",
+        "A person who monitors atmospheric conditions for climate research."
+      ]
+    },
+    {
+      "word": "INCISIVE",
+      "correct_definition": "clear, sharp, direct",
+      "distractors": [
+        "Relating to an internal, intuitive understanding.",
+        "Causing a deep, emotional wound or impact.",
+        "Marked by a firm and unyielding decision.",
+        "Pertaining to the innermost or essential nature of something.",
+        "Having a tendency to divide or create factions.",
+        "Requiring extremely careful and precise handling.",
+        "Displaying a profound understanding of inner mechanisms.",
+        "Referring to an initial, formative stage or phase.",
+        "Suggesting a state of being completely enclosed or sealed within.",
+        "Characterized by a piercing, physically sharp quality."
+      ]
+    },
+    {
+      "word": "INDIGENOUS",
+      "correct_definition": "originating in a region",
+      "distractors": [
+        "not authentic or genuine",
+        "widely accepted or common",
+        "developing slowly over time",
+        "resulting from internal, biological processes",
+        "lacking essential qualities or characteristics",
+        "relating to a particular social group or gender",
+        "uncovered through careful excavation",
+        "produced through artificial means",
+        "not conforming to a specific biological type",
+        "passed down through many generations"
+      ]
+    },
+    {
+      "word": "INIQUITY",
+      "correct_definition": "wickedness or sin",
+      "distractors": [
+        "A feeling of profound unease or discomfort.",
+        "The process of making something perfectly balanced or uniform.",
+        "A persistent lack of clarity or distinctness in communication.",
+        "The state of being insufficient or lacking necessary qualities.",
+        "A financial share in a company or asset.",
+        "The quality of being exceptionally clever or inventive.",
+        "A person's natural inclination or inherent disposition.",
+        "The act of starting or initiating a process or task.",
+        "A formal investigation or inquiry into a matter.",
+        "A state of complete mental or emotional tranquility."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 45,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_45.png",
+  "questions": [
+    {
+      "word": "PALLIATE",
+      "correct_definition": "to reduce the severity of",
+      "distractors": [
+        "To cause something to become extremely pale.",
+        "To beat rapidly and irregularly, like a heart.",
+        "To decorate elaborately, especially with rich coverings.",
+        "To reveal something previously hidden or obscured.",
+        "To make something appear more grand or impressive.",
+        "To shock or dismay greatly; to appall.",
+        "To remove a protective covering or layer.",
+        "To contaminate or defile something, making it impure.",
+        "To make a situation worse or more intense.",
+        "To cause to lose its usual color or vibrancy."
+      ]
+    },
+    {
+      "word": "PARADIGM",
+      "correct_definition": "an example that is a perfect pattern or model",
+      "distractors": [
+        "A statement that seems self-contradictory but expresses a possible truth.",
+        "A side-by-side comparison used to highlight differences or similarities.",
+        "A detailed visual representation or diagram of a complex system.",
+        "An exceptionally rare or unparalleled event or occurrence.",
+        "A profound and sudden moment of understanding or enlightenment.",
+        "The highest point of achievement or the ultimate goal in a field.",
+        "A formal declaration or public statement of principles.",
+        "An arrangement of elements that is out of the usual order or sequence.",
+        "A set of beliefs or theories that are currently undergoing critical examination.",
+        "A complex problem or riddle that defies easy solution or explanation."
+      ]
+    },
+    {
+      "word": "PARTISAN",
+      "correct_definition": "a follower, adherent",
+      "distractors": [
+        "A craftsman specializing in miniature objects.",
+        "A separate or distinct component of a larger whole.",
+        "One who is skilled at disassembling complex devices.",
+        "An intricate portion of a grand design.",
+        "A section of a text or musical composition.",
+        "One who plays a minor role in a theatrical production.",
+        "A fragment of an ancient artifact.",
+        "A division or segment of a long journey.",
+        "One who allocates resources proportionally.",
+        "An incomplete or unfinished work of art."
+      ]
+    },
+    {
+      "word": "PELLUCID",
+      "correct_definition": "easily intelligible, clear",
+      "distractors": [
+        "To drive or push forward with strong momentum.",
+        "Having a thin, protective outer covering or membrane.",
+        "Emitting a soft, shimmering light.",
+        "Extremely delicate and easily fractured or torn.",
+        "Possessing a perfectly smooth and unblemished surface texture.",
+        "To shed or cast off an outer layer, such as skin.",
+        "Characterized by rich, deep, and vibrant colors.",
+        "Moving with exceptional grace and swiftness.",
+        "Having a distinctively sharp and penetrating taste.",
+        "Feeling a profound sense of calm and well-being."
+      ]
+    },
+    {
+      "word": "PENCHANT",
+      "correct_definition": "a tendency, partiality, preference",
+      "distractors": [
+        "A skilled ability in penmanship or calligraphy.",
+        "A small, enclosed area for livestock or prisoners.",
+        "A severe punishment or penalty for a transgression.",
+        "A melodic song or a repetitive, rhythmic utterance.",
+        "A formal decree or official proclamation.",
+        "A magical spell or incantation used in rituals.",
+        "A state of being suspended or hanging precariously.",
+        "A secret agreement or confidential understanding.",
+        "A sudden, overwhelming feeling of sadness or regret.",
+        "A narrow passage or pathway, often through mountains."
+      ]
+    },
+    {
+      "word": "PENITENT",
+      "correct_definition": "remorseful, regretful",
+      "distractors": [
+        "One who writes or composes literary works; an author.",
+        "Suffering from extreme poverty; indigent.",
+        "Capable of being stretched or extended; elastic.",
+        "Possessing great influence or power; potent.",
+        "Marked by deep thought or meditation; contemplative.",
+        "Quick to respond to suggestion; impressionable.",
+        "Having a keen or penetrating intellect; sagacious.",
+        "Characterized by careful attention to detail; fastidious.",
+        "Subject to imprisonment or detention; confined.",
+        "A state of temporary residence or lodging; transient."
+      ]
+    },
+    {
+      "word": "PERMEATE",
+      "correct_definition": "to spread throughout, saturate",
+      "distractors": [
+        "To thoroughly examine and scrutinize.",
+        "To complete a task with utmost precision.",
+        "To endure a challenge with unwavering determination.",
+        "To pass judgment or deliver a formal opinion.",
+        "To make a lasting impression or mark.",
+        "To quickly move through a narrow opening.",
+        "To grant official permission or approval.",
+        "To remove impurities or unwanted elements.",
+        "To create a protective layer or coating.",
+        "To transfer ownership or possession legally."
+      ]
+    },
+    {
+      "word": "PINNACLE",
+      "correct_definition": "the highest point",
+      "distractors": [
+        "A thin, pointed instrument for precision.",
+        "A protective, rigid outer layer.",
+        "A sudden, sharp burst of energy.",
+        "An intricate, decorative architectural projection.",
+        "A state of intense and focused concentration.",
+        "A subtle, almost imperceptible indication.",
+        "A profound and insightful realization.",
+        "A framework of interwoven supporting elements.",
+        "A sharp, distinct sound or signal.",
+        "A crucial, foundational principle or idea."
+      ]
+    },
+    {
+      "word": "PITTANCE",
+      "correct_definition": "a very small amount, especially relating to money",
+      "distractors": [
+        "A deep, narrow cavity or depression in a surface.",
+        "An act of expressing profound sympathy or compassion for others.",
+        "A difficult or challenging circumstance requiring resilience.",
+        "A minor flaw or defect that detracts from perfection.",
+        "A formal declaration or statement of one's position on an issue.",
+        "A thin, protective layer found on certain fruits or seeds.",
+        "A state of intense emotional distress or regret.",
+        "A specific unit of measurement for depth or volume.",
+        "A sharp, sudden pain, often localized to a small area.",
+        "A small, intricately carved ornament or figurine."
+      ]
+    },
+    {
+      "word": "PLAUDITS",
+      "correct_definition": "enthusiastic approval, applause",
+      "distractors": [
+        "The quality of appearing reasonable or probable; plausibility.",
+        "A formal and earnest request, often expressing distress or complaint.",
+        "A raised, flat surface, often for public display or performance.",
+        "A large, flat dish or plate used for serving food.",
+        "A state of calm and peacefulness, free from disturbance.",
+        "The characteristic of being easily bent, flexible, or adaptable.",
+        "A widespread disease or a troublesome affliction.",
+        "Existing in large quantities; abundant.",
+        "To fall or drop straight down at high speed.",
+        "A trite, meaningless, or unoriginal statement, often presented as profound."
+      ]
+    }
+  ]
+}

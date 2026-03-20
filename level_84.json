@@ -1,0 +1,167 @@
+{
+  "level": 84,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_84.png",
+  "questions": [
+    {
+      "word": "INTRACTABLE",
+      "correct_definition": "dif\ufb01cult to manipulate, unmanageable",
+      "distractors": [
+        "Not easily traced or located after being hidden.",
+        "Unable to be pulled apart into smaller components.",
+        "Incapable of being elongated or stretched out.",
+        "Not bound by the terms of a legal agreement.",
+        "Impossible to extract or gain information from.",
+        "Unable to be taught or given formal instruction.",
+        "Not susceptible to the forces of magnetic attraction.",
+        "Difficult to retract or withdraw a previously made statement.",
+        "Incapable of contracting or shrinking in size.",
+        "Not easily comprehended or understood intellectually."
+      ]
+    },
+    {
+      "word": "JUDICIOUS",
+      "correct_definition": "having or exercising sound judgment",
+      "distractors": [
+        "Having an inclination to criticize or condemn others.",
+        "Pertaining to the legal system or judicial proceedings.",
+        "Expressing opinions or decisions with firm authority.",
+        "Possessing expertise in matters of law and justice.",
+        "Characterized by the rapid and decisive formation of opinions.",
+        "Displaying strict adherence to established rules and regulations.",
+        "Marked by a strong desire to ensure fairness and equity.",
+        "Inclined to make final and binding decisions.",
+        "Having an aptitude for discerning hidden truths or motives.",
+        "Exhibiting a cautious and hesitant approach to actions."
+      ]
+    },
+    {
+      "word": "LEGERDEMAIN",
+      "correct_definition": "deception, slight-of-hand",
+      "distractors": [
+        "A state of being extremely lightweight or insubstantial.",
+        "The principal or most important course of action.",
+        "A sophisticated legal strategy or argument.",
+        "The act of relinquishing a position of authority or control.",
+        "Exceptional manual dexterity or intricate craftsmanship.",
+        "A rapid and intricate series of physical movements.",
+        "The gradual erosion or weakening of a main support.",
+        "A primary directive or command given by a leader.",
+        "The quality of being easily airborne or buoyant.",
+        "A foundational belief or guiding principle."
+      ]
+    },
+    {
+      "word": "LIBERTARIAN",
+      "correct_definition": "advocating principles of liberty and free will",
+      "distractors": [
+        "Describing someone who is unrestrained and morally lax, especially sexually.",
+        "Relating to the study and preservation of ancient books and manuscripts.",
+        "Advocating for the complete absence of any governmental authority or social structure.",
+        "Characterized by generous giving and open-mindedness regarding social change.",
+        "Pertaining to the freedom of a country or group from oppressive political control.",
+        "Believing in a strict, centralized government that controls all aspects of life.",
+        "One who possesses a broad knowledge across many different academic subjects.",
+        "Advocating for the rights and ethical treatment of non-human animals.",
+        "A person who is committed to upholding traditional values and established institutions.",
+        "Describing a system of belief that emphasizes the equality of all people, regardless of status."
+      ]
+    },
+    {
+      "word": "MAGNANIMOUS",
+      "correct_definition": "noble, generous",
+      "distractors": [
+        "Exaggerated in size or scope.",
+        "Possessing immense physical power.",
+        "Having a strong, dominating personality.",
+        "Full of strong, hostile feelings.",
+        "A person of great wealth and influence.",
+        "Characterized by an overwhelming sense of self-importance.",
+        "Marked by a loud and boisterous demeanor.",
+        "Known for an insatiable appetite.",
+        "Relating to powerful, attracting forces.",
+        "To make something appear larger or more significant."
+      ]
+    },
+    {
+      "word": "MALEDICTION",
+      "correct_definition": "a curse",
+      "distractors": [
+        "A grammatically incorrect statement.",
+        "The act of speaking ill of someone.",
+        "A false or misleading assertion.",
+        "An evil or wicked scheme.",
+        "A formal condemnation.",
+        "A severe verbal reprimand.",
+        "A negative or pessimistic outlook.",
+        "A speech impediment.",
+        "An unfavorable declaration.",
+        "A damaging piece of gossip."
+      ]
+    },
+    {
+      "word": "MAWKISH",
+      "correct_definition": "characterized by sick sentimentality",
+      "distractors": [
+        "characterized by excessive gluttony or voracious consumption.",
+        "displaying an ungainly or clumsy manner.",
+        "having a strong, unpleasant, and pervasive odor.",
+        "prone to grumbling or persistent complaining.",
+        "marked by a lack of clarity or distinctness in thought or expression.",
+        "exhibiting a stubborn or intractable disposition.",
+        "afflicted by a chronic and debilitating illness.",
+        "characterized by a crude or unrefined quality.",
+        "inclined to hesitant and indecisive action.",
+        "possessed of a deep-seated malice or ill will."
+      ]
+    },
+    {
+      "word": "MERITORIOUS",
+      "correct_definition": "worthy of esteem or reward",
+      "distractors": [
+        "Relating to the act of measuring value or worth.",
+        "Characterized by extreme attention to detail; very precise.",
+        "Having a reputation for bad deeds; infamous.",
+        "Involving long and arduous effort; difficult.",
+        "Pertaining to a military rank or service; soldierly.",
+        "Pertaining to marital status or the institution of marriage.",
+        "Showing a strong desire for personal gain or material wealth.",
+        "Marked by a methodical and systematic approach; orderly.",
+        "Given to deep and serious thought; contemplative.",
+        "Tending to cause dispute or disagreement; contentious."
+      ]
+    },
+    {
+      "word": "NONDESCRIPT",
+      "correct_definition": "lacking a distinctive character",
+      "distractors": [
+        "Not adhering to a predetermined course of action.",
+        "Unable to be put into a written form.",
+        "Lacking any formal written record.",
+        "Refusing to follow a written command.",
+        "A message that fails to convey its intended meaning.",
+        "Relating to a text that cannot be deciphered.",
+        "Having a purpose that is not readily apparent.",
+        "Not based on factual observations.",
+        "An individual who avoids public attention.",
+        "A narrative that lacks a coherent plot."
+      ]
+    },
+    {
+      "word": "OBLIVIOUS",
+      "correct_definition": "lacking consciousness or awareness of something",
+      "distractors": [
+        "Experiencing a long and prosperous life.",
+        "Being completely overcome by strong emotions.",
+        "Having an overly active and vivid imagination.",
+        "Struggling against the forces of nature or fate.",
+        "Characterized by a dull or lifeless appearance.",
+        "Unable to clearly remember past events or details.",
+        "Given to extravagant or showy displays of wealth.",
+        "Marked by secrecy or a deliberate lack of openness.",
+        "Possessing an extremely keen and sharp intellect.",
+        "Intending to deceive or mislead others through cunning."
+      ]
+    }
+  ]
+}

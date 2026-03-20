@@ -1,0 +1,167 @@
+{
+  "level": 1,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_1.png",
+  "questions": [
+    {
+      "word": "FLOUT",
+      "correct_definition": "to disregard or disobey openly",
+      "distractors": [
+        "To remove or eject from a place or position.",
+        "To reveal or disclose something previously hidden or unknown.",
+        "To project or extend beyond a boundary or surface.",
+        "To extinguish or bring to a complete end.",
+        "To become unavailable or no longer in use.",
+        "To express vocally or openly communicate one's thoughts.",
+        "To deplete or consume completely, leaving nothing.",
+        "To emerge or appear from a state of concealment or obscurity.",
+        "To overcome or surpass in a contest or competition.",
+        "To render obsolete or unfashionable over time."
+      ]
+    },
+    {
+      "word": "ABET",
+      "correct_definition": "to aid, help, encourage",
+      "distractors": [
+        "To lead astray or divert from a proper course.",
+        "To place a wager or make a speculative gamble.",
+        "To diminish or reduce in force or value.",
+        "To make a solemn promise or commitment.",
+        "To hold back or restrain from action.",
+        "To revoke or annul a previous decision.",
+        "To create a barrier or obstruct progress.",
+        "To lower in rank or status; to demote.",
+        "To cast a shadow or obscure clarity.",
+        "To express strong disapproval or condemnation."
+      ]
+    },
+    {
+      "word": "ARID",
+      "correct_definition": "excessively dry",
+      "distractors": [
+        "Possessing a sharp or biting taste.",
+        "Stiff, unyielding, and resistant to change.",
+        "Feeling or showing intense annoyance.",
+        "Relating to freedom from burdens.",
+        "Haughtily dismissive or arrogant.",
+        "Emotionally cold and unfeeling.",
+        "Lacking stimulating intellectual content.",
+        "Completely clear and unobstructed.",
+        "Having an austere or severe look.",
+        "Easily angered or impatient."
+      ]
+    },
+    {
+      "word": "BANE",
+      "correct_definition": "a burden",
+      "distractors": [
+        "A strict prohibition.",
+        "A holy structure.",
+        "An intense longing.",
+        "A flat glass sheet.",
+        "A sudden sharp ache.",
+        "A futile attempt.",
+        "A burst of vigor.",
+        "A slender passage.",
+        "A generous blessing.",
+        "A skeletal framework."
+      ]
+    },
+    {
+      "word": "BARD",
+      "correct_definition": "a poet, often a singer as well",
+      "distractors": [
+        "a ceremonial cloak or vestment worn by a high-ranking official",
+        "a legal restriction or prohibition, especially on a public official",
+        "a long, narrow piece of wood or metal used for support or fastening",
+        "a type of small, agile bird known for its distinct call",
+        "a person who serves drinks or food, especially in an inn or tavern",
+        "a type of heavy, coarse fabric used for warmth or insulation",
+        "a sharp, pointed projection, often on a hook or arrow",
+        "a person who records and maintains historical documents",
+        "a ceremonial staff or scepter carried by an official",
+        "a high, fortified wall or enclosure for defense"
+      ]
+    },
+    {
+      "word": "BIAS",
+      "correct_definition": "a tendency, inclination, prejudice",
+      "distractors": [
+        "A foundational element or underlying structure.",
+        "A state of perfect symmetry or balance.",
+        "A minor detour or alternative route.",
+        "A critical examination or detailed analysis.",
+        "A sudden, unexpected turn or shift.",
+        "A geometric plane cutting across an object at an angle.",
+        "A temporary suspension or halt in activity.",
+        "A point of intersection or convergence.",
+        "A binding agreement or legal covenant.",
+        "A reciprocal relationship between two entities."
+      ]
+    },
+    {
+      "word": "BOON",
+      "correct_definition": "a gift or blessing",
+      "distractors": [
+        "A loud, echoing sound.",
+        "A deep, enclosed space.",
+        "A sudden, forceful surge of water.",
+        "A heavy, structural beam.",
+        "A solemn declaration or oath.",
+        "A type of decorative weaving.",
+        "A long, supporting pole on a sailing vessel.",
+        "A state of profound quietness.",
+        "A ceremonial headdress.",
+        "A written record or ledger."
+      ]
+    },
+    {
+      "word": "CARP",
+      "correct_definition": "to annoy, pester",
+      "distractors": [
+        "to gather fish in a net",
+        "to sculpt wood precisely",
+        "to make a loud, grating sound",
+        "to sail a small boat",
+        "to prepare a meal from raw ingredients",
+        "to store goods in a secure place",
+        "to speak in a boastful manner",
+        "to work tirelessly on a difficult task",
+        "to form a protective barrier",
+        "to harvest crops from a field"
+      ]
+    },
+    {
+      "word": "COUP",
+      "correct_definition": "a brilliant, unexpected act",
+      "distractors": [
+        "A sudden, violent overthrow of a government.",
+        "A secret plot or conspiracy to gain power.",
+        "To restrict or confine someone to a small space.",
+        "A formal agreement or alliance between groups.",
+        "A decisive, forceful strike or blow.",
+        "An act of severing or cutting off cleanly.",
+        "A brief, intense period of excitement.",
+        "A small, specialized type of enclosed vehicle.",
+        "To combine forces or resources for a common goal.",
+        "A ceremonial gathering or formal procession."
+      ]
+    },
+    {
+      "word": "CURT",
+      "correct_definition": "abruptly and rudely short",
+      "distractors": [
+        "Tending to be overly cautious or reserved in social settings.",
+        "Exhibiting a curved or winding form; not straight.",
+        "Marked by an intense and insatiable desire for knowledge.",
+        "To restrict or limit the scope or extent of an activity.",
+        "Characterized by extreme meticulousness and precision.",
+        "Having a rough, coarse, or unrefined texture.",
+        "Displaying an unwarranted sense of self-importance or arrogance.",
+        "To present or arrange something in an elaborate and decorative manner.",
+        "Inclined to withdraw from social interaction; introverted.",
+        "To skillfully avoid or bypass a difficult obstacle."
+      ]
+    }
+  ]
+}

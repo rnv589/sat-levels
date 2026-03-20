@@ -1,0 +1,167 @@
+{
+  "level": 52,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_52.png",
+  "questions": [
+    {
+      "word": "AUDACIOUS",
+      "correct_definition": "excessively bold",
+      "distractors": [
+        "Pertaining to the sense of hearing.",
+        "Possessing sharp auditory perception.",
+        "Given to frequent public address.",
+        "Requiring rigorous attention to detail.",
+        "Extremely difficult to accomplish.",
+        "Displaying an intense longing or desire.",
+        "Characterized by extravagant wealth.",
+        "Given to monotonous repetition.",
+        "Producing a very loud sound.",
+        "Inclined towards secrecy or concealment."
+      ]
+    },
+    {
+      "word": "AVARICE",
+      "correct_definition": "excessive greed",
+      "distractors": [
+        "A strong aversion or dislike towards a particular thing.",
+        "The state of being widely varied or diverse.",
+        "An overwhelming and sudden influx of something.",
+        "A passionate eagerness or enthusiasm for a pursuit.",
+        "The practice of intentionally avoiding certain duties.",
+        "A severe lack or deficiency of necessary resources.",
+        "A feeling of deep sadness or despondency.",
+        "A tendency to act without proper thought or caution.",
+        "The act of seeking to cause harm or damage to others.",
+        "A strong desire to escape from a difficult situation."
+      ]
+    },
+    {
+      "word": "BOMBASTIC",
+      "correct_definition": "excessively con\ufb01dent, pompous",
+      "distractors": [
+        "Pertaining to a sudden, violent burst or release of energy.",
+        "Producing a deep, booming sound that reverberates widely.",
+        "Causing widespread destruction or significant damage.",
+        "Overwhelmingly abundant or excessive in number or quantity.",
+        "Having an immediate and profound impact or effect.",
+        "Remarkably large or imposing in physical dimension or scale.",
+        "Characterized by relentless and aggressive verbal attacks.",
+        "Designed to create a startling or theatrical dramatic effect.",
+        "Prone to sudden and intense emotional outbursts.",
+        "Filled with overly intricate and confusing details."
+      ]
+    },
+    {
+      "word": "BOURGEOIS",
+      "correct_definition": "a middle-class person, capitalist",
+      "distractors": [
+        "A member of the nobility or aristocracy.",
+        "A fortified town or settlement from the medieval period.",
+        "A master artisan or skilled craftsman.",
+        "A person known for their exquisite taste in fine arts and culture.",
+        "A type of complex architectural decoration, often found on French buildings.",
+        "A luxurious and heavy fabric used for upholstery or clothing.",
+        "A formal deliberative assembly or council.",
+        "A difficult and adventurous journey or expedition.",
+        "A legal document granting specific rights or privileges.",
+        "A rich, creamy sauce or dressing in French cuisine."
+      ]
+    },
+    {
+      "word": "BRUSQUE",
+      "correct_definition": "short, abrupt, dismissive",
+      "distractors": [
+        "Rough or coarse in texture, not smooth.",
+        "Easily broken or shattered, fragile.",
+        "Characterized by a harsh, grating, or discordant sound.",
+        "Having a strong, sharp, or pungent taste.",
+        "Forceful and energetic in movement or action.",
+        "To clean or scrub vigorously, often with a brush.",
+        "Prone to sudden, violent outbursts of temper.",
+        "Marked by an inability to change or adapt, stubborn.",
+        "Difficult to understand or interpret, obscure.",
+        "Lacking grace or dexterity in movement, clumsy."
+      ]
+    },
+    {
+      "word": "CACOPHONY",
+      "correct_definition": "tremendous noise, disharmonious sound",
+      "distractors": [
+        "A deceptive or false statement; a misleading claim.",
+        "A difficult or unpleasant task; an arduous undertaking.",
+        "A condition of impaired vision; poor eyesight.",
+        "The study of ancient languages; archaic linguistics.",
+        "An uncontrollable urge to speak; verbal compulsion.",
+        "A severe and persistent vocal ailment; chronic hoarseness.",
+        "A convoluted writing style; unclear or obscure prose.",
+        "A strong dislike of bright light; visual aversion.",
+        "The act of feigning identity; fraudulent impersonation.",
+        "A state of intense emotional pain; deep anguish."
+      ]
+    },
+    {
+      "word": "CALIBRATE",
+      "correct_definition": "to set, standardize",
+      "distractors": [
+        "To estimate the precise quantity of a substance.",
+        "To analyze the chemical composition of a material.",
+        "To determine the maximum load capacity of a structure.",
+        "To establish a formal agreement or treaty.",
+        "To assign a specific grade or rank to an item.",
+        "To elaborate on a topic with careful precision.",
+        "To cause a sudden and violent rupture or break.",
+        "To polish or refine a surface to a high sheen.",
+        "To restrict or confine movement within a boundary.",
+        "To formally introduce or initiate a new procedure."
+      ]
+    },
+    {
+      "word": "CAPACIOUS",
+      "correct_definition": "very spacious",
+      "distractors": [
+        "possessing a wide range of abilities",
+        "tending to seize or grasp quickly",
+        "related to the main or primary component",
+        "having extensive mental faculties",
+        "able to attract and hold attention easily",
+        "inclined to find fault or make trivial objections",
+        "showing great potential for development",
+        "functioning as a receptacle for information",
+        "demonstrating strong moral resolve",
+        "of paramount importance or significance"
+      ]
+    },
+    {
+      "word": "CHRONICLE",
+      "correct_definition": "a written history",
+      "distractors": [
+        "A device used for precise measurement of time.",
+        "An official record of an individual's personal schedule.",
+        "A system for accurately predicting future events.",
+        "A fixed period of time with specific boundaries.",
+        "A regular occurrence or customary practice.",
+        "An ancient method of tracking planetary movements.",
+        "A detailed list of tasks to be completed over time.",
+        "A scientific study of the flow of time itself.",
+        "A collection of documents arranged by date of creation.",
+        "A continuous stream of information presented in real-time."
+      ]
+    },
+    {
+      "word": "COAGULATE",
+      "correct_definition": "to thicken, clot",
+      "distractors": [
+        "To work together collaboratively.",
+        "To gather distinct parts into a collective whole.",
+        "To cause a strong emotional reaction or disturbance.",
+        "To delay or postpone a planned event.",
+        "To make a situation worse or more complicated.",
+        "To regulate or control a particular system.",
+        "To dissolve or break down into smaller components.",
+        "To flow freely and without any obstruction.",
+        "To combine various elements into a uniform blend.",
+        "To arrange or organize something into a clear structure."
+      ]
+    }
+  ]
+}

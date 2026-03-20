@@ -1,0 +1,167 @@
+{
+  "level": 7,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_7.png",
+  "questions": [
+    {
+      "word": "LUCID",
+      "correct_definition": "clear, easily understandable",
+      "distractors": [
+        "Shining brightly; radiant.",
+        "Characterized by opulence or lavishness.",
+        "Difficult to capture or pin down.",
+        "Moving or performing with great agility.",
+        "Having a smooth, frictionless surface.",
+        "Sharp or biting in taste; acidic.",
+        "Experiencing a state of mental unresponsiveness.",
+        "Displaying remarkable strength or vigor.",
+        "Given to excessive emotional expression.",
+        "Marked by stealth or secretiveness."
+      ]
+    },
+    {
+      "word": "LURID",
+      "correct_definition": "ghastly, sensational",
+      "distractors": [
+        "To entice or draw in by temptation.",
+        "Moving with slow, stealthy steps.",
+        "Lacking brightness or vitality, dim and faded.",
+        "Characterized by a smooth, glossy surface.",
+        "To murmur or speak in a low, indistinct voice.",
+        "Perplexed or confused, unable to understand.",
+        "To wander aimlessly or without purpose.",
+        "Easily influenced or persuaded, gullible.",
+        "A feeling of deep sadness or melancholy.",
+        "To delay or procrastinate, to put off."
+      ]
+    },
+    {
+      "word": "MORES",
+      "correct_definition": "the moral attitudes and \ufb01xed customs of a group of people.",
+      "distractors": [
+        "A deep and persistent feeling of sadness or gloom, often without a clear external cause.",
+        "The principles of proper conduct and ethical behavior expected from individuals in formal settings.",
+        "The inherent vulnerability to death and decay that characterizes all living organisms.",
+        "An archaic system of land measurement and allocation used in medieval agricultural societies.",
+        "A quantity or degree that is greater or additional than what was previously present or expected.",
+        "The subtle, often unconscious, gestures and expressions that convey meaning in non-verbal communication.",
+        "A set of strict personal guidelines or ethical codes developed by an individual to direct their choices.",
+        "The gradual process of wear and tear or deterioration observed in materials over time.",
+        "A complex sequence of movements or steps performed as part of a traditional folk dance.",
+        "The foundational stories or mythological narratives that explain a culture's origins and values."
+      ]
+    },
+    {
+      "word": "NADIR",
+      "correct_definition": "the lowest point of something",
+      "distractors": [
+        "A deep sense of longing or nostalgia for the past.",
+        "A specialized instrument used for measuring celestial distances.",
+        "A sudden and powerful gust of wind, often accompanying a storm.",
+        "The extreme outermost edge or boundary of a particular area.",
+        "A mythical creature said to inhabit deep underwater caves.",
+        "The fundamental unit of measurement in ancient navigation.",
+        "A state of complete exhaustion or mental fatigue.",
+        "A vibrant hue of deep blue, often associated with the ocean.",
+        "A complex knot used by sailors to secure ropes during a storm.",
+        "The process of gradually eroding rock formations through natural forces."
+      ]
+    },
+    {
+      "word": "PITHY",
+      "correct_definition": "concisely meaningful",
+      "distractors": [
+        "Feeling or expressing deep sympathy for others.",
+        "Characterized by intricate and complex details.",
+        "Having a soft, spongy, and yielding texture.",
+        "Possessing robust health or vitality.",
+        "Overflowing with verbose and flowery language.",
+        "Remarkably clean and free from impurities.",
+        "Pleasing to the eye; aesthetically appealing.",
+        "Marked by a sharp, bitter, or acrid taste.",
+        "Of minimal size or importance.",
+        "Lacking significant depth or substance."
+      ]
+    },
+    {
+      "word": "STAID",
+      "correct_definition": "sedate, serious, self-restrained",
+      "distractors": [
+        "Fixed in place, not easily dislodged.",
+        "To provide strong backing or support.",
+        "Of significant rank or high esteem.",
+        "To leave a permanent mark or discoloration.",
+        "Prevented from advancing or progressing.",
+        "Having a sturdy and robust build.",
+        "Arranged in a rigid or formal structure.",
+        "To remain completely silent and still.",
+        "A prolonged period of inactivity or stagnation.",
+        "To firmly establish a rule or principle."
+      ]
+    },
+    {
+      "word": "STOIC",
+      "correct_definition": "unaffected by passion or feeling",
+      "distractors": [
+        "Characterized by unwavering resolve and mental fortitude.",
+        "Displaying a dignified and formal manner in social interactions.",
+        "Pertaining to one who rigidly adheres to a set of moral principles.",
+        "Given to prolonged periods of thoughtful silence and introspection.",
+        "Having an innate ability to resist all forms of external persuasion.",
+        "Exhibiting a complete lack of interest or enthusiasm for activities.",
+        "Marked by a consistent refusal to compromise or yield to others' demands.",
+        "Resembling a statue in its stillness and unchanging physical form.",
+        "Possessing a strong aversion to displaying any signs of weakness.",
+        "Related to a belief system emphasizing severe self-discipline and austerity."
+      ]
+    },
+    {
+      "word": "TACIT",
+      "correct_definition": "expressed without words",
+      "distractors": [
+        "Pertaining to the sense of touch; perceptible by feel.",
+        "Showing sensitivity and discretion in one's actions or words.",
+        "To fasten or secure something in a fixed position.",
+        "Having a sharp, corrosive, or bitter quality.",
+        "Relating to a specific strategy or a planned maneuver.",
+        "Unwilling to change one's mind or yield to pressure.",
+        "Characterized by an extreme reluctance to speak; reserved.",
+        "Lacking refinement or good taste; cheaply showy.",
+        "Kept hidden or concealed from others; not revealed.",
+        "Difficult to understand or interpret clearly; ambiguous."
+      ]
+    },
+    {
+      "word": "TOADY",
+      "correct_definition": "one who \ufb02atters in the hope of gaining favors",
+      "distractors": [
+        "One who is stubbornly resistant to advice or persuasion.",
+        "A person with a rough or unrefined manner of speaking.",
+        "An antiquated term for a small, enclosed garden plot.",
+        "One who frequently complains or expresses discontent.",
+        "A person who walks with a heavy, awkward step.",
+        "One who is excessively meticulous and critical of others' work.",
+        "A type of stiff, heavy fabric often used for formal attire.",
+        "A person who maintains an air of solemnity even in lighthearted situations.",
+        "One who finds great pleasure in solitude and quiet contemplation.",
+        "A small, ornamental object used as a personal charm or amulet."
+      ]
+    },
+    {
+      "word": "TRITE",
+      "correct_definition": "not original, overused",
+      "distractors": [
+        "Relating to a group of three.",
+        "A sacred or ancient ceremony.",
+        "Having three distinct parts.",
+        "To rub or grind into a fine powder.",
+        "Requiring great effort or strength.",
+        "To make something known publicly.",
+        "Having a sharp or bitter taste.",
+        "To establish as correct or customary.",
+        "A period of severe hardship or trial.",
+        "Easily broken or damaged."
+      ]
+    }
+  ]
+}

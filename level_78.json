@@ -1,0 +1,167 @@
+{
+  "level": 78,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_78.png",
+  "questions": [
+    {
+      "word": "VENERATE",
+      "correct_definition": "to regard with respect or to honor",
+      "distractors": [
+        "To cause to become poisonous or toxic.",
+        "To seek revenge upon or retaliate against.",
+        "To corrupt through bribery or unethical means.",
+        "To drain or deplete of vital resources.",
+        "To coat with a thin, attractive layer.",
+        "To express strong negative opinions publicly.",
+        "To bring into existence or to create something new.",
+        "To give a vibrant or glossy appearance to.",
+        "To restrict the flow or movement of.",
+        "To remove completely or to make disappear."
+      ]
+    },
+    {
+      "word": "VERACITY",
+      "correct_definition": "truthfulness, accuracy",
+      "distractors": [
+        "An insatiable appetite or hunger.",
+        "The quality of being talkative or verbose.",
+        "A stubborn persistence or determination.",
+        "The state of being lively, animated, or energetic.",
+        "The quality of being shrewd, wise, or discerning.",
+        "The tendency to be aggressive or eager to fight.",
+        "Excessive boldness or impudence.",
+        "A sudden and dramatic change in direction or course.",
+        "The ability to adapt or adjust readily to new conditions.",
+        "A state of intense emotion or passionate enthusiasm."
+      ]
+    },
+    {
+      "word": "VIGILANT",
+      "correct_definition": "watchful, alert",
+      "distractors": [
+        "Full of physical strength and energy.",
+        "Possessing great courage or bravery.",
+        "Having a profound sense of importance or necessity.",
+        "Easily seen or perceived by the eye.",
+        "Quick to become angry or irritable.",
+        "Unclear or indistinct in form or meaning.",
+        "Intending to cause harm or distress to others.",
+        "Marked by a strong desire for revenge.",
+        "Deeply rooted and difficult to remove.",
+        "Tending to criticize or speak ill of others."
+      ]
+    },
+    {
+      "word": "VIRTUOSO",
+      "correct_definition": "one who excels in an art; a highly skilled musical performer",
+      "distractors": [
+        "One who embodies moral excellence and upright character.",
+        "A person renowned for their unwavering integrity and ethical conduct.",
+        "An individual who consistently demonstrates great courage and fortitude.",
+        "A leader dedicated to promoting civic virtue and public good.",
+        "A rare and valuable antique, especially a musical instrument.",
+        "A complex and technically demanding piece of classical music.",
+        "A person noted for their exceptional physical prowess and athletic ability.",
+        "An esteemed scholar or academic expert in a particular field of study.",
+        "One who possesses a wide range of practical skills and adaptability.",
+        "A person known for their eloquence and persuasive speaking abilities."
+      ]
+    },
+    {
+      "word": "VOCATION",
+      "correct_definition": "the work in which someone is employed, profession",
+      "distractors": [
+        "the act of speaking loudly or with great emotion",
+        "a solemn appeal or request made with earnestness",
+        "the ability to produce clear and distinct sounds",
+        "a formal declaration or announcement by an authority",
+        "the power to recall or evoke past memories",
+        "a period of rest or leisure, typically spent away from home",
+        "the specific pitch or tone of a person's voice",
+        "a deep sense of inner conviction or belief",
+        "the process of urging or persuading someone strongly",
+        "a spontaneous outburst of sound or expression"
+      ]
+    },
+    {
+      "word": "WALLOW",
+      "correct_definition": "to roll oneself indolently; to become or remain helpless",
+      "distractors": [
+        "To construct a defensive barrier or partition; to enclose securely.",
+        "To utter a mournful cry; to lament with great sorrow.",
+        "To move with a clumsy, rocking motion; to totter unsteadily.",
+        "To deteriorate gradually in quality or condition; to decay slowly.",
+        "To become hollowed out or scooped; to form a depression.",
+        "To reverberate deeply; to produce a resonant sound.",
+        "To consume greedily; to devour voraciously.",
+        "To collapse entirely under pressure; to give way suddenly.",
+        "To hesitate or show indecision; to vacillate repeatedly.",
+        "To pierce or bore through a surface; to make an opening."
+      ]
+    },
+    {
+      "word": "ACQUIESCE",
+      "correct_definition": "to agree without protesting",
+      "distractors": [
+        "To acquire a valuable possession.",
+        "To question the sincerity of a statement.",
+        "To bring something to a complete stop.",
+        "To actively seek out new experiences.",
+        "To quickly regain one's calm.",
+        "To obtain knowledge through study.",
+        "To challenge an established authority.",
+        "To demand an immediate explanation.",
+        "To become agitated and restless.",
+        "To thoroughly investigate a rumor."
+      ]
+    },
+    {
+      "word": "AGGRIEVED",
+      "correct_definition": "distressed, wronged, injured",
+      "distractors": [
+        "To act with aggression or hostility.",
+        "To collect or form into a composite whole.",
+        "To make a difficult situation even worse.",
+        "To express strong disagreement or objection.",
+        "To challenge or question an authority.",
+        "To impose a heavy burden or obligation.",
+        "To cling stubbornly to a fixed idea.",
+        "To demand forcefully or insist upon.",
+        "To unite or bind together firmly.",
+        "To attribute blame or fault to another."
+      ]
+    },
+    {
+      "word": "AGRICULTURE",
+      "correct_definition": "farming",
+      "distractors": [
+        "The study of ancient customs.",
+        "The art of cultivating bacteria.",
+        "The management of large estates.",
+        "The development of urban infrastructure.",
+        "The preservation of historical sites.",
+        "The science of land surveying.",
+        "The organized study of plant diseases.",
+        "The systematic recording of cultural traditions.",
+        "The cultivation of intellectual ideas.",
+        "The construction of natural landscapes."
+      ]
+    },
+    {
+      "word": "ALLEVIATE",
+      "correct_definition": "to relieve, make more bearable",
+      "distractors": [
+        "To raise to a higher position; to lift up.",
+        "To distribute or apportion for a specific purpose.",
+        "To cause to float or rise gently in the air.",
+        "To make something less complicated; to simplify.",
+        "To make something brighter or more luminous.",
+        "To unite or bring together into a single entity.",
+        "To refer indirectly to something; to hint at.",
+        "To completely destroy or obliterate from existence.",
+        "To undergo a complete transformation; to alter.",
+        "To cause to become less weighty in physical mass."
+      ]
+    }
+  ]
+}

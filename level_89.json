@@ -1,0 +1,167 @@
+{
+  "level": 89,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_89.png",
+  "questions": [
+    {
+      "word": "CONVENTION",
+      "correct_definition": "an assembly of people",
+      "distractors": [
+        "A widely accepted social custom.",
+        "A deeply held belief or conviction.",
+        "The act of coming to a mutual understanding.",
+        "A compelling argument or persuasive tactic.",
+        "An established tradition or practice.",
+        "A formal agreement between parties.",
+        "The process of bringing something into existence.",
+        "A strong personal preference or bias.",
+        "A legal document outlining terms.",
+        "The act of devising a secret plot."
+      ]
+    },
+    {
+      "word": "CONVOLUTED",
+      "correct_definition": "intricate, complicated",
+      "distractors": [
+        "Rolled or coiled tightly together.",
+        "Characterized by great fullness or abundance.",
+        "To turn or spin rapidly on an axis.",
+        "To willingly undertake a shared responsibility.",
+        "Having developed gradually through a process of change.",
+        "To transport or communicate from one point to another.",
+        "To change or transform from one state to another.",
+        "Marked by strong disagreement or dispute.",
+        "To exercise strong influence or command over others.",
+        "Expressed in an overly wordy and elaborate manner."
+      ]
+    },
+    {
+      "word": "COSMOPOLITAN",
+      "correct_definition": "sophisticated, worldly",
+      "distractors": [
+        "Relating to the study of the universe's origin.",
+        "A resident of a major capital city.",
+        "Pertaining to the arrangement of celestial bodies.",
+        "Exhibiting an orderly and systematic structure.",
+        "Having a uniform appearance or style globally.",
+        "A person dedicated to the welfare of all humanity.",
+        "Characterized by advanced urban planning and design.",
+        "Of or concerning the scientific study of world cultures.",
+        "A structure designed for universal accessibility.",
+        "Referring to a style of art that incorporates global elements."
+      ]
+    },
+    {
+      "word": "CUMULATIVE",
+      "correct_definition": "increasing, building upon itself",
+      "distractors": [
+        "pertaining to the dense, rounded forms of clouds often associated with storms",
+        "a large assemblage or collection of various items brought together in one place",
+        "the act of blending distinct components to form a coherent, unified whole",
+        "reaching the highest point or the final, definitive stage of a process",
+        "describing something that is commonly shared or experienced by a group",
+        "characterized by a vast quantity or an abundant supply of resources",
+        "having an immediate, strong, and powerful effect or influence",
+        "a gradual worsening or decline in condition over an extended period",
+        "emitting a radiant glow or possessing a striking brilliance of light",
+        "the careful and deliberate arrangement of different parts into a structured system"
+      ]
+    },
+    {
+      "word": "DIMINUTIVE",
+      "correct_definition": "small or miniature",
+      "distractors": [
+        "Lacking brightness or clarity; often referring to light or visibility.",
+        "To lessen the importance or value of something; to belittle or deprecate.",
+        "Characterized by a gradual fading or a decrease in intensity; becoming less prominent.",
+        "Extremely quiet or muted; barely audible or subdued in sound.",
+        "Pertaining to a division into distinct categories or sections; separating into parts.",
+        "Tending to obscure or confuse understanding; making something unclear or ambiguous.",
+        "Relating to a decline in quantity, degree, or intensity; a decrease or abatement.",
+        "Making something appear less significant or impressive; undermining or trivializing.",
+        "A state of being vague, indistinct, or uncertain; lacking sharpness or definition.",
+        "Causing a loss of hope or enthusiasm; disheartening or dispiriting."
+      ]
+    },
+    {
+      "word": "DISCURSIVE",
+      "correct_definition": "rambling, lacking order",
+      "distractors": [
+        "Relating to formal communication; a profound discussion.",
+        "Moving rapidly and forcefully through a set path.",
+        "Pertaining to a graceful, flowing style of handwriting.",
+        "Characterized by firmness and quick resolution; decisive.",
+        "Covering every aspect in great detail; exhaustive.",
+        "Returning to a previous state or argument; recursive.",
+        "Displaying impoliteness or disrespect; discourteous.",
+        "Lacking enthusiasm or general interest; apathetic.",
+        "Referring to a difficult or obstacle-filled journey.",
+        "Causing disruption or interference in a process."
+      ]
+    },
+    {
+      "word": "DISHEARTENED",
+      "correct_definition": "feeling a loss of spirit or morale",
+      "distractors": [
+        "separated from one's core beliefs or principles",
+        "suffering from a minor physical discomfort in the chest area",
+        "lacking the ability to feel empathy or compassion for others",
+        "having been strategically removed from a central position",
+        "feeling a sense of profound detachment from reality",
+        "unwilling to comply with requests or suggestions",
+        "having endured significant physical exertion or fatigue",
+        "feeling completely disoriented and confused about one's location",
+        "having been stripped of one's valuable possessions",
+        "having an incomplete or fragmented understanding of a situation"
+      ]
+    },
+    {
+      "word": "DIVISIVE",
+      "correct_definition": "causing dissent, discord",
+      "distractors": [
+        "Pertaining to the mathematical process of dividing numbers.",
+        "Relating to the physical act of splitting something into parts.",
+        "Capable of being easily separated or broken apart.",
+        "Characterized by a wide range of different elements or qualities.",
+        "Serving to bring about a definitive and conclusive end.",
+        "Marked by an inclination to ridicule or mock.",
+        "Having the capacity to spread out or distribute widely.",
+        "Tending to break down into smaller, simpler components.",
+        "Indicating a strong preference for working alone or in isolation.",
+        "Involving the careful distinction between similar things."
+      ]
+    },
+    {
+      "word": "EMBEZZLE",
+      "correct_definition": "to steal money by falsifying records",
+      "distractors": [
+        "To deliberately mislead or deceive by presenting false information.",
+        "To cause a sudden and overwhelming sense of confusion.",
+        "To decorate or adorn lavishly, often with intricate designs.",
+        "To formally mark or distinguish with a symbolic emblem.",
+        "To hinder or impede progress through bureaucratic obstacles.",
+        "To involve someone deeply in a complicated or difficult situation.",
+        "To conceal one's true intentions through a deceptive facade.",
+        "To burden with a heavy responsibility or difficult task.",
+        "To grant a special privilege or power to an individual.",
+        "To dismantle or break down into smaller, constituent parts."
+      ]
+    },
+    {
+      "word": "EQUANIMITY",
+      "correct_definition": "composure",
+      "distractors": [
+        "A state of being equal in value or measure.",
+        "The quality of being fair and impartial.",
+        "Liveliness or animation of spirit.",
+        "A state of constant motion or activity.",
+        "The property of having a uniform surface.",
+        "The condition of being unique or singular.",
+        "A philosophical belief in universal equality.",
+        "The spiritual essence or soul of a being.",
+        "A measure of balance or equilibrium in an ecosystem.",
+        "The capacity for rapid and agile movement."
+      ]
+    }
+  ]
+}

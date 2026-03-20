@@ -1,0 +1,167 @@
+{
+  "level": 22,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_22.png",
+  "questions": [
+    {
+      "word": "CLOYING",
+      "correct_definition": "sickeningly sweet",
+      "distractors": [
+        "Causing a feeling of restriction or enclosure.",
+        "Displaying excessive craftiness or trickery.",
+        "Tending to obstruct or impede progress.",
+        "Characterized by an exaggerated display of emotion.",
+        "Producing a dulling or numbing sensation.",
+        "Marked by a lack of clarity or distinctness.",
+        "Overly eager to please; fawning.",
+        "Excessively ornate or embellished.",
+        "Tending to adhere stubbornly to surfaces.",
+        "Causing mental fatigue or weariness."
+      ]
+    },
+    {
+      "word": "COBBLER",
+      "correct_definition": "a person who makes or repairs shoes",
+      "distractors": [
+        "A sweet fruit dessert topped with a biscuit or dumpling crust.",
+        "A worker responsible for laying and repairing cobblestone streets.",
+        "A person who clumsily assembles items in a makeshift or crude manner.",
+        "An individual skilled in repairing intricate wooden furniture.",
+        "A small, round, hard candy typically made with molasses or caramel.",
+        "One who gathers or collects various small, discarded objects for reuse.",
+        "A type of coarse, unrefined cloth woven from natural fibers.",
+        "A person known for telling tall tales or exaggerating stories.",
+        "A professional who polishes and maintains stone monuments and statues.",
+        "An apprentice learning the art of working with molten metal."
+      ]
+    },
+    {
+      "word": "CONCEDE",
+      "correct_definition": "to accept as valid",
+      "distractors": [
+        "To give up territory or power.",
+        "To bring together diverse elements.",
+        "To make a secret plan with others.",
+        "To provide a financial contribution.",
+        "To begin a formal proceeding.",
+        "To formalize an existing arrangement.",
+        "To transfer the control of assets.",
+        "To make a thorough examination.",
+        "To encourage someone to advance.",
+        "To develop a new strategy."
+      ]
+    },
+    {
+      "word": "CONCISE",
+      "correct_definition": "brief and direct in expression",
+      "distractors": [
+        "Having a sharp or cutting edge, as of a blade.",
+        "Done with extreme care and exactness; precise.",
+        "To come to a mutual agreement or understanding.",
+        "The act of setting strict limits or boundaries.",
+        "To surrender or yield control to another.",
+        "To unite various parts or elements into one.",
+        "Having a profound or deeply thoughtful nature.",
+        "Marked by a strong and firm commitment or resolve.",
+        "To form a mental image or concept; to conceive.",
+        "To be in complete harmony or accord with others."
+      ]
+    },
+    {
+      "word": "CONCOCT",
+      "correct_definition": "to fabricate, make up",
+      "distractors": [
+        "To bring disparate elements into harmony; to unite.",
+        "To compact or condense a substance into a solid form.",
+        "To guide or manage a complex operation.",
+        "To establish a direct link or connection.",
+        "To cook or prepare food with great care and precision.",
+        "To declare or proclaim something officially.",
+        "To bring something into existence through magic or incantation.",
+        "To resolve a conflict or dispute peacefully.",
+        "To persuade someone through careful argument.",
+        "To construct a building or structure with difficulty."
+      ]
+    },
+    {
+      "word": "CONCORD",
+      "correct_definition": "harmonious agreement",
+      "distractors": [
+        "Relating to the act of conquering or overcoming an obstacle.",
+        "A large gathering or convention for a specific purpose.",
+        "The main connecting support or structural element of a building.",
+        "A serious and thoughtful consideration of a complex matter.",
+        "To blend or combine different elements into a new, unified whole.",
+        "A formal written record of significant events or decisions.",
+        "The process of intense mental concentration and singular focus.",
+        "A type of complex knot or binding mechanism used for securing.",
+        "A profound emotional connection or shared empathy between individuals.",
+        "To assert or confirm a statement with absolute conviction."
+      ]
+    },
+    {
+      "word": "CONDONE",
+      "correct_definition": "to pardon, deliberately overlook",
+      "distractors": [
+        "To strengthen or make more solid.",
+        "To make something more concentrated or compact.",
+        "To combine separate parts into a single whole.",
+        "To bestow a formal gift or endowment.",
+        "To bring a task to a successful conclusion.",
+        "To impose a specific requirement or restriction.",
+        "To express agreement or approval for an action.",
+        "To establish a foundation or framework.",
+        "To politely offer sympathy or comfort.",
+        "To limit or restrict within certain boundaries."
+      ]
+    },
+    {
+      "word": "CONDUIT",
+      "correct_definition": "a pipe or channel through which something passes",
+      "distractors": [
+        "A formal agreement or treaty between two or more parties.",
+        "The accepted manner or rules for proper social behavior.",
+        "An act of convincing or influencing someone to change their opinion.",
+        "A guiding principle or set of ethics that dictates actions.",
+        "A preliminary sketch or outline serving as a plan or guide.",
+        "The process of bringing separate elements into a unified whole.",
+        "A person who acts as a leader or director for a group.",
+        "The careful management or execution of a particular task.",
+        "An introductory statement or preface to a larger document.",
+        "A secret meeting or pact intended to achieve a common goal."
+      ]
+    },
+    {
+      "word": "CONGEAL",
+      "correct_definition": "to thicken into a solid",
+      "distractors": [
+        "To come together or assemble in a group.",
+        "To make something colder or turn into ice.",
+        "To conceal or hide something from view.",
+        "To soothe or calm an agitated state.",
+        "To form a transparent or clear substance.",
+        "To persuade or convince someone of an idea.",
+        "To develop a protective outer layer or coating.",
+        "To become fixed or unyielding in one's opinion.",
+        "To arrange or organize items into a specific order.",
+        "To yield or give way under pressure."
+      ]
+    },
+    {
+      "word": "CONSIGN",
+      "correct_definition": "to give something over to another\u2019s care",
+      "distractors": [
+        "To reach a formal agreement by mutual consent.",
+        "To attribute a specific meaning or symbol to an object.",
+        "To combine separate elements into a unified whole.",
+        "To mark a document with an identifying signature or seal.",
+        "To make something known through a subtle gesture or sign.",
+        "To formally approve a plan or proposal.",
+        "To formally acknowledge the truth of a statement.",
+        "To secretly plot or conspire against a person.",
+        "To determine the official design or layout of a project.",
+        "To create a symbolic representation of an abstract concept."
+      ]
+    }
+  ]
+}

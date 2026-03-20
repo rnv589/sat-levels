@@ -1,0 +1,167 @@
+{
+  "level": 82,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_82.png",
+  "questions": [
+    {
+      "word": "EXCULPATE",
+      "correct_definition": "to free from guilt or blame, exonerate",
+      "distractors": [
+        "To assign blame or responsibility for an error.",
+        "To establish the guilt of an accused person through evidence.",
+        "To reprimand or criticize someone severely for a wrongdoing.",
+        "To forcefully expel someone from an organization or position.",
+        "To create an intricate and detailed plan or design.",
+        "To intensify or exaggerate the negative aspects of a situation.",
+        "To avoid a difficult or undesirable duty or obligation.",
+        "To make a difficult situation even worse or more complicated.",
+        "To accept the consequences of one's own mistakes or faults.",
+        "To seek revenge or retribution for a past injustice."
+      ]
+    },
+    {
+      "word": "EXCURSION",
+      "correct_definition": "a trip or outing",
+      "distractors": [
+        "A sharp and sudden verbal attack.",
+        "The forceful expulsion of a foreign body.",
+        "A profound state of exclusion or isolation.",
+        "An excessive or overwhelming flow of information.",
+        "A deliberate deviation from a prescribed method.",
+        "The rapid onset of a severe illness.",
+        "A thorough and critical examination of a subject.",
+        "The act of making a severe and formal denunciation.",
+        "A sudden and unexpected departure from decorum.",
+        "A forceful outward thrust or projection."
+      ]
+    },
+    {
+      "word": "EXECRABLE",
+      "correct_definition": "loathsome, detestable",
+      "distractors": [
+        "Beyond remedy, irredeemable.",
+        "Easily broken, fragile.",
+        "Not believable, incredible.",
+        "A former thing, outdated.",
+        "Causing alarm, daunting.",
+        "Requiring great effort, arduous.",
+        "Having a strong, harsh scent.",
+        "Difficult to decipher, obscure.",
+        "Incapable of being extracted.",
+        "Prone to irritability, crabby."
+      ]
+    },
+    {
+      "word": "EXONERATE",
+      "correct_definition": "to free from guilt or blame, exculpate",
+      "distractors": [
+        "To relieve someone of a heavy physical load or burden.",
+        "To assign a weighty or demanding task to another.",
+        "To determine the precise value or fair cost of a commodity.",
+        "To publicly commend or highly praise an individual for their achievements.",
+        "To officially expel someone from a group or organization.",
+        "To examine a subject in extreme depth and detail.",
+        "To make a difficult situation even more complicated or challenging.",
+        "To deprive an individual of their honor or high standing.",
+        "To remove an obstacle or impediment from a course of action.",
+        "To initiate a process of thorough and systematic renovation."
+      ]
+    },
+    {
+      "word": "EXPEDIENT",
+      "correct_definition": "advisable, advantageous, serving one\u2019s self-interest",
+      "distractors": [
+        "A method of accomplishing a task with great speed; swift and efficient.",
+        "Pertaining to a long and arduous journey; a difficult expedition.",
+        "To cast out or banish from a place; to expel with force.",
+        "Requiring great physical effort or exertion; strenuous and demanding.",
+        "To clear a path or remove obstacles; making progress unimpeded.",
+        "A formal and organized undertaking; a planned exploration or venture.",
+        "Characterized by a rapid and sudden departure; a hasty exit.",
+        "Something that is readily available or easily accessible; simple and convenient.",
+        "A foot-operated mechanism or device; a pedal-like instrument.",
+        "To release or give off a gas or odor; to emanate from within."
+      ]
+    },
+    {
+      "word": "EXPURGATE",
+      "correct_definition": "to remove offensive or incorrect parts, usually of a book",
+      "distractors": [
+        "To formally dismiss someone from a position of authority.",
+        "To establish strict regulations concerning public access to a facility.",
+        "To openly express strong disapproval or criticism.",
+        "To thoroughly examine a text for hidden meanings or codes.",
+        "To make a complex situation simpler or easier to understand.",
+        "To forcibly expel a group of people from a territory.",
+        "To purify a metal or other substance through a refining process.",
+        "To declare a historical document to be authentic and valid.",
+        "To barricade an entrance or exit point during a siege.",
+        "To release a captive or prisoner from confinement."
+      ]
+    },
+    {
+      "word": "EXTRICATE",
+      "correct_definition": "to disentangle",
+      "distractors": [
+        "To remove something by force.",
+        "To clearly explain a complex idea.",
+        "To exclude someone from a group.",
+        "To elaborate on a trivial matter.",
+        "To trick someone into a difficult situation.",
+        "To intensely criticize an action.",
+        "To express strong disapproval.",
+        "To skillfully evade a problem.",
+        "To forcefully expel a person.",
+        "To create a detailed and intricate design."
+      ]
+    },
+    {
+      "word": "FORBEARANCE",
+      "correct_definition": "patience, restraint, toleration",
+      "distractors": [
+        "A strong inclination or predisposition toward a particular outcome.",
+        "The act of relinquishing a claim or right voluntarily.",
+        "An outward display of confidence and assertive demeanor.",
+        "The capacity to produce a large quantity of goods or results.",
+        "A formal legal command that strictly prohibits an action.",
+        "The burden of responsibility carried on behalf of another.",
+        "A sudden, unthinking impulse to act immediately.",
+        "The ability to support a significant physical load or weight.",
+        "A solemn declaration or testimony given under oath.",
+        "A determined, onward movement or persistent drive toward a goal."
+      ]
+    },
+    {
+      "word": "FRIVOLOUS",
+      "correct_definition": "of little importance, tri\ufb02ing",
+      "distractors": [
+        "given to sudden and unpredictable changes in mood or behavior",
+        "displaying an extravagant and ostentatious manner",
+        "characterized by extreme shyness or reluctance to speak",
+        "prone to uncontrolled outbursts of anger or emotion",
+        "lacking the ability to concentrate for long periods; easily distracted",
+        "eager to escape responsibility or obligation",
+        "tending to be easily broken or damaged; delicate",
+        "marked by a lack of sincerity or genuine feeling",
+        "having a tendency to provoke or annoy others intentionally",
+        "excessively detailed or elaborate in composition"
+      ]
+    },
+    {
+      "word": "HACKNEYED",
+      "correct_definition": "unoriginal, trite",
+      "distractors": [
+        "deeply scarred or disfigured",
+        "poorly constructed or roughly made",
+        "related to travel by horse-drawn carriage",
+        "widely acknowledged or publicly known",
+        "appearing weary or exhausted from effort",
+        "lacking essential components or features",
+        "difficult to understand due to poor articulation",
+        "produced quickly and carelessly without refinement",
+        "forcibly cut into smaller or irregular pieces",
+        "marked by repeated, forceful blows or strikes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 71,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_71.png",
+  "questions": [
+    {
+      "word": "CORPULENCE",
+      "correct_definition": "extreme fatness",
+      "distractors": [
+        "A large and substantial collection of written works.",
+        "The state of having a strong and healthy physique.",
+        "The formal body or structure of an organization.",
+        "The quality of being tangible and having a physical form.",
+        "A sudden, violent collapse or downfall.",
+        "The act of confirming or giving support to a statement.",
+        "The condition of being complete or comprehensive in scope.",
+        "A disciplined group of people trained for a special service.",
+        "The property of being robust and durable in construction.",
+        "The state of being composed of numerous small, distinct particles."
+      ]
+    },
+    {
+      "word": "COUNTERACT",
+      "correct_definition": "to neutralize, make ineffective",
+      "distractors": [
+        "To perform an action in direct defiance or opposition.",
+        "To meticulously tally or record a series of actions.",
+        "To engage in a responsive action to a prior event.",
+        "To prevent an action from being initiated.",
+        "To challenge the legitimacy of an established action.",
+        "To provide a conflicting account of events or actions.",
+        "To reverse the chronological order of a sequence of actions.",
+        "To establish an opposing course of action or policy.",
+        "To perform an action that goes against common practice.",
+        "To calculate the strategic impact of a proposed action."
+      ]
+    },
+    {
+      "word": "DEFAMATORY",
+      "correct_definition": "harmful toward another\u2019s reputation",
+      "distractors": [
+        "Suggesting a lack of familial connection or support.",
+        "Characterized by a withdrawal from social or public life.",
+        "Tending to make something less well-known or celebrated.",
+        "Relating to the act of decreasing the number of notable features.",
+        "Indicating a situation where an individual is without familiar surroundings.",
+        "Harmful toward a person's physical well-being.",
+        "Pertaining to the removal of a family from their home.",
+        "Characterized by a complete absence of recognition or fame.",
+        "Tending to create a sense of unfamiliarity or strangeness.",
+        "Expressing a strong disapproval of popular opinions."
+      ]
+    },
+    {
+      "word": "DELIBERATE",
+      "correct_definition": "intentional, re\ufb02ecting careful consideration",
+      "distractors": [
+        "To set free from confinement or restraint.",
+        "Characterized by generosity or open-mindedness; tolerant.",
+        "To relieve someone of a heavy obligation or responsibility.",
+        "To engage in a formal discussion or argument.",
+        "Requiring sensitivity or fine handling; easily broken or damaged.",
+        "To reverse a decision or action previously made.",
+        "To bring forth or present something formally; to hand over.",
+        "Characterized by steady, earnest, and painstaking effort.",
+        "To weigh down or burden with excess.",
+        "Performed or proceeding at a slow, unhurried pace."
+      ]
+    },
+    {
+      "word": "DESICCATED",
+      "correct_definition": "dried up, dehydrated",
+      "distractors": [
+        "Severely weakened or depleted.",
+        "Carefully analyzed and broken into parts.",
+        "Thoroughly committed to a particular purpose.",
+        "Afflicted with a deep-seated and persistent illness.",
+        "Having lost its original color or vibrancy.",
+        "Extracted or separated from a larger whole.",
+        "Greatly reduced in quantity or intensity.",
+        "Rendered ineffective or powerless.",
+        "Made dull or uninteresting over time.",
+        "Having its protective outer layer removed."
+      ]
+    },
+    {
+      "word": "DESPONDENT",
+      "correct_definition": "feeling depressed, discouraged, hopeless",
+      "distractors": [
+        "Feeling obligated to break a sacred vow or agreement.",
+        "Lacking the proper support or foundation; unstable.",
+        "Unable or unwilling to offer a suitable reply or reaction.",
+        "Acting with condescending pride or disrespectful arrogance.",
+        "Suffering from a persistent, lingering ailment or sickness.",
+        "Having been abandoned or left without sponsorship or backing.",
+        "Becoming disoriented or confused due to a sudden shock.",
+        "Being drained of essential fluids or vital energy.",
+        "Losing one's balance and falling awkwardly or suddenly.",
+        "Refusing to acknowledge a debt or honor a financial obligation."
+      ]
+    },
+    {
+      "word": "DIAPHANOUS",
+      "correct_definition": "light, airy, transparent",
+      "distractors": [
+        "Easily perceived or understood across various contexts.",
+        "Having a noticeable sheen or lustrous quality.",
+        "Capable of reflecting light with exceptional brilliance.",
+        "Marked by clear distinctions or divisions.",
+        "Spreading widely or diffusely throughout.",
+        "Pertaining to things seen or imagined in dreams.",
+        "Extremely delicate and easily broken or damaged.",
+        "Creating an illusion of depth or perspective.",
+        "Having a profound and lasting emotional impact.",
+        "Clear in tone, resonating across long distances."
+      ]
+    },
+    {
+      "word": "DISCORDANT",
+      "correct_definition": "not agreeing, not in harmony with",
+      "distractors": [
+        "Untied or loosened from a secure binding.",
+        "Separated into distinct, unconnected sections.",
+        "Lacking essential structural support or integrity.",
+        "Deviating sharply from a straight or intended course.",
+        "Not having been officially documented or recorded.",
+        "Producing a harsh, unpleasant sound through mechanical failure.",
+        "Broken apart into numerous, disjointed fragments.",
+        "Marked by a noticeable absence of emotional warmth.",
+        "Difficult to unravel or untangle due to complexity.",
+        "Failing to maintain a consistent or orderly sequence."
+      ]
+    },
+    {
+      "word": "DISCRETION",
+      "correct_definition": "the quality of being reserved in speech or action; good judgment",
+      "distractors": [
+        "The quality of being separate and distinct from other things; having individual parts.",
+        "The act of concealing information or intentions from others; a state of hiddenness.",
+        "A state of doubt or refusal to accept something as true; a lack of conviction.",
+        "A lack of compatibility or similarity between two or more facts; an inconsistency.",
+        "The action of harming the good reputation of someone or something; a loss of credibility.",
+        "The act of expressing disapproval or harsh judgment; sharp critique.",
+        "The ability to clearly perceive or notice subtle differences in visual stimuli; keen eyesight.",
+        "The prejudicial treatment of different categories of people; an unfair distinction.",
+        "The power to issue official commands or formal directives; a ruling authority.",
+        "A long, detailed written study on a specific academic subject; a scholarly thesis."
+      ]
+    },
+    {
+      "word": "DISSONANCE",
+      "correct_definition": "lack of harmony or consistency",
+      "distractors": [
+        "A complete absence of audible sound.",
+        "The disintegration of a physical structure or material.",
+        "A state of being physically separated or detached.",
+        "The process of undoing or reversing a previous action.",
+        "A strong sense of personal disquiet or unease.",
+        "The inability to form coherent speech or utterance.",
+        "The echoing reverberation of a distinct noise.",
+        "A sudden, sharp decline in volume or intensity.",
+        "The study of the physical properties of sound waves.",
+        "A condition characterized by distorted or fractured images."
+      ]
+    }
+  ]
+}

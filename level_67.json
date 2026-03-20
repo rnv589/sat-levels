@@ -1,0 +1,167 @@
+{
+  "level": 67,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_67.png",
+  "questions": [
+    {
+      "word": "VISCOUS",
+      "correct_definition": "not free \ufb02owing, syrupy",
+      "distractors": [
+        "Easily seen; clearly discernible.",
+        "Marked by a strong, insatiable hunger or desire.",
+        "Characterized by deep-seated malice or ill will.",
+        "Relating to the internal organs of the body.",
+        "Possessing a keen sense of observation or insight.",
+        "Having a circular or spiraling form or motion.",
+        "Pertaining to moral corruption or depravity.",
+        "Causing a dizzying or disorienting sensation.",
+        "Prone to sudden, forceful expulsion or discharge.",
+        "Tending to spread quickly and uncontrollably."
+      ]
+    },
+    {
+      "word": "WINSOME",
+      "correct_definition": "charming, pleasing",
+      "distractors": [
+        "Achieving a state of triumph or victory.",
+        "Having a strong desire for success; ambitious.",
+        "To acquire something through effort; obtain.",
+        "A narrow, vertical opening designed to admit light or air.",
+        "To gain an advantage or superiority over others.",
+        "Relating to a portion or a limited quantity of something.",
+        "Feeling deep satisfaction from an accomplishment.",
+        "To earn or merit a reward or privilege.",
+        "Exhibiting shrewdness or cunning, especially in competition.",
+        "To succeed in overcoming an obstacle or difficulty."
+      ]
+    },
+    {
+      "word": "WISTFUL",
+      "correct_definition": "full of yearning; musingly sad",
+      "distractors": [
+        "Displaying cleverness and sharp intellect; astute.",
+        "Showing keen attention and careful observation; vigilant.",
+        "Producing a low, soft, murmuring sound; hushed.",
+        "Having a complex or intricate structure; convoluted.",
+        "Lacking energy or enthusiasm; lethargic.",
+        "Possessing deep and extensive knowledge; learned.",
+        "Having a pale, sickly, or gaunt appearance; wan.",
+        "Exhibiting uncertainty or indecision; hesitant.",
+        "Inclined to droop or sag; limp.",
+        "Moving with swift, agile movements; nimble."
+      ]
+    },
+    {
+      "word": "ZEALOUS",
+      "correct_definition": "fervent, \ufb01lled with eagerness in pursuit of something",
+      "distractors": [
+        "envious, displaying resentment towards others' successes",
+        "belligerent, inclined to aggressive confrontation",
+        "rigorous, characterized by strictness or severity",
+        "flavorful, having a strong and appealing taste",
+        "impervious, unable to be affected or broken through",
+        "transcendent, surpassing the ordinary or conventional",
+        "extravagant, spending much more than is necessary or wise",
+        "ethereal, delicate and light in a way that seems too perfect for this world",
+        "agile, able to move quickly and easily",
+        "incisive, demonstrating keen insight and understanding"
+      ]
+    },
+    {
+      "word": "ABERRATION",
+      "correct_definition": "something that differs from the norm",
+      "distractors": [
+        "A profound and significant error in judgment.",
+        "The act of deliberately leaving an established path or route.",
+        "A state of complete and utter mental confusion.",
+        "A drastic and unexpected change in environmental conditions.",
+        "A sudden and overwhelming surge of irrational fear.",
+        "The process of retracting a statement or accusation.",
+        "A fundamental and irreversible flaw in a design.",
+        "The inability to maintain a consistent course of action.",
+        "A deeply ingrained and uncontrollable urge to lie.",
+        "A deliberate rejection of conventional wisdom."
+      ]
+    },
+    {
+      "word": "ABNEGATION",
+      "correct_definition": "denial of comfort to oneself",
+      "distractors": [
+        "The act of formally renouncing one's citizenship.",
+        "A deliberate refusal to compromise during a negotiation.",
+        "The complete absence of any feeling of remorse or guilt.",
+        "The deliberate act of ignoring inconvenient truths.",
+        "The systematic dismantling of an opponent's argument.",
+        "A state of profound despair and hopelessness.",
+        "The forceful repudiation of a prior commitment.",
+        "The legal process of nullifying a marriage.",
+        "The act of publicly discrediting a rival's achievements.",
+        "The refusal to acknowledge an obvious error."
+      ]
+    },
+    {
+      "word": "ABSOLUTION",
+      "correct_definition": "freedom from blame, guilt, sin",
+      "distractors": [
+        "A complete and definitive answer to a difficult question.",
+        "The state of being entirely isolated or alone.",
+        "A strong and unyielding belief or principle.",
+        "The act of separating a mixture into its core components.",
+        "A formal and binding agreement between parties.",
+        "The highest possible standard of quality or excellence.",
+        "A sudden and forceful movement away from a fixed point.",
+        "The process of making something perfectly clear and unambiguous.",
+        "A period of complete calm or tranquility after a storm.",
+        "The authoritative declaration of an undisputed fact."
+      ]
+    },
+    {
+      "word": "ACCENTUATE",
+      "correct_definition": "to stress, highlight",
+      "distractors": [
+        "To arrange around a central point.",
+        "To calculate with precision and accuracy.",
+        "To agree to a specific term or condition.",
+        "To establish a new custom or tradition.",
+        "To make a situation significantly worse.",
+        "To bring elements together; consolidate.",
+        "To measure the duration of an event.",
+        "To declare someone guilty; condemn.",
+        "To introduce a foreign element or idea.",
+        "To provide financial assistance or aid."
+      ]
+    },
+    {
+      "word": "ACCESSIBLE",
+      "correct_definition": "obtainable, reachable",
+      "distractors": [
+        "Capable of being understood or processed.",
+        "Prone to fits of anger or sudden outbursts.",
+        "Easy to manipulate or control.",
+        "Liable to be cut off or severed.",
+        "Open to being judged or evaluated.",
+        "Able to yield or concede to others.",
+        "Clearly discernible or evident.",
+        "Capable of being stopped or brought to an end.",
+        "Having the capacity to endure or persist.",
+        "Permitted entry or authorized use."
+      ]
+    },
+    {
+      "word": "ADVOCATE",
+      "correct_definition": "to argue in favor of something",
+      "distractors": [
+        "to speak loudly or vociferously",
+        "to summon someone with a call",
+        "to declare something publicly",
+        "to teach or instruct on a specific topic",
+        "to give a warning about a future event",
+        "to sing a tune without words",
+        "to introduce a new idea or concept",
+        "to make a formal announcement",
+        "to call out names from a list",
+        "to choose a person for a specific role"
+      ]
+    }
+  ]
+}

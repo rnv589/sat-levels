@@ -1,0 +1,167 @@
+{
+  "level": 5,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_5.png",
+  "questions": [
+    {
+      "word": "CHIDE",
+      "correct_definition": "to voice disapproval",
+      "distractors": [
+        "to conceal from public view",
+        "to make a firm decision",
+        "to express enthusiastic approval",
+        "to separate into smaller pieces",
+        "to move smoothly and quietly",
+        "to offer gentle consolation",
+        "to guard from impending danger",
+        "to patiently tolerate hardship",
+        "to strongly encourage an action",
+        "to bravely confront an adversary"
+      ]
+    },
+    {
+      "word": "DECRY",
+      "correct_definition": "to criticize openly",
+      "distractors": [
+        "To weep or mourn deeply.",
+        "To make a loud, piercing sound.",
+        "To keep a secret carefully.",
+        "To call someone away from danger.",
+        "To invoke a curse or ill will upon.",
+        "To retract a previous statement.",
+        "To silence an opponent forcefully.",
+        "To declare something publicly with conviction.",
+        "To lower one's voice in deference.",
+        "To hide one's true emotions."
+      ]
+    },
+    {
+      "word": "DEFER",
+      "correct_definition": "to postpone something; to yield to another\u2019s wisdom",
+      "distractors": [
+        "To carry something downwards or away from its source.",
+        "To state something formally and with authority; to declare.",
+        "To cause something to break down or decompose; to decay.",
+        "To infer or deduce a conclusion from given premises.",
+        "To take away or subtract a part from a whole; to deduct.",
+        "To show contempt or disregard for something; to defy.",
+        "To make something clear or distinct; to define.",
+        "To spread information or rumors widely; to disseminate.",
+        "To transfer or hand over property or rights to another.",
+        "To resist strongly or refuse to comply with a command."
+      ]
+    },
+    {
+      "word": "DETER",
+      "correct_definition": "to discourage, prevent from doing",
+      "distractors": [
+        "To formally declare or announce.",
+        "To ascertain or figure out precisely.",
+        "To degrade the quality or value of something.",
+        "To wear away gradually through erosion or friction.",
+        "To separate into distinct parts or components.",
+        "To postpone an action or put off until later.",
+        "To subtract or deduct from a total amount.",
+        "To make something worse or inferior in status.",
+        "To remove an outer layer or protective covering.",
+        "To carefully examine or scrutinize every detail."
+      ]
+    },
+    {
+      "word": "DIRGE",
+      "correct_definition": "a mournful song, especially for a funeral",
+      "distractors": [
+        "A strong, sudden current or surge of water, often dangerous.",
+        "A solemn official proclamation or command issued by a ruler.",
+        "A dark, winding passage or labyrinthine route, especially underground.",
+        "A dull, continuous, low-pitched sound or hum, often monotonous.",
+        "A state of profound mental confusion or extreme bewilderment.",
+        "A specialized implement used for deep cultivation or trenching in hard soil.",
+        "A thick, durable textile, often with a ribbed pattern, used for uniforms.",
+        "A small, fast-moving type of warship or patrol boat.",
+        "A deep-seated, persistent feeling of unease or dread about the future.",
+        "A sharp, piercing cry of distress or pain, often spontaneous."
+      ]
+    },
+    {
+      "word": "EDICT",
+      "correct_definition": "an order, decree",
+      "distractors": [
+        "A formal retraction or withdrawal of a previous statement.",
+        "The act of speaking fluently and eloquently.",
+        "A detailed explanation or commentary on a text.",
+        "A compilation of proverbs or wise sayings.",
+        "A sudden, forceful declaration of opinion.",
+        "A personal diary or journal of daily thoughts.",
+        "The process of revising and editing a written document.",
+        "A statement that anticipates or predicts future events.",
+        "A secret or private conversation between two people.",
+        "A guide or manual for proper grammatical usage."
+      ]
+    },
+    {
+      "word": "ELEGY",
+      "correct_definition": "a speech given in honor of a dead person",
+      "distractors": [
+        "A formal and elegant piece of prose.",
+        "The study of ancient inscriptions and texts.",
+        "A legal declaration of intent or purpose.",
+        "A riddle or enigma that is difficult to solve.",
+        "A sudden burst of creative energy or inspiration.",
+        "A formal agreement between two opposing parties.",
+        "The art of persuasive and eloquent speaking.",
+        "A mythical creature known for its powerful songs.",
+        "A ceremonial dance performed during ancient rituals.",
+        "A profound philosophical reflection on life's meaning."
+      ]
+    },
+    {
+      "word": "ELUDE",
+      "correct_definition": "to evade, escape",
+      "distractors": [
+        "To deceive or mislead cleverly.",
+        "To make clear or easily understood.",
+        "To introduce or present formally.",
+        "To conspire or plot in secret.",
+        "To finish or bring to a close.",
+        "To illustrate or demonstrate vividly.",
+        "To mock or make light of.",
+        "To expel or drive out quickly.",
+        "To enlighten or provide insight.",
+        "To intrude or trespass upon."
+      ]
+    },
+    {
+      "word": "EMEND",
+      "correct_definition": "to correct or revise a written text",
+      "distractors": [
+        "To officially send out or transmit a formal document.",
+        "To establish a foundation or beginning for a new project.",
+        "To offer advice or counsel in a difficult situation.",
+        "To hide or conceal information from public view.",
+        "To recall a memory or event from the distant past.",
+        "To express strong approval or admiration for an achievement.",
+        "To bring about an end or conclusion to a lengthy process.",
+        "To reinforce a structure or argument to make it stronger.",
+        "To extract a specific component or part from a larger whole.",
+        "To engage in deep contemplation or meditation."
+      ]
+    },
+    {
+      "word": "EMOTE",
+      "correct_definition": "to express emotion",
+      "distractors": [
+        "To move out of a building or area.",
+        "To transfer data or information wirelessly.",
+        "To adjust settings on a device from a distance.",
+        "To start an engine or motor.",
+        "To cause a chemical reaction to begin.",
+        "To send something from an inner chamber outwards.",
+        "To travel between home and work regularly.",
+        "To lower a person's rank or position.",
+        "To provide a strong reason to act.",
+        "To physically remove an obstacle."
+      ]
+    }
+  ]
+}

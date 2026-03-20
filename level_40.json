@@ -1,0 +1,167 @@
+{
+  "level": 40,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_40.png",
+  "questions": [
+    {
+      "word": "DISCLOSE",
+      "correct_definition": "to reveal, make public",
+      "distractors": [
+        "To prevent something from being shut or sealed.",
+        "To remove from close proximity; to distance.",
+        "To terminate an ongoing discussion or negotiation.",
+        "To express strong disapproval or disagreement.",
+        "To render a situation unresolvable or indefinite.",
+        "To dismantle or take apart a closed system.",
+        "To refuse to allow something to conclude.",
+        "To exclude from a confined space or group.",
+        "To shut down an operation permanently.",
+        "To argue against bringing something to an end."
+      ]
+    },
+    {
+      "word": "DISPATCH",
+      "correct_definition": "to send off to accomplish a duty",
+      "distractors": [
+        "To mend a tear or hole quickly and efficiently.",
+        "To apply a temporary covering to conceal damage.",
+        "To cause something to spread out widely and rapidly.",
+        "To separate parts that were previously joined together.",
+        "To release information in an uncontrolled or haphazard manner.",
+        "To dismiss a concern or problem as unimportant.",
+        "To untangle a complicated or confused situation.",
+        "To interrupt a conversation or activity abruptly.",
+        "To remove an object from its attached position.",
+        "To distribute resources unevenly among a group."
+      ]
+    },
+    {
+      "word": "DISPERSE",
+      "correct_definition": "to scatter, cause to scatter",
+      "distractors": [
+        "To abandon a task, to give up.",
+        "To speak ambiguously, to be unclear in communication.",
+        "To refuse to acknowledge, to dismiss from consideration.",
+        "To become unenthusiastic, to lose spirit.",
+        "To unravel fabric, to pull threads apart.",
+        "To intentionally misinterpret information, to distort facts.",
+        "To remove a barrier, to clear an obstruction.",
+        "To make something more concentrated, to gather into a central point.",
+        "To disagree strongly, to have a fundamental difference of opinion.",
+        "To lose one's composure, to become flustered."
+      ]
+    },
+    {
+      "word": "DISSUADE",
+      "correct_definition": "to persuade someone not to do something",
+      "distractors": [
+        "To cause someone to separate from a group or belief.",
+        "To offer advice that leads to strong disagreement.",
+        "To argue against a point of view with strong conviction.",
+        "To fail in an attempt to convince someone of something.",
+        "To make a difficult situation less smooth or agreeable.",
+        "To challenge someone's authority or decision-making.",
+        "To relieve someone of a burden or responsibility.",
+        "To express disapproval or rejection of a proposal.",
+        "To provide a logical reason for an opposing viewpoint.",
+        "To prevent someone from performing a necessary duty."
+      ]
+    },
+    {
+      "word": "DIVINE",
+      "correct_definition": "godly, exceedingly wonderful",
+      "distractors": [
+        "To separate or partition into equal sections.",
+        "Relating to the intricate intertwining of vines or tendrils.",
+        "Characterized by a dual or two-fold nature.",
+        "Pertaining to the precise definition or meaning of a term.",
+        "To reveal or disclose a hidden truth or secret.",
+        "Having a strong, unwavering conviction or belief.",
+        "Of exceptional depth or profundity in thought.",
+        "Relating to the art of predicting future occurrences.",
+        "To carefully allocate or distribute resources.",
+        "To explore or investigate with great intensity."
+      ]
+    },
+    {
+      "word": "DOGMATIC",
+      "correct_definition": "aggressively and arrogantly certain about unproved principles",
+      "distractors": [
+        "Characterized by an unwavering and almost animalistic loyalty to a single cause.",
+        "Exhibiting an almost instinctual and unthinking adherence to tradition.",
+        "Concerned with the meticulous analysis and preservation of religious doctrines.",
+        "Marked by an intense and often ceremonial adherence to established religious practices.",
+        "Articulating complex ideas with precise and unyielding logical structure.",
+        "Based solely on empirical data and observable physical phenomena.",
+        "Performing tasks with the unquestioning and repetitive precision of a machine.",
+        "Inclined towards deep personal reflection and a solitary search for truth.",
+        "Characterized by a measured and conciliatory approach to disagreement.",
+        "Pertaining to a set of fundamental rules or beliefs that are constantly evolving."
+      ]
+    },
+    {
+      "word": "ECLECTIC",
+      "correct_definition": "consisting of a diverse variety of elements",
+      "distractors": [
+        "Pertaining to a difficult choice that must be made from limited options.",
+        "Characterized by a loud and persuasive style of public address.",
+        "Relating to the careful selection of a rare or valuable item.",
+        "Having been officially designated as the sole preferred option.",
+        "A person who lectures extensively on obscure or academic subjects.",
+        "An individual known for their exclusive and refined taste in art or music.",
+        "Inclined to exclude any elements that do not meet rigorous standards.",
+        "Marked by a sudden and dramatic departure from convention.",
+        "An expert in the critical analysis of literary works.",
+        "Arising from a single, dominant influence or school of thought."
+      ]
+    },
+    {
+      "word": "ECSTATIC",
+      "correct_definition": "intensely and overpoweringly happy",
+      "distractors": [
+        "Pertaining to a state of being unchanging or without motion.",
+        "Characterized by a profound disorganization of thought.",
+        "Standing out as particularly noteworthy or significant.",
+        "Experiencing a detached, trance-like state of consciousness.",
+        "Affected by a sudden, complete inability to move or react.",
+        "Concerned primarily with the outward appearance or superficial aspects.",
+        "Caused by or related to a sudden, powerful electrical discharge.",
+        "Possessing an inherent ability to resist external forces or change.",
+        "Relating to the precise determination of position or status.",
+        "Deviating significantly from the typical or expected pattern."
+      ]
+    },
+    {
+      "word": "ENCUMBER",
+      "correct_definition": "to weigh down, burden",
+      "distractors": [
+        "to completely enclose or surround something",
+        "to gather or accumulate into a large mass",
+        "to count or list items in a precise order",
+        "to protect or shield from damage or exposure",
+        "to adorn or embellish with intricate details",
+        "to empower or enable one to take action",
+        "to remember or recall a specific event",
+        "to submerge or completely immerse in liquid",
+        "to begin or initiate a new project or venture",
+        "to surpass or exceed a previous standard or limit"
+      ]
+    },
+    {
+      "word": "ENGENDER",
+      "correct_definition": "to bring about, create, generate",
+      "distractors": [
+        "to establish or define the sex of an organism or concept",
+        "to introduce or initiate a new genetic modification",
+        "to provide an ending or final resolution to a conflict",
+        "to place something deep within or internalize a feeling",
+        "to show great kindness or gentle affection towards another",
+        "to cause to continue or to grant eternal existence to",
+        "to become deeply absorbed or engrossed in a task",
+        "to become a member of a specific group or category",
+        "to surround or enclose something completely",
+        "to grant a special title or honor to someone"
+      ]
+    }
+  ]
+}

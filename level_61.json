@@ -1,0 +1,167 @@
+{
+  "level": 61,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_61.png",
+  "questions": [
+    {
+      "word": "NEGLIGENT",
+      "correct_definition": "habitually careless, neglectful",
+      "distractors": [
+        "Unwilling to admit or accept a fact or statement.",
+        "Not recognized or enforceable by law.",
+        "Having text that is difficult to discern or interpret.",
+        "Taking an adverse stance on a particular issue.",
+        "So small or trivial as to be safely disregarded.",
+        "Hesitant or unwilling to bind oneself to a course of action.",
+        "Intentionally refraining from an expected or required deed.",
+        "Deciding against picking out or choosing an option.",
+        "Failing to collect or compile relevant facts.",
+        "Declining to perform an obligation or assigned task."
+      ]
+    },
+    {
+      "word": "NOCTURNAL",
+      "correct_definition": "relating to or occurring during the night",
+      "distractors": [
+        "Relating to something harmful or toxic to living organisms.",
+        "Occurring at regular intervals or cycles.",
+        "Pertaining to the act of turning or revolving around an axis.",
+        "Referring to an object that is exceptionally small or miniature.",
+        "Indicating a secret or clandestine activity.",
+        "Describing a distinctive or novel artistic style.",
+        "Associated with the state of being completely silent or noiseless.",
+        "Relating to the initial or foundational stage of a process.",
+        "Characterized by an absence or void; nullifying.",
+        "Pertaining to the tying or untying of complex knots."
+      ]
+    },
+    {
+      "word": "NOTORIOUS",
+      "correct_definition": "widely and unfavorably known",
+      "distractors": [
+        "Widely celebrated for remarkable achievements.",
+        "Possessing vast and comprehensive knowledge.",
+        "Based on a common idea or popular but unverified belief.",
+        "Deserving of special observation or careful consideration.",
+        "Pertaining to the formal attestation of documents.",
+        "Easily perceived or noticeable to the public.",
+        "Marked by an exceptional ability to discern or understand.",
+        "Characterized by being explicitly stated or clearly defined.",
+        "Known for its elaborate and intricate details.",
+        "Having an origin or source that is widely debated."
+      ]
+    },
+    {
+      "word": "NOXIOUS",
+      "correct_definition": "harmful, unwholesome",
+      "distractors": [
+        "Relating to or occurring during the night; nocturnal.",
+        "Producing a loud, discordant, and disagreeable sound; cacophonous.",
+        "Exhibiting striking originality or newness; innovative.",
+        "Characterized by an unyielding refusal or opposition; defiant.",
+        "Lacking substance, importance, or effectiveness; inconsequential.",
+        "Tending to corrode, decay, or break down; corrosive.",
+        "Pertaining to a lack of proper nourishment; malnourished.",
+        "Having a strong and offensive smell or stench; malodorous.",
+        "Eager to impose one's will or presence; intrusive.",
+        "Incapable of being changed or altered; immutable."
+      ]
+    },
+    {
+      "word": "OBFUSCATE",
+      "correct_definition": "to render incomprehensible",
+      "distractors": [
+        "To merge diverse components into a single coherent system.",
+        "To overcome a significant obstacle with strategic planning.",
+        "To formally annul a contract or a legal agreement.",
+        "To compel an individual to fulfill a demanding requirement.",
+        "To express strong disapproval regarding a proposed measure.",
+        "To deplete a limited resource through excessive utilization.",
+        "To intentionally mislead someone by providing false information.",
+        "To harshly reprimand a subordinate for poor performance.",
+        "To impede the progress or success of an endeavor.",
+        "To assert dominance or authority over a resistant group."
+      ]
+    },
+    {
+      "word": "OBLIQUE",
+      "correct_definition": "diverging from a straight line or course, not straightforward",
+      "distractors": [
+        "Relating to fluid dynamics; easily flowing or adapting to its surroundings.",
+        "To forcefully prevent an action or movement; to actively resist or oppose.",
+        "Characterized by a deep sense of moral duty or legal requirement; obligatory.",
+        "A state of profound forgetfulness or unconsciousness; lacking all awareness.",
+        "To make something obscure or difficult to discern; to intentionally hide or conceal.",
+        "Pertaining to something no longer in use or outmoded; archaic and outdated.",
+        "To lessen the impact or intensity of; to soften a blow or reduce a burden.",
+        "Marked by an ostentatious display of wealth or knowledge; showy and pretentious.",
+        "To scrutinize or observe with meticulous attention; to examine critically and thoroughly.",
+        "To transfer or assign a right or responsibility to another; to delegate authority."
+      ]
+    },
+    {
+      "word": "OBSTINATE",
+      "correct_definition": "not yielding easily, stubborn",
+      "distractors": [
+        "serving as a significant physical or intellectual barrier",
+        "related to the process of actively seeking to acquire knowledge",
+        "demonstrating a highly keen and careful attention to details",
+        "expressing strong and vocal disagreement with a statement",
+        "having a prominent and easily noticeable appearance",
+        "the state of being no longer in use or fashionable",
+        "preordained by an unchangeable power or course of events",
+        "a duty or requirement that must be fulfilled",
+        "characterized by an indirect or evasive manner of speaking",
+        "difficult to perceive, understand, or explain clearly"
+      ]
+    },
+    {
+      "word": "OSCILLATE",
+      "correct_definition": "to sway from one side to the other",
+      "distractors": [
+        "To harden into bone.",
+        "To make a sharp, piercing sound.",
+        "To cause a sudden, forceful discharge.",
+        "To delay action or procrastinate.",
+        "To emit a faint glow or sparkle.",
+        "To become numb or unresponsive.",
+        "To dissolve slowly over time.",
+        "To scrutinize or observe meticulously.",
+        "To declare something publicly and emphatically.",
+        "To infect with a lingering illness."
+      ]
+    },
+    {
+      "word": "OSTRACISM",
+      "correct_definition": "exclusion from a group",
+      "distractors": [
+        "A severe medical condition causing rapid bone degeneration.",
+        "The intricate art of carving historical symbols into stone.",
+        "A philosophical school of thought emphasizing solitary existence.",
+        "The scientific study of ancient mollusks and their habitats.",
+        "A system of governance based on public debate and collective decision-making.",
+        "A rare geological phenomenon involving the rapid erosion of rock formations.",
+        "The practice of creating intricate mosaics from broken ceramic pieces.",
+        "A legal framework dictating the proper classification of historical artifacts.",
+        "A spiritual belief system centered on the veneration of ancestral spirits.",
+        "The process of gradually hardening or calcifying soft tissues."
+      ]
+    },
+    {
+      "word": "PALATABLE",
+      "correct_definition": "agreeable to the taste or sensibilities",
+      "distractors": [
+        "Possessing a majestic or grand appearance, suitable for royalty.",
+        "Displaying a broad range of colors, often used in artistic contexts.",
+        "Lacking vivid color or intensity; appearing faint or dull.",
+        "Relating to the roof of the mouth, especially concerning vocal articulation.",
+        "Capable of being touched or felt; tangible and easily perceived.",
+        "Serving to alleviate pain or symptoms without providing a cure.",
+        "Readily apparent or noticeable through careful observation.",
+        "Easily moved or transported due to its manageable size or weight.",
+        "Having a smooth, even, and uniformly flat surface.",
+        "Capable of being understood or processed mentally without difficulty."
+      ]
+    }
+  ]
+}

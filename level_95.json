@@ -1,0 +1,167 @@
+{
+  "level": 95,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_95.png",
+  "questions": [
+    {
+      "word": "INDEFATIGABLE",
+      "correct_definition": "incapable of defeat, failure, decay",
+      "distractors": [
+        "Not subject to the predetermined outcomes of fate or destiny.",
+        "Difficult to accurately perceive or clearly distinguish in form.",
+        "A state of being completely lacking in distinctive form or character.",
+        "Causing extreme weariness or exhaustion to those involved in an activity.",
+        "Incapable of being fabricated, proven untrue, or disproven by evidence.",
+        "Unwilling to follow established rules, conventions, or societal norms.",
+        "A tendency towards excessive idleness, lethargy, or a lack of motivation.",
+        "Not capable of being removed, separated, or easily dislodged from its place.",
+        "Marked by an absence of distinct qualities, defining features, or characteristics.",
+        "Unable to be influenced by external pressures, appeals, or emotional persuasions."
+      ]
+    },
+    {
+      "word": "INVECTIVE",
+      "correct_definition": "an angry verbal attack",
+      "distractors": [
+        "A strong barrier or obstacle that blocks progress.",
+        "The act of introducing a new idea or concept.",
+        "A strong internal drive or impulse.",
+        "A clandestine plot to undermine authority.",
+        "A substance used to counteract the effects of a poison.",
+        "A powerful stimulus intended to provoke action.",
+        "A state of deep thought or contemplation.",
+        "A decisive turning point or critical juncture.",
+        "A lack of enthusiasm or energy.",
+        "The process of instilling a particular belief or value."
+      ]
+    },
+    {
+      "word": "IRREVERENCE",
+      "correct_definition": "disrespect",
+      "distractors": [
+        "Absence of solemnity",
+        "A persistent state of indecision",
+        "Inability to be restored to a former condition",
+        "The quality of being unchangeable",
+        "A feeling of profound indifference",
+        "A general feeling of uncertainty",
+        "Unwillingness to yield to persuasion",
+        "A strong aversion to authority",
+        "Persistent unreliability",
+        "A condition of being without firm support"
+      ]
+    },
+    {
+      "word": "IRREVOCABLE",
+      "correct_definition": "incapable of being taken back",
+      "distractors": [
+        "Incapable of being spoken aloud.",
+        "Not subject to any legal review or appeal.",
+        "Unable to be persuaded by arguments.",
+        "Difficult to rouse from a state of slumber.",
+        "Not able to be restored to its original condition.",
+        "Beyond the point of being remembered or recalled.",
+        "Unwilling to change one's opinion or stance.",
+        "Incapable of being rebuilt or reconstructed.",
+        "Not permitting any form of vocalization.",
+        "Unable to be summoned or called forth."
+      ]
+    },
+    {
+      "word": "METAMORPHOSIS",
+      "correct_definition": "the change of form, shape, substance",
+      "distractors": [
+        "A profound internal struggle leading to mental clarity.",
+        "The intricate process of constructing complex architectural designs.",
+        "A highly detailed and realistic artistic representation.",
+        "The systematic organization and classification of biological species.",
+        "An advanced philosophical concept regarding the nature of being.",
+        "The scientific measurement and analysis of genetic material.",
+        "A state of complete mental absorption or deep concentration.",
+        "The gradual erosion and decay of geological formations.",
+        "A specialized technique for enhancing memory recall.",
+        "The development of an entirely new theoretical framework."
+      ]
+    },
+    {
+      "word": "PERVASIVE",
+      "correct_definition": "having the tendency to spread throughout",
+      "distractors": [
+        "Pertaining to the circulatory system or blood vessels.",
+        "Tending to escape or avoid direct confrontation.",
+        "Characterized by meticulous attention to detail and accuracy.",
+        "Having the quality of enduring or lasting permanently.",
+        "Capable of keen insight and accurate perception.",
+        "Acting as a container or conduit for a specific substance.",
+        "Relating to the process of giving official permission or approval.",
+        "Requiring careful planning and extensive preparation.",
+        "Marked by excessive or unnecessary repetition.",
+        "Serving to protect or guard against danger or harm."
+      ]
+    },
+    {
+      "word": "PHILANTHROPIC",
+      "correct_definition": "charitable, giving",
+      "distractors": [
+        "Pertaining to the study of human culture.",
+        "Having a deep love for literature.",
+        "Fond of debating human ethics.",
+        "Characterized by an interest in human anatomy.",
+        "Devoted to the pursuit of wisdom.",
+        "Showing a preference for human company.",
+        "Relating to the origins of mankind.",
+        "Having a strong desire for human approval.",
+        "Describing an attraction to human physical form.",
+        "Committed to understanding human behavior."
+      ]
+    },
+    {
+      "word": "PREPONDERANCE",
+      "correct_definition": "superiority in importance or quantity",
+      "distractors": [
+        "the act of preparing for a significant undertaking",
+        "a careful consideration or deep thought about a subject",
+        "the initial stage of forming an opinion or judgment",
+        "a state of perfect equilibrium or balance between opposing forces",
+        "the measurement of an object's density or volumetric mass",
+        "a formal review or critical assessment of previous actions",
+        "the capacity to withstand heavy pressure or significant stress",
+        "a preliminary argument or opening statement in a debate",
+        "a prior estimation of value or potential impact",
+        "a foundational principle or underlying assumption of an argument"
+      ]
+    },
+    {
+      "word": "PREPOSSESSING",
+      "correct_definition": "occupying the mind to the exclusion of other thoughts or feelings",
+      "distractors": [
+        "The act of taking physical possession of an object ahead of its scheduled transfer.",
+        "Establishing an initial claim or right over property or resources before others.",
+        "Arranging or organizing one's affairs in advance to avoid future complications.",
+        "Having an inherent tendency or disposition to acquire and accumulate possessions.",
+        "To exert an influence or control over a situation by acting decisively at the outset.",
+        "Making a preliminary assessment or judgment about someone's character or intentions.",
+        "To present oneself in an overly confident or assertive manner to gain an advantage.",
+        "Claiming ownership of an idea or concept without giving credit to its original source.",
+        "Feeling a strong, anticipatory desire to obtain something before it becomes available.",
+        "A condition of being mentally prepared or disposed towards a particular outcome."
+      ]
+    },
+    {
+      "word": "REPREHENSIBLE",
+      "correct_definition": "deserving rebuke",
+      "distractors": [
+        "Able to be held back or restrained.",
+        "Possessing the ability to grasp or seize.",
+        "Easily grasped or understood mentally.",
+        "Difficult to understand or perceive.",
+        "Subject to being caught or apprehended once more.",
+        "Capable of being captured or taken again.",
+        "Causing fear or anxiety about future events.",
+        "Capable of being grasped or held securely.",
+        "Incapable of being grasped or apprehended.",
+        "Describing something that recurs or happens repeatedly."
+      ]
+    }
+  ]
+}

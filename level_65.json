@@ -1,0 +1,167 @@
+{
+  "level": 65,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_65.png",
+  "questions": [
+    {
+      "word": "SEDENTARY",
+      "correct_definition": "sitting, settled",
+      "distractors": [
+        "Relating to calm or tranquil states.",
+        "Formed from deposited matter.",
+        "Causing a deep indentation.",
+        "Of lesser importance; secondary.",
+        "Full of sensation or feeling.",
+        "Characterized by being hidden.",
+        "Moving or acting swiftly.",
+        "Done with great diligence.",
+        "Relating to sending or dispatching.",
+        "A sudden, abrupt occurrence."
+      ]
+    },
+    {
+      "word": "SEMAPHORE",
+      "correct_definition": "a visual signal",
+      "distractors": [
+        "A specialized type of encryption.",
+        "A device for measuring atmospheric pressure.",
+        "A deep philosophical treatise.",
+        "A rare and valuable precious metal.",
+        "A choreographed theatrical movement.",
+        "A species of large, flightless bird.",
+        "A fundamental principle of ethics.",
+        "A strong and durable building material.",
+        "A method for purifying water.",
+        "A specific type of musical composition."
+      ]
+    },
+    {
+      "word": "SERVILE",
+      "correct_definition": "subservient",
+      "distractors": [
+        "Pertaining to the common people or ordinary citizens.",
+        "Characterized by the diligent performance of duties.",
+        "Displaying extreme politeness or formal courtesy.",
+        "Marked by a severe or strict demeanor.",
+        "Relating to the act of storing or preserving goods.",
+        "Designed to be practical and efficient in operation.",
+        "Having a tendency to be useful or beneficial to others.",
+        "Quick to respond and adapt to new situations.",
+        "Associated with the military or public service.",
+        "Requiring great attention and meticulous effort."
+      ]
+    },
+    {
+      "word": "SOLVENT",
+      "correct_definition": "a substance that can dissolve other substances",
+      "distractors": [
+        "Having the ability to meet all financial obligations.",
+        "A substance that causes other materials to solidify.",
+        "A person or entity capable of resolving difficult issues.",
+        "Easily broken down into smaller, distinct fragments.",
+        "A chemical agent that prevents liquids from mixing.",
+        "Characterized by an unyielding and firm decision.",
+        "A material that can absorb large quantities of gas.",
+        "Pertaining to the complete separation of elements.",
+        "An opening or outlet for the release of gases or pressure.",
+        "A state of complete mental clarity and focus."
+      ]
+    },
+    {
+      "word": "SOMNOLENT",
+      "correct_definition": "sleepy, drowsy",
+      "distractors": [
+        "Characterized by deep seriousness or gravity.",
+        "Having a full, rich, and deep sound.",
+        "Moving slowly and clumsily due to great weight.",
+        "Existing only in one's imagination; surreal or fantastical.",
+        "Generous in giving money or help to others.",
+        "Continuing for a long period without interruption; protracted.",
+        "Full of strong feeling or passion; ardent.",
+        "Tending to diminish or lessen gradually.",
+        "Pertaining to the digestive system or its functions.",
+        "Characterized by or showing great care and conscientiousness in one's work or duties."
+      ]
+    },
+    {
+      "word": "STRENUOUS",
+      "correct_definition": "requiring tremendous energy or stamina",
+      "distractors": [
+        "Relating to something that is extremely stern or strict in application.",
+        "Characterized by a forceful and binding quality, as of a contract or agreement.",
+        "Having a tendency to cause mental or emotional pressure or distress.",
+        "Marked by a noticeable lack of flexibility or resistance to bending.",
+        "Denoting a firm and unwavering adherence to established rules or principles.",
+        "Pertaining to a condition of being restricted or confined within narrow limits.",
+        "Displaying an attitude of unwavering resolve and grim seriousness.",
+        "Requiring extreme precision and careful attention to intricate details.",
+        "Describing the state of being stretched or drawn very tautly.",
+        "Indicating a sudden, sharp, and disagreeable sound or utterance."
+      ]
+    },
+    {
+      "word": "SURROGATE",
+      "correct_definition": "one acting in place of another",
+      "distractors": [
+        "One who consistently questions established beliefs.",
+        "A principal entrance or fortified passage.",
+        "An amount that exceeds what is necessary.",
+        "A sudden, powerful forward movement.",
+        "One who rigorously inspects or examines.",
+        "A formal request or proposal for consideration.",
+        "A means of bypassing a common difficulty.",
+        "A person of superior rank or authority.",
+        "A protective barrier or surrounding structure.",
+        "A winding or intricate network of paths."
+      ]
+    },
+    {
+      "word": "SWARTHY",
+      "correct_definition": "of dark color or complexion",
+      "distractors": [
+        "Of a robust and sturdy build; healthy.",
+        "Of a disheveled or unkempt appearance.",
+        "Of a thick, matted, or tangled quality.",
+        "Of little or no moral worth; contemptible.",
+        "Of a wide, sweeping, or broad expanse.",
+        "Of an irritable or bad-tempered disposition.",
+        "Of an excessively moist or sweaty condition.",
+        "Of a rough or coarse texture to the touch.",
+        "Of a low, muffled, or indistinct sound.",
+        "Of a clumsy or awkward manner of movement."
+      ]
+    },
+    {
+      "word": "SYCOPHANT",
+      "correct_definition": "one who \ufb02atters for self-gain",
+      "distractors": [
+        "One who studies the intricate workings of the mind.",
+        "A person known for their dramatic and theatrical performances.",
+        "One who suffers from chronic and debilitating illnesses.",
+        "A skilled artisan who carves elaborate wooden figures.",
+        "An individual with an extraordinary ability to remember facts.",
+        "One who makes sudden, profound discoveries or insights.",
+        "A person dedicated to maintaining strict organizational order.",
+        "One who constructs complex and fantastical narratives.",
+        "An observer who documents the behavior of wild animals.",
+        "A mystical figure who can predict future events."
+      ]
+    },
+    {
+      "word": "TRACTABLE",
+      "correct_definition": "easily controlled",
+      "distractors": [
+        "Capable of being followed or outlined precisely.",
+        "Having an engaging and magnetic personality.",
+        "Slow to respond or change course.",
+        "Referring to a distinct area or system within the body.",
+        "Able to perform difficult tasks with great skill.",
+        "Pertaining to a formal written legal arrangement.",
+        "Easily pulled apart or separated into sections.",
+        "Related to the act of providing medical treatment.",
+        "Having a clear and visible route or pathway.",
+        "Marked by a strong sense of purpose and direction."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 50,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_50.png",
+  "questions": [
+    {
+      "word": "AESTHETIC",
+      "correct_definition": "artistic, related to the appreciation of beauty",
+      "distractors": [
+        "Pertaining to the practice of self-discipline and abstinence.",
+        "Characterized by a temporary loss of sensation or consciousness.",
+        "Concerned with questions of right and wrong, and moral duty.",
+        "Relating to physical exertion, strength, and competitive sports.",
+        "Referring to cultural groups or distinct racial origins.",
+        "Describing a feeling of profound sympathy, pity, or sadness.",
+        "Pertaining to a lack of interest, enthusiasm, or concern.",
+        "Relating to the scientific examination of bodily structures.",
+        "Marked by meticulous attention to detail and accuracy.",
+        "Indicating a sudden and overwhelming emotional response."
+      ]
+    },
+    {
+      "word": "AGGREGATE",
+      "correct_definition": "a whole or total",
+      "distractors": [
+        "A forceful and unprovoked assault.",
+        "To worsen or make a problem more serious.",
+        "A specific method for livestock management.",
+        "To intentionally distance oneself from others.",
+        "A harsh and critical judgment.",
+        "To scatter widely or disperse a collection.",
+        "A person who leads a prominent social group.",
+        "To meticulously arrange elements in sequence.",
+        "A sudden and powerful surge of emotion.",
+        "To create a division within an established group."
+      ]
+    },
+    {
+      "word": "AMBIGUOUS",
+      "correct_definition": "uncertain, variably interpretable",
+      "distractors": [
+        "Relating to the ability to use both hands with equal skill.",
+        "Pertaining to the surrounding atmosphere or environment.",
+        "Characterized by a strong desire or determination to succeed.",
+        "Having conflicting or mixed feelings about something.",
+        "Moving at a slow, relaxed, and unhurried pace.",
+        "Capable of thriving in two different types of environments.",
+        "Displaying friendliness and a peaceful disposition.",
+        "Lacking a definite form, shape, or structure.",
+        "Encompassing all sides or aspects of a situation.",
+        "Able to transition smoothly between two distinct states."
+      ]
+    },
+    {
+      "word": "AMORPHOUS",
+      "correct_definition": "without de\ufb01nite shape or type",
+      "distractors": [
+        "without moral principles or ethical guidelines.",
+        "without a clear or discernible purpose.",
+        "characterized by a complete lack of feeling or emotion.",
+        "related to the study of changing forms in nature.",
+        "having an extremely complex or intricate internal structure.",
+        "lacking any distinctive taste, smell, or flavor.",
+        "incapable of being altered or undergoing transformation.",
+        "resembling a primitive, single-celled organism.",
+        "experiencing a profound sense of sadness or gloom.",
+        "having an inconsistent or contradictory set of beliefs."
+      ]
+    },
+    {
+      "word": "ANALGESIC",
+      "correct_definition": "something that reduces pain",
+      "distractors": [
+        "A substance that causes a complete loss of memory for a short period.",
+        "A complex mathematical computation or algorithm.",
+        "An ancient remedy or traditional healing practice.",
+        "Something that stimulates vigorous physical activity or alertness.",
+        "A literary device involving a comparison of two unlike things.",
+        "A compound that induces a state of deep melancholy or sorrow.",
+        "A biological process that prevents the body from absorbing nutrients.",
+        "Something that increases one's mental clarity and cognitive function.",
+        "A substance that inhibits the growth or regeneration of tissues.",
+        "A chemical agent used to prevent the decay of organic matter."
+      ]
+    },
+    {
+      "word": "ANALOGOUS",
+      "correct_definition": "similar to, so that an analogy can be drawn",
+      "distractors": [
+        "Relating to the comprehensive study of linguistic origins and evolution.",
+        "Describing an argument that is structured with impeccable logical consistency.",
+        "Characterized by a complete reversal of a previously held position or belief.",
+        "Pertaining to the clear and precise articulation of complex ideas.",
+        "Indicating a cyclical pattern that repeats over long periods of time.",
+        "Referring to the process of detailed logical analysis or reasoning.",
+        "Having undergone a thorough re-evaluation or reinterpretation of evidence.",
+        "Concerning the systematic cataloging or classification of scientific specimens.",
+        "Derived from or based upon a historical account or written record.",
+        "Expressing a formal statement or public declaration of official policy."
+      ]
+    },
+    {
+      "word": "ANARCHIST",
+      "correct_definition": "one who wants to eliminate all government",
+      "distractors": [
+        "One who studies ancient historical documents.",
+        "One who believes in the superiority of archaic customs.",
+        "One who is skilled in the construction of large architectural structures.",
+        "One who seeks to abolish all forms of traditional religion.",
+        "One who holds a position of supreme leadership in a religious order.",
+        "One who is known for a playfully mischievous and cunning nature.",
+        "One who systematically analyzes complex data for patterns.",
+        "One who holds a deep reverence for ancestral traditions.",
+        "One who believes in the inherent goodness of all people without strict rules.",
+        "One who explores vast island networks for scientific discovery."
+      ]
+    },
+    {
+      "word": "ANONYMOUS",
+      "correct_definition": "being unknown, unrecognized",
+      "distractors": [
+        "Being without any visible identifying marks.",
+        "Lacking any significant power or authority.",
+        "Relating to a single, unique individual.",
+        "Describing a name that is often mispronounced.",
+        "Pertaining to the study of ancient names.",
+        "Having a name that is difficult to spell.",
+        "Characterized by an unusual or distinct sound.",
+        "Being without a clear or definite pattern.",
+        "Referring to a word that has no specific meaning.",
+        "Describing an animal with no natural predators."
+      ]
+    },
+    {
+      "word": "ANTHOLOGY",
+      "correct_definition": "a selected collection of writings, songs, etc.",
+      "distractors": [
+        "A comprehensive theory regarding the origins of human language.",
+        "The practice of cultivating rare or exotic flowering plants.",
+        "The specialized field dedicated to analyzing ancient texts and symbols.",
+        "A formal declaration of principles outlining a new scientific discovery.",
+        "A systematic classification of flowering plants based on their genetic makeup.",
+        "The foundational principles or primary teachings of a particular school of thought.",
+        "A formal address or speech delivered on a significant historical anniversary.",
+        "A highly selective group or committee responsible for making important societal decisions.",
+        "A set of deeply held ethical beliefs guiding an individual's moral conduct.",
+        "The detailed historical account of a nation's founding and early development."
+      ]
+    },
+    {
+      "word": "ANTIPATHY",
+      "correct_definition": "a strong dislike, repugnance",
+      "distractors": [
+        "A medical treatment for emotional disorders.",
+        "A condition characterized by an absence of feeling.",
+        "A protective shield against emotional injury.",
+        "A deep sense of empathy or understanding.",
+        "A formal declaration against a popular idea.",
+        "A chemical agent used to reduce pain.",
+        "The capacity to endure great suffering.",
+        "A strong attraction or affinity for someone.",
+        "A resistance to any form of emotional influence.",
+        "The feeling of intense joy or exhilaration."
+      ]
+    }
+  ]
+}

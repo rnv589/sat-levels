@@ -1,0 +1,167 @@
+{
+  "level": 66,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_66.png",
+  "questions": [
+    {
+      "word": "TRANSIENT",
+      "correct_definition": "passing through brie\ufb02y; passing into and out of existence",
+      "distractors": [
+        "Moving or extending across a wide area or great distance.",
+        "Having the quality of being easily understood or clearly perceptible.",
+        "Capable of being converted or changed from one form into another.",
+        "Pertaining to a transition or shift between two distinct states or conditions.",
+        "A substance or energy that can be transmitted through a medium.",
+        "Marked by a complete and fundamental alteration of character or appearance.",
+        "Relating to the act of passing an item or idea from one person to another.",
+        "Experiencing a profound and significant change in one's perspective or understanding.",
+        "Having the ability to traverse or cross difficult or impassable terrain.",
+        "A state of being wholly visible and allowing light to pass through without obstruction."
+      ]
+    },
+    {
+      "word": "TRANSMUTE",
+      "correct_definition": "to change or alter in form",
+      "distractors": [
+        "To suppress or silence a sound completely.",
+        "To transfer a message or signal across a distance.",
+        "To make something perfectly clear or transparent.",
+        "To become speechless due to shock or surprise.",
+        "To move swiftly and secretly from one place to another.",
+        "To speak in a very hushed or quiet voice.",
+        "To render an object invisible or undetectable.",
+        "To see through an opaque material or surface.",
+        "To adjust the volume or intensity of a sound.",
+        "To communicate ideas without using words."
+      ]
+    },
+    {
+      "word": "TREMULOUS",
+      "correct_definition": "fearful",
+      "distractors": [
+        "Marked by an extremely large size or extent.",
+        "Exhibiting exceptional skill or artistry.",
+        "Characterized by an overwhelming sense of jubilation.",
+        "Possessing a profound and solemn gravity.",
+        "Involving intricate details or delicate craftsmanship.",
+        "Producing a deep, continuous, and resonant sound.",
+        "Requiring great effort or arduous exertion.",
+        "Lacking firmness or structural stability.",
+        "Acting with extreme slowness or hesitant movements.",
+        "Causing widespread wonder or deep admiration."
+      ]
+    },
+    {
+      "word": "TRENCHANT",
+      "correct_definition": "effective, articulate, clear-cut",
+      "distractors": [
+        "Pertaining to a deep, narrow ditch or excavation.",
+        "Feeling intense sorrow or prolonged sadness.",
+        "Difficult to remove or dislodge; firmly established.",
+        "Moving or flowing with great force; a strong current.",
+        "Characterized by an insistent, repetitive demand.",
+        "Having a tendency to cling or adhere tightly.",
+        "Showing great caution or hesitancy.",
+        "Causing a deep, painful wound or injury.",
+        "A strong dislike or deep-seated prejudice.",
+        "Lying exposed or unprotected from the elements."
+      ]
+    },
+    {
+      "word": "TRUCULENT",
+      "correct_definition": "ready to \ufb01ght, cruel",
+      "distractors": [
+        "obsequious or subservient in manner.",
+        "cut short; abbreviated.",
+        "marked by confusion or disorder.",
+        "full of vitality; robust.",
+        "authentic and honest; sincere.",
+        "slow and ponderous in movement.",
+        "clear and easily understood; transparent.",
+        "characterized by a state of peace or reconciliation.",
+        "moving with difficulty and effort.",
+        "absent from duty or responsibility."
+      ]
+    },
+    {
+      "word": "TURPITUDE",
+      "correct_definition": "depravity, moral corruption",
+      "distractors": [
+        "A state of severe agitation or disorder.",
+        "A pungent, viscous liquid used in solvents.",
+        "The act of twisting or forcefully contorting an object.",
+        "The lowest foundational stratum of a geological formation.",
+        "A condition characterized by excessive swelling or inflation.",
+        "An inherent lack of mental quickness or natural ability.",
+        "A sensation of overwhelming lethargy or physical sluggishness.",
+        "A particularly rugged and challenging topographical feature.",
+        "A deeply unappealing or aesthetically displeasing quality.",
+        "A protracted and contentious legal proceeding."
+      ]
+    },
+    {
+      "word": "VACUOUS",
+      "correct_definition": "lack of content or ideas, stupid",
+      "distractors": [
+        "A strong desire or eagerness for something; avid.",
+        "Prone to changing one's mind or loyalty; irresolute.",
+        "Characterized by excessive noise or loud speech; boisterous.",
+        "Marked by a complete absence of light; dark and gloomy.",
+        "Easily influenced or persuaded by others; impressionable.",
+        "Relating to the act of emptying a space or removing contents.",
+        "Filled with a sense of dread or deep apprehension.",
+        "Having a hidden or mysterious meaning; enigmatic.",
+        "Pertaining to a lack of resources or severe poverty; destitute.",
+        "Moving with great speed or swiftness; agile."
+      ]
+    },
+    {
+      "word": "VERBOSE",
+      "correct_definition": "wordy, impaired by wordiness",
+      "distractors": [
+        "Grammatically incorrect, prone to errors in syntax.",
+        "Loud and aggressive in speech, expressing oneself with force.",
+        "Truthful to an extreme degree, incapable of deception or falsehood.",
+        "Highly detailed in description, providing extensive factual information.",
+        "Ostentatious in display, designed to attract undue attention.",
+        "Difficult to understand, rendered unclear by excessive complexity.",
+        "Energetic and lively in discourse, speaking with great animation.",
+        "Prone to sudden outbursts of temper, speaking impulsively and harshly.",
+        "Deeply analytical in thought, examining concepts with thoroughness.",
+        "Given to exaggeration, prone to overstating facts or claims."
+      ]
+    },
+    {
+      "word": "VERDANT",
+      "correct_definition": "green in tint or color",
+      "distractors": [
+        "Marked by sincerity or truthfulness.",
+        "Full of intense emotion or passionate zeal.",
+        "Having a lively and vibrant quality.",
+        "Growing quickly and with great vigor.",
+        "Providing effective protection or a safe haven.",
+        "Displaying exceptional skill or virtuosity.",
+        "Inclined to change or adapt readily.",
+        "Of great age or long-standing duration.",
+        "Shining brightly or with a brilliant glow.",
+        "Tending to wander or deviate from a path."
+      ]
+    },
+    {
+      "word": "VESTIGE",
+      "correct_definition": "a mark or trace of something lost or vanished",
+      "distractors": [
+        "A protective covering or layer applied to a surface.",
+        "The act of formally bestowing power or authority upon an individual.",
+        "A permanent residence or fixed dwelling place.",
+        "A detailed and systematic examination of a subject.",
+        "A journey or expedition, often involving exploration.",
+        "A fortified wall or defensive structure designed for protection.",
+        "A legal entitlement or claim to property or privileges.",
+        "The fundamental nature or essential quality of something.",
+        "A specific duty or obligation assigned to a person.",
+        "The state of being fully prepared or equipped for a task."
+      ]
+    }
+  ]
+}

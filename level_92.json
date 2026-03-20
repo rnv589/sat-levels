@@ -1,0 +1,167 @@
+{
+  "level": 92,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_92.png",
+  "questions": [
+    {
+      "word": "MAVERICK",
+      "correct_definition": "an independent, nonconformist person",
+      "distractors": [
+        "A person prone to wandering aimlessly.",
+        "A small, agile type of deer or antelope.",
+        "A person known for making tricky or deceptive maneuvers.",
+        "A short, sudden burst of intense light or energy.",
+        "An intricate, hand-woven tapestry or rug.",
+        "A person with exceptional skill in navigating complex situations.",
+        "A rare and valuable type of mineral or gemstone.",
+        "A sudden, unexpected turn of events.",
+        "A person who is overly cautious and hesitant.",
+        "A small, fortified dwelling or outpost."
+      ]
+    },
+    {
+      "word": "MULTIFARIOUS",
+      "correct_definition": "having great diversity or variety",
+      "distractors": [
+        "Having many different outward appearances or forms.",
+        "Involving numerous long journeys or extensive travels.",
+        "Characterized by a complex arrangement of numerous interwoven elements.",
+        "Dealing with many contradictory claims or conflicting statements.",
+        "Plagued by a multitude of different fears or deep-seated anxieties.",
+        "Extending a considerable distance in numerous directions.",
+        "Capable of performing a great number of distinct actions or tasks.",
+        "Having many different speakers or voices expressing divergent opinions.",
+        "Divided into numerous distinct categories or separate divisions.",
+        "Arising from a multitude of disparate sources or points of origin."
+      ]
+    },
+    {
+      "word": "OBSEQUIOUS",
+      "correct_definition": "excessively compliant or submissive",
+      "distractors": [
+        "Adhering strictly to a pre-established sequence or routine.",
+        "Diligently pursuing a specific objective or aim.",
+        "Exhibiting an overly attentive or observant demeanor.",
+        "Trailing closely behind a leader or procession.",
+        "Acting as an impediment or blockage to progress.",
+        "Occurring as a direct and unavoidable consequence.",
+        "Characterized by an obsessive focus on minor details.",
+        "Pertaining to a difficult or arduous undertaking.",
+        "Possessing a strong sense of duty or obligation.",
+        "Exhibiting an excessively zealous or enthusiastic attitude."
+      ]
+    },
+    {
+      "word": "OBSTREPEROUS",
+      "correct_definition": "noisy, unruly",
+      "distractors": [
+        "Stubbornly resistant to authority or influence.",
+        "Intentionally creating difficulties or obstacles.",
+        "Requiring immense effort or strenuous exertion.",
+        "Difficult to comprehend or explain clearly.",
+        "Displaying excessive pomp or self-importance.",
+        "Marked by an overly rigid adherence to rules.",
+        "Unwilling to compromise or yield to others.",
+        "Causing discomfort or irritation to others.",
+        "Given to excessive and prolonged complaints.",
+        "Possessing a dense, unyielding physical texture."
+      ]
+    },
+    {
+      "word": "OSTENTATIOUS",
+      "correct_definition": "excessively showy, glitzy",
+      "distractors": [
+        "Relating to the structure or diseases of bones.",
+        "Unwilling to change one's opinion or course of action; stubborn.",
+        "Having an acute sense of hearing; highly sensitive to sound.",
+        "Appearing to be a certain way on the surface, often deceptively so.",
+        "Characterized by a deep and reflective thought process.",
+        "Marked by an extreme lack of flexibility or pliancy.",
+        "Given to secretive or clandestine behavior; furtive.",
+        "Pertaining to the design or construction of temporary shelters.",
+        "Capable of being stretched or extended without breaking.",
+        "Causing a strong, disagreeable odor; malodorous."
+      ]
+    },
+    {
+      "word": "PERSPICACITY",
+      "correct_definition": "shrewdness, perceptiveness",
+      "distractors": [
+        "The quality of being transparent or easily seen through.",
+        "Persistent diligence; unflagging effort.",
+        "Careful attention to specific details; meticulousness.",
+        "An exhaustive review or critical inspection.",
+        "The state of being highly noticeable or conspicuous.",
+        "A distinctive attribute or defining characteristic.",
+        "Stubborn refusal to change; obstinacy.",
+        "A piercing or sharply unpleasant odor or taste.",
+        "A grand or impressive public display or performance.",
+        "A vivid mental image or illusion, often prophetic."
+      ]
+    },
+    {
+      "word": "PERTINACIOUS",
+      "correct_definition": "stubbornly persistent",
+      "distractors": [
+        "Displaying a saucy or impudent boldness.",
+        "Directly relevant or applicable to the current situation.",
+        "To thoroughly examine or scrutinize a subject.",
+        "Having a weak or precarious grip or hold.",
+        "Composed of thin, easily bendable metal.",
+        "Lacking in substance or strength; flimsy.",
+        "To succeed in obtaining something after much effort.",
+        "Suffering from a deeply rooted or chronic ailment.",
+        "Characterized by meticulous accuracy and precision.",
+        "Occurring at regular intervals or periodically."
+      ]
+    },
+    {
+      "word": "PREDILECTION",
+      "correct_definition": "a preference or inclination for something",
+      "distractors": [
+        "A prediction or forecast regarding an upcoming occurrence.",
+        "A preliminary action taken before a significant event.",
+        "The act of giving instructions or orders in advance.",
+        "A formal declaration made prior to official proceedings.",
+        "The capacity to anticipate or foresee future developments.",
+        "A thorough and careful examination conducted in advance.",
+        "The initial collection of data or evidence for analysis.",
+        "A warning or admonition issued before potential danger.",
+        "A preliminary selection or screening process for candidates.",
+        "A careful direction or guidance provided ahead of time."
+      ]
+    },
+    {
+      "word": "PRESUMPTUOUS",
+      "correct_definition": "disrespectfully bold",
+      "distractors": [
+        "Excessively lavish or costly.",
+        "Established or determined beforehand.",
+        "Given to literal interpretation of facts.",
+        "Showing great reluctance to take action.",
+        "Filled with a sense of impending doom.",
+        "Characterized by a highly ornate design.",
+        "Devoted to the acquisition of wealth.",
+        "Displaying excessive humility or modesty.",
+        "Inclined to make critical and harsh judgments.",
+        "Occurring before the expected or appointed time."
+      ]
+    },
+    {
+      "word": "PROCLIVITY",
+      "correct_definition": "a strong inclination toward something",
+      "distractors": [
+        "The act of making something widely known or publicly declared.",
+        "A measurement of the steepness or gradient of a slope.",
+        "The habit of delaying or postponing tasks and responsibilities.",
+        "A high level of competence or expertise acquired through training.",
+        "Conclusive evidence or proof presented in a formal argument.",
+        "The process of splitting into distinct parts or separate factions.",
+        "A gradual and continuous reduction in quality, quantity, or value.",
+        "A forward-thinking mindset focused on future development and progress.",
+        "The open and unrestrained expression of one's thoughts or feelings.",
+        "The quality of being kept secret or accessible only to a select few."
+      ]
+    }
+  ]
+}

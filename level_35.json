@@ -1,0 +1,167 @@
+{
+  "level": 35,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_35.png",
+  "questions": [
+    {
+      "word": "ACRIMONY",
+      "correct_definition": "bitterness, discord",
+      "distractors": [
+        "A powerful longing or fervent desire.",
+        "The state of having keen mental acuity.",
+        "A measurement of land, typically for farming.",
+        "A display of physical agility or skillful movement.",
+        "A formal public observance or sacred ritual.",
+        "Intense feelings of regret and sorrow.",
+        "The act of honing a tool to a fine edge.",
+        "Complete devotion to a single principle.",
+        "A significant payment or financial award.",
+        "A strong, unpleasant taste or pungent odor."
+      ]
+    },
+    {
+      "word": "ADMONISH",
+      "correct_definition": "to caution, criticize, reprove",
+      "distractors": [
+        "To add or append an explanatory note.",
+        "To manage or distribute financial assets.",
+        "To bring together and unite disparate parts.",
+        "To perform a ritualistic purification or cleansing.",
+        "To oversee and regulate a process or activity.",
+        "To express deep sorrow or regret vocally.",
+        "To adjust or adapt to new circumstances.",
+        "To formally bestow an honor or recognition.",
+        "To provide or administer a dose of medicine.",
+        "To protect or defend a valuable possession."
+      ]
+    },
+    {
+      "word": "AGNOSTIC",
+      "correct_definition": "believing that the existence of God cannot be proven or disproven",
+      "distractors": [
+        "believing that human consciousness is fundamentally incapable of perceiving objective reality.",
+        "asserting that knowledge acquired through personal experience is inherently superior to academic study.",
+        "having a deep-seated suspicion of anyone claiming to possess specialized or exclusive information.",
+        "demonstrating an inability to understand or interpret complex social cues and interactions.",
+        "refusing to acknowledge the existence of any phenomenon that cannot be directly observed or measured.",
+        "claiming that all forms of art and literature are equally valuable, with no objective criteria for judgment.",
+        "holding the conviction that true insight can only be gained through meditation and spiritual introspection.",
+        "experiencing a persistent inability to recall previously learned facts or information.",
+        "maintaining that it is impossible to predict future events with any degree of certainty.",
+        "believing that personal identity is an illusion and that individual consciousness is merely a temporary construct."
+      ]
+    },
+    {
+      "word": "ALACRITY",
+      "correct_definition": "eagerness, speed",
+      "distractors": [
+        "Sharpness of taste or character.",
+        "A state of heightened mental alertness.",
+        "Clearness of thought; lucidity.",
+        "The quality of being flexible or resilient.",
+        "A sudden, involuntary muscular spasm.",
+        "A harsh, grating sound.",
+        "Profound melancholy or dejection.",
+        "The capacity for deep, sustained introspection.",
+        "A strong, unpleasant odor.",
+        "A state of intense physical weakness or frailty."
+      ]
+    },
+    {
+      "word": "ALLOCATE",
+      "correct_definition": "to distribute, set aside",
+      "distractors": [
+        "To permit or grant permission.",
+        "To find or determine the exact location of.",
+        "To categorize or classify into distinct groups.",
+        "To formally summon or call upon someone.",
+        "To alter or make changes to an arrangement.",
+        "To obtain or acquire something for use.",
+        "To dedicate oneself entirely to a cause.",
+        "To draw out or elicit a specific reaction.",
+        "To restrict or limit the availability of.",
+        "To thoroughly evaluate or appraise a situation."
+      ]
+    },
+    {
+      "word": "AMENABLE",
+      "correct_definition": "willing, compliant",
+      "distractors": [
+        "Relating to comfort or convenience.",
+        "Capable of being improved or rectified.",
+        "Having a strong aptitude for a particular skill.",
+        "Threatening or causing annoyance.",
+        "Easily controlled or manipulated by others.",
+        "Possessing a naturally calm and friendly temperament.",
+        "Open to intellectual discussion or debate.",
+        "Tending to avoid argument or disagreement.",
+        "Providing a sense of reassurance or stability.",
+        "Subject to frequent change or fluctuation."
+      ]
+    },
+    {
+      "word": "AMICABLE",
+      "correct_definition": "friendly",
+      "distractors": [
+        "Easily persuaded or influenced.",
+        "Characterized by romantic love.",
+        "Capable of being easily understood.",
+        "Lacking a definite form or shape.",
+        "Open to discussion or debate.",
+        "Worthy of respect and admiration.",
+        "Showing great skill or dexterity.",
+        "Pertaining to the study of the past.",
+        "Easily broken or damaged.",
+        "Able to be heard distinctly."
+      ]
+    },
+    {
+      "word": "ANATHEMA",
+      "correct_definition": "a cursed, detested person",
+      "distractors": [
+        "A formal dedication or offering to a deity.",
+        "A detailed examination of a complex subject.",
+        "A traditional saying or proverb passed down through generations.",
+        "A sacred text or scripture central to a religious belief.",
+        "A sudden burst of anger or strong emotional outburst.",
+        "A ceremonial blessing bestowed upon a congregation.",
+        "A complex and intricate pattern or design.",
+        "A profound and original philosophical idea.",
+        "A historical account of a nation's founding myths.",
+        "A formal declaration of faith or religious doctrine."
+      ]
+    },
+    {
+      "word": "ANECDOTE",
+      "correct_definition": "a short, humorous account",
+      "distractors": [
+        "A secret or private document.",
+        "A medical remedy for a specific illness.",
+        "A philosophical argument lacking empirical evidence.",
+        "A small, ornamental detail in architecture.",
+        "A formal declaration or official pronouncement.",
+        "A numerical code used to protect sensitive data.",
+        "A complex mathematical problem or puzzle.",
+        "A traditional folk song passed down orally.",
+        "A minor error or unintentional oversight.",
+        "A statement made without any factual support."
+      ]
+    },
+    {
+      "word": "ANIMATED",
+      "correct_definition": "lively",
+      "distractors": [
+        "Having an animal-like quality.",
+        "Possessing strong willpower.",
+        "Presented as moving pictures.",
+        "Endowed with a soul.",
+        "Capable of independent motion.",
+        "Brought into existence.",
+        "Having a distinctive appearance.",
+        "Activated by an external force.",
+        "Displayed in a series of frames.",
+        "Possessing mental faculties."
+      ]
+    }
+  ]
+}

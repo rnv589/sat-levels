@@ -1,0 +1,167 @@
+{
+  "level": 88,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_88.png",
+  "questions": [
+    {
+      "word": "ANTIQUATED",
+      "correct_definition": "old, out of date",
+      "distractors": [
+        "Opposed to contemporary views.",
+        "Resistant to modern technological advances.",
+        "Characterized by a highly ornamental design.",
+        "Pertaining to valuable historical collections.",
+        "Having a naturally subdued or quiet character.",
+        "Marked by an unwavering sense of tradition.",
+        "Displaying open hostility or antagonism.",
+        "Requiring meticulous measurement or assessment.",
+        "Exhibiting a strong aversion to novelty.",
+        "Related to the systematic study of ancient ruins."
+      ]
+    },
+    {
+      "word": "BENEVOLENT",
+      "correct_definition": "marked by goodness or doing good",
+      "distractors": [
+        "characterized by a firm and resolute will",
+        "performed entirely by one's own choice",
+        "tending to bring about fortunate circumstances",
+        "marked by an exceptional degree of quality",
+        "conducive to general physical well-being",
+        "exhibiting an agreeable and pleasant demeanor",
+        "demonstrating keen insight and perceptive judgment",
+        "designed to provide a clear advantage",
+        "acting according to a strong personal inclination",
+        "possessing wisdom and a calm composure"
+      ]
+    },
+    {
+      "word": "CHOREOGRAPHY",
+      "correct_definition": "the arrangement of dances",
+      "distractors": [
+        "A detailed written account of a performance.",
+        "The art of drawing or sketching human figures.",
+        "The scientific study of physical motion.",
+        "A system for recording musical notation.",
+        "The visual design of stage sets.",
+        "The meticulous charting of statistical data.",
+        "A formal critique of theatrical productions.",
+        "The intricate patterns found in ancient scripts.",
+        "The technique of creating written narratives.",
+        "The analysis of movement in fine art."
+      ]
+    },
+    {
+      "word": "CIRCUMVENT",
+      "correct_definition": "to get around",
+      "distractors": [
+        "To surround on all sides.",
+        "To express one's thoughts freely.",
+        "To come into existence suddenly.",
+        "To establish a perimeter.",
+        "To anticipate a future event.",
+        "To travel widely.",
+        "To convene a meeting.",
+        "To produce or create something.",
+        "To restrict or limit activity.",
+        "To move in a circular path."
+      ]
+    },
+    {
+      "word": "COLLOQUIAL",
+      "correct_definition": "characteristic of informal conversation",
+      "distractors": [
+        "specific to a particular locality",
+        "marked by fluent and persuasive speech",
+        "occurring or existing together in a group",
+        "pertaining to the neck or throat area",
+        "characterized by overly verbose language",
+        "relating to communication in foreign tongues",
+        "designed for formal debate or discussion",
+        "involving secret agreement or conspiracy",
+        "indicating a joint venture or partnership",
+        "having a logical and consistent structure"
+      ]
+    },
+    {
+      "word": "COMMENDATION",
+      "correct_definition": "a notice of approval or recognition",
+      "distractors": [
+        "A formal request for assistance or guidance.",
+        "The act of correcting or improving a faulty item.",
+        "A shared obligation or responsibility within a group.",
+        "An official order or directive from an authority figure.",
+        "A written agreement outlining terms and conditions.",
+        "The process of amending or changing a previous statement.",
+        "A public declaration of a new policy or law.",
+        "The settlement of a dispute through an intermediary.",
+        "A binding promise or pledge made by an individual.",
+        "The state of being prepared or equipped for a specific task."
+      ]
+    },
+    {
+      "word": "COMMENSURATE",
+      "correct_definition": "corresponding in size or amount",
+      "distractors": [
+        "To begin something officially; to commence.",
+        "To offer a formal statement or opinion on a topic.",
+        "To establish a common basis for comparison.",
+        "To join together different quantities into a single sum.",
+        "To share a common table or dining experience.",
+        "To reach a state of mutual understanding or agreement.",
+        "To allocate resources equally among several parties.",
+        "To conduct a survey or detailed analysis of a subject.",
+        "To determine the precise dimensions of an object.",
+        "To provide an itemized list of components or parts."
+      ]
+    },
+    {
+      "word": "CONCILIATORY",
+      "correct_definition": "friendly, agreeable",
+      "distractors": [
+        "Relating to formal legislative decisions.",
+        "Offering thoughtful guidance or advice.",
+        "Tending to cover up or keep secret.",
+        "Referring to specific sources or citations.",
+        "Making something firm or unyielding.",
+        "Requiring intense mental focus.",
+        "Advocating for a specific course of action.",
+        "Binding parties through a formal contract.",
+        "Bringing disparate ideas into a coherent structure.",
+        "Causing a state of deep reflection."
+      ]
+    },
+    {
+      "word": "CONGREGATION",
+      "correct_definition": "a gathering of people, especially for religious services",
+      "distractors": [
+        "A formal legislative assembly or council convened for political deliberation.",
+        "The act of combining diverse elements into a unified, coherent structure.",
+        "A state of extreme congestion or blockage, especially in a circulatory system.",
+        "The intricate process of constructing or assembling complex machinery.",
+        "A declaration of formal praise or commendation for an achievement.",
+        "A binding legal agreement or treaty between parties.",
+        "The practice of restricting or confining individuals to a particular area.",
+        "A magnificent or awe-inspiring spectacle or display.",
+        "The systematic division of a larger group into smaller, distinct units.",
+        "A dense or compacted mass formed by various small particles sticking together."
+      ]
+    },
+    {
+      "word": "CONTRAVENE",
+      "correct_definition": "to contradict, oppose, violate",
+      "distractors": [
+        "To assemble for a collective purpose or meeting.",
+        "To come between parties in order to mediate.",
+        "To make a formal arrangement or binding agreement.",
+        "To regulate or manage a process or system.",
+        "To introduce a counter-argument or opposing viewpoint.",
+        "To gather or attract individuals to a specific location.",
+        "To prevent the occurrence or progress of an event.",
+        "To establish a central or unifying theme.",
+        "To return to a previous condition or state.",
+        "To withdraw support or allegiance from a group."
+      ]
+    }
+  ]
+}

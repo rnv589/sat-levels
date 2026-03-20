@@ -1,0 +1,167 @@
+{
+  "level": 32,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_32.png",
+  "questions": [
+    {
+      "word": "RESCIND",
+      "correct_definition": "to take back, repeal",
+      "distractors": [
+        "to send something back to its origin",
+        "to bind together tightly once more",
+        "to cut into smaller, more manageable parts",
+        "to separate oneself from a group or belief",
+        "to make a fresh start or new beginning",
+        "to re-establish a former condition or rule",
+        "to climb back up a difficult or steep path",
+        "to remove the outer layer or covering",
+        "to feel strong displeasure or annoyance",
+        "to allot or assign resources a second time"
+      ]
+    },
+    {
+      "word": "RESPITE",
+      "correct_definition": "a break, rest",
+      "distractors": [
+        "A renewed feeling of anger or bitterness.",
+        "To respond sharply and abruptly.",
+        "A sudden burst of creative energy.",
+        "A formal decree or official order.",
+        "To recover fully from a difficult situation.",
+        "To retaliate with a malicious act.",
+        "A strong desire for revenge.",
+        "To breathe again after holding one's breath.",
+        "A state of deep spiritual contemplation.",
+        "To revisit a past argument or conflict."
+      ]
+    },
+    {
+      "word": "RETRACT",
+      "correct_definition": "withdraw",
+      "distractors": [
+        "To pull something forward with renewed effort.",
+        "To extend or stretch out again.",
+        "To divide into sections or areas once more.",
+        "To retrace or follow a path backward.",
+        "To make a written statement longer.",
+        "To restore something to its original condition.",
+        "To bring together and unite separate parts.",
+        "To establish a new course or direction.",
+        "To firmly grasp or grip onto something.",
+        "To thoroughly analyze or examine a text."
+      ]
+    },
+    {
+      "word": "REVEL",
+      "correct_definition": "to enjoy intensely",
+      "distractors": [
+        "To uncover a hidden truth or fact.",
+        "To return to a previous or original state.",
+        "To make something perfectly flat or even.",
+        "To engage in rebellious action against authority.",
+        "To show profound respect or admiration for something.",
+        "To examine or review something in detail.",
+        "To cause something to become active again.",
+        "To communicate a new idea or discovery.",
+        "To make a loud, echoing sound.",
+        "To provide a solution to a difficult problem."
+      ]
+    },
+    {
+      "word": "SALIENT",
+      "correct_definition": "signi\ufb01cant, conspicuous",
+      "distractors": [
+        "Characterized by a salty taste; briny.",
+        "Of robust health; strong and vigorous.",
+        "Moving with graceful, quick movements.",
+        "To soothe or relieve discomfort; assuage.",
+        "Having a sacred or consecrated nature; holy.",
+        "To make a formal and respectful greeting.",
+        "Easily dissolved or dispersed in liquid.",
+        "Marked by extreme cleverness or cunning.",
+        "Situated deep within a cavity or recess.",
+        "Pertaining to the act of negotiation or compromise."
+      ]
+    },
+    {
+      "word": "SALVE",
+      "correct_definition": "a soothing balm",
+      "distractors": [
+        "A sudden, concentrated discharge of artillery.",
+        "A formal greeting or farewell.",
+        "To rescue or preserve from harm.",
+        "To find a solution to a problem.",
+        "A high-pitched, piercing cry.",
+        "A type of edible root vegetable.",
+        "A sacred oath or promise.",
+        "A deeply rooted sense of guilt.",
+        "To become rigid or solidified.",
+        "A dense, protective forest."
+      ]
+    },
+    {
+      "word": "SATIATE",
+      "correct_definition": "to satisfy excessively",
+      "distractors": [
+        "To deprive completely of something needed.",
+        "To cause deep sorrow or sadness.",
+        "To make serene or tranquil.",
+        "To separate into distinct sections.",
+        "To cleanse thoroughly or purify.",
+        "To examine critically and closely.",
+        "To make firm and unmoving.",
+        "To enlighten intellectually.",
+        "To denounce or criticize severely.",
+        "To irritate or annoy persistently."
+      ]
+    },
+    {
+      "word": "SEMINAL",
+      "correct_definition": "original, important, creating a \ufb01eld",
+      "distractors": [
+        "Directly related to the production or function of male reproductive cells.",
+        "Pertaining to the sowing or germination of agricultural seeds.",
+        "Characteristic of an academic meeting or structured educational discussion.",
+        "Widely dispersed or scattered, like seeds in a field.",
+        "Of minimal consequence; trifling or inconsequential.",
+        "Small, hard, and numerous; capable of being planted.",
+        "Primitive or undeveloped; lacking refinement or sophistication.",
+        "Preliminary, introductory, but not foundational.",
+        "Indicating a specific stage in organic development or chemical synthesis.",
+        "Enclosed, latent, or held in reserve, like a seed awaiting conditions to sprout."
+      ]
+    },
+    {
+      "word": "SENSUAL",
+      "correct_definition": "involving sensory grati\ufb01cation, usually related to sex",
+      "distractors": [
+        "Pertaining to the five physical senses of perception.",
+        "Characterized by deep emotional responsiveness or empathy.",
+        "Guided by practical judgment or sound reasoning.",
+        "Relating to the physical perception of pain or discomfort.",
+        "Involving a heightened state of mental alertness or awareness.",
+        "Indicating a shared belief or general agreement within a group.",
+        "Governed by natural instinct rather than learned behavior.",
+        "Designed to gather information through direct physical observation.",
+        "Describing an acute ability to detect subtle changes in one's environment.",
+        "Pertaining to the mechanisms by which the body receives external stimuli."
+      ]
+    },
+    {
+      "word": "SINUOUS",
+      "correct_definition": "lithe, serpentine",
+      "distractors": [
+        "Lacking genuineness, insincere.",
+        "Full of moral failings, depraved.",
+        "Marked by a deliberate reduction, diminished.",
+        "Portending ill fortune, ominous.",
+        "Pertaining to internal cavities, anatomical.",
+        "Having an underlying symbolic meaning, significant.",
+        "Characterized by extreme sorrow, melancholic.",
+        "Proceeding with great caution, hesitant.",
+        "Dense and unyielding in texture, robust.",
+        "Causing irritation or annoyance, vexing."
+      ]
+    }
+  ]
+}

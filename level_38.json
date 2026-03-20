@@ -1,0 +1,167 @@
+{
+  "level": 38,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_38.png",
+  "questions": [
+    {
+      "word": "COLOSSUS",
+      "correct_definition": "a gigantic statue or thing",
+      "distractors": [
+        "A secret agreement or conspiracy among powerful individuals.",
+        "A sudden and complete collapse or failure of a system.",
+        "The state of being utterly bewildered or disoriented.",
+        "A hidden weakness or vulnerability in a strong structure.",
+        "An impassive or unfeeling lack of sympathy.",
+        "A brilliant and striking display of colors or light.",
+        "A type of ancient and intricately carved support pillar.",
+        "A deep and extensive collection of rare artifacts.",
+        "A complex and highly organized system of governance.",
+        "A severe and chronic lack of essential nutrients."
+      ]
+    },
+    {
+      "word": "COMPOUND",
+      "correct_definition": "to combine parts",
+      "distractors": [
+        "To strike repeatedly and heavily.",
+        "To enclose an area securely.",
+        "To make something mandatory or required.",
+        "To provide payment for a service.",
+        "To measure a specific quantity by weight.",
+        "To finish a long and arduous task.",
+        "To discuss an issue with another party.",
+        "To compute a complex numerical value.",
+        "To compare different elements for analysis.",
+        "To crush into a fine powder or paste."
+      ]
+    },
+    {
+      "word": "COMPRESS",
+      "correct_definition": "to apply pressure, squeeze together",
+      "distractors": [
+        "To compile information or ideas into a comprehensive summary.",
+        "To establish a strong and memorable impression on others.",
+        "To urge or advocate for a particular viewpoint with conviction.",
+        "To articulate a complex thought or feeling with precision.",
+        "To bring a contentious debate to a quick and definitive end.",
+        "To endure challenging circumstances with resilience.",
+        "To publish a joint statement or declaration to the public.",
+        "To overcome resistance through persistent effort.",
+        "To consolidate resources for a collective endeavor.",
+        "To create a lasting effect on public opinion."
+      ]
+    },
+    {
+      "word": "CONFOUND",
+      "correct_definition": "to frustrate, confuse",
+      "distractors": [
+        "To establish or set up firmly.",
+        "To provide financial support for.",
+        "To discover something previously unknown.",
+        "To combine different elements into one.",
+        "To meet or encounter unexpectedly.",
+        "To determine the underlying basis of.",
+        "To refute an argument or claim.",
+        "To bring something into existence.",
+        "To hold an opinion against others.",
+        "To search extensively for an item."
+      ]
+    },
+    {
+      "word": "CONSTRUE",
+      "correct_definition": "to interpret",
+      "distractors": [
+        "To formulate by combining elements.",
+        "To restrain or compel an action.",
+        "To spread out irregularly or thinly.",
+        "To confirm the truth or accuracy of.",
+        "To establish securely or permanently.",
+        "To combine various parts into a whole.",
+        "To seek counsel or information from.",
+        "To maintain a steady or consistent course.",
+        "To organize or arrange systematically.",
+        "To endorse or support a particular claim."
+      ]
+    },
+    {
+      "word": "CONTRITE",
+      "correct_definition": "penitent, eager to be forgiven",
+      "distractors": [
+        "Pertaining to something commonly accepted or widely known, lacking originality.",
+        "Relating to a carefully considered plan or design, often involving intricate details.",
+        "Having a worn or threadbare appearance, as if from extensive use.",
+        "Expressing forceful disagreement or opposition, stubbornly resistant.",
+        "Formed or brought together into a solid, compact mass; consolidated.",
+        "Characterized by an unoriginal or hackneyed style, especially in writing or speech.",
+        "Intended to deceive or mislead, characterized by cunning or trickery.",
+        "Marked by severe limitations or restrictions, held in strict confinement.",
+        "Referring to something of little value or importance, trivial or insignificant.",
+        "Causing irritation or friction between parties, difficult to reconcile."
+      ]
+    },
+    {
+      "word": "COVERT",
+      "correct_definition": "secretly engaged in",
+      "distractors": [
+        "jointly turned or directed",
+        "providing protection or shelter",
+        "characterized by close companionship",
+        "suddenly changing direction or allegiance",
+        "related to an external covering or shell",
+        "having a strong preference or inclination",
+        "directed upwards in a steep ascent",
+        "achieved through collaborative effort",
+        "prone to frequent and rapid fluctuations",
+        "fully enclosed within physical boundaries"
+      ]
+    },
+    {
+      "word": "CRITERIA",
+      "correct_definition": "standards by which something is judged",
+      "distractors": [
+        "A deep and thoughtful literary analysis.",
+        "The act of making a careful and precise distinction.",
+        "A written transcript or detailed record of proceedings.",
+        "The capacity for objective and rational thought.",
+        "A significant turning point or decisive moment.",
+        "A formal statement of personal conviction or belief.",
+        "A secret system of symbols or ancient writings.",
+        "The process of carefully scrutinizing evidence.",
+        "A solemn religious observance or ritual.",
+        "An official order or mandate issued by authority."
+      ]
+    },
+    {
+      "word": "CULPABLE",
+      "correct_definition": "deserving blame",
+      "distractors": [
+        "Able to be easily felt or perceived.",
+        "Capable of being cultivated or developed.",
+        "Reaching a definitive final stage.",
+        "Capable of being shaped or molded into form.",
+        "Deserving of praise or admiration.",
+        "Inspired by strong personal desire.",
+        "Able to be accurately measured or calculated.",
+        "Quick to understand new concepts.",
+        "Susceptible to emotional manipulation.",
+        "Able to hold a significant volume."
+      ]
+    },
+    {
+      "word": "CUPIDITY",
+      "correct_definition": "greed, strong desire",
+      "distractors": [
+        "The quality of being easily fooled or naive.",
+        "Swiftness or quickness in thought or action.",
+        "Sharpness of perception or intellect.",
+        "A tendency toward excessive sentimentality or romanticism.",
+        "Childlike innocence or purity.",
+        "The state of being easily broken or fragile.",
+        "An intense fascination with works of art or beauty.",
+        "Skill or expertise in the creation of crafted objects.",
+        "A sudden, overwhelming urge to abandon a situation.",
+        "Extreme shyness or lack of confidence."
+      ]
+    }
+  ]
+}

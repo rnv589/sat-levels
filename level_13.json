@@ -1,0 +1,167 @@
+{
+  "level": 13,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_13.png",
+  "questions": [
+    {
+      "word": "FACILE",
+      "correct_definition": "easy, requiring little effort",
+      "distractors": [
+        "Pertaining to the outward appearance or facade of something.",
+        "Capable of being easily broken or damaged; fragile.",
+        "Based entirely on objective facts and verifiable evidence.",
+        "Skillfully crafted or manufactured with precision and care.",
+        "Relating to a permanent institution or a specific building.",
+        "Characterized by a smooth, polished, or refined surface.",
+        "To make something false or misleading; to falsify.",
+        "Quick to anger or prone to sudden emotional outbursts.",
+        "Displaying a lack of sincerity or intellectual depth; superficial.",
+        "Having a fixed or unchangeable nature; stable."
+      ]
+    },
+    {
+      "word": "FATHOM",
+      "correct_definition": "to understand, comprehend",
+      "distractors": [
+        "To measure the width or breadth of something.",
+        "To secure or fasten tightly, as with a rope.",
+        "To cause to feel fatigued or exhausted.",
+        "To create or design in a particular style.",
+        "To make shallow or less deep.",
+        "To spread out widely, as a net or sail.",
+        "To clear away debris from a water surface.",
+        "To establish a home or permanent residence.",
+        "To become dizzy or lightheaded.",
+        "To fill to the brim; to overflow."
+      ]
+    },
+    {
+      "word": "FECUND",
+      "correct_definition": "fruitful, fertile",
+      "distractors": [
+        "Pertaining to bodily waste or refuse.",
+        "Marked by intense rivalry or deep-seated animosity.",
+        "Lacking spirit, purpose, or effectiveness; irresponsible.",
+        "Prone to frequent and unpredictable changes of mood or loyalty.",
+        "Enclosed or confined within a protective barrier.",
+        "Requiring exceptional skill, great effort, or careful execution.",
+        "Of deep intellectual significance or emotional intensity.",
+        "Firmly established or deeply rooted in tradition.",
+        "Characterized by elaborate or overly ornate decoration.",
+        "Having a strong, disagreeable odor."
+      ]
+    },
+    {
+      "word": "FETTER",
+      "correct_definition": "to chain, restrain",
+      "distractors": [
+        "To lighten the burden or weight.",
+        "To cause to rot or decompose slowly.",
+        "To provide essential nutrients.",
+        "To ascertain the profound meaning.",
+        "To disentangle from a difficult situation.",
+        "To make something inherently better.",
+        "To emit a foul-smelling vapor.",
+        "To cleave into two distinct halves.",
+        "To glide with effortless speed.",
+        "To stimulate or incite strong feelings."
+      ]
+    },
+    {
+      "word": "FORAGE",
+      "correct_definition": "to graze, rummage for food",
+      "distractors": [
+        "To propel forward, to advance with vigor.",
+        "To fabricate metal, to shape with heat.",
+        "To predict accurately, to foresee the outcome.",
+        "To strengthen defenses, to fortify a position.",
+        "To become ancient, to show signs of age.",
+        "To demand payment, to exact a toll.",
+        "To confront boldly, to face opposition.",
+        "To express anger, to show fierce displeasure.",
+        "To formally reject, to disavow publicly.",
+        "To prepare in advance, to make ready for."
+      ]
+    },
+    {
+      "word": "FOSTER",
+      "correct_definition": "to stimulate, promote, encourage",
+      "distractors": [
+        "To decay or worsen over time, especially referring to a wound or problem.",
+        "To foresee or predict an outcome based on prior knowledge.",
+        "To provide temporary care or shelter for a dependent.",
+        "To compel or urge someone to act through force or pressure.",
+        "To prepare a surface by applying a thin, protective layer.",
+        "To conceal or hide from view, often with deceptive intent.",
+        "To become agitated or confused, losing one's composure.",
+        "To cause something to fail or collapse entirely.",
+        "To restrict movement or growth by surrounding tightly.",
+        "To solidify or harden through extreme cold."
+      ]
+    },
+    {
+      "word": "FRUGAL",
+      "correct_definition": "thrifty, economical",
+      "distractors": [
+        "Characterized by intense emotional feelings; fervent.",
+        "Easily shattered or broken; delicate.",
+        "Having a strong, earthy smell; pungent.",
+        "Yielding plentiful results; abundant.",
+        "Difficult to understand or interpret; obscure.",
+        "Marked by a severe and unyielding manner; stern.",
+        "Tending to escape or flee; elusive.",
+        "Simple and unadorned in style or appearance.",
+        "Relating to a wild, untamed state; savage.",
+        "Causing frustration or annoyance; vexing."
+      ]
+    },
+    {
+      "word": "GARISH",
+      "correct_definition": "gaudy, in bad taste",
+      "distractors": [
+        "Excessively talkative; given to lengthy and rambling speeches.",
+        "To decorate or adorn, particularly food, in a tasteful and attractive manner.",
+        "Unpleasantly harsh or grating to the ears; discordant.",
+        "Extremely watchful or attentive; constantly on guard against danger.",
+        "To consume food or drink greedily; to gorge oneself.",
+        "Marked by a rough or coarse surface; abrasive to the touch.",
+        "To scold or rebuke with severity; to reprimand harshly.",
+        "Pertaining to something that is difficult to capture or pin down; elusive.",
+        "To act in a quarrelsome or belligerent manner; combative.",
+        "To utter a loud, mournful cry; to wail or lament."
+      ]
+    },
+    {
+      "word": "GENIAL",
+      "correct_definition": "friendly, affable",
+      "distractors": [
+        "Pertaining to birth or origin.",
+        "Relating to genetics or inherited characteristics.",
+        "Characteristic of a genius; intellectually brilliant.",
+        "Truly existing; authentic or genuine.",
+        "Having a broad or general application; widespread.",
+        "Capable of producing or creating new things.",
+        "Fundamental or essential in nature.",
+        "Marked by originality and inventiveness.",
+        "Relating to the general population or common good.",
+        "Natural and unforced; not artificial."
+      ]
+    },
+    {
+      "word": "HIATUS",
+      "correct_definition": "a break or gap in duration or continuity",
+      "distractors": [
+        "A state of elevated standing or importance within a group.",
+        "The highest point or culmination of a particular event or series.",
+        "A deep, often hidden fissure or chasm in the earth's surface.",
+        "A prolonged period of intense heat or dryness, causing drought.",
+        "An intricate and highly detailed analysis of a complex subject.",
+        "A rare and valuable mineral found exclusively at high altitudes.",
+        "A sudden and powerful gust of wind, often occurring during a storm.",
+        "A serious and prolonged illness or medical condition.",
+        "The act of concealing information or keeping something secret.",
+        "A legislative body or assembly of high-ranking officials."
+      ]
+    }
+  ]
+}

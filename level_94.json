@@ -1,0 +1,167 @@
+{
+  "level": 94,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_94.png",
+  "questions": [
+    {
+      "word": "VOCIFEROUS",
+      "correct_definition": "loud, boisterous",
+      "distractors": [
+        "Having a melodious and pleasing voice.",
+        "Tending to be secretive and reserved.",
+        "Characterized by a strong desire to consume large quantities of food.",
+        "Easily swayed or influenced by others' opinions.",
+        "Bringing forth or producing offspring in abundance.",
+        "Having a keen and perceptive understanding.",
+        "Showing great enthusiasm and vigor.",
+        "Marked by sudden changes in mood or behavior.",
+        "Requiring great physical strength or effort.",
+        "Expressing deep sadness or remorse."
+      ]
+    },
+    {
+      "word": "ACCOMMODATING",
+      "correct_definition": "helpful, obliging, polite",
+      "distractors": [
+        "adapting to new or unfamiliar conditions",
+        "making suitable arrangements for an event",
+        "issuing directives with authority",
+        "relating to the trade of commodities",
+        "bringing a complex process to completion",
+        "fitting into a limited or restricted area",
+        "sharing common resources or facilities",
+        "reaching a formal agreement or settlement",
+        "making current and fashionable",
+        "ensuring convenience and comfort for oneself"
+      ]
+    },
+    {
+      "word": "ANACHRONISTIC",
+      "correct_definition": "being out of correct chronological order",
+      "distractors": [
+        "being contrary to prevailing social norms",
+        "indicating a lack of precise measurement",
+        "reflecting an inability to adapt to change",
+        "pertaining to a deliberate distortion of facts",
+        "characterized by a complete absence of order",
+        "describing a state of persistent delay",
+        "relating to a refusal to acknowledge the present",
+        "suggesting a repetition of past mistakes",
+        "being difficult to classify or categorize",
+        "exhibiting a strong resistance to new ideas"
+      ]
+    },
+    {
+      "word": "CHRONOLOGICAL",
+      "correct_definition": "arranged in order of time",
+      "distractors": [
+        "Pertaining to the study of time and its effects.",
+        "Describing something that lasts for an extended period.",
+        "Relating to the accurate measurement of specific dates.",
+        "Characterized by a reasonable and consistent way of thinking.",
+        "Occurring simultaneously or at the very same instant.",
+        "Following a systematic method or rational process.",
+        "A formal written account of historical events.",
+        "Concerned with the ancient history of human civilization.",
+        "Marked by a significant or decisive moment in history.",
+        "Arranged according to a specific category or classification."
+      ]
+    },
+    {
+      "word": "CIRCUMSCRIBED",
+      "correct_definition": "marked off, bounded",
+      "distractors": [
+        "Discussed extensively in various texts.",
+        "Speaking evasively to avoid a direct answer.",
+        "Expressed with meticulous attention to detail.",
+        "Reproduced accurately from a given source.",
+        "Propelled along a curved trajectory.",
+        "Composed using ornate and complex phrasing.",
+        "Affirmed with unequivocal conviction.",
+        "Approaching a subject in an indirect manner.",
+        "Spread ubiquitously across a wide area.",
+        "Predetermined or written in advance."
+      ]
+    },
+    {
+      "word": "CLAIRVOYANT",
+      "correct_definition": "able to perceive things that normal people cannot",
+      "distractors": [
+        "able to express oneself with exceptional clarity and precision.",
+        "having remarkably sharp physical eyesight, even in dim light.",
+        "a person who has a comprehensive and clear understanding of complex issues.",
+        "skilled at articulating a vivid and compelling vision for the future.",
+        "someone who presents information in an easily understandable and transparent manner.",
+        "capable of creating detailed and lifelike visual representations of objects.",
+        "characterized by an ability to clearly remember past events with great detail.",
+        "pertaining to a deep and insightful understanding of human nature.",
+        "characterized by an openness and honesty that makes one's intentions clear to others.",
+        "possessing a superior ability to observe and analyze subtle details in one's surroundings."
+      ]
+    },
+    {
+      "word": "CONVIVIAL",
+      "correct_definition": "characterized by feasting, drinking, merriment",
+      "distractors": [
+        "Pertaining to the act of living together harmoniously in a shared environment.",
+        "Characterized by a collective and intense appreciation for vivid art or experiences.",
+        "Relating to the shared vitality or life force found within a community.",
+        "Marked by a mutual agreement or consensus regarding matters of life and death.",
+        "Associated with the process of actively combining various living elements.",
+        "Pertaining to the capacity for sustained life or endurance against odds.",
+        "Characterized by the ability to vividly recall past life events or shared memories.",
+        "Relating to a unanimous decision to revive or bring back to life something lost.",
+        "Having a strong communal sense of purpose or mission in life.",
+        "Describing the collective effort to ensure the long-term survival of a species."
+      ]
+    },
+    {
+      "word": "EQUIVOCAL",
+      "correct_definition": "ambiguous, uncertain, undecided",
+      "distractors": [
+        "Relating to equal treatment or fairness.",
+        "Having the same value, amount, or meaning.",
+        "Characterized by a unanimous agreement of voices.",
+        "Possessing the ability to speak clearly and forcefully.",
+        "Speaking with an equal tone or volume.",
+        "Having a balanced and impartial perspective.",
+        "Sharing an identical opinion or viewpoint.",
+        "Expressing oneself with equal confidence or conviction.",
+        "Being comparable in quality, status, or significance.",
+        "Able to articulate multiple ideas with equal skill."
+      ]
+    },
+    {
+      "word": "HETEROGENEOUS",
+      "correct_definition": "varied, diverse in character",
+      "distractors": [
+        "Produced from entirely separate or unrelated origins.",
+        "Developing in distinct and independent stages.",
+        "Possessing characteristics that are inherently contradictory.",
+        "Pertaining to biological species that cannot interbreed.",
+        "Relating to substances that are formed without external influence.",
+        "Characterized by an unusual or unexpected manner of growth.",
+        "Composed of elements that are artificially created, not natural.",
+        "Displaying an erratic or inconsistent pattern of behavior.",
+        "Marked by a rapid and unpredictable transformation.",
+        "Referring to the sudden and spontaneous emergence of new forms."
+      ]
+    },
+    {
+      "word": "IDIOSYNCRATIC",
+      "correct_definition": "peculiar to one person; highly individualized",
+      "distractors": [
+        "Characterized by a lack of synchronized movement or coordinated action.",
+        "Pertaining to a system of governance where authority is derived from self-appointed leaders.",
+        "Describing an outdated or obsolete method of scientific inquiry.",
+        "Relating to the spontaneous generation of new ideas or artistic forms.",
+        "Having a tendency to merge or combine disparate elements into a unified whole.",
+        "Marked by an inability to form coherent thoughts or express them clearly.",
+        "A philosophical belief emphasizing the importance of individual self-sufficiency.",
+        "Concerned with the precise timing and arrangement of complex components in a system.",
+        "Exhibiting a strong aversion to social interaction or group activities.",
+        "Referring to a process of self-correction or adjustment within a closed system."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 58,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_58.png",
+  "questions": [
+    {
+      "word": "GARRULOUS",
+      "correct_definition": "talkative, wordy",
+      "distractors": [
+        "Relating to a harsh, grating sound or voice.",
+        "Excessively decorated or showy in a tasteless way.",
+        "Prone to argument or dispute; quarrelsome.",
+        "Easily angered or irritated; quick-tempered.",
+        "Physically rough, coarse, or uneven in texture.",
+        "Enormous in size or scope; colossal.",
+        "Worn out or broken down from age or use; dilapidated.",
+        "Clumsy or awkward in movement or handling.",
+        "Having an insatiable appetite; voracious.",
+        "Characterized by excessive pride or self-importance."
+      ]
+    },
+    {
+      "word": "GRANDIOSE",
+      "correct_definition": "on a magni\ufb01cent or exaggerated scale",
+      "distractors": [
+        "Relating to the highest rank or most senior position.",
+        "Characterized by a sense of deep respect and reverence.",
+        "Pertaining to events of great historical significance.",
+        "Marked by an elaborate or complex artistic design.",
+        "Having an imposing physical presence or structure.",
+        "Displaying a superior degree of skill or craftsmanship.",
+        "Suggesting an air of nobility or aristocratic origin.",
+        "Of or relating to the advanced age of a person or institution.",
+        "Possessing a profound and inspiring moral message.",
+        "Conducted with great formality and ceremonial pomp."
+      ]
+    },
+    {
+      "word": "HIERARCHY",
+      "correct_definition": "a system with ranked groups, usually according to social, economic, or professional class",
+      "distractors": [
+        "a form of government where religious leaders hold supreme power, often claiming divine authority.",
+        "a political ideology asserting the inherent superiority of a ruling class by birthright, usually inherited.",
+        "a system of laws and customs that predates modern legal codes, usually found in ancient civilizations.",
+        "a method of historical inquiry focused on the origins of ancient cultures and their societal foundations.",
+        "a type of architectural design featuring a series of large, load-bearing arches and vaults, typically Roman.",
+        "a set of overarching principles or fundamental beliefs that guide a moral or ethical system, usually universal.",
+        "a philosophical belief in a higher, transcendent realm of existence, often sought through spiritual discipline.",
+        "a chronological arrangement of historical periods or significant events, usually presented linearly.",
+        "a governmental structure characterized by a single, paramount leader holding absolute and unquestioned authority.",
+        "a clandestine organization operating with a hidden structure and a secretive command system."
+      ]
+    },
+    {
+      "word": "HYPOCRISY",
+      "correct_definition": "pretending to believe what one does not",
+      "distractors": [
+        "A severe deficiency in one's ability to discern truth.",
+        "The practice of making premature judgments about situations.",
+        "A critical turning point or decisive moment requiring quick action.",
+        "The condition of being constantly subjected to unfair criticism.",
+        "An intense period of personal doubt or moral questioning.",
+        "The deliberate act of undermining another's reputation.",
+        "A philosophical school of thought emphasizing skepticism.",
+        "A severe lack of conviction in one's own ethical principles.",
+        "The tendency to evaluate others' flaws more harshly than one's own.",
+        "A state of extreme mental agitation or emotional distress."
+      ]
+    },
+    {
+      "word": "IMMUTABLE",
+      "correct_definition": "not changeable",
+      "distractors": [
+        "Not able to speak or produce sound.",
+        "Unable to be shared or experienced by others.",
+        "Resistant to rebellion or insubordination.",
+        "Difficult to move from a fixed position.",
+        "Lacking any distinct or recognizable form.",
+        "Not capable of being multiplied or increased.",
+        "Unable to be transferred or exchanged.",
+        "Existing in a state of complete silence.",
+        "Not subject to discussion or negotiation.",
+        "Incapable of growth or development."
+      ]
+    },
+    {
+      "word": "IMPERIOUS",
+      "correct_definition": "commanding, domineering",
+      "distractors": [
+        "Relating to or characteristic of an empire or emperor.",
+        "Unable to be affected or penetrated; unyielding.",
+        "Acting or done quickly without careful thought; impulsive.",
+        "Extremely important and requiring immediate attention; urgent.",
+        "Full of great danger or risk; hazardous.",
+        "Not subject to decay or destruction; everlasting.",
+        "Difficult or impossible to defeat or overcome; unconquerable.",
+        "Having or showing deep religious devotion; devout.",
+        "Unable to be corrected, improved, or reformed; incurable.",
+        "Lacking proper respect or reverence; irreverent."
+      ]
+    },
+    {
+      "word": "IMPETUOUS",
+      "correct_definition": "rash; hastily done",
+      "distractors": [
+        "Possessing great force or momentum.",
+        "Energetic; vigorously active.",
+        "Demanding; insistent and unyielding.",
+        "Imperious; haughty and overbearing.",
+        "Unwilling to change one's mind; resolute.",
+        "Lacking enthusiasm; uninspired.",
+        "Characterized by strong, turbulent emotions.",
+        "Scrupulous; paying close attention to detail.",
+        "Unremorseful; showing no regret for wrongdoing.",
+        "Unbreakable; impossible to penetrate."
+      ]
+    },
+    {
+      "word": "IMPLEMENT",
+      "correct_definition": "an instrument, utensil, tool",
+      "distractors": [
+        "A binding agreement or promise.",
+        "A subtle hint or suggestion.",
+        "A protective covering or enclosure.",
+        "The capacity to fill a designated space.",
+        "A formal appeal or earnest request.",
+        "A necessary component of a larger system.",
+        "The final completion of a task or project.",
+        "A significant obstacle or impediment.",
+        "An official mandate or decree.",
+        "A distinguishing mark or emblem."
+      ]
+    },
+    {
+      "word": "IMPLICATE",
+      "correct_definition": "to involve in an incriminating way, incriminate",
+      "distractors": [
+        "To make a situation or problem more complex or difficult to resolve.",
+        "To fold or bend something inward, creating a compact form.",
+        "To combine or interweave various elements into a single, cohesive unit.",
+        "To impose a barrier or obstacle, thereby hindering progress.",
+        "To introduce a topic or theme that requires further explanation.",
+        "To layer or stack multiple objects closely together.",
+        "To apply a coating or covering onto a surface.",
+        "To conceal or embed information discreetly within a larger body.",
+        "To transfer or assign a task or duty from one party to another.",
+        "To cause an object to become rigid or inflexible."
+      ]
+    },
+    {
+      "word": "INCARNATE",
+      "correct_definition": "existing in the \ufb02esh, embodied",
+      "distractors": [
+        "lacking a physical form or material substance.",
+        "related to the consumption of meat.",
+        "to cause widespread destruction or slaughter.",
+        "of fundamental importance; primary.",
+        "deeply rooted within an inner core.",
+        "to perform a sacred ritual or ceremony.",
+        "to engrave or carve deeply into a surface.",
+        "to engage in boisterous or festive celebration.",
+        "pertaining to the growth or development of internal organs.",
+        "to instill a profound emotional feeling."
+      ]
+    }
+  ]
+}

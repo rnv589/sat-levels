@@ -1,0 +1,167 @@
+{
+  "level": 44,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_44.png",
+  "questions": [
+    {
+      "word": "MANIFEST",
+      "correct_definition": "easily understandable, obvious",
+      "distractors": [
+        "Meticulously crafted using manual techniques.",
+        "Characterized by many varied forms or components.",
+        "To firmly establish or secure a position.",
+        "Pertaining to a vibrant public celebration.",
+        "To skillfully control or influence an outcome.",
+        "Expressing a strong, formal declaration of principles.",
+        "To enumerate or list goods for official purposes.",
+        "To produce or provide in great abundance.",
+        "To bring into being through significant effort or planning.",
+        "Composed of an intricate network of interconnected parts."
+      ]
+    },
+    {
+      "word": "MANIFOLD",
+      "correct_definition": "diverse, varied",
+      "distractors": [
+        "Pertaining to manual dexterity or skill.",
+        "Readily apparent or clearly revealed.",
+        "Able to be bent or creased repeatedly.",
+        "Composed of numerous superimposed layers.",
+        "Extremely intricate or elaborately complex.",
+        "To become obvious or openly displayed.",
+        "Existing in great abundance or profusion.",
+        "Characterized by extreme exactness or precision.",
+        "To increase significantly in number or amount.",
+        "Crafted with painstaking attention to detail."
+      ]
+    },
+    {
+      "word": "MITIGATE",
+      "correct_definition": "to make less violent, alleviate",
+      "distractors": [
+        "To consider deeply and thoughtfully; ponder intently.",
+        "To bring a lawsuit against someone; engage in legal action.",
+        "To block or obstruct a passage; impede progress.",
+        "To damage severely or disfigure; cripple.",
+        "To formally propose or put forward; promulgate an idea.",
+        "To send or transmit information; relay a message.",
+        "To incite or provoke a negative action; instigate trouble.",
+        "To appoint or entrust a task to another; delegate responsibility.",
+        "To separate or divide into portions; parcel out.",
+        "To negotiate a treaty or agreement; mediate a dispute."
+      ]
+    },
+    {
+      "word": "MODERATE",
+      "correct_definition": "not extreme",
+      "distractors": [
+        "Belonging to the present or recent times.",
+        "Capable of being altered or regulated.",
+        "Conforming to a recognized pattern or style.",
+        "Exhibiting a quiet and polite disposition.",
+        "Requiring little strength or advanced knowledge.",
+        "Having a specific and somewhat limited function.",
+        "Known for being reserved and humble in nature.",
+        "Made suitable for a particular role or occasion.",
+        "Relating to popular contemporary trends.",
+        "Serving as a standard of excellence or design."
+      ]
+    },
+    {
+      "word": "MODULATE",
+      "correct_definition": "to pass from one state to another, especially in music",
+      "distractors": [
+        "To create a scaled representation or prototype for examination.",
+        "To establish a fixed standard or exemplary form for others to follow.",
+        "To combine separate components into a unified and functional system.",
+        "To lessen the intensity or severity of a reaction or process.",
+        "To carefully measure and adjust the proportions of ingredients.",
+        "To present a detailed plan or proposal for review and approval.",
+        "To apply a decorative or protective finish to a surface.",
+        "To identify and isolate the fundamental units of a complex system.",
+        "To influence or direct the course of an event without direct intervention.",
+        "To systematically organize information for clarity and understanding."
+      ]
+    },
+    {
+      "word": "NEBULOUS",
+      "correct_definition": "vaguely de\ufb01ned, cloudy",
+      "distractors": [
+        "Characterized by thick, low-lying atmospheric fog.",
+        "Emitting a faint, ethereal light in the darkness.",
+        "Indicating a concept that is newly introduced or developed.",
+        "Possessing a distinctly rounded or bulging shape.",
+        "Pertaining to the inhalation of fine medicinal mist.",
+        "Composed primarily of non-reactive noble gases.",
+        "Characterized by extreme obscurity or remoteness.",
+        "Having a coarse and uneven tactile surface.",
+        "Producing a soft, muted, and indistinct sound.",
+        "Causing a dramatic and unforeseen alteration."
+      ]
+    },
+    {
+      "word": "NEOPHYTE",
+      "correct_definition": "someone who is young or inexperienced",
+      "distractors": [
+        "A newly discovered species of plant.",
+        "Someone who advocates for radical new ideas.",
+        "A person with a strong aversion to change.",
+        "An expert in ancient botanical studies.",
+        "A recently developed synthetic material.",
+        "One who specializes in the restoration of old texts.",
+        "A type of microorganism found in fertile soil.",
+        "Someone who practices an emerging form of art.",
+        "A philosophical movement emphasizing new thought.",
+        "A chemical compound used to promote plant growth."
+      ]
+    },
+    {
+      "word": "NOVICE",
+      "correct_definition": "a beginner, someone without training or experience",
+      "distractors": [
+        "A person who frequently seeks out new and unfamiliar situations.",
+        "An individual who excels at developing revolutionary new ideas or inventions.",
+        "A recently published work of fiction, particularly a lengthy story.",
+        "A newly formed political party or social organization.",
+        "A strong and sudden desire for something entirely new.",
+        "Something that is entirely new and original in its creation or form.",
+        "A small, recently established company or venture.",
+        "A person who explores new and previously uncharted territories.",
+        "A fresh and invigorating quality, characteristic of a new beginning.",
+        "The act of bringing forth new information or making a new discovery."
+      ]
+    },
+    {
+      "word": "OBDURATE",
+      "correct_definition": "unyielding to persuasion or moral in\ufb02uences",
+      "distractors": [
+        "Pertaining to something that is exceptionally long-lasting or resilient against wear.",
+        "Displaying a lack of sharpness in intellect; slow to understand.",
+        "Having a tendency to intentionally conceal facts or make information unclear.",
+        "Referring to an object that is extremely difficult to break or penetrate due to its composition.",
+        "Characterized by a prolonged state of inactivity or dormancy, often for an extended period.",
+        "Marked by an inability to adapt effectively to new or changing environmental conditions.",
+        "Relating to the process of becoming physically hardened or solidified through natural forces.",
+        "Indicating a state of being completely absorbed in profound thought or contemplation.",
+        "Describing a style of speech or writing that is complex and difficult to follow.",
+        "Pertaining to a disease that causes a progressive hardening of tissues or arteries."
+      ]
+    },
+    {
+      "word": "OBSOLETE",
+      "correct_definition": "no longer used, out of date",
+      "distractors": [
+        "Being the single or only one of its kind.",
+        "Feeling completely uncomfortable or ill at ease.",
+        "Existing in a state of complete solitude or isolation.",
+        "Completely without a viable solution or answer.",
+        "Resistant to any change or new custom.",
+        "Hidden from view or obscured from light.",
+        "Lacking a firm foundation or stable base.",
+        "Standing firmly against opposition or challenge.",
+        "A state of profound seriousness or somber reflection.",
+        "Overly accustomed to a particular routine."
+      ]
+    }
+  ]
+}

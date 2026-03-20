@@ -1,0 +1,167 @@
+{
+  "level": 26,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_26.png",
+  "questions": [
+    {
+      "word": "FRAUGHT",
+      "correct_definition": "",
+      "distractors": [
+        "Easily broken or damaged; physically delicate and weak.",
+        "Characterized by deliberate deception or dishonesty; fraudulent.",
+        "Having become worn and tattered at the edges; unraveling.",
+        "To be deeply entrenched or established; firmly fixed.",
+        "Having been transported or delivered; conveyed from one point to another.",
+        "Devoid of purpose, meaning, or substantial content; empty.",
+        "Moving onward or forward in a continuous, uninterrupted progression.",
+        "To be formally charged with a crime or wrongdoing; arraigned.",
+        "Yielding abundant results or benefits; highly productive.",
+        "A preliminary sketch or written plan for something; a current of air."
+      ]
+    },
+    {
+      "word": "HAPLESS",
+      "correct_definition": "unlucky",
+      "distractors": [
+        "Lacking essential talent.",
+        "Having no definite goal.",
+        "Incapable of feeling pleasure.",
+        "Showing little concern for consequences.",
+        "Difficult to satisfy.",
+        "Displaying no strong emotions.",
+        "Having little or no enthusiasm.",
+        "Tending to make many mistakes.",
+        "Without a fixed residence.",
+        "Uninformed or uneducated."
+      ]
+    },
+    {
+      "word": "HAUGHTY",
+      "correct_definition": "disdainfully proud",
+      "distractors": [
+        "Characterized by great speed or swiftness.",
+        "Possessing robust health and vitality.",
+        "Difficult to overcome or achieve.",
+        "Standing at an impressive or notable height.",
+        "Marked by deep thought and serious consideration.",
+        "Having an ancient or venerable quality.",
+        "Exhibiting unwavering loyalty or steadfastness.",
+        "Prone to sudden bursts of emotion or temperament.",
+        "Displaying exceptional skill or intellectual ability.",
+        "Held in high esteem or public admiration."
+      ]
+    },
+    {
+      "word": "HEINOUS",
+      "correct_definition": "shockingly wicked, repugnant",
+      "distractors": [
+        "Pertaining to a feeling of deep reverence or respect.",
+        "Characterized by an unusual or distinct vocal tone.",
+        "Describing something that is exceptionally lofty or elevated.",
+        "Indicating a state of extreme dryness or aridity.",
+        "Suggesting a deep and unwavering sense of loyalty.",
+        "Marked by an exaggerated sense of self-importance.",
+        "Reflecting a sudden and surprising turn of events.",
+        "Relating to an object that is remarkably dense or heavy.",
+        "Referring to an intensely bright or luminous quality.",
+        "Characterized by a secretive and elusive nature."
+      ]
+    },
+    {
+      "word": "ILLICIT",
+      "correct_definition": "forbidden, not permitted",
+      "distractors": [
+        "Lacking clarity or lucidity.",
+        "Unable to be quoted or cited.",
+        "Not officially documented or recorded.",
+        "Without limitations or specified bounds.",
+        "Not easily calmed or pacified.",
+        "Lacking smooth flow or consistency.",
+        "Not displaying appropriate respect.",
+        "Lacking cordiality or warmth.",
+        "Unable to be accurately quantified.",
+        "Not easily elicited or stimulated."
+      ]
+    },
+    {
+      "word": "IMMERSE",
+      "correct_definition": "to absorb, deeply involve, engross",
+      "distractors": [
+        "To combine or blend two separate elements into a unified whole.",
+        "To enclose an object completely within a protective container.",
+        "To determine the exact size, depth, or extent of an area.",
+        "To cause something to appear or rise from a hidden or submerged state.",
+        "To prevent an action or process from fully developing or progressing.",
+        "To secure an item firmly in place within a supporting structure.",
+        "To provide a covering or coating over a surface for protection or finish.",
+        "To begin a new phase or project with careful preparation.",
+        "To reduce a complex issue to its simplest and most basic components.",
+        "To delay a decision or action, often due to uncertainty or reluctance."
+      ]
+    },
+    {
+      "word": "IMPINGE",
+      "correct_definition": "to impact, affect, make an impression",
+      "distractors": [
+        "To inflict a sharp, piercing pain or sensation.",
+        "To establish or fix something firmly in place.",
+        "To obstruct or impede the normal course of action.",
+        "To implant or embed a device or idea.",
+        "To cause a sudden, high-pitched noise to reverberate.",
+        "To surround or enclose something completely.",
+        "To restore or repair something to its original condition.",
+        "To analyze a text or situation with extreme precision.",
+        "To recoil or spring back quickly from a solid object.",
+        "To invalidate or render something ineffective."
+      ]
+    },
+    {
+      "word": "INHIBIT",
+      "correct_definition": "to prevent, restrain, stop",
+      "distractors": [
+        "To reside or dwell within a particular place.",
+        "To demonstrate or put something on public display.",
+        "To take into one's possession or control forcefully.",
+        "To inspire or encourage someone to act.",
+        "To absorb or take in deeply, as a liquid or idea.",
+        "To establish or implant firmly within something.",
+        "To apply a protective coating or covering.",
+        "To introduce or bring into common use.",
+        "To exist as an inherent part of something.",
+        "To infuse with a particular quality or characteristic."
+      ]
+    },
+    {
+      "word": "INSIPID",
+      "correct_definition": "dull, boring",
+      "distractors": [
+        "Lacking wisdom or good judgment.",
+        "Not having a strong scent or aroma.",
+        "Unable to speak clearly or articulately.",
+        "Marked by an absence of sound.",
+        "Not easily influenced or persuaded.",
+        "Having no fixed or regular pattern.",
+        "Difficult to ignite or set on fire.",
+        "Not providing sufficient protection or safety.",
+        "Lacking in sincerity or genuine emotion.",
+        "Incapable of being repaired or restored."
+      ]
+    },
+    {
+      "word": "INSULAR",
+      "correct_definition": "separated and narrow-minded; tight-knit, closed off",
+      "distractors": [
+        "Pertaining to the interior structure or core of an object.",
+        "Characteristic of a substance that does not dissolve in liquid; insoluble.",
+        "Having a quality that prevents the passage of heat, sound, or electricity.",
+        "Referring to the unique geological formations found on volcanic islands.",
+        "Describing something that is built or positioned directly into a wall or cavity.",
+        "Relating to the annual cycle of the sun or its perceived movement.",
+        "A state of emotional numbness or detachment; indifference.",
+        "Marked by an inability to sleep or persistent sleeplessness.",
+        "To secretly introduce an idea or feeling into someone's mind; to instill.",
+        "Existing as a single, unique specimen; peerless and exceptional."
+      ]
+    }
+  ]
+}

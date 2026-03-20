@@ -1,0 +1,167 @@
+{
+  "level": 17,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_17.png",
+  "questions": [
+    {
+      "word": "SERENE",
+      "correct_definition": "calm, untroubled",
+      "distractors": [
+        "Strict, severe, or austere.",
+        "Refined, elegant, or dignified.",
+        "Clear, transparent, or unclouded.",
+        "Dry, withered, or barren.",
+        "Mysterious, enigmatic, or elusive.",
+        "Bright, luminous, or radiant.",
+        "Solemn, serious, or grave.",
+        "Ancient, venerable, or time-honored.",
+        "Pure, unblemished, or immaculate.",
+        "Harmful, venomous, or deadly."
+      ]
+    },
+    {
+      "word": "STINGY",
+      "correct_definition": "not generous, not inclined to spend or give",
+      "distractors": [
+        "Causing a sharp, piercing pain or intense discomfort.",
+        "Pertaining to the venomous bite of an insect or similar creature.",
+        "Emitting a strong, foul odor; having an offensive smell.",
+        "Arranged in a long, continuous series or string-like formation.",
+        "Becoming rigid or inflexible; losing suppleness or pliancy.",
+        "To move with quick, sudden, and often jerky motions.",
+        "Having an acute and discerning gaze; sharply observant or perceptive.",
+        "Producing a low, vibrating hum or a dull, resonant sound.",
+        "Having a rough, coarse texture; abrasive to the touch.",
+        "Feeling a deep sense of resentment or bitterness; vexed."
+      ]
+    },
+    {
+      "word": "STOLID",
+      "correct_definition": "expressing little sensibility, unemotional",
+      "distractors": [
+        "Firm and unyielding in structure; robust.",
+        "Incapable of being moved or influenced by external forces.",
+        "Remaining in a fixed position without noticeable change.",
+        "Characterized by stubborn adherence to one's opinions or beliefs.",
+        "Having a heavy, cumbersome quality; ponderous.",
+        "Difficult to penetrate or break apart; durable.",
+        "Unable to progress or develop due to an impediment.",
+        "Marked by a complete absence of activity or motion.",
+        "Closely packed or dense in composition; compact.",
+        "Resolutely determined and unwavering in a course of action."
+      ]
+    },
+    {
+      "word": "TIRADE",
+      "correct_definition": "a long speech marked by harsh or biting language",
+      "distractors": [
+        "A state of prolonged physical or mental weariness.",
+        "A carefully planned sequence of maneuvers or operations.",
+        "A slow and difficult procession or journey.",
+        "A decorative border or trim, often intricately designed.",
+        "A sudden, strong current of air or water.",
+        "An ancient form of weaponry, typically a long spear.",
+        "A complex system of irrigation channels.",
+        "A feeling of intense anticipation mixed with apprehension.",
+        "The act of withdrawing from public life or an active role.",
+        "A difficult and prolonged negotiation or bargaining process."
+      ]
+    },
+    {
+      "word": "TORPID",
+      "correct_definition": "lethargic, dormant, lacking motion",
+      "distractors": [
+        "twisted, winding, spiraled, convoluted in shape.",
+        "agonizing, distressing, causing extreme mental suffering.",
+        "swollen, bloated, or pompously overblown in style.",
+        "murky, opaque, clouded with sediment or confusion.",
+        "scorching, intensely hot, arid and parched.",
+        "sunken, recessed, deeply hollowed out or concave.",
+        "destructive, undermining, causing ruin or collapse.",
+        "unlawful, injurious, constituting a civil wrong.",
+        "abrupt, forceful, moving with sudden violence.",
+        "grating, harsh, producing a discordant sound."
+      ]
+    },
+    {
+      "word": "TORRID",
+      "correct_definition": "giving off intense heat, passionate",
+      "distractors": [
+        "Characterized by extreme confusion or a state of opacity.",
+        "Marked by sluggishness, dormancy, or a lack of vigor.",
+        "Swollen or distended beyond normal limits; bombastic in style.",
+        "Relating to a sudden, violent, and copious rush of liquid.",
+        "Overwhelmed by intense fear or a sense of dread.",
+        "Experiencing deep internal conflict or emotional tearing.",
+        "Notably severe, frigid, or characterized by extreme cold.",
+        "Filled with profound sorrow, grief, or a mournful disposition.",
+        "Displaying a harsh, scathing, or severely critical tone.",
+        "Extremely dry, arid, or parched from lack of moisture."
+      ]
+    },
+    {
+      "word": "TURGID",
+      "correct_definition": "swollen, excessively embellished in style or language",
+      "distractors": [
+        "Murky or opaque, particularly concerning water or liquids; unclear.",
+        "Inflexible and unyielding in character or principle; obstinate.",
+        "Sluggish or inactive; displaying a lack of energy or vitality.",
+        "Characterized by disorder or commotion; highly agitated.",
+        "Strongly built and difficult to damage; robust and enduring.",
+        "To insist upon or compel action; to push forward with force.",
+        "Intricate and perplexing in nature; difficult to understand or unravel.",
+        "Harsh or severe in manner or effect; stern and unsparing.",
+        "Twisted or distorted out of natural shape; convoluted.",
+        "Brief and to the point; concise but often abrupt."
+      ]
+    },
+    {
+      "word": "UTOPIA",
+      "correct_definition": "an imaginary and remote place of perfection",
+      "distractors": [
+        "A detailed study of the physical features of a specific region.",
+        "A medical condition characterized by the abnormal growth of tissue.",
+        "A profound and often irrational fear of confined or enclosed spaces.",
+        "An intricate celestial map illustrating constellations and planetary orbits.",
+        "A formal system of religious beliefs centered on a single divine entity.",
+        "A traditional ceremony performed to bless new structures or territories.",
+        "An ancient, sacred text containing prophecies and divine commandments.",
+        "A sudden, uncontrollable urge to travel to distant and unfamiliar lands.",
+        "A complex philosophical theory concerning the nature of reality and existence.",
+        "A specialized device for measuring the exact altitude of high-flying aircraft."
+      ]
+    },
+    {
+      "word": "WANE",
+      "correct_definition": "to decrease in size, dwindle",
+      "distractors": [
+        "To deviate from a straight course; to swerve.",
+        "To utter a mournful, prolonged cry; to lament.",
+        "To polish or smooth a surface; to buff.",
+        "To detach or separate from a habitual source; to discontinue.",
+        "To cause to lean or tilt to one side; to incline.",
+        "To spread out in a wide, irregular pattern; to disperse.",
+        "To apply a protective coating; to glaze.",
+        "To struggle with difficulty; to toil.",
+        "To declare with emphasis; to assert.",
+        "To move slowly and heavily; to lumber."
+      ]
+    },
+    {
+      "word": "WILY",
+      "correct_definition": "crafty, sly",
+      "distractors": [
+        "Full of willpower; resolute.",
+        "Easily persuaded or compliant.",
+        "Weak in constitution; frail.",
+        "Moving with a wavering or unsteady motion.",
+        "Characterized by a loud, piercing cry.",
+        "Marked by severe weather; stormy.",
+        "Inclined to hesitate or delay; indecisive.",
+        "Possessing great skill or dexterity.",
+        "Easily bent or shaped; flexible.",
+        "Causing annoyance or vexation; troublesome."
+      ]
+    }
+  ]
+}

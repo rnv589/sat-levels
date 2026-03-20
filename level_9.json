@@ -1,0 +1,167 @@
+{
+  "level": 9,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_9.png",
+  "questions": [
+    {
+      "word": "ARABLE",
+      "correct_definition": "suitable for growing crops",
+      "distractors": [
+        "Suitable for circulating air or gases.",
+        "Capable of being created with artistic skill.",
+        "Open to logical discussion or debate.",
+        "Pertaining to ancient ruins or artifacts.",
+        "Capable of covering a large geographic region.",
+        "Readily available for immediate use.",
+        "Deserving of respect or admiration.",
+        "Prone to becoming easily irritated or annoyed.",
+        "Capable of being understood through abstract reasoning.",
+        "Characterized by extreme dryness or barrenness."
+      ]
+    },
+    {
+      "word": "ARCANE",
+      "correct_definition": "obscure, secret, known only by a few",
+      "distractors": [
+        "Pertaining to ancient historical records or archaeological sites; extremely old.",
+        "Having a strong, pungent, and often unpleasant odor or taste; sharply acrid.",
+        "Characterized by a distinct, sweeping curve or an architectural arch; curvilinear.",
+        "Exhibiting intense emotion or fervent passion; zealously enthusiastic.",
+        "Extremely cold or chilly; reminiscent of frigid, polar regions.",
+        "To move with a stiff, unnatural gait, as if supported by a staff; to hobble.",
+        "Displaying excessive pride or an exaggerated sense of self-importance; haughty.",
+        "Relating to the fundamental principles or earliest origins of a subject; primordial.",
+        "Difficult to approach or access due to rugged terrain; remote and inaccessible.",
+        "A state of extreme confusion or profound disarray; chaotic and disordered."
+      ]
+    },
+    {
+      "word": "ASPIRE",
+      "correct_definition": "to long for, aim toward",
+      "distractors": [
+        "To breathe deeply and slowly.",
+        "To rise swiftly and steeply.",
+        "To utter with a sudden gasp.",
+        "To draw out slowly, as a fluid.",
+        "To expel air or gas with force.",
+        "To form into a rigid, pointed shape.",
+        "To escape confinement with effort.",
+        "To absorb into oneself rapidly.",
+        "To become visible from a distance.",
+        "To utter a sharp, piercing sound."
+      ]
+    },
+    {
+      "word": "ASSAIL",
+      "correct_definition": "to attack",
+      "distractors": [
+        "To journey across the sea.",
+        "To make less severe or burdensome.",
+        "To determine the quality or value of.",
+        "To fully understand or integrate knowledge.",
+        "To bring together in a unified group.",
+        "To designate for a specific role or purpose.",
+        "To offer help or provide assistance.",
+        "To climb upward or reach a higher point.",
+        "To state a belief or fact confidently.",
+        "To agree to a proposal or request."
+      ]
+    },
+    {
+      "word": "ASSESS",
+      "correct_definition": "to evaluate",
+      "distractors": [
+        "to formally place someone in a role",
+        "to cause something to remain fixed",
+        "to firmly attach one item to another",
+        "to demand payment from a person",
+        "to assign a particular seating order",
+        "to remove a person from an office",
+        "to levy a financial charge or tax",
+        "to furnish with a stable base",
+        "to categorize items systematically",
+        "to determine a future plan"
+      ]
+    },
+    {
+      "word": "ASTUTE",
+      "correct_definition": "very clever, crafty",
+      "distractors": [
+        "Relating to the study of stars or celestial phenomena.",
+        "Possessing great physical strength and stamina.",
+        "Moving with quick, agile, and graceful motions.",
+        "To install or firmly establish in a particular position.",
+        "Having a deep, resonant, and often mournful sound.",
+        "Extremely old or belonging to an earlier historical period.",
+        "To silence or make someone unable to articulate words.",
+        "Displaying a strong, unwavering commitment or loyalty.",
+        "Lacking common sense or practical understanding; foolish.",
+        "Prone to sudden, intense bursts of emotion or anger."
+      ]
+    },
+    {
+      "word": "ASYLUM",
+      "correct_definition": "a place of refuge, protection, a sanctuary",
+      "distractors": [
+        "A state of complete disorder or chaotic conditions.",
+        "A profound lack of illumination or visual clarity.",
+        "A formal mode of address or a specific rhetorical device.",
+        "A baseless assumption or an unproven theory.",
+        "A condition of extreme opaqueness or light absorption.",
+        "A sudden onset of involuntary muscle contractions.",
+        "A complete absence of sound or audible stimuli.",
+        "A narrow passageway or an isolated landmass.",
+        "A chemical process involving the breaking down of complex substances.",
+        "A lack of inherent ability or a natural talent."
+      ]
+    },
+    {
+      "word": "ATTAIN",
+      "correct_definition": "to achieve, arrive at",
+      "distractors": [
+        "To restrain or hold back from action.",
+        "To make a firm promise or commitment.",
+        "To relate closely or be relevant to.",
+        "To keep in one's possession or maintain.",
+        "To delay or hold up progress.",
+        "To provide support or assistance.",
+        "To accuse or blame someone for a fault.",
+        "To attempt to do something difficult.",
+        "To establish or confirm a fact.",
+        "To clarify or explain something thoroughly."
+      ]
+    },
+    {
+      "word": "BALK",
+      "correct_definition": "to stop, block abruptly",
+      "distractors": [
+        "To speak loudly and harshly.",
+        "To carry a heavy load or burden.",
+        "To construct a raised platform or structure.",
+        "To provide stability or counterbalance.",
+        "To make a solemn promise or vow.",
+        "To sway or waver unsteadily.",
+        "To clear a path or remove impediments.",
+        "To shine brightly or radiate light.",
+        "To measure the dimensions of an object.",
+        "To engage in a loud, boisterous argument."
+      ]
+    },
+    {
+      "word": "BALLAD",
+      "correct_definition": "a love song",
+      "distractors": [
+        "A slow, graceful dance.",
+        "A type of ceremonial public address.",
+        "A narrative about a young male hero.",
+        "A small, spherical decorative object.",
+        "A festive and formal social event.",
+        "A specific maneuver in a sport involving a ball.",
+        "A state of perfect balance or stability.",
+        "A type of ancient projectile weapon.",
+        "A short, witty piece of verse.",
+        "A traditional folk tale passed orally."
+      ]
+    }
+  ]
+}

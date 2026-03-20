@@ -1,0 +1,167 @@
+{
+  "level": 91,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_91.png",
+  "questions": [
+    {
+      "word": "INCORRIGIBLE",
+      "correct_definition": "incapable of correction, delinquent",
+      "distractors": [
+        "Lacking courage or conviction; cowardly.",
+        "Unable to be manipulated or controlled; independent.",
+        "Not capable of being influenced by bribes; incorruptible.",
+        "Difficult to understand or interpret; obscure.",
+        "Having no fixed moral principles; amoral.",
+        "Unable to adapt to new situations; inflexible.",
+        "Not able to be reversed or undone; irreversible.",
+        "Resistant to physical damage or wear; durable.",
+        "Lacking a clear or logical structure; disjointed.",
+        "Difficult to manage or control; unruly."
+      ]
+    },
+    {
+      "word": "INEXORABLE",
+      "correct_definition": "incapable of being persuaded or placated",
+      "distractors": [
+        "Incapable of being articulated or clearly expressed in words.",
+        "Extending beyond what is reasonable or customary; exorbitant.",
+        "Impossible to remove or extract from a fixed position.",
+        "Not capable of being disentangled or untangled; inextricable.",
+        "Lacking precision or accuracy in measurement or description.",
+        "Not based on direct experience or observation; theoretical.",
+        "Immune to supernatural forces or divine intervention.",
+        "Incapable of independent motion or physical movement.",
+        "Impossible to conceal or keep secret; bound to be revealed.",
+        "Beyond the scope of human understanding or comprehension."
+      ]
+    },
+    {
+      "word": "INJUNCTION",
+      "correct_definition": "an order of of\ufb01cial warning",
+      "distractors": [
+        "A surgical procedure involving the fusion of tissues.",
+        "The act of forcefully inserting a liquid into a container.",
+        "A legal ruling concerning the division of property.",
+        "An intricate system of interconnected passageways.",
+        "A formal declaration of severe disapproval.",
+        "A place where two distinct paths meet.",
+        "A solemn promise or binding agreement.",
+        "A sudden, sharp internal physical sensation.",
+        "The process of joining individuals into a collective group.",
+        "An official record of proceedings or events."
+      ]
+    },
+    {
+      "word": "INQUISITOR",
+      "correct_definition": "one who inquires, especially in a hostile manner",
+      "distractors": [
+        "One who precisely determines the value of rare objects.",
+        "One who gathers and collects items for a personal treasury.",
+        "One who enforces a strict code of conduct or ethics.",
+        "One who skillfully manipulates others to achieve specific goals.",
+        "One who meticulously documents historical events or findings.",
+        "One who is an expert in the intricate preparation of exotic dishes.",
+        "One who is responsible for the official acquisition of resources.",
+        "One who makes urgent and fervent appeals for justice.",
+        "One who maintains order and discipline within a large group.",
+        "One who carefully constructs elaborate and ingenious devices."
+      ]
+    },
+    {
+      "word": "INTERLOCUTOR",
+      "correct_definition": "someone who participates in a dialogue or conversation",
+      "distractors": [
+        "Someone who is an expert in the study of local dialects and regional languages.",
+        "Someone who delivers a formal speech or public declaration to an audience.",
+        "Someone who mediates disagreements or conflicts between opposing parties.",
+        "Someone who precisely determines the geographical position or coordinates of a place.",
+        "Someone who frequently interjects disruptive comments or interruptions into a discussion.",
+        "Someone who diligently compiles a written record or log of proceedings.",
+        "Someone who specializes in crafting eloquent and persuasive written arguments.",
+        "Someone who acts as a go-between for financial transactions or agreements.",
+        "Someone who is responsible for securely locking away valuable documents.",
+        "Someone who frequently travels between various locations and countries."
+      ]
+    },
+    {
+      "word": "INTERMINABLE",
+      "correct_definition": "without possibility of end",
+      "distractors": [
+        "Occurring at intervals between scheduled times.",
+        "Relating to the mutual agreement reached by parties.",
+        "Situated or existing entirely within defined limits.",
+        "Not capable of being described in specific terms.",
+        "Subject to specific conditions that influence its outcome.",
+        "Difficult to interpret due to ambiguous terminology.",
+        "Marked by a succession of final and distinct stages.",
+        "Pertaining to a critical juncture or turning point.",
+        "Unable to be confined within a particular physical space.",
+        "Not subject to division into distinct categories."
+      ]
+    },
+    {
+      "word": "INTRANSIGENT",
+      "correct_definition": "refusing to compromise, often on an extreme opinion",
+      "distractors": [
+        "Incapable of being transported or moved from its original position.",
+        "Referring to something that is not temporary or fleeting; permanent.",
+        "Describing an object or substance that cannot be seen through; opaque.",
+        "Lacking the power to initiate action or movement; inactive.",
+        "Unwilling to transition between different states or phases.",
+        "Not capable of undergoing significant change or transformation; rigid.",
+        "Pertaining to something that is not clear or easily understood; obscure.",
+        "Unable to be grasped or perceived by touch; intangible.",
+        "Characterized by a strong resistance to outside influences or external pressures.",
+        "Referring to a path or course that cannot be crossed or traversed."
+      ]
+    },
+    {
+      "word": "INVETERATE",
+      "correct_definition": "stubbornly established by habit",
+      "distractors": [
+        "newly established and not yet fully developed",
+        "lacking significant experience or long practice",
+        "to formally reject a proposal or decision",
+        "to carefully examine and appraise for suitability",
+        "to force a substance into a body or system",
+        "to make someone extremely angry or impatient",
+        "to enter a place or situation without invitation or permission",
+        "to call upon for aid, inspiration, or support",
+        "to cause widespread destruction and ruin",
+        "impervious to the effects of aging or deterioration"
+      ]
+    },
+    {
+      "word": "INVIOLABLE",
+      "correct_definition": "secure from assault",
+      "distractors": [
+        "unwilling to yield or compromise",
+        "unable to be seen or detected by sight",
+        "impossible to influence or persuade easily",
+        "free from any kind of defect or flaw",
+        "resistant to all forms of external pressure",
+        "not subject to change or alteration over time",
+        "incapable of being injured or harmed emotionally",
+        "beyond the capacity for human comprehension",
+        "a solemn promise that must be kept",
+        "incapable of being reversed or undone"
+      ]
+    },
+    {
+      "word": "MALEVOLENT",
+      "correct_definition": "wanting harm to befall others",
+      "distractors": [
+        "Unwilling to participate or offer assistance.",
+        "Characterized by unpredictable and often violent mood swings.",
+        "Possessing an inherently flawed or imperfect moral character.",
+        "Intending to deceive or mislead others for personal gain.",
+        "Exhibiting consistently poor judgment or decision-making.",
+        "Prone to speaking ill of others or spreading rumors.",
+        "Demonstrating a lack of strong personal resolve or determination.",
+        "Tending to disregard the feelings or welfare of others through negligence.",
+        "Lacking the necessary skill or ability to perform a task well.",
+        "Seeking personal advantage by undermining others' reputations."
+      ]
+    }
+  ]
+}

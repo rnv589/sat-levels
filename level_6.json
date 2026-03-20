@@ -1,0 +1,167 @@
+{
+  "level": 6,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_6.png",
+  "questions": [
+    {
+      "word": "ENNUI",
+      "correct_definition": "boredom, weariness",
+      "distractors": [
+        "Irritation, exasperation.",
+        "Resentment, animosity.",
+        "Apathy, indifference.",
+        "Profound melancholy, despondency.",
+        "Spiritual emptiness, lack of purpose.",
+        "Gentle persuasion, inducement.",
+        "Deep concentration, mental absorption.",
+        "A sudden rush of energy, invigoration.",
+        "Acute discomfort, unease.",
+        "A strong desire, yearning."
+      ]
+    },
+    {
+      "word": "FERAL",
+      "correct_definition": "wild, savage",
+      "distractors": [
+        "Relating to the production of fruit or offspring.",
+        "Characterized by deep-seated anxiety or apprehension.",
+        "Prone to making errors or mistakes.",
+        "To bear or carry a burden or responsibility.",
+        "Having a strong, metallic taste or odor.",
+        "Excessively formal or rigid in behavior.",
+        "Marked by an intense passion or strong emotion.",
+        "To move from one place to another, especially by water.",
+        "Shy or withdrawn in social situations.",
+        "Causing a fever or rise in body temperature."
+      ]
+    },
+    {
+      "word": "FETID",
+      "correct_definition": "having a foul odor",
+      "distractors": [
+        "Relating to a lavish public celebration.",
+        "Characterized by fervent passion or zeal.",
+        "Capable of producing abundant growth.",
+        "Marked by an inability to change or adapt.",
+        "A notable accomplishment or heroic deed.",
+        "Pertaining to the prenatal stage of development.",
+        "Bound or restricted by chains or restraints.",
+        "Given to excessive or wasteful spending.",
+        "Swift and decisive in action or movement.",
+        "Engaged in a prolonged and bitter dispute."
+      ]
+    },
+    {
+      "word": "FORUM",
+      "correct_definition": "a medium for lecture or discussion",
+      "distractors": [
+        "A rigid framework or supporting structure for an edifice.",
+        "A preparatory stage or initial phase of an academic study.",
+        "A formal decree or official declaration issued by an authority.",
+        "A designated plot of agricultural land used for cultivation.",
+        "A protective barrier or enclosure placed around a valuable artifact.",
+        "An intricate pattern or design used primarily in classical architecture.",
+        "A tool or device used for shaping or molding various materials.",
+        "A standardized procedure or accepted method for conducting a task.",
+        "A substance or chemical compound designed to produce a bubbly lather.",
+        "A collection of ancient manuscripts or historical archives."
+      ]
+    },
+    {
+      "word": "GUILE",
+      "correct_definition": "deceitful, cunning, sly behavior",
+      "distractors": [
+        "A profound feeling of remorse or responsibility for a transgression.",
+        "The state of being naive or easily tricked by others.",
+        "A strong, sudden outburst or rush of wind.",
+        "A deep, narrow chasm or ravine, often treacherous to cross.",
+        "The act of providing careful direction or assistance through a complex situation.",
+        "An organization or fraternity of individuals united by common interests or profession.",
+        "A decorative or ceremonial outer garment, often worn for special occasions.",
+        "A sense of joyous revelry or exuberant celebration.",
+        "A protective covering or barrier intended to shield from danger or harm.",
+        "An intricate and complex system of regulations or processes."
+      ]
+    },
+    {
+      "word": "HARDY",
+      "correct_definition": "robust, capable of surviving through adverse conditions",
+      "distractors": [
+        "difficult to accomplish or overcome due to inherent challenges",
+        "unbending in principle or strict in adherence to rules",
+        "having a dense, unyielding texture or surface that resists penetration",
+        "lacking in sympathy or emotional warmth; insensitive to others' feelings",
+        "requiring great exertion or strenuous labor to complete successfully",
+        "profoundly felt or sincerely expressed, especially in an emotional context",
+        "imposing a heavy load or a severe test on one's endurance or resources",
+        "characterized by a rough, grating, or unpleasant sound that is harsh",
+        "stubbornly resistant to persuasion or change, unyielding in opinion",
+        "complex and challenging to comprehend or analyze due to intricacy"
+      ]
+    },
+    {
+      "word": "INANE",
+      "correct_definition": "silly and meaningless",
+      "distractors": [
+        "Existing from birth; inherent.",
+        "Unable to be changed or removed.",
+        "Lacking the capacity for emotional response.",
+        "Marked by a complete absence of sound.",
+        "Confined within a specific space or area.",
+        "Incapable of being appeased or satisfied.",
+        "Causing intense pain or suffering.",
+        "Characterized by deep, introspective thought.",
+        "Difficult to comprehend or explain clearly.",
+        "Having an unyielding or inflexible will."
+      ]
+    },
+    {
+      "word": "INEPT",
+      "correct_definition": "not suitable or capable, unquali\ufb01ed",
+      "distractors": [
+        "not easily moved or affected by emotion, stoic",
+        "not easily noticeable or obvious, inconspicuous",
+        "not easily managed or controlled, unruly",
+        "not easily contained or held back, unrestrained",
+        "not easily broken or defeated, resilient",
+        "relating to the innermost thoughts or feelings, intimate",
+        "tending to obstruct or hinder progress, obstructive",
+        "placed deeply within a structure or system, intrinsic",
+        "kept hidden or private from others, confidential",
+        "lacking something crucial or fundamental, incomplete"
+      ]
+    },
+    {
+      "word": "INURE",
+      "correct_definition": "to cause someone or something to become accustomed to a situation",
+      "distractors": [
+        "To formally enter into a legal agreement.",
+        "To invalidate a previous decree or judgment.",
+        "To initiate a new legal proceeding or appeal.",
+        "To confirm the legality of an action or decision.",
+        "To deny someone their rightful inheritance or claim.",
+        "To ensure the longevity or durability of a material.",
+        "To ignite a passion or strong desire within someone.",
+        "To introduce a novel method or innovative practice.",
+        "To put into effect a binding contract or obligation.",
+        "To compel adherence to strict rules or regulations."
+      ]
+    },
+    {
+      "word": "LITHE",
+      "correct_definition": "graceful, \ufb02exible, supple",
+      "distractors": [
+        "Composed of or resembling stone; stony.",
+        "Having a melodic or rhythmic quality; musical.",
+        "Characterized by a cheerful and carefree disposition.",
+        "Emitting a soft, radiant glow; luminous.",
+        "Small in size or stature; diminutive.",
+        "Unable to be broken or overcome; unyielding.",
+        "Moving with great speed and quickness.",
+        "Calm and composed, especially under pressure.",
+        "Easily influenced or persuaded; impressionable.",
+        "Marked by bitter or harsh language; acrimonious."
+      ]
+    }
+  ]
+}

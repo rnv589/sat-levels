@@ -1,0 +1,167 @@
+{
+  "level": 11,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_11.png",
+  "questions": [
+    {
+      "word": "COERCE",
+      "correct_definition": "to make somebody do something by force or threat",
+      "distractors": [
+        "To join together in a unified effort or cause.",
+        "To prepare something for an important public display.",
+        "To adjust or fine-tune a delicate mechanism.",
+        "To create a complex and intricate design.",
+        "To surround and protect a vulnerable area.",
+        "To formally present a legal argument in court.",
+        "To bring about a deep emotional response in others.",
+        "To establish a cooperative relationship between groups.",
+        "To solidify liquid substances into a stable form.",
+        "To provide clear and concise instructions for a task."
+      ]
+    },
+    {
+      "word": "COGENT",
+      "correct_definition": "intellectually convincing",
+      "distractors": [
+        "Acting in a unified and collaborative manner.",
+        "Pertaining to one's origin or genetic makeup.",
+        "Possessing a polite and well-mannered disposition.",
+        "Operating with precise, intricate mechanical function.",
+        "Requiring a high degree of mental effort or concentration.",
+        "Being intrinsically strong and durable.",
+        "Forming a coherent, integrated system.",
+        "Displaying keen awareness or perceptiveness.",
+        "Stemming from a specific social class or lineage.",
+        "Compelled by external forces or pressures."
+      ]
+    },
+    {
+      "word": "DEARTH",
+      "correct_definition": "a lack, scarcity",
+      "distractors": [
+        "A strong emotional attachment or fondness.",
+        "The deepest part or lowest point.",
+        "A state of profound sadness or mourning.",
+        "A vast expanse or broad area.",
+        "A deep, guttural sound.",
+        "A valuable possession or cherished item.",
+        "A heavy burden or difficult task.",
+        "The end or termination of something.",
+        "A period of severe hardship.",
+        "A dense, rich type of soil."
+      ]
+    },
+    {
+      "word": "DEBASE",
+      "correct_definition": "to lower the quality or esteem of something",
+      "distractors": [
+        "To remove the structural foundation or support of something.",
+        "To establish a temporary or makeshift base of operations.",
+        "To convert a complex substance into its fundamental base components.",
+        "To physically lower an object to its absolute bottom or floor.",
+        "To reverse the chemical process that forms a basic solution.",
+        "To subtract a numerical value from a given starting base.",
+        "To clear land for the construction of a new foundation.",
+        "To dismantle and relocate a fortified military outpost.",
+        "To extract the essential or core meaning from a text.",
+        "To reject a proposal based on its underlying assumptions."
+      ]
+    },
+    {
+      "word": "DEFACE",
+      "correct_definition": "to ruin or injure something\u2019s appearance",
+      "distractors": [
+        "To confront a challenging situation directly.",
+        "To remove the outermost layer or covering.",
+        "To formally deny an accusation or claim.",
+        "To turn away from a difficult or unpleasant task.",
+        "To deliberately obscure the features of a person or object.",
+        "To determine the precise boundaries or limits.",
+        "To express strong opposition or disagreement.",
+        "To reverse the normal orientation of something.",
+        "To officially remove a name from a list or record.",
+        "To avoid making eye contact with someone."
+      ]
+    },
+    {
+      "word": "DEMEAN",
+      "correct_definition": "to lower the status or stature of something",
+      "distractors": [
+        "To strip something of its intended significance.",
+        "To calculate the average value of a set of data.",
+        "To cause a sudden decrease in the overall quantity of a substance.",
+        "To thoroughly comprehend the underlying purpose of a statement.",
+        "To make a difficult situation less severe or intense.",
+        "To break down complex information into simpler parts.",
+        "To interpret the hidden message within a cryptic text.",
+        "To alter one's general behavior or outward manner.",
+        "To detach from a previously held emotional connection.",
+        "To identify the most critical error in a flawed argument."
+      ]
+    },
+    {
+      "word": "DEMURE",
+      "correct_definition": "quiet, modest, reserved",
+      "distractors": [
+        "To express polite disagreement or hesitation.",
+        "Characterized by a stern and unyielding disposition.",
+        "To show a significant decrease in power or influence.",
+        "To remove an obstruction or hindrance.",
+        "Having a tendency to procrastinate or delay action.",
+        "To formally request something with great earnestness.",
+        "Marked by an artificial or exaggerated display of emotion.",
+        "To break down into smaller, simpler components.",
+        "Openly defiant or rebellious against authority.",
+        "To restore an item to its original, pristine condition."
+      ]
+    },
+    {
+      "word": "DERIDE",
+      "correct_definition": "to laugh at mockingly, scorn",
+      "distractors": [
+        "To remove from a position of prominence or respect.",
+        "To determine the underlying source or origin of an idea.",
+        "To move with great speed or impetuosity.",
+        "To cause a rapid downward slope or decline.",
+        "To separate a whole into distinct and independent parts.",
+        "To refuse to obey or openly challenge authority.",
+        "To free oneself from a difficult or oppressive situation.",
+        "To assert forceful control or dominance over another.",
+        "To ponder or reflect deeply on a complex subject.",
+        "To prevent or dissuade from a particular course of action."
+      ]
+    },
+    {
+      "word": "DESPOT",
+      "correct_definition": "one who has total power and rules brutally",
+      "distractors": [
+        "A person renowned for their ability to bring peace and resolution to conflicts.",
+        "One who manages an enterprise with exceptional efficiency and strategic foresight.",
+        "A system of governance characterized by strict adherence to established laws and principles.",
+        "An individual dedicated to the meticulous study and preservation of ancient languages.",
+        "A rigid social hierarchy where lineage determines one's rights and responsibilities.",
+        "One who openly expresses dissent and challenges prevailing political ideologies.",
+        "A condition of extreme disarray and administrative chaos within an organization.",
+        "A person possessing an exceptional innate talent for artistic creation or performance.",
+        "One who commands respect and loyalty through moral authority and exemplary conduct.",
+        "A secluded settlement or community known for its self-sufficiency and unique customs."
+      ]
+    },
+    {
+      "word": "DISPEL",
+      "correct_definition": "to drive away, scatter",
+      "distractors": [
+        "To disengage a moving part or mechanism.",
+        "To argue against a widely held belief.",
+        "To break a magical charm or spell.",
+        "To shed an outer skin or layer.",
+        "To make something appear unattractive or undesirable.",
+        "To forcefully deny an accusation.",
+        "To cause a liquid to spill or overflow.",
+        "To spread information that is false or misleading.",
+        "To express strong disapproval or condemnation.",
+        "To remove a necessary component, rendering something useless."
+      ]
+    }
+  ]
+}

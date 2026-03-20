@@ -1,0 +1,167 @@
+{
+  "level": 83,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_83.png",
+  "questions": [
+    {
+      "word": "HARROWING",
+      "correct_definition": "greatly distressing, vexing",
+      "distractors": [
+        "Pertaining to the careful cultivation of land; agricultural.",
+        "Having an extremely sharp point or edge; acutely honed.",
+        "Moving with extreme speed and urgency; rapid.",
+        "Reaching an imposing or formidable height; towering.",
+        "Producing a loud, piercing, or shrill sound; cacophonous.",
+        "Exhibiting intense anger or aggressive behavior; bellicose.",
+        "Skillful in tracking game or following a difficult trail.",
+        "Characterized by a coarse, uneven, or rugged surface.",
+        "Causing severe damage or widespread ruin; destructive.",
+        "Marked by continuous or persistent effort; unceasing."
+      ]
+    },
+    {
+      "word": "IGNOMINIOUS",
+      "correct_definition": "humiliating, disgracing",
+      "distractors": [
+        "unaware; ignorant",
+        "ominous; foreboding",
+        "incomprehensible; obscure",
+        "unnamed; undesignated",
+        "unwilling to acknowledge; deny",
+        "unnoticed; overlooked",
+        "forgotten; unremembered",
+        "unworthy of notice; insignificant",
+        "undistinguished; ordinary",
+        "unidentifiable; indefinable"
+      ]
+    },
+    {
+      "word": "IMPASSIVE",
+      "correct_definition": "stoic, not susceptible to suffering",
+      "distractors": [
+        "Not allowing passage or penetration; impenetrable.",
+        "Lacking the ability to move or initiate action.",
+        "Unable to be influenced or persuaded by external forces.",
+        "Having no discernible effect or impact on its surroundings.",
+        "A state of being stuck without a clear way forward.",
+        "Not subject to decay or deterioration over time.",
+        "Lacking any strong identifying features or distinctiveness.",
+        "To be without the necessary authorization or permission to proceed.",
+        "Incapable of sharing information or knowledge effectively.",
+        "Resistant to change or transformation; unyielding."
+      ]
+    },
+    {
+      "word": "IMPECUNIOUS",
+      "correct_definition": "poor",
+      "distractors": [
+        "Flawless",
+        "Impulsive",
+        "Unyielding",
+        "A hindrance",
+        "Unwavering",
+        "Incomprehensible",
+        "Indistinct",
+        "Untrustworthy",
+        "Uncouth",
+        "Unambitious"
+      ]
+    },
+    {
+      "word": "IMPERTINENT",
+      "correct_definition": "rude, insolent",
+      "distractors": [
+        "Not enduring or permanent.",
+        "Incapable of being penetrated or affected.",
+        "About to happen; impending.",
+        "Difficult to perceive or understand clearly.",
+        "Lacking proper boundaries or limits.",
+        "Not fully developed or mature.",
+        "Having a negative or harmful effect.",
+        "Referring to something that is forbidden or not permitted.",
+        "Showing a great lack of skill or expertise.",
+        "Unable to be moved or changed by outside influence."
+      ]
+    },
+    {
+      "word": "IMPREGNABLE",
+      "correct_definition": "resistant to capture or penetration",
+      "distractors": [
+        "Unable to be saturated or thoroughly permeated.",
+        "Incapable of conceiving or initiating new life.",
+        "Not susceptible to being impressed or marked deeply.",
+        "Lacking the ability to prepare effectively for future events.",
+        "Difficult to govern or bring under administrative control.",
+        "Unable to be fully understood or grasped intellectually.",
+        "Unable to be compressed or reduced in volume.",
+        "Not easily influenced or persuaded by others' opinions.",
+        "Incapable of being broken down or decomposed chemically.",
+        "Possessing an inherent inability to develop or mature."
+      ]
+    },
+    {
+      "word": "INCLINATION",
+      "correct_definition": "a tendency, propensity",
+      "distractors": [
+        "A significant physical slump or collapse.",
+        "The act of bowing or bending one's body as a gesture.",
+        "A steep downward slope or gradient.",
+        "A firm refusal or formal rejection.",
+        "The precise arrangement or alignment of components.",
+        "A strong emotional attraction or affection.",
+        "The definitive end or resolution of a matter.",
+        "An authoritative directive or command.",
+        "A marked deterioration or decline.",
+        "The power to sway or influence others."
+      ]
+    },
+    {
+      "word": "INDIGNATION",
+      "correct_definition": "anger sparked by something unjust or unfair",
+      "distractors": [
+        "A profound feeling of belonging to a specific community or group.",
+        "The state of being unknown or completely disregarded by others.",
+        "A sudden rush of inspiration or creative energy for a task.",
+        "The act of shaming or publicly humiliating another person.",
+        "Deep sadness or despair resulting from a personal failure.",
+        "A strong preference for one's own country over all others.",
+        "The process of gradually eroding one's reputation or standing.",
+        "A feeling of extreme humility or profound self-abasement.",
+        "The experience of being lost or disoriented in unfamiliar surroundings.",
+        "A complete lack of interest or enthusiasm for a particular subject."
+      ]
+    },
+    {
+      "word": "INDOMITABLE",
+      "correct_definition": "not capable of being conquered",
+      "distractors": [
+        "not capable of being easily influenced by others.",
+        "not capable of being confined to a specific area.",
+        "not capable of being proven false or incorrect.",
+        "not capable of becoming inactive or suppressed.",
+        "not capable of being easily deterred or discouraged.",
+        "not capable of forming a lasting bond or connection.",
+        "not capable of mastering complex tasks or challenges.",
+        "not capable of being imitated or copied perfectly.",
+        "not capable of making a decisive judgment or ruling.",
+        "not capable of being brought to a state of calm or peace."
+      ]
+    },
+    {
+      "word": "INTERJECT",
+      "correct_definition": "to insert between other things",
+      "distractors": [
+        "To throw out or expel something forcefully.",
+        "To strongly object to an idea or proposal.",
+        "To cast a shadow or image onto a surface.",
+        "To refuse to accept or consider something.",
+        "To introduce a liquid or substance into a body.",
+        "To mediate or act as an intermediary in a dispute.",
+        "To place oneself between two opposing forces.",
+        "To cause a sudden and unwelcome interruption.",
+        "To prohibit or forbid an action or event.",
+        "To combine different elements into a unified whole."
+      ]
+    }
+  ]
+}

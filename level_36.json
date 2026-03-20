@@ -1,0 +1,167 @@
+{
+  "level": 36,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_36.png",
+  "questions": [
+    {
+      "word": "APPRAISE",
+      "correct_definition": "to assess the worth or value of",
+      "distractors": [
+        "To offer public commendation or approval.",
+        "To give an estimate of potential success.",
+        "To carefully consider a situation before acting.",
+        "To attribute positive qualities to someone or something.",
+        "To make a formal request or petition.",
+        "To present evidence or an argument in support of a claim.",
+        "To comprehend or grasp fully.",
+        "To establish or fix a price for something.",
+        "To apply pressure or force upon something.",
+        "To formally approve a plan or proposal."
+      ]
+    },
+    {
+      "word": "ARBOREAL",
+      "correct_definition": "of or relating to trees",
+      "distractors": [
+        "of or relating to artistic expression.",
+        "of or relating to arduous tasks or efforts.",
+        "of or relating to a place of refuge or safety.",
+        "of or relating to the act of formal judgment.",
+        "of or relating to ancient historical periods.",
+        "of or relating to the innermost core or essence.",
+        "of or relating to deep, intense passion.",
+        "of or relating to the working class.",
+        "of or relating to the cultivation of fields.",
+        "of or relating to the study of underground structures."
+      ]
+    },
+    {
+      "word": "ARROGATE",
+      "correct_definition": "to take without justi\ufb01cation",
+      "distractors": [
+        "To repeal a previously enacted law.",
+        "To question an authority figure repeatedly.",
+        "To formally introduce a new concept.",
+        "To communicate a message with urgency.",
+        "To delay action until a later time.",
+        "To assign a task or responsibility.",
+        "To appeal to a higher power for aid.",
+        "To express strong disapproval openly.",
+        "To present a formal request or petition.",
+        "To assert one's opinion defiantly."
+      ]
+    },
+    {
+      "word": "ARTIFACT",
+      "correct_definition": "a remaining piece from an extinct culture or place",
+      "distractors": [
+        "A deceptive or false statement presented as truth.",
+        "A universally accepted truth or fundamental principle.",
+        "An object created purely for aesthetic appeal or artistic expression.",
+        "A complex arrangement of data or information for analysis.",
+        "A formal legal document certifying a transaction or claim.",
+        "A material substance created through synthetic chemical processes.",
+        "A fundamental component or irreducible part of a system.",
+        "An intricate design or plan for a future construction.",
+        "A theoretical concept or framework used in scientific models.",
+        "A condition resulting from human intervention rather than natural causes."
+      ]
+    },
+    {
+      "word": "ATYPICAL",
+      "correct_definition": "not typical, unusual",
+      "distractors": [
+        "Pertaining to the arrangement or style of printed text.",
+        "Very characteristic of its particular group or kind.",
+        "Lacking a fixed or readily recognizable physical form.",
+        "Without a discernible pattern or inherent structural design.",
+        "Deviating from a precise standard of weight or measurement.",
+        "Exclusively belonging to one specific kind or category.",
+        "Serving as an exact duplicate or perfect reproduction of a model.",
+        "Indicating an absence of any unique or distinguishing qualities.",
+        "Relating to the study of specific classifications or categories.",
+        "Difficult to process or understand due to complexity."
+      ]
+    },
+    {
+      "word": "AVENGE",
+      "correct_definition": "to seek revenge",
+      "distractors": [
+        "To avoid a confrontation.",
+        "To make something available.",
+        "To cause something to vanish.",
+        "To speak with great enthusiasm.",
+        "To guide a person or thing.",
+        "To obtain a significant advantage.",
+        "To come into existence.",
+        "To declare something publicly.",
+        "To make a daring journey.",
+        "To release pent-up emotions."
+      ]
+    },
+    {
+      "word": "BEHEMOTH",
+      "correct_definition": "something of tremendous power or size",
+      "distractors": [
+        "A mythical creature known for its deceptive beauty.",
+        "An ancient ceremonial garment worn by high priests.",
+        "A significant impediment to progress or development.",
+        "A rare and elusive nocturnal bird of prey.",
+        "A sudden, overwhelming feeling of dread or terror.",
+        "An intricate system of underground tunnels.",
+        "A solemn oath or promise of great importance.",
+        "A type of ancient siege weapon designed for breaching walls.",
+        "A deep, resonant sound, often produced by large instruments.",
+        "A secret society dedicated to preserving arcane knowledge."
+      ]
+    },
+    {
+      "word": "BLANDISH",
+      "correct_definition": "to coax by using \ufb02attery",
+      "distractors": [
+        "To render something uninteresting or dull.",
+        "To remove strong or distinctive characteristics from.",
+        "To present information in an overly mild or understated way.",
+        "To serve a meal that lacks flavor or spice.",
+        "To speak in a soft, soothing, and unassertive manner.",
+        "To blend diverse elements into a uniform mixture.",
+        "To make something appear smooth and unblemished.",
+        "To skillfully arrange items on a plate for presentation.",
+        "To cautiously reveal a sensitive or unpleasant fact.",
+        "To subtly diminish the importance of an event or statement."
+      ]
+    },
+    {
+      "word": "BRAZEN",
+      "correct_definition": "excessively bold, brash",
+      "distractors": [
+        "To coat or join with a metallic alloy.",
+        "Made of or resembling a dull, yellowish metal.",
+        "Producing a loud, harsh, and often clanging sound.",
+        "To cook slowly in fat and then simmer gently in liquid.",
+        "A portable heater consisting of a pan or stand for holding burning coals.",
+        "Having a shiny, highly polished surface that reflects light.",
+        "To weave or interlace three or more strands of material.",
+        "To harden a material by heating it to a very high temperature.",
+        "To approach a challenge with calm and focused concentration.",
+        "To act with cautious deliberation and meticulous care."
+      ]
+    },
+    {
+      "word": "BUTTRESS",
+      "correct_definition": "to support, hold up",
+      "distractors": [
+        "To strike or ram with the head or horns.",
+        "To argue vehemently or contend stubbornly.",
+        "To come to an abrupt or sudden stop.",
+        "To divide into separate or distinct sections.",
+        "To shorten by removing the end portion.",
+        "To make a loud, reverberating noise.",
+        "To join together precisely at the ends.",
+        "To refuse to comply or cooperate.",
+        "To scatter or disperse widely.",
+        "To create a deep indentation or groove."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 57,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_57.png",
+  "questions": [
+    {
+      "word": "EXIGENT",
+      "correct_definition": "urgent, critical",
+      "distractors": [
+        "Demanding strict adherence to rules.",
+        "Driving out or expelling forcefully.",
+        "Pertaining to a former period or state.",
+        "Characterized by an extensive journey or travel.",
+        "Requiring precise measurements or exact details.",
+        "Lacking basic necessities; impoverished.",
+        "Skillful in extracting information or resources.",
+        "Existing outside of normal boundaries or systems.",
+        "Relating to the act of exiting or departing.",
+        "Causing extreme weariness or exhaustion."
+      ]
+    },
+    {
+      "word": "EXPIATE",
+      "correct_definition": "to make amends for, atone",
+      "distractors": [
+        "To thoroughly explain or elaborate upon a complex idea.",
+        "To remove all traces of a foreign substance.",
+        "To declare officially that something has ended or become invalid.",
+        "To greatly annoy or exasperate someone.",
+        "To forcefully eject or expel a person from a group.",
+        "To examine something with extreme care and detail.",
+        "To become proficient or an expert in a specific skill.",
+        "To leave one's native country and reside elsewhere.",
+        "To extract information by prolonged questioning.",
+        "To clarify or make lucid something previously obscure."
+      ]
+    },
+    {
+      "word": "EXPUNGE",
+      "correct_definition": "to obliterate, eradicate",
+      "distractors": [
+        "to puncture or pierce through with force",
+        "to drain completely of a liquid or substance",
+        "to criticize or scold severely in public",
+        "to purify or cleanse by chemical means",
+        "to stretch or extend beyond normal bounds",
+        "to expel or eject from a confined space",
+        "to weaken or deplete one's energy reserves",
+        "to inflict a harsh and punitive penalty",
+        "to extract something essential by force",
+        "to cause a sudden, sharp, stinging pain"
+      ]
+    },
+    {
+      "word": "FABRICATE",
+      "correct_definition": "to make up, invent",
+      "distractors": [
+        "to weave cloth or textiles",
+        "to create a large, imposing structure",
+        "to take apart or dismantle a machine",
+        "to produce something in great quantities",
+        "to cause a sudden, violent upheaval",
+        "to decorate or embellish elaborately",
+        "to secure firmly in place",
+        "to make something appear better than it is",
+        "to assemble components into a complete unit",
+        "to spread rumors or gossip widely"
+      ]
+    },
+    {
+      "word": "FERVENT",
+      "correct_definition": "ardent, passionate",
+      "distractors": [
+        "producing a strong odor; fragrant",
+        "inclined to be easily frightened; timid",
+        "firmly established; unwavering",
+        "causing a state of high fever; febrile",
+        "highly productive; fruitful",
+        "foreign or unfamiliar; exotic",
+        "causing a vigorous chemical reaction; effervescent",
+        "easily fermented; capable of being brewed",
+        "characterized by great physical strength; robust",
+        "fading or growing dim; evanescent"
+      ]
+    },
+    {
+      "word": "FORESTALL",
+      "correct_definition": "to prevent, thwart, delay",
+      "distractors": [
+        "To predict or foresee an upcoming event.",
+        "To establish or set up something in advance.",
+        "To pay a sum of money ahead of schedule.",
+        "To stand guard at the entrance of a building.",
+        "To make a formal declaration or statement.",
+        "To construct a temporary enclosure or booth.",
+        "To position oneself prominently in a group.",
+        "To reserve a seat or place beforehand.",
+        "To introduce an idea or concept for the first time.",
+        "To exhibit goods or services at a market."
+      ]
+    },
+    {
+      "word": "FORSAKE",
+      "correct_definition": "to give up, renounce",
+      "distractors": [
+        "To strongly advocate for a particular cause.",
+        "To carefully preserve a valuable item.",
+        "To seize possession of something by force.",
+        "To lay the groundwork for a future project.",
+        "To make a binding commitment or promise.",
+        "To strive with great effort towards a goal.",
+        "To present a formal request or petition.",
+        "To restore something to a better condition.",
+        "To meticulously analyze a complex problem.",
+        "To equip or supply for a journey or task."
+      ]
+    },
+    {
+      "word": "FORTITUDE",
+      "correct_definition": "strength, guts",
+      "distractors": [
+        "a state of good fortune or luck",
+        "physical stiffness or rigidity",
+        "a strong belief or conviction",
+        "the act of building or reinforcing a structure",
+        "a tendency towards good judgment or foresight",
+        "the characteristic of being loud or boisterous",
+        "a measure of physical height or stature",
+        "the quality of being fortunate or blessed",
+        "a state of readiness or preparedness for battle",
+        "the ability to maintain a positive outlook"
+      ]
+    },
+    {
+      "word": "FRACTIOUS",
+      "correct_definition": "troublesome or irritable",
+      "distractors": [
+        "Easily shattered or prone to breaking apart.",
+        "Divided into separate, often unequal, portions.",
+        "Characterized by fragmentation or a lack of unity.",
+        "Relating to the act of causing a break or rupture.",
+        "Having an incomplete or partial existence.",
+        "To become detached or separated from a whole.",
+        "Marked by severe damage or structural weakness.",
+        "Pertaining to the process of splitting into smaller pieces.",
+        "Inclined to interrupt or disrupt a continuous flow.",
+        "To break away from an established pattern or norm."
+      ]
+    },
+    {
+      "word": "FURTIVE",
+      "correct_definition": "secretive, sly",
+      "distractors": [
+        "intensely angry, wrathful",
+        "useless, ineffective",
+        "passionately enthusiastic, ardent",
+        "strengthened, protected",
+        "productive, abundant",
+        "broken, fragmented",
+        "covered in dense hair, shaggy",
+        "anxious, worried",
+        "swift, quick-moving",
+        "far off, remote"
+      ]
+    }
+  ]
+}

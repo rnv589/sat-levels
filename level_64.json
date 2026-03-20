@@ -1,0 +1,167 @@
+{
+  "level": 64,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_64.png",
+  "questions": [
+    {
+      "word": "RECTITUDE",
+      "correct_definition": "uprightness, extreme morality",
+      "distractors": [
+        "The condition of being geometrically straight or precisely aligned.",
+        "The process of correcting mistakes or bringing something into proper order.",
+        "A characteristic of straightforwardness or directness in communication.",
+        "Strict adherence to formal procedures or established rules.",
+        "The structural soundness or integrity of a construction.",
+        "A formal and dignified posture or bearing; proper comportment.",
+        "The exactness or precision required in mathematical calculations.",
+        "An unwavering firmness or stability in one's physical stance.",
+        "The legal validity or official authentication of a document.",
+        "The skill in resolving complex problems or disentangling intricate situations."
+      ]
+    },
+    {
+      "word": "REFURBISH",
+      "correct_definition": "to restore, clean up",
+      "distractors": [
+        "To supply with new furniture or accessories, to re-outfit.",
+        "To reject an idea or proposal, to refuse definitively.",
+        "To scold or criticize sharply, to admonish repeatedly.",
+        "To prove an argument or statement false, to invalidate.",
+        "To handle clumsily or awkwardly, to mishandle objects.",
+        "To prohibit an action or event, to ban officially.",
+        "To reshape or redesign completely, to re-fashion.",
+        "To articulate a plan or theory, to formulate anew.",
+        "To roll up tightly, such as a flag or sail, to secure.",
+        "To strengthen a structure or position, to fortify."
+      ]
+    },
+    {
+      "word": "REPENTANT",
+      "correct_definition": "penitent, sorry",
+      "distractors": [
+        "Refusing to comply; resistant",
+        "To continually delay or postpone",
+        "Returning to an earlier state; reverting",
+        "Having a strong internal drive; purposeful",
+        "Marked by renewed energy; invigorated",
+        "To mend or repair thoroughly; renovate",
+        "Having five distinct elements or qualities",
+        "Characterized by deep contemplation; reflective",
+        "Stubbornly holding onto an opinion; resolute",
+        "To repeat an action or statement; reiterate"
+      ]
+    },
+    {
+      "word": "REPROBATE",
+      "correct_definition": "evil, unprincipled",
+      "distractors": [
+        "To evaluate or assess something again for accuracy.",
+        "To return to a state of original integrity or health.",
+        "To question or dispute a previous finding or conclusion.",
+        "To rigorously examine a subject in an attempt to understand it fully.",
+        "To scold or criticize someone sharply for a fault.",
+        "To formally disapprove of a course of action or a proposal.",
+        "To consider anew the likelihood or probability of an event.",
+        "To establish or prove something beyond a doubt for a second time.",
+        "To withdraw support or approval from a previously endorsed idea.",
+        "To undergo a period of probation or strict observation again."
+      ]
+    },
+    {
+      "word": "REPROVE",
+      "correct_definition": "to scold, rebuke",
+      "distractors": [
+        "To prove something to be false or invalid.",
+        "To verify or confirm the truth of something once more.",
+        "To challenge an assertion or claim.",
+        "To postpone a penalty or sentence.",
+        "To make amends for a past error.",
+        "To improve one's moral standing.",
+        "To offer a strong counter-argument.",
+        "To establish the originality of an item.",
+        "To retract a former statement or promise.",
+        "To reject an application or request."
+      ]
+    },
+    {
+      "word": "REPUDIATE",
+      "correct_definition": "to reject, refuse to accept",
+      "distractors": [
+        "To publicly shame or disgrace someone.",
+        "To put back into an earlier, more pristine state.",
+        "To consider a matter carefully and make a final decision.",
+        "To make an idea or concept clear and understandable.",
+        "To affirm or declare something to be true.",
+        "To restore someone's good name or reputation.",
+        "To collect and organize information systematically.",
+        "To offer something again for review or approval.",
+        "To make a deep impression or mark upon something.",
+        "To formally dedicate or inaugurate an event."
+      ]
+    },
+    {
+      "word": "REPUTABLE",
+      "correct_definition": "of good reputation",
+      "distractors": [
+        "Capable of being put into service again.",
+        "Able to be considered for a second time.",
+        "Worthy of repeated pruning or trimming.",
+        "Able to be calculated or reckoned repeatedly.",
+        "Capable of being put forth as a suggestion again.",
+        "Of a quality that can be easily repaired.",
+        "Able to organize or arrange again.",
+        "Capable of being replicated or duplicated.",
+        "Worthy of being argued or disputed.",
+        "Of a nature that allows for repeated estimation."
+      ]
+    },
+    {
+      "word": "RESILIENT",
+      "correct_definition": "able to recover from misfortune; able to withstand adversity",
+      "distractors": [
+        "Capable of being repeatedly stretched or compressed without breaking.",
+        "Possessing a smooth, unyielding surface that resists abrasion.",
+        "Able to return quickly to a previous state or position.",
+        "Marked by an unyielding determination to achieve a specific goal.",
+        "Quick to respond and adjust to rapidly changing circumstances.",
+        "Having the capacity to reflect light or sound with great clarity.",
+        "Pertaining to something that springs forth with sudden energy or force.",
+        "Refers to a strong, binding substance used to adhere materials.",
+        "Characterized by a consistent and unwavering adherence to principles.",
+        "Able to re-form or re-structure itself after being disassembled."
+      ]
+    },
+    {
+      "word": "RESOLVE",
+      "correct_definition": "to \ufb01nd a solution",
+      "distractors": [
+        "to make a firm decision",
+        "to separate into distinct components",
+        "to re-evaluate a past choice",
+        "to reinforce a weak structure",
+        "to loosen a tightly bound object",
+        "to cause to diminish gradually",
+        "to bring back into alignment",
+        "to complete a pending task",
+        "to echo a repeated sound",
+        "to return to an original state"
+      ]
+    },
+    {
+      "word": "RESTIVE",
+      "correct_definition": "resistant, stubborn, impatient",
+      "distractors": [
+        "A state of being at peace or tranquility.",
+        "Characterized by a desire for calm and quiet.",
+        "Inclined to remain in one place; stationary.",
+        "Feeling refreshed or invigorated after a period of relaxation.",
+        "To put back into an original or previous state.",
+        "Capable of being easily restored or repaired.",
+        "A tendency to delay or postpone actions.",
+        "Marked by a feeling of deep satisfaction or contentment.",
+        "To take a break from work or activity; to relax.",
+        "Enduring without complaint; stoic."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 2,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_2.png",
+  "questions": [
+    {
+      "word": "DEFT",
+      "correct_definition": "skillful, capable",
+      "distractors": [
+        "Having a profound or intense quality; deeply felt.",
+        "Lacking the sense of hearing; unable to perceive sound.",
+        "Characterized by a careful and detailed inspection.",
+        "Deprived of essential elements; completely destitute.",
+        "Marked by speed and quickness of movement.",
+        "Easily shattered or broken; delicate.",
+        "Emitting a strong and offensive smell.",
+        "Secretive and surreptitious in nature or action.",
+        "To postpone or delay an action until a later time.",
+        "Causing a feeling of deep discouragement or dejection."
+      ]
+    },
+    {
+      "word": "DENT",
+      "correct_definition": "shy, quiet, modest",
+      "distractors": [
+        "A shallow indentation or marring on a surface.",
+        "To inflict a minor setback or reduction in strength.",
+        "Characterized by firmness and a lack of yielding.",
+        "To cause a sharp, downward movement or decline.",
+        "Pertaining to the structures or health of the teeth.",
+        "A distinctive, often strong, pleasant smell.",
+        "To hinder or obstruct the natural flow of something.",
+        "Marked by a lack of clarity or a hazy quality.",
+        "To express strong disapproval or disagreement.",
+        "A state of being wholly committed or resolute."
+      ]
+    },
+    {
+      "word": "DOUR",
+      "correct_definition": "stern, joyless",
+      "distractors": [
+        "Stubborn, unyielding",
+        "Persistent, enduring",
+        "Lacking light, dim",
+        "Difficult to overcome",
+        "Fierce, aggressive",
+        "Destitute, impoverished",
+        "Hidden, concealed",
+        "Courageous, brave",
+        "Diligent, meticulous",
+        "Heavily built, robust"
+      ]
+    },
+    {
+      "word": "FOIL",
+      "correct_definition": "to thwart, frustrate, defeat",
+      "distractors": [
+        "To serve as a strong contrast, thereby enhancing the qualities of something else.",
+        "To work extremely hard or labor intensely.",
+        "To wrap or cover with a thin, flexible sheet.",
+        "To wind or arrange into a coiled or spiraled form.",
+        "To make a surface shiny or highly reflective.",
+        "To spread out thinly or flatten into a sheet.",
+        "To apply a lubricating agent to reduce friction.",
+        "To cause perplexity or mental disorientation.",
+        "To impede or restrict free movement.",
+        "To separate into distinct layers or segments."
+      ]
+    },
+    {
+      "word": "GOAD",
+      "correct_definition": "to urge, spur, incite to action",
+      "distractors": [
+        "To measure, estimate, or determine size.",
+        "To restrain, hinder, or impede progress.",
+        "To store, accumulate, or gather supplies.",
+        "To illuminate, brighten, or emit light.",
+        "To promise, guarantee, or pledge allegiance.",
+        "To divide, classify, or sort into groups.",
+        "To guide, direct, or show the way.",
+        "To protect, shield, or defend from danger.",
+        "To modify, adapt, or adjust to new circumstances.",
+        "To complain, grumble, or express discontent."
+      ]
+    },
+    {
+      "word": "PERT",
+      "correct_definition": "\ufb02ippant, bold",
+      "distractors": [
+        "Alert, watchful",
+        "Skilled, adept",
+        "Relevant, applicable",
+        "Persistent, resolute",
+        "Penetrating, incisive",
+        "Precise, exact",
+        "Profound, insightful",
+        "Vigorous, robust",
+        "Cautious, circumspect",
+        "Fluent, articulate"
+      ]
+    },
+    {
+      "word": "RAIL",
+      "correct_definition": "to scold, protest",
+      "distractors": [
+        "to guide along a fixed course",
+        "to provide structural support",
+        "to move smoothly along a track",
+        "to enclose within boundaries",
+        "to secure with a bar",
+        "to arrange in a linear series",
+        "to emit a loud, grating sound",
+        "to build a protective framework",
+        "to divide into distinct sections",
+        "to extend a slender projection"
+      ]
+    },
+    {
+      "word": "RASH",
+      "correct_definition": "hasty, incautious",
+      "distractors": [
+        "A sudden, widespread eruption on the skin.",
+        "Having a rough, coarse, or abrasive texture.",
+        "Characterized by a sudden, forceful collision.",
+        "Boldly assertive in a rude or overbearing manner.",
+        "To dispose of as worthless or unwanted refuse.",
+        "To move with extreme speed and great urgency.",
+        "Displaying a strong, sharp, and unpleasant odor.",
+        "A sudden, often widespread, outbreak or surge.",
+        "Easily provoked to anger; quick to irritation.",
+        "Lacking a firm basis or sound construction."
+      ]
+    },
+    {
+      "word": "RIFE",
+      "correct_definition": "abundant",
+      "distractors": [
+        "Full of discord or contention.",
+        "In a state of active rebellion.",
+        "Showing a deep crack or fissure.",
+        "Fully developed and ready for use.",
+        "To tear or split apart forcefully.",
+        "Restricted or limited in scope.",
+        "To make an abstract idea concrete.",
+        "Right, proper, or appropriate.",
+        "Characterized by deep-seated resentment.",
+        "To search through thoroughly, often for plunder."
+      ]
+    },
+    {
+      "word": "RUSE",
+      "correct_definition": "a trick",
+      "distractors": [
+        "a sudden forceful movement",
+        "a feeling of deep regret",
+        "a common country road",
+        "a state of profound confusion",
+        "a basic underlying principle",
+        "a strong, flowing current",
+        "a formal public speech",
+        "a fixed, unchangeable habit",
+        "a sharp, critical observation",
+        "a secret hiding place"
+      ]
+    }
+  ]
+}

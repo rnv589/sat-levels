@@ -1,0 +1,167 @@
+{
+  "level": 30,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_30.png",
+  "questions": [
+    {
+      "word": "PLACATE",
+      "correct_definition": "to ease the anger of, soothe",
+      "distractors": [
+        "to put things in their proper sequence",
+        "to cover a surface with a thin, decorative layer",
+        "to make something appear less complex or intricate",
+        "to mold or shape a material into a desired form",
+        "to make a concept readily understood or apparent",
+        "to press down firmly on a surface",
+        "to officially register or record a legal document",
+        "to spread out widely over an area",
+        "to provide sustenance or a necessary resource",
+        "to declare publicly or state unequivocally"
+      ]
+    },
+    {
+      "word": "PLIABLE",
+      "correct_definition": "\ufb02exible",
+      "distractors": [
+        "Easily soiled",
+        "Capable of being layered",
+        "Given to persistent effort",
+        "Resistant to decay",
+        "Able to float easily",
+        "Requiring precise application",
+        "Formed from pressed material",
+        "Tending to shrink when dry",
+        "Quick to absorb moisture",
+        "Difficult to tear or rip"
+      ]
+    },
+    {
+      "word": "POLEMIC",
+      "correct_definition": "an aggressive argument against a speci\ufb01c opinion",
+      "distractors": [
+        "A specific strategy used in political campaigns.",
+        "An act of drawing something to an extreme point.",
+        "A condition characterized by profound emotional distress.",
+        "A widespread and deeply rooted societal problem.",
+        "A guiding principle or central tenet of a philosophy.",
+        "A formal declaration of a nation's foreign policy.",
+        "A structure used to measure the depth of a body of water.",
+        "An individual known for their divisive and unpredictable behavior.",
+        "A sudden, inexplicable shift in public opinion.",
+        "The study of ancient cities and their governing systems."
+      ]
+    },
+    {
+      "word": "PORTENT",
+      "correct_definition": "an omen",
+      "distractors": [
+        "A large, imposing entrance.",
+        "A significant or grave responsibility.",
+        "A temporary, movable dwelling.",
+        "The act of transferring goods by ship.",
+        "A sturdy, canvas-like fabric.",
+        "An expansive or wide area.",
+        "A formal decree or proclamation.",
+        "A heavy item requiring great effort to carry.",
+        "A projection or overhang.",
+        "A destination for maritime trade."
+      ]
+    },
+    {
+      "word": "POTABLE",
+      "correct_definition": "suitable for drinking",
+      "distractors": [
+        "Capable of being easily transported.",
+        "Having considerable power or authority.",
+        "Able to be cultivated in a container.",
+        "Pertaining to a ceramic vessel or jar.",
+        "Easily shattered or prone to breaking.",
+        "Having the capacity to be stored.",
+        "Likely to occur or be possible.",
+        "Producing a strong and noticeable effect.",
+        "Referring to something that can be put in place.",
+        "Able to be mixed or blended thoroughly."
+      ]
+    },
+    {
+      "word": "PRESAGE",
+      "correct_definition": "an omen",
+      "distractors": [
+        "A preliminary official statement.",
+        "To instruct with foresight.",
+        "An ancient proverb.",
+        "To plan meticulously in advance.",
+        "A revered mentor.",
+        "To address an issue early.",
+        "A preceding historical era.",
+        "To establish prior conditions.",
+        "A formal preliminary review.",
+        "To offer early guidance."
+      ]
+    },
+    {
+      "word": "PROBITY",
+      "correct_definition": "virtue, integrity",
+      "distractors": [
+        "The likelihood or chance of something occurring.",
+        "A thorough investigation or critical examination.",
+        "The capacity for solving difficult problems efficiently.",
+        "A deep and insightful analysis of a complex subject.",
+        "An inherent tendency or strong inclination towards a particular behavior.",
+        "Strict adherence to established procedures and regulations.",
+        "The act of formally testing or verifying a hypothesis.",
+        "A preliminary trial or exploratory attempt at something new.",
+        "The ability to withstand scrutiny and maintain composure under pressure.",
+        "A strong personal conviction or unwavering belief in one's principles."
+      ]
+    },
+    {
+      "word": "PROCURE",
+      "correct_definition": "to obtain, acquire",
+      "distractors": [
+        "To mend or restore something to health.",
+        "To provide care or treatment for an illness.",
+        "To advocate for a particular cause or belief.",
+        "To move forward with a cautious approach.",
+        "To formally propose a solution or plan.",
+        "To guarantee or ensure a favorable outcome.",
+        "To secure against loss or damage.",
+        "To act as an intermediary or representative.",
+        "To prepare or arrange for an event with great care.",
+        "To thoroughly inspect or examine in detail."
+      ]
+    },
+    {
+      "word": "PROFANE",
+      "correct_definition": "lewd, indecent",
+      "distractors": [
+        "Deeply thoughtful or insightful.",
+        "To offer or present for acceptance.",
+        "Skillful and highly competent in a task.",
+        "To gain a significant financial advantage.",
+        "To openly declare or affirm a belief.",
+        "To make a significant and rapid advancement.",
+        "Having an air of sophisticated elegance.",
+        "To delay or put off an important action.",
+        "Extremely plentiful or abundant.",
+        "To foresee or predict a future event."
+      ]
+    },
+    {
+      "word": "PROFUSE",
+      "correct_definition": "plentiful, abundant",
+      "distractors": [
+        "To mix or blend together thoroughly.",
+        "To pour out in a steady, continuous flow.",
+        "To openly declare one's intentions or beliefs.",
+        "To melt completely into a fluid state.",
+        "To present or put forth for consideration.",
+        "To spread or disperse throughout a given area.",
+        "To vigorously advocate for a particular cause.",
+        "To cause a rapid and violent outburst.",
+        "To speak or write at great length and detail.",
+        "To be in favor of a unification or merger."
+      ]
+    }
+  ]
+}

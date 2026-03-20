@@ -1,0 +1,167 @@
+{
+  "level": 23,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_23.png",
+  "questions": [
+    {
+      "word": "COPIOUS",
+      "correct_definition": "profuse, abundant",
+      "distractors": [
+        "Pertaining to a shared enterprise or collective effort.",
+        "Requiring substantial effort or meticulous execution.",
+        "Characterized by precise duplication or faithful reproduction.",
+        "Demonstrating sincere piety or unwavering devotion.",
+        "Subject to abrupt, irrational changes in behavior.",
+        "Intended for common use or joint administration.",
+        "Excessively verbose or given to long, tedious speeches.",
+        "Having a sedative effect; tending to dull the senses.",
+        "Readily noticeable or standing out distinctly.",
+        "Exhibiting the ability to deal effectively with adversity."
+      ]
+    },
+    {
+      "word": "CORDIAL",
+      "correct_definition": "warm, affectionate",
+      "distractors": [
+        "Pertaining to a rope or flexible cable.",
+        "Indicating a formal agreement or pact.",
+        "Relating to the essential inner part of something.",
+        "Marked by strict adherence to proper procedure.",
+        "Requiring significant physical effort or endurance.",
+        "Of primary importance; fundamental.",
+        "Relating to the basic functions of the human body.",
+        "Expressing a strong, unwavering opinion.",
+        "Exhibiting great bravery or courage.",
+        "Formal and polite, often lacking genuine feeling."
+      ]
+    },
+    {
+      "word": "COVET",
+      "correct_definition": "to desire enviously",
+      "distractors": [
+        "to provide a protective covering.",
+        "to undertake an action secretly.",
+        "to make a solemn agreement or pledge.",
+        "to hollow out or create a depression.",
+        "to gather and accumulate items.",
+        "to shelter or shield from danger.",
+        "to change from one form to another.",
+        "to restrain or keep under control.",
+        "to explore a hidden or unknown place.",
+        "to escort or accompany for protection."
+      ]
+    },
+    {
+      "word": "CUNNING",
+      "correct_definition": "sly, clever at being deceitful",
+      "distractors": [
+        "possessing exceptional physical resilience and endurance",
+        "characterized by absolute frankness and sincere directness",
+        "displaying a bold and adventurous spirit, especially in exploration",
+        "producing a low, rumbling sound or a subtle, continuous vibration",
+        "rapidly increasing in number, quantity, or influence",
+        "skillful in the creation of intricate and detailed handcrafted items",
+        "a state of deep contemplation or focused mental absorption",
+        "experiencing a subtle, pervasive sense of unease or slight pain",
+        "having great physical agility and manual dexterity",
+        "exercising careful and diligent attention to detail"
+      ]
+    },
+    {
+      "word": "CURSORY",
+      "correct_definition": "brief to the point of being super\ufb01cial",
+      "distractors": [
+        "Pertaining to a formal and structured academic study.",
+        "Marked by an intense eagerness to know or learn.",
+        "Having a rough texture or lacking refinement.",
+        "Related to a solemn appeal for evil or misfortune.",
+        "Occurring or existing at the immediate present.",
+        "Moving in a continuous and uninterrupted flow.",
+        "Following a specific and predetermined course.",
+        "Serving as a movable indicator on a digital display.",
+        "Tending to wander aimlessly or without direction.",
+        "Actively engaged in tracking or seeking something."
+      ]
+    },
+    {
+      "word": "CURTAIL",
+      "correct_definition": "to lessen, reduce",
+      "distractors": [
+        "to draw a covering over something",
+        "to make a sharp, abrupt turn",
+        "to follow closely behind",
+        "to utter a brief, terse statement",
+        "to present a formal argument",
+        "to mend or skillfully repair",
+        "to bring to a sudden, complete stop",
+        "to establish a clear and concise path",
+        "to observe with intense scrutiny",
+        "to provide meticulous attention to detail"
+      ]
+    },
+    {
+      "word": "DEBACLE",
+      "correct_definition": "a disastrous failure, disruption",
+      "distractors": [
+        "A swift and uncontrolled retreat from a difficult situation.",
+        "A formal and often heated public discussion or debate.",
+        "The sudden and forceful removal of an obstacle or barrier.",
+        "A deep and impassable chasm or geological rift.",
+        "A profound and widespread moral decline within a society.",
+        "An intricate and deliberate act of deception or fraud.",
+        "A heavy and oppressive burden or demanding responsibility.",
+        "A period of uninhibited and boisterous revelry or celebration.",
+        "The systematic dismantling or demolition of a large structure.",
+        "A clandestine agreement or conspiracy among individuals."
+      ]
+    },
+    {
+      "word": "DEBAUCH",
+      "correct_definition": "to corrupt by means of sensual pleasures",
+      "distractors": [
+        "To reveal the hidden flaws or weaknesses in an argument.",
+        "To lower someone's reputation or moral standing through slander.",
+        "To deviate from an expected or planned route or schedule.",
+        "To exhaust or deplete a supply of resources entirely.",
+        "To dismantle a complex structure into smaller pieces.",
+        "To hinder or prevent the smooth progress of an endeavor.",
+        "To cast a shadow of doubt upon a previously accepted belief.",
+        "To strongly condemn or scold someone for their actions.",
+        "To strip away the outer layer or protective covering.",
+        "To cause a rapid deterioration in quality or condition."
+      ]
+    },
+    {
+      "word": "DEFUNCT",
+      "correct_definition": "no longer used or existing",
+      "distractors": [
+        "to intentionally disable or impair the working of a system",
+        "characterized by a persistent inability to perform its intended role",
+        "undergoing a process of gradual deterioration or decay",
+        "lacking any clear or justifiable purpose for its creation",
+        "to reverse the established order or sequence of events",
+        "to dismiss from an official position or duty",
+        "to separate the functional components of a machine for storage",
+        "an action or process that fails to achieve a desired outcome",
+        "of inferior quality or not up to standard",
+        "refusing to provide an essential service or function"
+      ]
+    },
+    {
+      "word": "DEPLORE",
+      "correct_definition": "to feel or express sorrow, disapproval",
+      "distractors": [
+        "To explore deeply into a subject or region.",
+        "To make a passionate plea or request.",
+        "To deploy troops or resources strategically.",
+        "To systematically dismantle a structure or argument.",
+        "To praise or commend highly for a notable deed.",
+        "To drain away liquid from a container.",
+        "To investigate a crime or mystery with great intensity.",
+        "To remove feathers or an outer layer from an object.",
+        "To weaken the foundation or support of something.",
+        "To calculate a complex trajectory or path."
+      ]
+    }
+  ]
+}

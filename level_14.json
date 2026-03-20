@@ -1,0 +1,167 @@
+{
+  "level": 14,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_14.png",
+  "questions": [
+    {
+      "word": "IMPUTE",
+      "correct_definition": "to ascribe, blame",
+      "distractors": [
+        "to purify or cleanse thoroughly",
+        "to calculate or reckon precisely",
+        "to introduce or instill an idea",
+        "to resolve a conflict or disagreement",
+        "to discredit or damage a reputation",
+        "to meditate or ponder deeply",
+        "to establish firmly or securely",
+        "to make something inaccessible or difficult to attain",
+        "to make dirty or contaminated",
+        "to refuse to acknowledge or accept"
+      ]
+    },
+    {
+      "word": "INDUCE",
+      "correct_definition": "to bring about, stimulate",
+      "distractors": [
+        "To draw a logical conclusion from given premises.",
+        "To make something smaller in size or amount.",
+        "To formally present facts or arguments in a discussion.",
+        "To make someone acquainted with a new person or subject.",
+        "To physically guide a person or object into a specific location.",
+        "To provide detailed instructions or training.",
+        "To restrict or confine within certain limits.",
+        "To lessen the intensity or severity of a condition.",
+        "To deduct or subtract a part from a whole.",
+        "To clarify or make something comprehensible."
+      ]
+    },
+    {
+      "word": "INFAMY",
+      "correct_definition": "notoriety, extreme ill repute",
+      "distractors": [
+        "A severe lack of essential resources, leading to widespread hunger.",
+        "The characteristic of being unknown or lacking public recognition.",
+        "A condition of being without form or definite structure.",
+        "A deep-seated conflict or disagreement within a close group.",
+        "The state of being immature or childish in behavior or thought.",
+        "A profound feeling of sadness or melancholia.",
+        "An internal flame or burning passion for a cause.",
+        "The quality of being untrustworthy or deceitful in nature.",
+        "A traditional story or legend passed down through generations.",
+        "A deficiency in knowledge or understanding about a subject."
+      ]
+    },
+    {
+      "word": "INNATE",
+      "correct_definition": "inborn, native, inherent",
+      "distractors": [
+        "not natural; artificial or acquired.",
+        "instilled by external forces; taught or learned.",
+        "occurring at a later stage of development; delayed.",
+        "having a restricted or limited scope; confined.",
+        "to gather or collect; accumulated.",
+        "existing only in theory; imaginary or conceptual.",
+        "of foreign origin; not local to a specific region.",
+        "to enter into a state of rest; dormant.",
+        "to apply or infuse a substance; injected.",
+        "pertaining to the interior structure; internal."
+      ]
+    },
+    {
+      "word": "LATENT",
+      "correct_definition": "hidden, but capable of being exposed",
+      "distractors": [
+        "Occurring or appearing only after a considerable delay.",
+        "Capable of being stretched or extended without breaking.",
+        "Having immense power, influence, or decisive effect.",
+        "Clearly apparent or obvious to the understanding.",
+        "Expressing deep sorrow or regret through words or cries.",
+        "Pertaining to or situated at the side; moving in a sideways direction.",
+        "A wide range of freedom for action, thought, or choice.",
+        "Lacking physical strength or vitality; feeling weak.",
+        "Spreading widely and rapidly throughout an area.",
+        "Developing or maturing at an unusually slow or gradual pace."
+      ]
+    },
+    {
+      "word": "LIMPID",
+      "correct_definition": "clear, transparent",
+      "distractors": [
+        "Lacking firmness or rigidity.",
+        "Moving slowly and without energy.",
+        "Containing or resembling fatty substances.",
+        "Marked by a restricted or confined space.",
+        "Causing an obstruction or hindering progress.",
+        "Having a dull or muted quality; not vibrant.",
+        "Easily swayed or influenced by others.",
+        "Characterized by an excessive attention to detail.",
+        "Displaying a lack of enthusiasm or interest.",
+        "Resistant to penetration or disturbance."
+      ]
+    },
+    {
+      "word": "MEAGER",
+      "correct_definition": "de\ufb01cient in size or quality",
+      "distractors": [
+        "Reluctant to share or give; stingy.",
+        "Displaying excessive eagerness or zeal.",
+        "Characterized by deep sadness or melancholy.",
+        "Inclined to wander or roam aimlessly.",
+        "Having an unpleasant or foul odor.",
+        "Easily provoked to anger or resentment.",
+        "Showing a lack of courage or spirit; timid.",
+        "Marked by a strong desire for personal gain.",
+        "Pertaining to the study of ancient texts or lore.",
+        "Causing a feeling of great discomfort or distress."
+      ]
+    },
+    {
+      "word": "MEDLEY",
+      "correct_definition": "a mixture of differing things",
+      "distractors": [
+        "An average or intermediate state of quality.",
+        "A short, melodic musical composition.",
+        "A state of deep and prolonged contemplation.",
+        "A chaotic and violent struggle or skirmish.",
+        "A small, enclosed grassy area or pasture.",
+        "A formal arrangement or structured sequence.",
+        "A medicinal preparation used for healing.",
+        "A sudden, strong feeling of joy or sorrow.",
+        "A delicate, intricate piece of craftsmanship.",
+        "A period of intense physical exertion or training."
+      ]
+    },
+    {
+      "word": "MORASS",
+      "correct_definition": "a wet swampy bog; \ufb01guratively, something that traps and confuses",
+      "distractors": [
+        "A profound state of despondency or melancholic withdrawal; figuratively, a period marked by deep sadness.",
+        "An overwhelming abundance or an excessive accumulation of something; figuratively, a burdensome surplus.",
+        "A large, undifferentiated collection or shapeless heap; figuratively, a disorganized pile lacking structure.",
+        "A strenuous physical struggle or an intense wrestling match; figuratively, a demanding and difficult challenge.",
+        "A grave flaw or inherent vulnerability that leads to ruin; figuratively, a fatal weakness.",
+        "An elaborate public address or a lengthy formal speech; figuratively, a persuasive discourse designed to impress.",
+        "The act of diligently gathering or stockpiling resources; figuratively, to amass a substantial quantity over time.",
+        "To completely destroy or level to the ground; figuratively, to eradicate the foundational elements of something.",
+        "A strict adherence to ethical principles or moral uprightness; figuratively, an unwavering sense of justice and fairness.",
+        "A shimmering optical illusion, typically in a hot environment; figuratively, a misleading appearance or false hope."
+      ]
+    },
+    {
+      "word": "MOROSE",
+      "correct_definition": "gloomy or sullen",
+      "distractors": [
+        "Characteristic of decay or the process of dying.",
+        "Lacking in moral principles or showing a disregard for ethics.",
+        "Feeling deep regret or repentance for past actions.",
+        "Marked by an excessive or unhealthy abundance of something.",
+        "Unwilling to change one's mind; stubbornly rigid.",
+        "Easily offended or provoked by trivial matters.",
+        "Excessively sweet or sentimental to the point of being cloying.",
+        "Pervasive and widespread in an undesirable manner.",
+        "Having an intricate or overly complex structure or design.",
+        "Given to habitual procrastination or delaying action."
+      ]
+    }
+  ]
+}

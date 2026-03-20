@@ -1,0 +1,167 @@
+{
+  "level": 53,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_53.png",
+  "questions": [
+    {
+      "word": "COLLUSION",
+      "correct_definition": "secret agreement, conspiracy",
+      "distractors": [
+        "A forceful impact between two objects.",
+        "The act of gathering information from various sources.",
+        "A misleading or deceptive appearance.",
+        "The fusion of two distinct elements into one.",
+        "A sudden rush or gush of liquid.",
+        "An intense emotional outburst or display.",
+        "The process of openly collaborating on a task.",
+        "A formal meeting for discussion or debate.",
+        "The act of playfully mocking or taunting someone.",
+        "A state of complete mental confusion or disarray."
+      ]
+    },
+    {
+      "word": "COMPLIANT",
+      "correct_definition": "ready to adapt oneself to another\u2019s wishes",
+      "distractors": [
+        "Ready to fulfill a given obligation or task.",
+        "Having a complex or intricately woven structure.",
+        "Eager to offer praise or expressions of admiration.",
+        "Able to complete tasks thoroughly and with precision.",
+        "Tending to express dissatisfaction or register a protest.",
+        "Characterized by a smooth, flexible, and often shiny texture.",
+        "Skillful in combining various elements to form a cohesive whole.",
+        "Requiring significant effort or detailed attention to execute.",
+        "Capable of being easily folded or bent without breaking.",
+        "Actively seeking to reconcile disagreements or mediate disputes."
+      ]
+    },
+    {
+      "word": "COMPLICIT",
+      "correct_definition": "being an accomplice in a wrongful act",
+      "distractors": [
+        "To make a complex situation even more intricate.",
+        "Being so interwoven or entangled as to be inseparable.",
+        "To agree completely and implicitly with another's viewpoint.",
+        "To understand fully and comprehensively the nuances of a subject.",
+        "To duplicate or reproduce a document or action precisely.",
+        "To be thoroughly exhausted or depleted of energy.",
+        "To bring together disparate ideas into a unified theory.",
+        "Being overly elaborate or decorative in style.",
+        "To be stubbornly resistant to change or persuasion.",
+        "To clearly and explicitly state one's intentions."
+      ]
+    },
+    {
+      "word": "CONGENIAL",
+      "correct_definition": "pleasantly agreeable",
+      "distractors": [
+        "Sharing a common ancestry or origin.",
+        "Inherent or innate within a being.",
+        "A trait developed during gestation.",
+        "Displaying genetic similarities.",
+        "Starkly dissimilar or incompatible.",
+        "Pertaining to the classification of species.",
+        "Created or formed through careful design.",
+        "Facilitating the generation of new ideas.",
+        "A shared biological characteristic.",
+        "Originating from the same parental source."
+      ]
+    },
+    {
+      "word": "CONGRUITY",
+      "correct_definition": "the quality of being in agreement",
+      "distractors": [
+        "The state of being firm or concrete in texture.",
+        "The characteristic of exhibiting strong gravitational pull.",
+        "A tendency towards isolation or separation from others.",
+        "The quality of being inherently mysterious or enigmatic.",
+        "A display of outward rudeness or an unpolished manner.",
+        "The capacity to endure hardship or adversity with resilience.",
+        "A condition marked by extreme scarcity or insufficiency.",
+        "The intricate pattern or design found within a substance.",
+        "The act of persuading someone through subtle manipulation.",
+        "The process of consolidating assets into a single entity."
+      ]
+    },
+    {
+      "word": "CONNIVE",
+      "correct_definition": "to plot, scheme",
+      "distractors": [
+        "To overlook or ignore intentionally.",
+        "To persuade someone to join a cause.",
+        "To strive against an opposing force.",
+        "To merge distinct components into a single entity.",
+        "To grant a privilege or favor reluctantly.",
+        "To gather formally for a common discussion.",
+        "To operate a difficult mechanism with skill.",
+        "To hide one's true emotions or thoughts.",
+        "To develop and prosper greatly.",
+        "To adapt skillfully to new environments."
+      ]
+    },
+    {
+      "word": "CONSENSUS",
+      "correct_definition": "an agreement of opinion",
+      "distractors": [
+        "A strong, shared emotional response to an event.",
+        "The act of thinking deeply and carefully about a subject.",
+        "A collective awareness of one's physical surroundings.",
+        "The capacity to perceive subtle differences and nuances.",
+        "A heightened state of mental acuity and focus.",
+        "A profound feeling of unity or shared purpose within a group.",
+        "The faculty of making rational and sound judgments.",
+        "A thorough and comprehensive analysis of information.",
+        "An intuitive understanding that is widely held.",
+        "A state of complete and utter mental clarity."
+      ]
+    },
+    {
+      "word": "CONSONANT",
+      "correct_definition": "in harmony",
+      "distractors": [
+        "Characterized by obstructed airflow.",
+        "Producing a continuous sound.",
+        "Occurring at the same time.",
+        "Having a clear, ringing sound.",
+        "Requiring collective decision.",
+        "Pertaining to vocal articulation.",
+        "Marked by a steady tempo.",
+        "Widely accepted as fact.",
+        "Having a deep, sonorous quality.",
+        "Lacking vowel sounds."
+      ]
+    },
+    {
+      "word": "CONSTRAIN",
+      "correct_definition": "to forcibly restrict",
+      "distractors": [
+        "to exert oneself with great effort",
+        "to unite disparate elements tightly",
+        "to cause significant mental distress",
+        "to build or establish a structure jointly",
+        "to stretch or extend beyond proper limits",
+        "to interpret a text with great difficulty",
+        "to filter impurities from a liquid thoroughly",
+        "to gather resources for a collective goal",
+        "to bear a burden with quiet endurance",
+        "to form a strong and lasting connection"
+      ]
+    },
+    {
+      "word": "CONTUSION",
+      "correct_definition": "bruise, injury",
+      "distractors": [
+        "A condition of intense mental disarray or confusion.",
+        "The act of forcefully twisting or distorting an object.",
+        "A process of melting diverse elements into a single mass.",
+        "A severe limitation or constraint on personal liberty.",
+        "A surgical operation to fuse broken bone fragments.",
+        "A deep sense of regret or moral self-reproach.",
+        "An abnormal growth or swelling, often benign.",
+        "A sudden, powerful discharge or burst of energy.",
+        "The merging of separate ideas or concepts into a unified whole.",
+        "A state of being confined or held within specific boundaries."
+      ]
+    }
+  ]
+}

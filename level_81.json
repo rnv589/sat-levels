@@ -1,0 +1,167 @@
+{
+  "level": 81,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_81.png",
+  "questions": [
+    {
+      "word": "DEFERENTIAL",
+      "correct_definition": "showing respect for another\u2019s authority",
+      "distractors": [
+        "Characterized by the act of postponing or delaying an action.",
+        "Pertaining to a significant difference or distinction between two things.",
+        "Relating to a downward trend or a decline in value.",
+        "Indicating a strong preference or partiality for one option over others.",
+        "Marked by a deliberate attempt to mislead or deceive.",
+        "Having the quality of being resistant to change or external influence.",
+        "Describing the process of breaking down complex substances into simpler ones.",
+        "Pertaining to the transfer of ownership or responsibility.",
+        "Characterized by a lack of enthusiasm or a general indifference.",
+        "Suggesting a formal declaration or pronouncement of a decision."
+      ]
+    },
+    {
+      "word": "DELETERIOUS",
+      "correct_definition": "harmful",
+      "distractors": [
+        "Causing something to be erased.",
+        "Extremely fragile or breakable.",
+        "Characterized by sluggishness.",
+        "Becoming outdated or obsolete.",
+        "Having a profound sense of sorrow.",
+        "Of a particularly delightful quality.",
+        "Easily dissolved or diminished.",
+        "Requiring great care and precision.",
+        "Tending to unravel or come apart.",
+        "Causing significant disarray."
+      ]
+    },
+    {
+      "word": "DEMARCATION",
+      "correct_definition": "the marking of boundaries or categories",
+      "distractors": [
+        "The official withdrawal of support for a particular policy.",
+        "The process of removing all identifying labels or insignia.",
+        "A significant decline in the performance or quality of something.",
+        "The act of deliberately aiming away from a specified target.",
+        "The formal cancellation of a scheduled event or appointment.",
+        "The systematic undermining of a person's reputation or character.",
+        "The process of reducing market demand for a particular commodity.",
+        "A strong public statement of disapproval or condemnation.",
+        "The act of reducing the intensity or severity of a disease.",
+        "The sudden depreciation in the value of currency or goods."
+      ]
+    },
+    {
+      "word": "DEPRAVITY",
+      "correct_definition": "wickedness",
+      "distractors": [
+        "A state of intense deprivation.",
+        "The act of bending or twisting out of shape.",
+        "A sharp decline in an economic indicator.",
+        "Impairment of cognitive function.",
+        "The removal of an essential component.",
+        "Profound feelings of melancholy.",
+        "Inability to regain former strength.",
+        "Excessive flattery or adulation.",
+        "A state of mental confusion.",
+        "Violation of an oath or solemn pledge."
+      ]
+    },
+    {
+      "word": "DISAFFECTED",
+      "correct_definition": "rebellious, resentful of authority",
+      "distractors": [
+        "Lacking genuine emotion or sincerity.",
+        "Immune to persuasion or external influence.",
+        "Emotionally detached or isolated from others.",
+        "Afflicted with a malady or infirmity.",
+        "Failing to influence or impress others.",
+        "Authentic and without pretense.",
+        "Lacking the ability to perceive physical stimuli.",
+        "Mentally perplexed or disoriented.",
+        "Separated or disconnected from a prevailing trend or opinion.",
+        "Apathetic and without vitality or zeal."
+      ]
+    },
+    {
+      "word": "DISAVOW",
+      "correct_definition": "to deny knowledge of or responsibility for",
+      "distractors": [
+        "To publicly declare a person unworthy of trust.",
+        "To openly reject a strongly held belief or principle.",
+        "To revoke a previous commitment or promise.",
+        "To officially void a legal agreement or contract.",
+        "To express severe disapproval or condemnation of an action.",
+        "To deliberately ignore or disregard advice or warnings.",
+        "To prevent someone from speaking freely or openly.",
+        "To strip someone of their official title or position.",
+        "To cast doubt upon the authenticity or truth of something.",
+        "To formally withdraw support or allegiance from a group."
+      ]
+    },
+    {
+      "word": "DISCREPANCY",
+      "correct_definition": "difference, failure of things to correspond",
+      "distractors": [
+        "A severe lack of trust or credibility.",
+        "The act of making something incredibly difficult or complex.",
+        "A sudden, violent outburst or breaking apart.",
+        "The systematic dispersal or scattering of information.",
+        "A strong and vocal rejection of a proposal or idea.",
+        "A formal decree or official order to cease an activity.",
+        "The complete and utter destruction or eradication of something.",
+        "An inability to clearly grasp or comprehend a concept.",
+        "A sharp, critical assessment or evaluation.",
+        "A widespread public announcement or declaration."
+      ]
+    },
+    {
+      "word": "DISGRUNTLED",
+      "correct_definition": "upset, not content",
+      "distractors": [
+        "To make a low, guttural sound of discomfort or effort.",
+        "To be deprived of a privilege or right.",
+        "To become separated or detached from a group.",
+        "To demonstrate a lack of respect or courtesy.",
+        "To experience a sudden state of confusion or bewilderment.",
+        "To appear messy or disheveled in one's presentation.",
+        "To actively resist or oppose an authority.",
+        "To struggle to articulate thoughts verbally.",
+        "To disregard or ignore important instructions.",
+        "To systematically break down or deconstruct."
+      ]
+    },
+    {
+      "word": "DISSEMINATE",
+      "correct_definition": "to spread widely",
+      "distractors": [
+        "To separate into many tiny fragments.",
+        "To deprive of essential building blocks or nutrients.",
+        "To conduct a detailed academic discussion or meeting.",
+        "To critically evaluate and break down complex ideas.",
+        "To express severe disapproval or condemnation.",
+        "To prevent the natural growth or development of something.",
+        "To cause something to diminish in size or importance.",
+        "To uproot and remove all plants from an area.",
+        "To uncover a hidden truth through careful investigation.",
+        "To render something infertile or incapable of reproduction."
+      ]
+    },
+    {
+      "word": "ENFRANCHISE",
+      "correct_definition": "to grant the vote to",
+      "distractors": [
+        "To grant a commercial business license.",
+        "To release from physical captivity.",
+        "To empower with managerial authority.",
+        "To establish a system of widespread distribution.",
+        "To formally declare someone independent.",
+        "To bestow a unique social standing.",
+        "To incorporate into a larger organization.",
+        "To bring under strict governmental control.",
+        "To initiate a legal proceeding.",
+        "To impose a financial charge or tax."
+      ]
+    }
+  ]
+}

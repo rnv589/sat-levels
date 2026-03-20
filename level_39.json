@@ -1,0 +1,167 @@
+{
+  "level": 39,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_39.png",
+  "questions": [
+    {
+      "word": "DAUNTING",
+      "correct_definition": "intimidating, causing one to lose courage",
+      "distractors": [
+        "To boast excessively or speak with great pride.",
+        "Relating to the act of frequently visiting or lingering in a place.",
+        "Signaling the beginning or first appearance of something.",
+        "To make a slight depression or indentation in a surface.",
+        "Characterized by a state of being extremely thin or emaciated.",
+        "The act of reckoning or tallying a sum or quantity.",
+        "To contaminate or morally corrupt something.",
+        "To put on or wear an item of clothing or adornment.",
+        "Speaking loudly and passionately, often in a rambling or angry manner.",
+        "Marked by persistent nagging or the act of ridiculing someone."
+      ]
+    },
+    {
+      "word": "DEBUNK",
+      "correct_definition": "to expose the falseness of something",
+      "distractors": [
+        "To analyze a topic in great depth and detail.",
+        "To provide strong evidence in support of a claim.",
+        "To dismantle a complex system into its basic components.",
+        "To create a secure and private space for discussion.",
+        "To prevent someone from performing a designated task.",
+        "To make a situation worse or more complicated.",
+        "To remove the core or essential part of something.",
+        "To construct a rough or temporary shelter.",
+        "To formally present a new theory or hypothesis.",
+        "To separate oneself from a group or organization."
+      ]
+    },
+    {
+      "word": "DECOROUS",
+      "correct_definition": "socially proper, appropriate",
+      "distractors": [
+        "Pertaining to the art of embellishment or ornamentation.",
+        "Characterized by elaborate and attractive visual design.",
+        "Marked by an ostentatious display of wealth or luxury.",
+        "Describing something that is visually pleasing and harmonious.",
+        "Requiring a significant amount of artistic skill or craftsmanship.",
+        "Displaying a refined sense of aesthetic beauty.",
+        "Referring to the arrangement and style of interior furnishings.",
+        "Indicated by a deliberate and careful consideration of details.",
+        "Exhibiting a highly developed taste for fine arts.",
+        "Relating to the act of adding superficial decorative elements."
+      ]
+    },
+    {
+      "word": "DELEGATE",
+      "correct_definition": "to hand over responsibility for something",
+      "distractors": [
+        "To legally bind someone to an agreement.",
+        "To carefully select a person for a specific task.",
+        "To formally introduce a new law or policy.",
+        "To make a solemn pledge or commitment.",
+        "To officially declare something as legitimate.",
+        "To formally present evidence in court.",
+        "To formally withdraw from a group or organization.",
+        "To argue against a proposal or decision.",
+        "To remove an obstacle or barrier.",
+        "To critically evaluate a complex issue."
+      ]
+    },
+    {
+      "word": "DENOUNCE",
+      "correct_definition": "to criticize publicly",
+      "distractors": [
+        "To formally cancel an agreement.",
+        "To make a solemn declaration.",
+        "To remove from an official record.",
+        "To publicly disclose confidential information.",
+        "To formally object to a proposal.",
+        "To retract a previously announced decision.",
+        "To officially renounce a claim or right.",
+        "To secretly inform an authority.",
+        "To bring down a ruling authority.",
+        "To formally request the removal of someone."
+      ]
+    },
+    {
+      "word": "DERELICT",
+      "correct_definition": "abandoned, run-down",
+      "distractors": [
+        "Pertaining to a failure to meet one's obligations.",
+        "Devoid of moral principles or integrity.",
+        "Illegally acquired or operating without proper authorization.",
+        "An object of significant historical or religious value, a relic.",
+        "Suffering from a wasting disease or chronic illness.",
+        "Marked by a disrespectful or irreverent attitude.",
+        "Causing gradual and irreparable damage or erosion.",
+        "An authoritative proclamation or decree from a high office.",
+        "Experiencing a decline in social standing or public favor.",
+        "Reduced to rubble or completely devastated by force."
+      ]
+    },
+    {
+      "word": "DESOLATE",
+      "correct_definition": "deserted, dreary, lifeless",
+      "distractors": [
+        "To strip of comfort or solace; to cause profound emotional distress.",
+        "To remove all light and warmth; to plunge into utter darkness.",
+        "To cause to dissolve entirely; to break down into liquid form.",
+        "To undermine the stability or firmness of something; to weaken.",
+        "To complicate a problem to the point of being irresolvable; to confuse.",
+        "To drain of spirit or courage; to thoroughly demoralize a person.",
+        "To make a situation serious or grave; to imbue with profound ceremony.",
+        "To extract salt from a liquid; to purify water.",
+        "To cause a significant delay or postponement; to hold back progress.",
+        "To mark a boundary or limit; to delineate an area."
+      ]
+    },
+    {
+      "word": "DIDACTIC",
+      "correct_definition": "intended to instruct",
+      "distractors": [
+        "Pertaining to the study of ancient civilizations.",
+        "Referring to events that have already transpired.",
+        "Characterized by actions performed in the past.",
+        "Involving the performance of a dramatic role.",
+        "Describing something capable of being acted upon.",
+        "Pertaining to the execution of a specific task.",
+        "Exhibiting a habitual or involuntary movement.",
+        "Relating to the precise classification of organisms.",
+        "Concerning the adherence to strict rules of conduct.",
+        "Indicating a preference for meticulous detail."
+      ]
+    },
+    {
+      "word": "DILATORY",
+      "correct_definition": "tending to delay, causing delay",
+      "distractors": [
+        "Tending to dilute or weaken a solution.",
+        "Causing something to expand or become wider.",
+        "Having a dual or conflicting nature.",
+        "Pertaining to the giving or receiving of gifts.",
+        "Inclined to digress from the main topic.",
+        "Extending broadly or laterally.",
+        "Having a tendency to mislead or deceive.",
+        "Pertaining to the creation or use of a directory.",
+        "Characterized by being scattered or dispersed.",
+        "Easily influenced or persuaded."
+      ]
+    },
+    {
+      "word": "DILIGENT",
+      "correct_definition": "showing care in doing one\u2019s work",
+      "distractors": [
+        "Making something less strong or concentrated.",
+        "Tending to postpone tasks or activities.",
+        "Having a mild or gentle temperament.",
+        "Acting with extreme swiftness and urgency.",
+        "Spreading out over a wide area or period.",
+        "Showing leniency or tolerance towards others.",
+        "Being clearly defined and easily noticeable.",
+        "Readily obeying authority or instructions.",
+        "Having a refined or sophisticated appearance.",
+        "Easily broken or damaged due to fragility."
+      ]
+    }
+  ]
+}

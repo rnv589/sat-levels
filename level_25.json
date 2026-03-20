@@ -1,0 +1,167 @@
+{
+  "level": 25,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_25.png",
+  "questions": [
+    {
+      "word": "EMPATHY",
+      "correct_definition": "sensitivity to another\u2019s feelings as if they were one\u2019s own",
+      "distractors": [
+        "A strong, instinctive feeling of dislike or opposition to someone or something.",
+        "The state of being completely unaffected by the emotions or suffering of others.",
+        "The power to influence the emotions of a crowd or large group.",
+        "A deep sense of shared sorrow or concern for another person's misfortune.",
+        "The ability to perceive another's thoughts or future actions through extrasensory means.",
+        "An overwhelming and intense personal experience of joy or profound happiness.",
+        "The deliberate act of suppressing or hiding one's genuine emotional responses.",
+        "A persistent feeling of anxiety or dread regarding unknown future events.",
+        "A profound emotional memory or lasting impression from a significant event.",
+        "The sensation of experiencing a chronic physical ailment or discomfort."
+      ]
+    },
+    {
+      "word": "EMULATE",
+      "correct_definition": "to imitate",
+      "distractors": [
+        "To combine various elements into a unified structure.",
+        "To provide excessive praise or obsequious flattery.",
+        "To alleviate distress or provide emotional comfort.",
+        "To establish a definitive set of rules or conditions.",
+        "To clarify a complex idea by simplifying its details.",
+        "To completely eradicate or wipe out a particular threat.",
+        "To improve the quality or status of a situation.",
+        "To make something vacant or remove its contents.",
+        "To assemble parts methodically for a specific purpose.",
+        "To become progressively weaker or less effective."
+      ]
+    },
+    {
+      "word": "EPITOME",
+      "correct_definition": "a perfect example, embodiment",
+      "distractors": [
+        "A brief inscription or saying, often found on a monument.",
+        "A ceremonial speech delivered in praise of the deceased.",
+        "The outermost layer of skin or a protective covering.",
+        "A severe and abrupt conclusion or ending.",
+        "A large, scholarly volume or book.",
+        "A precise surgical incision or cutting procedure.",
+        "A pointed and critical remark intended to wound.",
+        "The act of summarizing or abridging a lengthy text.",
+        "A sudden, dramatic turning point in a story or event.",
+        "A complex and ornamental phrase or figure of speech."
+      ]
+    },
+    {
+      "word": "ERUDITE",
+      "correct_definition": "learned",
+      "distractors": [
+        "Rough-mannered",
+        "Quick to anger",
+        "Ruddy-faced",
+        "Socially awkward",
+        "Explosive",
+        "Clear and distinct",
+        "Easily vexed",
+        "Highly zealous",
+        "Gradually worn away",
+        "Deeply convinced"
+      ]
+    },
+    {
+      "word": "ESPOUSE",
+      "correct_definition": "to take up as a cause, support",
+      "distractors": [
+        "To formally join two people in matrimony; to celebrate a wedding.",
+        "To make a solemn pledge or vow; to bind oneself by an oath.",
+        "To present a false front or pretense; to affect an air.",
+        "To keep hidden from public knowledge; to guard a secret.",
+        "To extract information or a confession; to draw forth carefully.",
+        "To spread out thinly over a surface; to disperse widely.",
+        "To extinguish or douse a flame; to thoroughly soak.",
+        "To incite strong feelings or desires; to awaken great interest.",
+        "To disassociate oneself from a group; to formally withdraw.",
+        "To formally repudiate a belief; to publicly disavow."
+      ]
+    },
+    {
+      "word": "EXALT",
+      "correct_definition": "to glorify, praise",
+      "distractors": [
+        "To physically elevate an object above others.",
+        "To significantly increase the volume of a sound.",
+        "To surpass expectations or set a new benchmark.",
+        "To remove impurities from a substance.",
+        "To make a difficult situation even more severe.",
+        "To articulate a complex idea with great clarity.",
+        "To intensely focus one's attention on a task.",
+        "To present an alternative viewpoint forcefully.",
+        "To undergo a dramatic and transformative change.",
+        "To excavate ancient artifacts from a site."
+      ]
+    },
+    {
+      "word": "EXTOL",
+      "correct_definition": "to praise, revere",
+      "distractors": [
+        "to bear or put up with patiently",
+        "to raise or lift to a great height",
+        "to pay a heavy fee or charge",
+        "to elaborate or explain in detail",
+        "to pull out or extract with effort",
+        "to force out or expel from within",
+        "to stretch or extend beyond limits",
+        "to exceed or surpass a standard",
+        "to suffer a significant loss or cost",
+        "to measure with great precision"
+      ]
+    },
+    {
+      "word": "EXULT",
+      "correct_definition": "to rejoice",
+      "distractors": [
+        "To leap or spring out from a confined space.",
+        "To overcome an obstacle with great effort.",
+        "To elevate to a position of power or honor.",
+        "To bring to a final conclusion or end.",
+        "To remove forcefully or expel.",
+        "To struggle fiercely against an opposing force.",
+        "To make a sudden, urgent departure.",
+        "To demand something with great urgency.",
+        "To extract or draw out information.",
+        "To release a great burst of energy."
+      ]
+    },
+    {
+      "word": "FATUOUS",
+      "correct_definition": "silly, foolish",
+      "distractors": [
+        "Pertaining to one's predetermined destiny or fate.",
+        "Affected by extreme physical or mental exhaustion.",
+        "Lacking in truth or factual accuracy; untrue.",
+        "Of excessive size or corpulence; overweight.",
+        "Difficult to comprehend or understand deeply.",
+        "Marked by an air of gravity or extreme seriousness.",
+        "Leading to an unfortunate or disastrous conclusion.",
+        "Intending to deceive or mislead others.",
+        "Characterized by a profound and significant impact.",
+        "Indicating a state of deep despondency or gloom."
+      ]
+    },
+    {
+      "word": "FORLORN",
+      "correct_definition": "lonely, abandoned, hopeless",
+      "distractors": [
+        "Forbidden or strictly prohibited, especially by ancient decree.",
+        "Lost forever, irretrievable, completely vanished without a trace.",
+        "Situated at a great distance, far away, remote and isolated.",
+        "Temporarily misplaced, briefly out of sight, awaiting discovery.",
+        "Greatly desired, intensely longed for, yearned for with passion.",
+        "Having a worn-out appearance, dilapidated, in a state of disrepair.",
+        "Preceded by something, occurring before, acting as an introduction.",
+        "Sacrificed for a greater purpose, willingly surrendered, offered as a tribute.",
+        "In a state of rapid decay, quickly fading away, losing substance.",
+        "Predetermined by fate, destined to occur, unavoidable."
+      ]
+    }
+  ]
+}

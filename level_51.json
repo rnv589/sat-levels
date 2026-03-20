@@ -1,0 +1,167 @@
+{
+  "level": 51,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_51.png",
+  "questions": [
+    {
+      "word": "ANXIETY",
+      "correct_definition": "intense uneasiness",
+      "distractors": [
+        "A strong craving or yearning for something.",
+        "A feeling of extreme physical exhaustion.",
+        "A state of complete mental clarity.",
+        "Deep admiration or respect for another.",
+        "A sudden burst of uncontrollable energy.",
+        "Profound peace and serenity of mind.",
+        "Intense focus and dedication to a task.",
+        "The precise calculation of complex data.",
+        "A tendency to act without prior thought.",
+        "A deep appreciation for natural beauty."
+      ]
+    },
+    {
+      "word": "APATHETIC",
+      "correct_definition": "lacking concern, emotion",
+      "distractors": [
+        "Not having a clear direction or objective.",
+        "Unable to experience any physical pain.",
+        "Lacking a predictable sequence or pattern.",
+        "Resistant to infection or biological disease.",
+        "Without a designated route or passage.",
+        "Having no fixed residence or established dwelling.",
+        "Unwilling to conform to societal customs.",
+        "Devoid of any specific medical condition.",
+        "Not easily persuaded by others' views.",
+        "Lacking a discernible track or physical trail."
+      ]
+    },
+    {
+      "word": "APPALLING",
+      "correct_definition": "inspiring shock, horror, disgust",
+      "distractors": [
+        "Causing a draining of color from the face, indicating fear or illness.",
+        "Serving to alleviate pain or symptoms without addressing the underlying cause.",
+        "Relating to a dense, dark cloud or covering that obscures light and vision.",
+        "To make a solemn request or urgent plea for assistance.",
+        "Having the quality of becoming weak or ineffective over time.",
+        "Characterized by a general lack of enthusiasm or vibrancy.",
+        "To spread throughout an area, often in a gradual or pervasive manner.",
+        "Describing something that is gradually diminishing in value or importance.",
+        "To bring about a sense of quiet solemnity or melancholy.",
+        "To lessen or reduce the intensity of an undesirable situation."
+      ]
+    },
+    {
+      "word": "APPREHEND",
+      "correct_definition": "to seize, arrest",
+      "distractors": [
+        "to prepare thoroughly for an event.",
+        "to prevent someone from completing a task.",
+        "to give approval or consent to an action.",
+        "to strongly recommend a course of action.",
+        "to verbally reprimand or scold.",
+        "to carefully evaluate or assess something.",
+        "to predict a future outcome with certainty.",
+        "to adjust or adapt to new circumstances.",
+        "to propose a new idea or plan.",
+        "to remove or dismiss from a position."
+      ]
+    },
+    {
+      "word": "AQUATIC",
+      "correct_definition": "relating to water",
+      "distractors": [
+        "Relating to sound waves.",
+        "Relating to ancient times.",
+        "Relating to sharp or intense pain.",
+        "Relating to a specific quantity or measure.",
+        "Relating to an academic subject.",
+        "Relating to the quality of fairness or impartiality.",
+        "Relating to the highest point or peak.",
+        "Relating to the act of obtaining something.",
+        "Relating to a curved line or shape.",
+        "Relating to the power of sight or perception."
+      ]
+    },
+    {
+      "word": "ARBITRARY",
+      "correct_definition": "based on factors that appear random",
+      "distractors": [
+        "Relating to the formal resolution of disputes.",
+        "Determined by an impartial judge or panel.",
+        "Subject to widespread disagreement or debate.",
+        "Lacking clarity due to excessive detail.",
+        "Having a universally accepted and logical basis.",
+        "Pertaining to a difficult and strenuous undertaking.",
+        "Based on careful consideration and extensive research.",
+        "Characterized by a broad and inclusive scope.",
+        "Selected specifically for a particular purpose or task.",
+        "Given by an authoritative figure with absolute finality."
+      ]
+    },
+    {
+      "word": "ASCERTAIN",
+      "correct_definition": "to perceive, learn",
+      "distractors": [
+        "To climb or move upward.",
+        "To make a firm declaration.",
+        "To guarantee or secure an agreement.",
+        "To commit to a specific course of action.",
+        "To stabilize or make something steady.",
+        "To formally approve or certify.",
+        "To assign a fixed value or role.",
+        "To protect or guard carefully.",
+        "To insist on something with confidence.",
+        "To bring to a definite and final conclusion."
+      ]
+    },
+    {
+      "word": "ASPERSION",
+      "correct_definition": "a curse, expression of ill-will",
+      "distractors": [
+        "A fine spray or mist of liquid.",
+        "The act of widely distributing small particles.",
+        "A superficial or quick glance.",
+        "The state of being thinly spread over a surface.",
+        "A sudden, forceful expulsion of air or water.",
+        "A subtle and pervasive influence.",
+        "A harshness or severity of manner.",
+        "A difficult and challenging undertaking.",
+        "A ceremony involving the sprinkling of holy water.",
+        "The process of widespread growth or development."
+      ]
+    },
+    {
+      "word": "ASSIDUOUS",
+      "correct_definition": "hard-working, diligent",
+      "distractors": [
+        "Characterized by much sitting; tending to be inactive.",
+        "Showing strong partiality or a distinct leaning towards one side.",
+        "Tending to stick or adhere firmly to surfaces.",
+        "Operating in a slow and harmful way that is not easily noticed; subtly treacherous.",
+        "Located next to or sharing a border with something else.",
+        "Remaining calm and unperturbed under pressure; tranquil.",
+        "Firmly established and difficult to change or dislodge.",
+        "Of secondary importance; serving to assist or supplement.",
+        "Having been specifically designated or allocated for a task.",
+        "Persuasive and insistent in arguing a point; importunate."
+      ]
+    },
+    {
+      "word": "ATTRIBUTE",
+      "correct_definition": "to credit, assign",
+      "distractors": [
+        "to give a small portion or share",
+        "to contribute to a common fund",
+        "to deliver a formal speech of praise",
+        "to divide into three distinct sections",
+        "to exact punishment for a wrong",
+        "to distribute widely to many people",
+        "to bring before a legal court",
+        "to endure a period of great difficulty",
+        "to make a public declaration of support",
+        "to add to a total or sum"
+      ]
+    }
+  ]
+}

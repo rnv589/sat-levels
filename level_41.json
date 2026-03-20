@@ -1,0 +1,167 @@
+{
+  "level": 41,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_41.png",
+  "questions": [
+    {
+      "word": "ENTHRALL",
+      "correct_definition": "to charm, hold spellbound",
+      "distractors": [
+        "To place someone in a state of complete servitude or bondage.",
+        "To restrict the liberty or freedom of an individual.",
+        "To cause someone to become deeply obligated or indebted.",
+        "To overcome and render powerless through physical force.",
+        "To struggle intensely against an oppressive burden.",
+        "To confine or trap within a limited space.",
+        "To make something larger in scope or extent.",
+        "To deeply anger or provoke with irritating actions.",
+        "To mislead or deceive through cunning manipulation.",
+        "To fill with intense fear or dread."
+      ]
+    },
+    {
+      "word": "ESCHEW",
+      "correct_definition": "to shun, avoid",
+      "distractors": [
+        "to carefully select",
+        "to openly declare",
+        "to thoroughly examine",
+        "to swiftly retrieve",
+        "to forcefully expel",
+        "to eagerly pursue",
+        "to deeply regret",
+        "to secretly desire",
+        "to firmly establish",
+        "to cautiously approach"
+      ]
+    },
+    {
+      "word": "ESOTERIC",
+      "correct_definition": "understood by only a select few",
+      "distractors": [
+        "Pertaining to outward manifestations or superficial matters.",
+        "Of unusually strange or exotic origin or nature.",
+        "Concerned primarily with the material world and its physical limitations.",
+        "Inherent and often daunting complexity, difficult for anyone to master.",
+        "Characterized by a preference for solitude or social isolation.",
+        "Revealing the fundamental core or essence of a subject.",
+        "Relating to knowledge or practices from an ancient, forgotten past.",
+        "Intended to be kept strictly confidential or hidden from view.",
+        "Pertaining to one's deepest inner thoughts or psychological processes.",
+        "Describing something that is external to the main body or structure."
+      ]
+    },
+    {
+      "word": "ETHEREAL",
+      "correct_definition": "heavenly, exceptionally delicate or re\ufb01ned",
+      "distractors": [
+        "Relating to a colorless, volatile, flammable liquid used as a solvent or anesthetic.",
+        "Pertaining to the fundamental principles of moral conduct or professional practice.",
+        "Characterized by a strong, earthy, and tangible physical presence.",
+        "Describing something that is permanent, enduring, and resistant to change.",
+        "Concerning the study of celestial navigation and astrological predictions.",
+        "Having an innate ability to perceive and interpret subtle sounds or vibrations.",
+        "Marked by a robust and resilient nature, capable of withstanding hardship.",
+        "Referring to a complex and intricate system of interconnected pathways or networks.",
+        "Directly related to the Earth's upper atmosphere and its various layers.",
+        "A strong belief or conviction that is resistant to doubt or questioning."
+      ]
+    },
+    {
+      "word": "EUPHORIC",
+      "correct_definition": "elated, uplifted",
+      "distractors": [
+        "easy to carry or transport; lightweight",
+        "producing a melodious sound; harmonious",
+        "exhibiting ideal physical form or structure",
+        "characterized by eloquent or persuasive speech",
+        "pertaining to light-bearing properties; luminous",
+        "enduring a heavy burden or responsibility",
+        "favorable or indicative of good fortune; auspicious",
+        "promoting good health and vitality",
+        "having a distinguished or noble bearing",
+        "a state of peaceful tranquility; calm"
+      ]
+    },
+    {
+      "word": "EVINCE",
+      "correct_definition": "to show, reveal",
+      "distractors": [
+        "To defeat thoroughly.",
+        "To overcome a difficult challenge.",
+        "To cause to vanish or disappear.",
+        "To extract unwillingly.",
+        "To introduce a new idea.",
+        "To experience intense emotion.",
+        "To persuade strongly.",
+        "To establish formally.",
+        "To evacuate from danger.",
+        "To elaborate in detail."
+      ]
+    },
+    {
+      "word": "EXHORT",
+      "correct_definition": "to urge, prod, spur",
+      "distractors": [
+        "To drain completely, exhaust.",
+        "To describe vividly, narrate.",
+        "To exclude forcefully, banish.",
+        "To distort the truth, misrepresent.",
+        "To release slowly, emit.",
+        "To examine closely, scrutinize.",
+        "To lift up, elevate.",
+        "To demand payment, extort.",
+        "To explain in detail, expound.",
+        "To breathe out, exhale."
+      ]
+    },
+    {
+      "word": "EXTANT",
+      "correct_definition": "existing, not destroyed or lost",
+      "distractors": [
+        "Standing out prominently; very noticeable.",
+        "Removed from its original place or context; displaced.",
+        "No longer in effect or valid; obsolete.",
+        "To assert oneself strongly; to make a firm declaration.",
+        "Lacking substance or foundation; unstable.",
+        "Motionless or fixed in a rigid position.",
+        "Relating to a time in the past, no longer current.",
+        "Extending beyond normal boundaries; excessive.",
+        "Derived from an established source; foundational.",
+        "To bring to a complete cessation; to terminate."
+      ]
+    },
+    {
+      "word": "FRENETIC",
+      "correct_definition": "frenzied, hectic, frantic",
+      "distractors": [
+        "Relating to an acute psychological disturbance.",
+        "Requiring intense intellectual concentration.",
+        "Occurring with high regularity or commonness.",
+        "Deprived of liberty or independence.",
+        "Unfamiliar or exotic in origin.",
+        "Exhibiting remarkable or extraordinary ability.",
+        "Characterized by profound stillness or silence.",
+        "Given to excessive and irrational fear.",
+        "To curb or keep under strict control.",
+        "Tending to provoke anger or irritation."
+      ]
+    },
+    {
+      "word": "GLUTTONY",
+      "correct_definition": "overindulgence in food or drink",
+      "distractors": [
+        "An overwhelming and often wasteful surplus of goods or resources beyond what is needed.",
+        "A state of profound mental dullness or physical lethargy resulting from chronic inactivity.",
+        "The relentless and often unscrupulous pursuit of power or control over others.",
+        "A deep and insatiable craving for abstract knowledge or profound philosophical understanding.",
+        "The act of speaking in an unrefined, vulgar, or boisterous manner.",
+        "A persistent and overwhelming feeling of despair or hopelessness concerning one's future.",
+        "The deliberate act of fabricating or exaggerating stories for dramatic effect or personal gain.",
+        "A sticky, viscous substance used primarily for binding or adhering objects together.",
+        "A severe form of generalized anxiety characterized by excessive worry and apprehension.",
+        "The condition of being inundated or overwhelmed by an excessive volume of input or information."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 63,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_63.png",
+  "questions": [
+    {
+      "word": "POTENTATE",
+      "correct_definition": "one who has great power, a ruler",
+      "distractors": [
+        "A strong and effective medication.",
+        "One who possesses a rare and powerful talent.",
+        "A highly concentrated solution or mixture.",
+        "An expert in the study of ancient weaponry.",
+        "One who actively promotes strength training or physical fitness.",
+        "A large, impressive piece of artwork or sculpture.",
+        "One who is skilled in the art of persuasion.",
+        "A device used for amplifying sound or light.",
+        "An individual known for their ability to predict future events.",
+        "A strong, durable material used in construction."
+      ]
+    },
+    {
+      "word": "PRAGMATIC",
+      "correct_definition": "practical",
+      "distractors": [
+        "Characterized by strong conviction or assertion.",
+        "Marked by intense emotion or striking effect.",
+        "Broken or split into distinct pieces.",
+        "Presenting a difficulty or causing a problem.",
+        "Following a predetermined plan or sequence.",
+        "Puzzling, mysterious, or difficult to comprehend.",
+        "Conforming to the rules of grammar.",
+        "Intended to instruct or convey a moral lesson.",
+        "Displaying great energy, force, or power.",
+        "Inclined to doubt or question accepted beliefs."
+      ]
+    },
+    {
+      "word": "PRECIPICE",
+      "correct_definition": "the face of a cliff, a steep or overhanging place",
+      "distractors": [
+        "A preliminary step or requirement for a larger task or endeavor.",
+        "A sudden and often ill-advised decision or action taken without due consideration.",
+        "A state of extreme urgency or haste, compelling rapid action.",
+        "A detailed and accurate report or statement of facts.",
+        "An exact and concise summary of a longer written work.",
+        "A feeling of intense anxiety or apprehension about an impending event.",
+        "A dense cloud layer or fog composed of tiny water droplets.",
+        "A significant and sudden decline in value, status, or progress.",
+        "A prior legal case or decision serving as a rule or guide for future situations.",
+        "A careful and exact assessment or measurement of specific quantities."
+      ]
+    },
+    {
+      "word": "PRESCIENT",
+      "correct_definition": "to have foreknowledge of events",
+      "distractors": [
+        "To have a strong preference for scientific inquiry.",
+        "To recall events that occurred in the distant past.",
+        "To declare something to be true without scientific evidence.",
+        "To carefully prepare a scientific presentation.",
+        "To prevent knowledge from being disseminated widely.",
+        "To be precise in one's scientific calculations.",
+        "To assume something to be correct without prior investigation.",
+        "To base one's decisions solely on previous scientific findings.",
+        "To have extensive knowledge of ancient civilizations.",
+        "To instruct others in basic scientific principles."
+      ]
+    },
+    {
+      "word": "PRESCRIBE",
+      "correct_definition": "to lay down a rule",
+      "distractors": [
+        "To compose a preliminary document.",
+        "To describe an action before it occurs.",
+        "To write down historical events.",
+        "To formally introduce a published work.",
+        "To attribute a saying to an ancient author.",
+        "To engrave text upon a stone tablet.",
+        "To mark a surface with a preliminary line.",
+        "To commit one's ideas to permanent writing.",
+        "To present a written argument in court.",
+        "To carefully copy an existing manuscript."
+      ]
+    },
+    {
+      "word": "PROPAGATE",
+      "correct_definition": "to multiply, spread out",
+      "distractors": [
+        "To put forth an argument or idea.",
+        "To advocate strongly for a belief.",
+        "To establish or fix firmly in place.",
+        "To move forward with caution or stealth.",
+        "To prepare an impressive public display.",
+        "To organize information into a coherent whole.",
+        "To guide a process to a desired conclusion.",
+        "To assign a specific role or function.",
+        "To examine a situation with great detail.",
+        "To assert a statement as true without proof."
+      ]
+    },
+    {
+      "word": "PROPRIETY",
+      "correct_definition": "the quality or state of being proper, decent",
+      "distractors": [
+        "The state of possessing exclusive legal title or ownership.",
+        "The characteristic of belonging uniquely to a specific individual or entity.",
+        "A tangible asset or item of value that is privately held.",
+        "The act of claiming something for one's exclusive use or benefit.",
+        "The condition of being held as private property, rather than public.",
+        "The quality of being of utmost importance or deserving precedence.",
+        "The state of coming before others in order, rank, or urgency.",
+        "The condition of being successful and financially flourishing.",
+        "The state of having advanced skill or expert ability in a particular field.",
+        "The quality of being near in space, time, or relationship."
+      ]
+    },
+    {
+      "word": "PROSCRIBE",
+      "correct_definition": "to condemn, outlaw",
+      "distractors": [
+        "To write a detailed account of past events.",
+        "To formally introduce a speaker or topic.",
+        "To meticulously copy a text from one source to another.",
+        "To advocate strongly for a particular belief or policy.",
+        "To compose an official statement or decree.",
+        "To list items in a specific order for future reference.",
+        "To provide a written guarantee or endorsement.",
+        "To set forth an outline or plan for a project.",
+        "To formally enroll someone into an organization.",
+        "To sign one's name to a legal document."
+      ]
+    },
+    {
+      "word": "PROWESS",
+      "correct_definition": "extraordinary ability",
+      "distractors": [
+        "A solemn vow or declaration.",
+        "The leading edge or front part.",
+        "A strong, favorable inclination.",
+        "A difficult and prolonged undertaking.",
+        "An open and public declaration.",
+        "A prophetic vision or insight.",
+        "A deep sense of admiration.",
+        "Strict adherence to principles.",
+        "The forward motion or advancement.",
+        "A state of intense devotion."
+      ]
+    },
+    {
+      "word": "RECONCILE",
+      "correct_definition": "to return to harmony",
+      "distractors": [
+        "To compile a comprehensive list of items.",
+        "To provide comfort and support to someone in distress.",
+        "To reconsider a decision or plan.",
+        "To accurately re-examine evidence.",
+        "To secretly keep information hidden.",
+        "To restore something to its original physical state.",
+        "To carefully outline a complex procedure.",
+        "To establish new rules or regulations.",
+        "To rebuild a structure that has been damaged.",
+        "To recover from an illness or injury."
+      ]
+    }
+  ]
+}

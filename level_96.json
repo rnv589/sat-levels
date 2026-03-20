@@ -1,0 +1,167 @@
+{
+  "level": 96,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_96.png",
+  "questions": [
+    {
+      "word": "REQUISITION",
+      "correct_definition": "a demand for goods, usually made by an authority",
+      "distractors": [
+        "A formal inquiry into the details of an official report.",
+        "The process of regaining ownership of confiscated property.",
+        "An official document certifying the completion of a specific task.",
+        "A renewed request for information that was previously denied.",
+        "The act of formally questioning the validity of a legal ruling.",
+        "A necessary pre-condition or essential component for a project.",
+        "A formal suggestion for an adjustment or modification to a plan.",
+        "The systematic review of data to identify discrepancies or errors.",
+        "An official statement affirming the successful restoration of order.",
+        "The procedure for recalling a product that has been deemed defective."
+      ]
+    },
+    {
+      "word": "SANCTIMONIOUS",
+      "correct_definition": "giving a hypocritical appearance of piety",
+      "distractors": [
+        "Strictly adhering to religious laws and practices.",
+        "Devoted to maintaining the purity of sacred traditions.",
+        "Concerning the formal rites and ceremonies of a holy order.",
+        "Characterized by an act of making something holy or sacred.",
+        "Displaying an attitude of profound spiritual reverence.",
+        "Relating to the protection or preservation of sacred places.",
+        "Marked by a solemn oath or commitment to a divine purpose.",
+        "Having been formally set apart for a religious duty.",
+        "Embodying an unblemished purity of spirit and intention.",
+        "Conforming rigorously to established religious doctrine."
+      ]
+    },
+    {
+      "word": "SCINTILLATING",
+      "correct_definition": "sparkling",
+      "distractors": [
+        "Moving back and forth rapidly.",
+        "Having a strong, pungent odor.",
+        "Markedly genuine or earnest.",
+        "Pertaining to meticulous investigation.",
+        "Acutely perceptive; deeply felt.",
+        "Closely inspecting or scrutinizing.",
+        "Displaying a subtle hue or shade.",
+        "Causing a sharp, piercing sensation.",
+        "Widely disseminated or spread.",
+        "Characterized by profound calmness."
+      ]
+    },
+    {
+      "word": "SPECULATIVE",
+      "correct_definition": "not based in fact",
+      "distractors": [
+        "easy to see or notice",
+        "requiring close examination",
+        "having a striking visual effect",
+        "pertaining to a precise detail",
+        "fully and clearly articulated",
+        "of exceptional or unique merit",
+        "covering a vast expanse",
+        "related to public address",
+        "involving considerable financial risk",
+        "seeking rapid monetary gain"
+      ]
+    },
+    {
+      "word": "SURREPTITIOUS",
+      "correct_definition": "stealthy",
+      "distractors": [
+        "Pertaining to a sudden, forceful seizure.",
+        "Characterized by overwhelming fascination or delight.",
+        "Situated below the usual level or surface.",
+        "Marked by an excessive abundance or fullness.",
+        "Acting with excessive politeness or deference.",
+        "Prone to sudden, violent outbursts of emotion.",
+        "Denoting something that is secondary or subordinate.",
+        "Displaying a strong desire for wealth or possessions.",
+        "Requiring great effort and persistence to achieve.",
+        "Causing a feeling of deep regret or sorrow for a mistake."
+      ]
+    },
+    {
+      "word": "VICISSITUDE",
+      "correct_definition": "event that occurs by chance",
+      "distractors": [
+        "A deeply ingrained moral flaw.",
+        "An act characterized by extreme malice.",
+        "A decisive and celebrated accomplishment.",
+        "The surrounding geographical area.",
+        "A thick and adhesive physical property.",
+        "A state of extreme mental exhaustion.",
+        "A tendency toward excessive caution.",
+        "A sudden, overwhelming sense of dread.",
+        "The complete absence of understanding.",
+        "A deliberate fabrication or falsehood."
+      ]
+    },
+    {
+      "word": "VIVACIOUS",
+      "correct_definition": "lively, sprightly",
+      "distractors": [
+        "Possessing a strong will to survive.",
+        "Capable of enduring for an extended period.",
+        "Characterized by strikingly intense colors.",
+        "Displaying fierce and aggressive energy.",
+        "Having an insatiable desire or appetite.",
+        "Marked by vividness and clear perception.",
+        "Inclined to be excessively talkative.",
+        "Easily revitalized or brought back to life.",
+        "Pertaining to the fundamental act of living.",
+        "Tending to grow and spread rapidly."
+      ]
+    },
+    {
+      "word": "ANTEDILUVIAN",
+      "correct_definition": "ancient",
+      "distractors": [
+        "Occurring before an anticipated event.",
+        "Relating to a widespread flood.",
+        "Situated at the forefront.",
+        "Predating a significant discovery.",
+        "Marked by excessive moisture.",
+        "Pertaining to a time of chaos.",
+        "Having a tendency to predate.",
+        "Characterized by a muddy environment.",
+        "Originating in an early stage.",
+        "Of a period predating current understanding."
+      ]
+    },
+    {
+      "word": "CIRCUMLOCUTION",
+      "correct_definition": "indirect and wordy language",
+      "distractors": [
+        "The careful examination of an object from all sides.",
+        "A journey taken along the perimeter of a specified region.",
+        "A precise and highly condensed form of communication.",
+        "The study of how language varies by geographic location.",
+        "A circular argument that repeatedly returns to its premise.",
+        "The skill of speaking clearly and articulately.",
+        "The process of mapping out the boundaries of a territory.",
+        "A formal decree or official proclamation.",
+        "The act of speaking in a foreign or unfamiliar dialect.",
+        "A statement that serves to define the scope of a discussion."
+      ]
+    },
+    {
+      "word": "DERIVATIVE",
+      "correct_definition": "taken directly from a source, unoriginal",
+      "distractors": [
+        "A conclusion reached by logical reasoning from given premises.",
+        "Tending to decrease or diminish in value, power, or quality.",
+        "To stray or deviate from an expected or prescribed course.",
+        "The act of being stripped of an essential possession or right.",
+        "A substance obtained by breaking down a more complex compound.",
+        "Possessing intense driving force or compelling energy.",
+        "Originating from within oneself rather than an external source.",
+        "To establish or trace the historical origin of something.",
+        "Characterized by a sharp downward incline or slope.",
+        "To remove completely all traces or remnants of something."
+      ]
+    }
+  ]
+}

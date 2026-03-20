@@ -1,0 +1,167 @@
+{
+  "level": 29,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_29.png",
+  "questions": [
+    {
+      "word": "OMINOUS",
+      "correct_definition": "foreboding or foreshadowing evil",
+      "distractors": [
+        "Relating to all things or having universal scope.",
+        "Possessing complete and unlimited power.",
+        "Characterized by infinite knowledge and understanding.",
+        "Indicating a widespread presence or occurrence.",
+        "Pertaining to a comprehensive or all-encompassing view.",
+        "Signifying something of minimal importance or value.",
+        "Having a bright and radiant quality; luminous.",
+        "Marked by a shared agreement or collective opinion.",
+        "Pertaining to something that is widely known or prominent.",
+        "Characterized by an abundance or multitude of items."
+      ]
+    },
+    {
+      "word": "ONEROUS",
+      "correct_definition": "burdensome",
+      "distractors": [
+        "Characterized by singularity or uniqueness.",
+        "Deserving of great honor and admiration.",
+        "Pertaining to a unified and complete whole.",
+        "Having a strong, distinctive, and often unpleasant smell.",
+        "Requiring intense physical effort or strain.",
+        "Exhibiting excessive pride or arrogance.",
+        "Relating to a solitary or isolated condition.",
+        "Given to an overly serious or solemn disposition.",
+        "Involving a single, unbroken sequence or event.",
+        "Tending to be overly generous or benevolent."
+      ]
+    },
+    {
+      "word": "OPULENT",
+      "correct_definition": "characterized by rich abundance verging on ostentation",
+      "distractors": [
+        "Relating to the creation of a monumental and enduring work of art or literature.",
+        "Characterized by an effective and functional state, ready for immediate use.",
+        "Lacking clarity or transparency, making it difficult to fully comprehend.",
+        "Standing in direct contrast or opposition to established norms or beliefs.",
+        "Pertaining to choices or alternatives that are available but not obligatory.",
+        "Indicative of a highly complex system requiring precise coordination of parts.",
+        "Characterized by an inability to reflect light, appearing dark and dense.",
+        "Emphasizing a strong and vocal disagreement or objection to a proposal.",
+        "Referring to a medical procedure involving surgical intervention.",
+        "Marked by a deliberate intention to deceive or mislead through obscurity."
+      ]
+    },
+    {
+      "word": "ORATION",
+      "correct_definition": "a speech delivered in a formal or ceremonious manner",
+      "distractors": [
+        "A precise calculation of the ratio between two quantities.",
+        "A specific period of time designated for quiet reflection or contemplation.",
+        "A shimmering golden light or halo, especially as depicted in religious art.",
+        "A fixed allowance of food or provisions, typically distributed in times of scarcity.",
+        "The practice of invoking divine assistance or offering a solemn request to a deity.",
+        "A traditional folk dance performed with elaborate costumes and specific movements.",
+        "The gradual process of physical deterioration or erosion of materials over time.",
+        "A surgical procedure involving the repair or reconstruction of bodily tissues.",
+        "A detailed set of instructions or rules governing a formal procedure or activity.",
+        "A deep sense of reverent respect or adoration for a sacred entity."
+      ]
+    },
+    {
+      "word": "PALETTE",
+      "correct_definition": "a range of colors or qualities",
+      "distractors": [
+        "A refined sense of taste or discernment, especially regarding food or drink.",
+        "A flat, portable platform, typically made of wood, used for stacking and moving goods.",
+        "A light or subdued shade of a particular color, often lacking vibrancy.",
+        "A small, decorative piece of jewelry, often worn on a chain around the neck.",
+        "A ceremonial staff or scepter carried as a symbol of authority or rank.",
+        "A large, impressive dwelling that serves as the official residence of a monarch or dignitary.",
+        "A thin, flat piece of baked dough, often used as a base for various dishes.",
+        "A collection of short literary pieces or musical compositions.",
+        "A protective covering for the hand, usually made of metal or tough leather.",
+        "A written declaration of principles or intentions, especially by a political party."
+      ]
+    },
+    {
+      "word": "PANACEA",
+      "correct_definition": "a remedy for all ills or dif\ufb01culties",
+      "distractors": [
+        "A comprehensive and detailed analysis of a complex problem.",
+        "A global council or assembly formed to address international disputes.",
+        "A widespread and highly contagious infectious disease.",
+        "A profound and all-encompassing philosophical belief system.",
+        "The ultimate and supreme authority in a governing body.",
+        "A universal standard of excellence or achievement.",
+        "A meticulously organized and comprehensive collection of knowledge.",
+        "A strategic military maneuver designed to encircle and capture all enemy forces.",
+        "A sudden and widespread feeling of intense fear or anxiety.",
+        "A complex and intricate network of interconnected pathways."
+      ]
+    },
+    {
+      "word": "PARAGON",
+      "correct_definition": "a model of excellence or perfection",
+      "distractors": [
+        "A lengthy and detailed discourse on a specific topic.",
+        "A complex geometric shape with an indeterminate number of sides.",
+        "A state of complete physical or mental depletion and fatigue.",
+        "A defensive barrier or shield designed to offer significant protection.",
+        "A person who regularly deviates from conventional behavior or accepted norms.",
+        "A statement or concept that appears self-contradictory yet expresses a possible truth.",
+        "A sudden, uncontrollable burst of intense emotion or activity.",
+        "A precision instrument used for measuring minute angles or dimensions.",
+        "A rare and exceptionally brilliant gemstone, often clear or faintly colored.",
+        "A small, decorative projection or ornament in architectural design."
+      ]
+    },
+    {
+      "word": "PAUCITY",
+      "correct_definition": "small in quantity",
+      "distractors": [
+        "A brief period of time.",
+        "The condition of being poor.",
+        "The state of being opaque or unclear.",
+        "A sudden, abrupt stop.",
+        "The formal government of a city.",
+        "The ability to produce a desired effect.",
+        "A deficiency in mental agility.",
+        "The quality of being humble or modest.",
+        "A state of complete calm and quiet.",
+        "The condition of being utterly helpless."
+      ]
+    },
+    {
+      "word": "PERUSAL",
+      "correct_definition": "a careful examination, review",
+      "distractors": [
+        "A persistent or habitual action.",
+        "The customary way of doing something.",
+        "A strong personal conviction or belief.",
+        "The act of giving formal permission or consent.",
+        "A complete and thorough overhaul or renovation.",
+        "A deep and emotional plea or entreaty.",
+        "A formal agreement or treaty between parties.",
+        "The act of enduring hardship or prolonged suffering.",
+        "A detailed record or inventory of possessions.",
+        "A journey or passage through a difficult region."
+      ]
+    },
+    {
+      "word": "PILLAGE",
+      "correct_definition": "to seize or plunder, especially in war",
+      "distractors": [
+        "to undertake a long and arduous journey, often for spiritual reasons.",
+        "to construct a strong vertical support, typically in architecture.",
+        "to meticulously prepare land for cultivation, as in farming.",
+        "to arrange small objects into an orderly stack or heap.",
+        "to chronicle historical events in a sequential and detailed manner.",
+        "to reduce a substance to small, spherical pellets or fragments.",
+        "to gradually deteriorate in quality or vigor over an extended period.",
+        "to administer a small, measured dose of medicine.",
+        "to settle permanently in a small, rural community.",
+        "to adorn or embellish a surface with intricate carvings or designs."
+      ]
+    }
+  ]
+}

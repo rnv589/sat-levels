@@ -1,0 +1,167 @@
+{
+  "level": 4,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_4.png",
+  "questions": [
+    {
+      "word": "AISLE",
+      "correct_definition": "a passageway between rows of seats",
+      "distractors": [
+        "A small landmass completely surrounded by water.",
+        "A severe physical ailment or illness.",
+        "A sudden and strong gust of wind.",
+        "A pointed tool used for making small holes.",
+        "A high, arched ceiling in a large hall.",
+        "A deep feeling of sadness or mental anguish.",
+        "A protective covering or outer layer.",
+        "A decorative pattern made of intertwined threads.",
+        "A loud, mournful cry or wail.",
+        "A legal document specifying terms or conditions."
+      ]
+    },
+    {
+      "word": "ALIAS",
+      "correct_definition": "a false name or identity",
+      "distractors": [
+        "A different or alternate course of action.",
+        "A concealed motive or ulterior purpose.",
+        "A strong sense of loyalty or allegiance.",
+        "A binding agreement or formal contract.",
+        "A subtle hint or indirect reference.",
+        "A state of being estranged or isolated.",
+        "A significant alteration or major change.",
+        "A temporary suspension or brief delay.",
+        "An intricate connection or complex relationship.",
+        "A collective effort or united endeavor."
+      ]
+    },
+    {
+      "word": "ALLAY",
+      "correct_definition": "to soothe, ease",
+      "distractors": [
+        "To completely remove or strip away.",
+        "To combine or merge distinct elements.",
+        "To form a close association or partnership.",
+        "To create a narrow passage or walkway.",
+        "To set aside or postpone for a later time.",
+        "To lay out or arrange in an orderly fashion.",
+        "To reveal or make fully known.",
+        "To make a solemn declaration or assertion.",
+        "To gather all available resources for a task.",
+        "To entirely cover or obscure from view."
+      ]
+    },
+    {
+      "word": "ALOOF",
+      "correct_definition": "reserved, distant",
+      "distractors": [
+        "Elevated, high up.",
+        "Lacking concern; apathetic.",
+        "To wander aimlessly; unfocused.",
+        "Full of energy; vivacious.",
+        "Easily angered; irritable.",
+        "Light in weight; airy.",
+        "Overly confident; arrogant.",
+        "Of meager or insufficient quantity.",
+        "Clear or lucid; easily understood.",
+        "A state of being in the air; suspended."
+      ]
+    },
+    {
+      "word": "ANNUL",
+      "correct_definition": "to make void or invalid",
+      "distractors": [
+        "To join or add to something larger.",
+        "To make a detailed examination of.",
+        "To cause severe irritation or discomfort.",
+        "To establish a new rule or regulation.",
+        "To determine a precise numerical quantity.",
+        "To bring to a swift and definitive end.",
+        "To gather diverse elements into a single unit.",
+        "To declare something to be utterly false.",
+        "To restore to a former or original condition.",
+        "To formally announce or make public."
+      ]
+    },
+    {
+      "word": "ARDOR",
+      "correct_definition": "extreme vigor, energy, enthusiasm",
+      "distractors": [
+        "A sensation of intense burning or scorching heat.",
+        "Great difficulty requiring sustained and strenuous effort.",
+        "The presence of extreme dryness or parched conditions.",
+        "A strong, unpleasant smell or pervasive stench.",
+        "Deep emotional anguish or prolonged physical suffering.",
+        "A state of complete exhaustion and physical depletion.",
+        "A structure providing a shaded retreat, often covered with plants.",
+        "A fervent prayer or a sacred vow of devotion.",
+        "A condition of severe harshness or strict discipline.",
+        "A profound sense of sorrow or melancholic contemplation."
+      ]
+    },
+    {
+      "word": "ATONE",
+      "correct_definition": "to repent, make amends",
+      "distractors": [
+        "To unite or bring into harmony.",
+        "To modify the sound or quality of one's voice.",
+        "To focus all effort on a single objective.",
+        "To establish a particular shade or color.",
+        "To declare something as singular or unique.",
+        "To reach a final and definitive conclusion.",
+        "To be completely absorbed in a solitary activity.",
+        "To provide a clear and distinct sound.",
+        "To achieve complete agreement or consensus.",
+        "To set a particular mood or atmosphere."
+      ]
+    },
+    {
+      "word": "BANAL",
+      "correct_definition": "dull, commonplace",
+      "distractors": [
+        "Relating to a formal prohibition or ban.",
+        "Pertaining to careful analytical thought.",
+        "Describing something financially stable or sound.",
+        "Characteristic of a legal decree or edict.",
+        "Referring to a fundamental or basic element.",
+        "Describing something that is strictly forbidden.",
+        "Relating to a public announcement or proclamation.",
+        "Pertaining to the foundational structure of something.",
+        "Describing a state of being confined or restricted.",
+        "Characteristic of a deep, echoing sound."
+      ]
+    },
+    {
+      "word": "CANNY",
+      "correct_definition": "shrewd, careful",
+      "distractors": [
+        "Easily tricked or deceived.",
+        "Having a cheerful and optimistic outlook.",
+        "Capable of holding a large amount of liquid or solids.",
+        "Possessing a melodious and powerful singing voice.",
+        "Open and straightforward in one's actions.",
+        "Given to excessive talking or idle chatter.",
+        "Lacking decisiveness; prone to hesitation.",
+        "Showing exceptional artistic or creative ability.",
+        "Stubbornly unwilling to change one's mind.",
+        "Quick to anger or become irritable."
+      ]
+    },
+    {
+      "word": "CHAOS",
+      "correct_definition": "absolute disorder",
+      "distractors": [
+        "A vast, empty expanse.",
+        "A state of utter stillness.",
+        "A profound sense of despair.",
+        "A sudden, destructive event.",
+        "An internal state of conflict.",
+        "The complete absence of sound.",
+        "A deep, bottomless pit.",
+        "The primordial cosmic void.",
+        "A temporary mental blank.",
+        "A condition of pure nothingness."
+      ]
+    }
+  ]
+}

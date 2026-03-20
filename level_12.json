@@ -1,0 +1,167 @@
+{
+  "level": 12,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_12.png",
+  "questions": [
+    {
+      "word": "DITHER",
+      "correct_definition": "to be indecisive",
+      "distractors": [
+        "To wither or fade gradually.",
+        "To tremble uncontrollably.",
+        "To emit a loud, grating sound.",
+        "To split or separate into two pieces.",
+        "To make a difficult situation worse.",
+        "To contend with great effort.",
+        "To become confused or disoriented.",
+        "To ponder a problem deeply.",
+        "To grow stiff or inflexible.",
+        "To spread out thinly."
+      ]
+    },
+    {
+      "word": "DOCILE",
+      "correct_definition": "easily taught or trained",
+      "distractors": [
+        "skilled in drafting legal documents",
+        "one who delivers authoritative instructions",
+        "possessing advanced medical knowledge",
+        "prone to rapid decay or decomposition",
+        "pertaining to the precise measurement of quantities",
+        "showing strict adherence to established rules",
+        "naturally shy and reluctant to engage",
+        "a firmly held belief or set of principles",
+        "exhibiting a proud and unyielding spirit",
+        "serving as a formal written record or proof"
+      ]
+    },
+    {
+      "word": "DURESS",
+      "correct_definition": "hardship, threat",
+      "distractors": [
+        "The quality of being enduring or durable.",
+        "A prolonged period of time.",
+        "A state of deep thought or contemplation.",
+        "The act of making something firm or hard.",
+        "A formal decree or official order.",
+        "Steadfastness and unwavering resolve.",
+        "A binding obligation or duty.",
+        "The ability to resist wear or decay.",
+        "A slow, persistent deterioration.",
+        "A structure designed for stability."
+      ]
+    },
+    {
+      "word": "EFFACE",
+      "correct_definition": "to wipe out, obliterate, rub away",
+      "distractors": [
+        "to present a brave or confident front",
+        "to alter one's facial expression subtly",
+        "to apply a superficial layer or coating",
+        "to confront an adversary directly",
+        "to lose one's individual identity or distinctiveness",
+        "to remove the outer layer or skin of something",
+        "to bring something prominently into view",
+        "to make a quick and decisive judgment",
+        "to turn away from a difficult circumstance",
+        "to reshape the outward appearance of an object"
+      ]
+    },
+    {
+      "word": "ELATED",
+      "correct_definition": "overjoyed, thrilled",
+      "distractors": [
+        "Expelled or driven out from a specific location.",
+        "To articulate or explain something with great clarity.",
+        "To delay or postpone an action or event.",
+        "Raised or lifted to a higher physical position.",
+        "To make something wider or more extensive.",
+        "Completed or finalized at the very end of a process.",
+        "To free or release from confinement or obligation.",
+        "Characterized by a smooth, flowing, and graceful movement.",
+        "To select or choose a preferred option from several alternatives.",
+        "A state of tranquil calm and collectedness."
+      ]
+    },
+    {
+      "word": "ELICIT",
+      "correct_definition": "to bring forth, draw out, evoke",
+      "distractors": [
+        "To make something permissible or lawful.",
+        "To articulate a statement with absolute clarity.",
+        "To choose or designate a qualified individual.",
+        "To nullify a contract or agreement.",
+        "To remove boundaries or restrictions.",
+        "To shed light on a complex problem.",
+        "To grant official approval or authorization.",
+        "To drain a liquid completely from a container.",
+        "To engage in unlawful or prohibited activities.",
+        "To strip something of its outer covering."
+      ]
+    },
+    {
+      "word": "ENAMOR",
+      "correct_definition": "to \ufb01ll with love, fascinate, usually used in passive form followed by \u201cof\u201d or \u201cwith\u201d",
+      "distractors": [
+        "To declare one's passionate devotion or admiration for another.",
+        "To give legal power or formal approval to an agreement or action.",
+        "To cause someone to feel a deep sense of longing or nostalgia for the past.",
+        "To adorn or embellish with decorative features, especially with enamel-like glazes.",
+        "To make someone feel secure and protected from harm or danger.",
+        "To formally introduce a new concept or individual into a community or group.",
+        "To provide a written endorsement or official certification for a product or service.",
+        "To restore a sense of calm and tranquility after a period of distress.",
+        "To commit to memory with intense focus and understanding.",
+        "To encourage or foster a sense of mutual respect and cooperation among individuals."
+      ]
+    },
+    {
+      "word": "ENCORE",
+      "correct_definition": "the audience\u2019s demand for a repeat performance; also the artist\u2019s performance in response to that demand",
+      "distractors": [
+        "The essential and most central component of a complex system; the fundamental and indispensable part.",
+        "To completely surround or envelop something within a protective covering; to fully encase or enclose.",
+        "A profound sense of enthusiasm or an intense emotional surge experienced during a creative act or performance.",
+        "To impart courage or confidence to someone; the act of inspiring bravery or resolve in the face of adversity.",
+        "The act of meticulously cataloging or formally documenting a significant historical event or personal achievement.",
+        "A deep, rich, and reverberating sound, often characteristic of a large ensemble or a powerful vocal performance.",
+        "To instill new energy or strength into something; the process of revitalizing or making robust once more.",
+        "An ornate and intricate decorative design, typically found as a central motif in architectural embellishments or artistic works.",
+        "The diligent process of committing vital information to memory; to thoroughly internalize crucial data or facts.",
+        "A foundational belief or central doctrine that forms the basis of a philosophy or a system of thought."
+      ]
+    },
+    {
+      "word": "ENMITY",
+      "correct_definition": "ill will, hatred, hostility",
+      "distractors": [
+        "A feeling of deep respect or admiration.",
+        "The state of being deeply engrossed or absorbed in thought.",
+        "A strong desire for something, often material wealth.",
+        "The quality of being endlessly vast or unlimited.",
+        "A condition of great personal strength or resilience.",
+        "The characteristic of being secretive or mysterious.",
+        "The feeling of extreme fatigue or weariness.",
+        "A formal agreement or treaty between nations.",
+        "The act of granting permission or authorization.",
+        "A state of complete mental clarity and understanding."
+      ]
+    },
+    {
+      "word": "ENTAIL",
+      "correct_definition": "to include as a necessary step",
+      "distractors": [
+        "To recount a long and detailed story.",
+        "To persuade or entice someone to do something.",
+        "To arrange items in a specific and rigid sequence.",
+        "To restrict the inheritance of property to a specific line of heirs.",
+        "To follow closely behind another, typically in pursuit.",
+        "To become twisted or entangled in a difficult situation.",
+        "To attach or fasten securely to something else.",
+        "To establish a foundation or basis for an idea.",
+        "To bring a process or task to its final stage.",
+        "To elaborate on a topic with extensive details."
+      ]
+    }
+  ]
+}

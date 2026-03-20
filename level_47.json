@@ -1,0 +1,167 @@
+{
+  "level": 47,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_47.png",
+  "questions": [
+    {
+      "word": "RENOWN",
+      "correct_definition": "honor, acclaim",
+      "distractors": [
+        "To make something new again; renovation.",
+        "To give a new name to; to rename.",
+        "A fresh understanding; new insight.",
+        "To declare publicly again; to restate.",
+        "To become known again; to rediscover.",
+        "To pay a debt back; restitution.",
+        "The act of returning something; a refund.",
+        "To make a claim again; to reassert.",
+        "A deeply rooted belief; a conviction.",
+        "To be accountable for; responsibility."
+      ]
+    },
+    {
+      "word": "REPROACH",
+      "correct_definition": "to scold, disapprove",
+      "distractors": [
+        "to draw near once more",
+        "to request repeatedly",
+        "to advance forward again",
+        "to return to a former position",
+        "to cook by submerging in liquid",
+        "to trespass or infringe upon",
+        "to construct anew",
+        "to initiate a difficult subject",
+        "to investigate thoroughly",
+        "to regain entry or access"
+      ]
+    },
+    {
+      "word": "RESOLUTE",
+      "correct_definition": "\ufb01rm, determined",
+      "distractors": [
+        "Finding a final answer to a problem.",
+        "Easily dissolved or melted.",
+        "Making a final decision or judgment.",
+        "Paying off a debt completely.",
+        "Returning a substance to a liquid form.",
+        "Freed from a burden or guilt.",
+        "Repeating an action with care.",
+        "Bringing clarity to a situation.",
+        "Having been pardoned for an error.",
+        "Breaking down a substance into its parts."
+      ]
+    },
+    {
+      "word": "REVERE",
+      "correct_definition": "to esteem, show deference, venerate",
+      "distractors": [
+        "to confirm the accuracy of, to prove legitimate",
+        "to turn in the opposite direction, to invert a process",
+        "to return to a previous state, to go back to an earlier form",
+        "to disclose a hidden fact, to make known a secret",
+        "to produce a prolonged echo, to vibrate with sound",
+        "to enter a state of deep contemplation, to daydream idly",
+        "to forcefully cut apart, to detach into separate pieces",
+        "to change course abruptly, to alter direction suddenly",
+        "to provide a superficial covering, to overlay with a thin layer",
+        "to restore to a former healthy state, to rejuvenate completely"
+      ]
+    },
+    {
+      "word": "RUMINATE",
+      "correct_definition": "to contemplate, re\ufb02ect",
+      "distractors": [
+        "To cause widespread destruction or decay.",
+        "To make a low, continuous, murmuring sound.",
+        "To brighten or shed light upon a dark area.",
+        "To bring something to an abrupt or final end.",
+        "To list or count items systematically.",
+        "To pay or reward for services rendered.",
+        "To wrinkle or disarrange the surface of something.",
+        "To spread unverified news or gossip.",
+        "To retrieve facts or specific information from memory.",
+        "To search through a collection of items haphazardly."
+      ]
+    },
+    {
+      "word": "SAGACITY",
+      "correct_definition": "shrewdness, soundness of perspective",
+      "distractors": [
+        "a long, involved narrative or historical account",
+        "a state of profound physical or mental weariness",
+        "reckless boldness or extreme daring in one's actions",
+        "the capacity for holding or containing a large quantity",
+        "swiftness and agility in movement or thought",
+        "a stubborn adherence to one's own opinions or beliefs",
+        "a mistaken belief or a faulty perception of reality",
+        "the quality of being opaque or lacking transparency",
+        "excessive talkativeness, especially about trivial matters",
+        "a tendency to delay action or show reluctance to proceed"
+      ]
+    },
+    {
+      "word": "SANGUINE",
+      "correct_definition": "optimistic, cheery",
+      "distractors": [
+        "Having a ruddy or flushed complexion.",
+        "Characterized by an excessive flow of blood.",
+        "Marked by a strong, fiery temperament.",
+        "Eager for bloodshed; bloodthirsty.",
+        "Vigorous and full of vital energy.",
+        "Pertaining to the circulation of blood.",
+        "A deep, rich red color.",
+        "Prone to anger or quick to provoke.",
+        "Derived from or resembling blood.",
+        "Causing or experiencing excessive bleeding."
+      ]
+    },
+    {
+      "word": "SCATHING",
+      "correct_definition": "sharp, critical, hurtful",
+      "distractors": [
+        "Relating to a surface that has been lightly burned or singed.",
+        "Pertaining to a severe lack or shortage of something essential.",
+        "Describing something dull, blunt, or lacking keenness.",
+        "Causing a process of purification or detoxification.",
+        "Moving with extreme swiftness and precision.",
+        "Characterized by a slow, internal deterioration or decay.",
+        "Having a rough, abrasive texture that causes irritation.",
+        "Indicating a state of precarious balance or instability.",
+        "Showing an unyielding, inflexible adherence to rules.",
+        "Representing a task that is exceptionally difficult to complete."
+      ]
+    },
+    {
+      "word": "SENSUOUS",
+      "correct_definition": "involving sensory grati\ufb01cation",
+      "distractors": [
+        "Relating to strong emotional sensitivity.",
+        "Pertaining to intuitive understanding or insight.",
+        "Describing something highly practical or useful.",
+        "Referring to an acute awareness of one's surroundings.",
+        "Having a capacity for deep intellectual reasoning.",
+        "Marked by an objective and detached viewpoint.",
+        "Relating to the general consensus or popular opinion.",
+        "Expressing a clear and unambiguous meaning.",
+        "Denoting an absence of feeling or emotional response.",
+        "Characterized by rational and logical thought."
+      ]
+    },
+    {
+      "word": "SOBRIETY",
+      "correct_definition": "sedate, calm",
+      "distractors": [
+        "Grave, earnest",
+        "Austere, unadorned",
+        "Gloomy, melancholy",
+        "Lamenting, tearful",
+        "Dark, shadowy",
+        "Frugal, thrifty",
+        "Resolute, determined",
+        "Vigilant, watchful",
+        "Ponderous, weighty",
+        "Aloof, distant"
+      ]
+    }
+  ]
+}

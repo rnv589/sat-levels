@@ -1,0 +1,167 @@
+{
+  "level": 90,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_90.png",
+  "questions": [
+    {
+      "word": "EVANESCENT",
+      "correct_definition": "\ufb02eeting, momentary",
+      "distractors": [
+        "Pertaining to the fundamental nature or core of a thing.",
+        "Characterized by a strong, distinctive scent or aroma.",
+        "Lacking material substance or form; intangible.",
+        "Skillfully avoiding capture or detection; elusive.",
+        "Becoming less distinct or clear; fading slowly.",
+        "Emitting bubbles or fizzing vigorously; bubbly.",
+        "Completely disappearing, ceasing to exist permanently.",
+        "Marked by a sudden and forceful expulsion or discharge.",
+        "Of crucial or paramount importance; essential.",
+        "Having an unpredictable or erratic quality; unstable."
+      ]
+    },
+    {
+      "word": "EXACERBATE",
+      "correct_definition": "to make more violent, intense",
+      "distractors": [
+        "To remove bitterness or harshness from something.",
+        "To separate into distinct, sharp points.",
+        "To intensely sharpen one's senses.",
+        "To cause something to appear more clearly or sharply defined.",
+        "To extract something with great effort.",
+        "To demand an exact account or payment.",
+        "To determine the exact rate or speed of an action.",
+        "To free from a harsh or restrictive condition.",
+        "To express harsh criticism or disapproval.",
+        "To intensely focus one's attention on a task."
+      ]
+    },
+    {
+      "word": "EXASPERATE",
+      "correct_definition": "to irritate, irk",
+      "distractors": [
+        "To breathe out with great force.",
+        "To make something extremely rough or coarse.",
+        "To state something with excessive exaggeration.",
+        "To extract completely from a difficult situation.",
+        "To become intensely hopeful or ambitious.",
+        "To spread false rumors or damaging statements.",
+        "To clear away all obstacles or hindrances.",
+        "To increase the severity or intensity of.",
+        "To dig up or unearth with great effort.",
+        "To release from a state of confinement."
+      ]
+    },
+    {
+      "word": "EXCAVATE",
+      "correct_definition": "to dig out of the ground and remove",
+      "distractors": [
+        "To fill a hollow space with new material.",
+        "To construct an imposing structure above the ground.",
+        "To repair or restore a damaged historical monument.",
+        "To apply a protective coating to a delicate object.",
+        "To create a decorative indentation in a surface.",
+        "To extend outward from a central point or axis.",
+        "To carefully sort through items to find valuable ones.",
+        "To empty a container of its liquid contents.",
+        "To flatten a raised area of land for construction.",
+        "To reinforce a weak foundation to prevent collapse."
+      ]
+    },
+    {
+      "word": "EXORBITANT",
+      "correct_definition": "excessive",
+      "distractors": [
+        "Pertaining to celestial bodies or their paths.",
+        "Removed from its customary or proper position.",
+        "Operating outside established laws or regulations.",
+        "To forcibly eject someone from a social group.",
+        "Describing a past condition of significant status.",
+        "Characterized by an intense, rotational movement.",
+        "To scrutinize or investigate with extreme care.",
+        "Having a powerful and undeniable magnetic pull.",
+        "Connected with the banishment of malevolent spirits.",
+        "The act of demanding payment with intimidation or threats."
+      ]
+    },
+    {
+      "word": "EXTRANEOUS",
+      "correct_definition": "irrelevant, extra, not necessary",
+      "distractors": [
+        "Originating from outside one's own country; foreign.",
+        "Of exceptional quality or skill; superior.",
+        "Characterized by excessive force or intensity.",
+        "Causing great mental or emotional stress.",
+        "Possessing immense strength or power.",
+        "Pertaining to the outward appearance or surface.",
+        "Extremely unusual or bizarre.",
+        "Extended beyond its normal or original length.",
+        "Requiring an extraordinary amount of effort.",
+        "Existing beyond the immediate grasp or understanding."
+      ]
+    },
+    {
+      "word": "HYPOTHETICAL",
+      "correct_definition": "supposed or assumed true, but unproven",
+      "distractors": [
+        "Relating to a condition that is insufficient or substandard.",
+        "Pertaining to a formal academic presentation or defense.",
+        "Describing a scientific experiment conducted in a controlled underground environment.",
+        "A proposition that has been universally accepted as absolute fact.",
+        "Referring to an argument that is based entirely on fallacy.",
+        "Pertaining to a specific style of ancient Greek oratorical argument.",
+        "Characterized by an idea that holds minimal importance or influence.",
+        "A statement deliberately constructed to be deceptive.",
+        "Indicating a primary conclusion drawn from extensive research.",
+        "Relating to a physical object located beneath the earth's surface."
+      ]
+    },
+    {
+      "word": "IMPERATIVE",
+      "correct_definition": "necessary, pressing",
+      "distractors": [
+        "Pertaining to an emperor or a ruling class.",
+        "Having supreme and unquestionable authority.",
+        "Incapable of being prepared or made ready.",
+        "Exercising control without allowing any dissent.",
+        "Relating to a forceful and direct command.",
+        "Unmoved or unaffected by external influence.",
+        "Marked by a profound lack of emotional response.",
+        "Forming a perfect and entirely self-contained system.",
+        "Difficult to conquer or overcome due to strength.",
+        "A deeply personal moral principle or duty."
+      ]
+    },
+    {
+      "word": "IMPERVIOUS",
+      "correct_definition": "impenetrable, incapable of being affected",
+      "distractors": [
+        "Stubbornly contrary to accepted moral principles; perverse.",
+        "Lacking in prior experience or historical precedent.",
+        "Unable to oversee or guide properly; negligent in duty.",
+        "Not fulfilling its intended purpose or function; useless.",
+        "Unable to discern or comprehend sensory information.",
+        "Characterized by an all-encompassing, intrusive presence.",
+        "Unable to make a significant impact or lasting impression.",
+        "Impossible to improve upon; already perfect or flawless.",
+        "Incapable of achieving victory or overcoming obstacles.",
+        "Lacking adequate preparation or forethought."
+      ]
+    },
+    {
+      "word": "INARTICULATE",
+      "correct_definition": "incapable of expressing oneself clearly through speech",
+      "distractors": [
+        "Lacking the ability to form clear mental images.",
+        "Unable to comprehend or follow complex instructions.",
+        "Having difficulty with physical coordination or dexterity.",
+        "Lacking the capacity for creative expression in artistic forms.",
+        "Unwilling to engage in conversation or public speaking.",
+        "Lacking the ability to concentrate for extended periods of time.",
+        "Unable to write legibly or construct coherent sentences.",
+        "Incapable of remembering or recalling important factual information.",
+        "Lacking emotional depth or the capacity for genuine empathy.",
+        "Having a physical impairment that hinders fluid body movement."
+      ]
+    }
+  ]
+}

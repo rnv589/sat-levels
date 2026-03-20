@@ -1,0 +1,167 @@
+{
+  "level": 42,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_42.png",
+  "questions": [
+    {
+      "word": "GOURMAND",
+      "correct_definition": "someone fond of eating and drinking",
+      "distractors": [
+        "someone who is an expert in the preparation of fine cuisine.",
+        "a person who frequently gives orders or makes demands.",
+        "a person of refined tastes and discerning judgment.",
+        "someone who carefully evaluates and rates fine wines.",
+        "a person known for extravagant and luxurious living.",
+        "someone who travels extensively to remote or exotic locations.",
+        "a person who meticulously follows rules or protocols.",
+        "someone who issues public pronouncements or decrees.",
+        "a person with a deep appreciation for the arts and culture.",
+        "someone who is excessively fond of giving advice to others."
+      ]
+    },
+    {
+      "word": "HARANGUE",
+      "correct_definition": "a ranting speech",
+      "distractors": [
+        "A formal challenge to a debate.",
+        "A detailed analysis of a literary work.",
+        "A protective metal shield.",
+        "To meticulously arrange scattered items.",
+        "To forcefully extract information.",
+        "A traditional song of lament.",
+        "A complex set of musical variations.",
+        "A public declaration of peace.",
+        "To skillfully navigate a difficult terrain.",
+        "A deep and hidden underground chamber."
+      ]
+    },
+    {
+      "word": "HEDONIST",
+      "correct_definition": "one who believes pleasure should be the primary pursuit of humans",
+      "distractors": [
+        "one who is opinionated and obstinate in their viewpoints, refusing to be swayed.",
+        "one who adheres to a rigid set of moral or ethical principles, often with strict enforcement.",
+        "one who believes in esoteric knowledge accessible only to a select few initiates.",
+        "one who expresses intense disdain for conventional norms and societal expectations.",
+        "one who is highly honorable and acts with unwavering integrity in all circumstances.",
+        "one who practices extreme self-discipline and austerity, rejecting all forms of indulgence.",
+        "one who is devoted to the rigorous study of abstract concepts and philosophical theories.",
+        "one who believes in an unchangeable destiny, viewing human effort as ultimately futile.",
+        "one who staunchly upholds historical traditions and resists all forms of modernization.",
+        "one who advocates for physical prowess and athletic achievement as life's highest goals."
+      ]
+    },
+    {
+      "word": "HEGEMONY",
+      "correct_definition": "domination over others",
+      "distractors": [
+        "A widespread agreement on shared values.",
+        "The practice of collaborative leadership.",
+        "A formal pact or alliance among states.",
+        "The act of initiating a major undertaking.",
+        "A strong and unwavering personal belief.",
+        "The process of establishing a new order.",
+        "The systematic study of governance.",
+        "A leader's capacity for inspiring loyalty.",
+        "The ancestral lineage of a ruling family.",
+        "A diplomatic strategy for conflict resolution."
+      ]
+    },
+    {
+      "word": "IMPLICIT",
+      "correct_definition": "understood but not outwardly obvious, implied",
+      "distractors": [
+        "Lacking flexibility or pliability; stiff and unyielding to pressure.",
+        "To involve deeply or entangle in a complex situation; to incriminate.",
+        "Extremely complex or intricate in structure; having many convoluted parts.",
+        "To insert or embed firmly within another object; to implant securely.",
+        "Having an uneven or rough surface texture; not smooth to the touch.",
+        "To fold or layer materials inward repeatedly; to create deep pleats.",
+        "Not clearly visible or apparent; obscured from sight.",
+        "Requiring great skill or effort to perform; difficult to execute.",
+        "Relating to or existing within an inner layer or fold; internal.",
+        "To cause to become tangled or hopelessly confused; to snarl."
+      ]
+    },
+    {
+      "word": "IMPUDENT",
+      "correct_definition": "casually rude, insolent, impertinent",
+      "distractors": [
+        "lacking foresight or careful consideration, rash, imprudent.",
+        "unyielding to pressure or force, firm, steadfast.",
+        "having a profound or noticeable effect, influential, significant.",
+        "unresponsive to stimuli, dull, apathetic.",
+        "difficult to traverse or navigate, impassable, obstructed.",
+        "deeply fixed or set, embedded, ingrained.",
+        "lacking a proper foundation or basis, unsubstantiated, groundless.",
+        "incapable of being perfected or improved, flawed, defective.",
+        "characterized by sudden, forceful movement, abrupt, volatile.",
+        "without a clear shape or form, amorphous, indistinct."
+      ]
+    },
+    {
+      "word": "INCHOATE",
+      "correct_definition": "unformed or formless, in a beginning stage",
+      "distractors": [
+        "indecisive or hesitant, lacking firm resolution",
+        "contained or restricted, unable to move freely",
+        "suffocated or stifled, unable to express oneself fully",
+        "producing a harsh or discordant sound, lacking melody",
+        "covered or enveloped, hidden from sight or understanding",
+        "indelible or permanent, leaving an enduring mark",
+        "provoking or instigating, stirring up unrest",
+        "highly infectious or contagious, spreading rapidly",
+        "inherent or innate, existing as a natural part",
+        "unwarranted or unjustified, lacking a sound basis"
+      ]
+    },
+    {
+      "word": "INDIGENT",
+      "correct_definition": "very poor, impoverished",
+      "distractors": [
+        "Referring to something or someone not native to a particular country or region.",
+        "Feeling or showing anger or annoyance at what is perceived as unfair treatment.",
+        "Lacking care and conscientiousness in one's work or duties.",
+        "Not requiring immediate action or attention; lacking urgency.",
+        "Related to an inability to properly digest food.",
+        "Lacking cleverness or originality; uninventive.",
+        "Showing a lack of self-respect or personal worth.",
+        "Lacking refinement or good manners; crude.",
+        "Unable to produce or create new things; unproductive.",
+        "Unable to act independently or exert influence."
+      ]
+    },
+    {
+      "word": "INDOLENT",
+      "correct_definition": "lazy",
+      "distractors": [
+        "Not experiencing or causing pain.",
+        "Displaying a disrespectful attitude.",
+        "Feeling profound sorrow or grief.",
+        "Unable to feel sympathy for others.",
+        "Causing mild irritation or annoyance.",
+        "Marked by a lack of proper hygiene.",
+        "Moving slowly due to sadness or despair.",
+        "Resistant to change or innovation.",
+        "Prone to excessive or morbid introspection.",
+        "Lacking spiritual guidance or belief."
+      ]
+    },
+    {
+      "word": "INFUSION",
+      "correct_definition": "an injection of one substance into another; the permeation of one substance by another",
+      "distractors": [
+        "The irreversible merging of two separate components into a fundamentally new and indivisible entity.",
+        "A sudden, forceful discharge of fluid from a closed container or vessel.",
+        "The act of imparting a specific quality or power to an individual or object.",
+        "A profound and sudden feeling of spiritual enlightenment or intuitive understanding.",
+        "The systematic division of a complex system into its individual, disparate components.",
+        "A condition of pervasive disorder or chaotic disorganization within a system.",
+        "The essential internal framework or supporting structure of a system or body.",
+        "A formal legal order or official command prohibiting a specific action.",
+        "The rapid, uncontrolled expansion of gases from a contained area, leading to an explosive force.",
+        "A comprehensive and impervious coating applied to a surface to prevent degradation."
+      ]
+    }
+  ]
+}

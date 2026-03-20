@@ -1,0 +1,167 @@
+{
+  "level": 72,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_72.png",
+  "questions": [
+    {
+      "word": "EFFRONTERY",
+      "correct_definition": "impudence, nerve, insolence",
+      "distractors": [
+        "A clear and forthright declaration of intent.",
+        "The act of openly expressing one's deepest emotions.",
+        "A superficial outward appearance or facade.",
+        "The front-most or leading edge of a moving body.",
+        "A strong, compelling argument or defense.",
+        "The ability to face danger without flinching.",
+        "An elaborate and decorative external feature.",
+        "A concerted effort to bring about a desired outcome.",
+        "The act of forcefully expelling something from within.",
+        "A state of intense focus or concentration on a task."
+      ]
+    },
+    {
+      "word": "ELOQUENT",
+      "correct_definition": "expressive, articulate, moving",
+      "distractors": [
+        "Elegant, refined in appearance or manner.",
+        "Eminent, distinguished and respected in a field.",
+        "Characterized by an elaborate or ornate style.",
+        "To evoke a strong emotional response in others.",
+        "Pertaining to the formal study of logic or rhetoric.",
+        "Fluid and graceful in movement or form.",
+        "To draw out or extract information from a source.",
+        "Having a clear and precise understanding of a subject.",
+        "Reserved and quiet, hesitant to speak publicly.",
+        "Exhibiting careful attention to detail and accuracy."
+      ]
+    },
+    {
+      "word": "ENERVATE",
+      "correct_definition": "to weaken, exhaust",
+      "distractors": [
+        "to stimulate the nerves",
+        "to instill courage or bravery",
+        "to make nervous or anxious",
+        "to provide with energy or vigor",
+        "to calm or soothe intense emotions",
+        "to empower or strengthen resolve",
+        "to irritate or annoy persistently",
+        "to invigorate or refresh thoroughly",
+        "to create a state of high tension",
+        "to vitalize or animate fully"
+      ]
+    },
+    {
+      "word": "EPISTOLARY",
+      "correct_definition": "relating to or contained in letters",
+      "distractors": [
+        "relating to the chronological recording of significant events.",
+        "characterized by an abrupt and forceful physical movement.",
+        "pertaining to the superficial or outer covering of an organism.",
+        "relating to the central supporting column of a structure.",
+        "describing a concise and memorable written inscription.",
+        "concerning the higher functions of the human intellect.",
+        "involving the statistical analysis of population trends.",
+        "relating to the sudden and widespread prevalence of a phenomenon.",
+        "describing a structure built directly upon another.",
+        "pertaining to the careful and systematic presentation of evidence."
+      ]
+    },
+    {
+      "word": "FALLACIOUS",
+      "correct_definition": "incorrect, misleading",
+      "distractors": [
+        "Relating to a sudden drop or sharp decline in value.",
+        "Characterized by extreme fragility; easily shattered or broken.",
+        "Suffering from a severe and continuous loss of strength.",
+        "Tending to stumble or trip frequently due to clumsiness.",
+        "Marked by a lack of firmness or stability; prone to toppling.",
+        "Pertaining to the act of gradually decaying or deteriorating.",
+        "Having a tendency to give up easily when faced with obstacles.",
+        "Characterized by an excessive need for attention or admiration.",
+        "Relating to a state of deep exhaustion or profound weariness.",
+        "A condition of being severely lacking in essential nutrients."
+      ]
+    },
+    {
+      "word": "FASTIDIOUS",
+      "correct_definition": "meticulous, demanding, having high and often unattainable standards",
+      "distractors": [
+        "Acting with great speed and efficiency; swift and decisive in movement.",
+        "Practicing strict abstinence from food or other indulgences; ascetic.",
+        "Causing weariness or boredom due to being dull, repetitive, or overly lengthy.",
+        "Suffering from extreme physical or mental weariness; exhausted and lacking energy.",
+        "Undergoing a process of decay or deterioration; becoming inflamed and infected.",
+        "Highly regarded or in vogue; considered to be popular and stylish.",
+        "Presenting great challenges or obstacles; difficult to overcome or manage.",
+        "Expressing strong disapproval or contempt; showing scorn.",
+        "Lacking reverence for a deity or sacred things; impious or irreverent.",
+        "Difficult to comprehend or understand fully; unfathomable."
+      ]
+    },
+    {
+      "word": "FELICITOUS",
+      "correct_definition": "well suited, apt",
+      "distractors": [
+        "Characterized by great joy or bliss.",
+        "Bringing forth good luck or fortune.",
+        "Having a tendency towards mischief.",
+        "Moving with effortless grace.",
+        "Marked by abundant and fruitful growth.",
+        "Quick to forgive or overlook faults.",
+        "Displaying remarkable agility and speed.",
+        "Having a gentle and soothing quality.",
+        "Easily pleased or made content.",
+        "Skilled in creating intricate designs."
+      ]
+    },
+    {
+      "word": "FORTUITOUS",
+      "correct_definition": "happening by chance, often lucky or fortunate",
+      "distractors": [
+        "Relating to a defensive structure or stronghold.",
+        "Achieved through strenuous effort and diligent work.",
+        "Pertaining to substantial material wealth or resources.",
+        "Having the characteristic of being strong, durable, or resilient.",
+        "Occurring as a result of deliberate planning or pre-meditation.",
+        "Indicating the ability to foresee or predict future events.",
+        "Signifying something that has been relinquished or given up.",
+        "Describing something imposing or formidable in its nature.",
+        "Reflecting an individual's particular area of talent or expertise.",
+        "Characterized by steadfastness or uninterrupted duration."
+      ]
+    },
+    {
+      "word": "GRATUITOUS",
+      "correct_definition": "uncalled for, unwarranted",
+      "distractors": [
+        "Expressing sincere thanks or appreciation.",
+        "Given as a token of generosity or kindness.",
+        "Providing great satisfaction or pleasure.",
+        "Deserving of respect and admiration.",
+        "Offered without expectation of return.",
+        "Excessive in quantity; abundant.",
+        "Marked by a willingness to forgive past wrongs.",
+        "Receiving widespread approval.",
+        "Achieved without difficulty or impediment.",
+        "Bestowed as a special honor or privilege."
+      ]
+    },
+    {
+      "word": "GREGARIOUS",
+      "correct_definition": "drawn to the company of others, sociable",
+      "distractors": [
+        "Tending to separate oneself from a larger community, solitary.",
+        "Inclined to take charge of a group, authoritative.",
+        "Easily swayed by peer pressure, conformist.",
+        "Forming distinct or exclusive social circles, clannish.",
+        "Characterized by meticulous organization within a collective, systematic.",
+        "Composed of diverse elements or members, heterogeneous.",
+        "Living in close harmony with others, cooperative.",
+        "Strictly following the established customs of a community, traditional.",
+        "Pertaining to shared resources or collective ownership, communal.",
+        "Occurring in vast numbers or great quantities, abundant."
+      ]
+    }
+  ]
+}

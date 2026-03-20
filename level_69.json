@@ -1,0 +1,167 @@
+{
+  "level": 69,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_69.png",
+  "questions": [
+    {
+      "word": "AVERSION",
+      "correct_definition": "a particular dislike for something",
+      "distractors": [
+        "A strong inclination or attraction towards something.",
+        "The act of turning or changing direction suddenly.",
+        "A short, meaningful passage or excerpt from a text.",
+        "A firm belief in the truth or validity of a statement.",
+        "A complete lack of a specific form or variant.",
+        "The act of preventing or warding off an undesirable outcome.",
+        "A condition that is unfavorable or hostile to development.",
+        "A deliberate redirection of attention or resources.",
+        "A lack of a clear explanation or particular account.",
+        "A complete inability to decide or make a choice."
+      ]
+    },
+    {
+      "word": "BEQUEATH",
+      "correct_definition": "to pass on, give",
+      "distractors": [
+        "To formally question, to interrogate.",
+        "To strongly advocate, to endorse.",
+        "To cause to begin, to initiate.",
+        "To earnestly request, to implore.",
+        "To completely enclose, to encompass.",
+        "To forcefully suppress, to quell.",
+        "To make a solemn declaration, to proclaim.",
+        "To bring into being, to create.",
+        "To bind by oath, to swear.",
+        "To formally acknowledge, to concede."
+      ]
+    },
+    {
+      "word": "BOISTEROUS",
+      "correct_definition": "loud and full of energy",
+      "distractors": [
+        "Prone to excessive self-praise and arrogance.",
+        "Strongly built and highly resilient to damage.",
+        "Characterized by rough and turbulent ocean conditions.",
+        "Unwilling to change one's opinion or course of action.",
+        "Exercising power or control in an overbearing manner.",
+        "Tending to keep one's thoughts and feelings private.",
+        "Moving or reacting with noticeable slowness and apathy.",
+        "Imposing a great weight or responsibility upon someone.",
+        "Moving or acting in an ungainly or uncoordinated way.",
+        "Held back or restricted in movement or expression."
+      ]
+    },
+    {
+      "word": "CAPITULATE",
+      "correct_definition": "to surrender",
+      "distractors": [
+        "To summarize the main points.",
+        "To establish a new leadership.",
+        "To begin a significant endeavor.",
+        "To seize control of a situation.",
+        "To gather crucial information.",
+        "To make a definitive declaration.",
+        "To provide substantial funding.",
+        "To lead a formal procession.",
+        "To bring a project to its climax.",
+        "To delay a critical decision."
+      ]
+    },
+    {
+      "word": "CAPRICIOUS",
+      "correct_definition": "subject to whim, \ufb01ckle",
+      "distractors": [
+        "Stubborn or obstinate, unwilling to yield.",
+        "Marked by extreme haste or sudden, violent action.",
+        "Given to finding trivial faults or raising objections.",
+        "Relating to the head or a chief part; principal.",
+        "Capable of being easily seized or taken.",
+        "Characterized by careful and thorough deliberation.",
+        "Having a large inner volume; spacious.",
+        "Displaying keen intellectual sharpness or insight.",
+        "Tending to make sudden, unpredictable leaps or jumps.",
+        "Showing a strong inclination to dominate or control."
+      ]
+    },
+    {
+      "word": "CATALYZE",
+      "correct_definition": "to charge, inspire",
+      "distractors": [
+        "To list or itemize meticulously.",
+        "To decompose into basic elements.",
+        "To propel or launch with great force.",
+        "To classify into specific categories.",
+        "To undergo a rapid and complete transformation.",
+        "To examine an object under magnification.",
+        "To cause a widespread and sudden collapse.",
+        "To establish a definitive boundary or limit.",
+        "To extract essential information from data.",
+        "To neutralize a harmful chemical agent."
+      ]
+    },
+    {
+      "word": "CIRCUITOUS",
+      "correct_definition": "roundabout",
+      "distractors": [
+        "Pertaining to an electrical current's closed path.",
+        "Marked by extreme exactness and meticulous detail.",
+        "A planned sequence of related activities or events.",
+        "Flowing in an unbroken and perpetual cycle.",
+        "Possessing a perfectly circular or globular form.",
+        "Happening at regular, predictable temporal intervals.",
+        "Completely contained within established boundaries.",
+        "Optimized for maximum speed and operational efficiency.",
+        "Returning to an original or starting configuration.",
+        "Characterized by complex and interwoven components."
+      ]
+    },
+    {
+      "word": "COLLATERAL",
+      "correct_definition": "secondary",
+      "distractors": [
+        "Jointly contributing to a primary cause.",
+        "Existing on opposing sides or viewpoints.",
+        "Pertaining to being positioned firmly alongside another.",
+        "Serving as security or a pledge for an obligation.",
+        "Having an equal rank or importance.",
+        "Pertaining to movement from side to side.",
+        "Arranged in a straight line or sequence.",
+        "Bearing a strong resemblance or parallel to another.",
+        "Resulting from a mutual agreement or consensus.",
+        "Situated directly adjacent to a central point."
+      ]
+    },
+    {
+      "word": "COMBUSTION",
+      "correct_definition": "the act or process of burning",
+      "distractors": [
+        "The act or process of a sudden, forceful discharge.",
+        "The act or process of completely dismantling a structure.",
+        "The act or process of uniting various components into one.",
+        "The act or process of a decisive and final defeat.",
+        "The act or process of an aggressive confrontation.",
+        "The act or process of meticulously examining a surface.",
+        "The act or process of consolidating diverse elements.",
+        "The act or process of a sudden, loud noise or outcry.",
+        "The act or process of exerting intense pressure.",
+        "The act or process of overcoming a significant obstacle."
+      ]
+    },
+    {
+      "word": "COMMODIOUS",
+      "correct_definition": "roomy",
+      "distractors": [
+        "Pertaining to everyday goods.",
+        "Capable of being easily modified.",
+        "Of moderate quantity or size.",
+        "Widely shared or distributed.",
+        "Well-suited for a specific purpose.",
+        "Highly offensive or hateful.",
+        "Characterized by modesty or humility.",
+        "Having considerable worth or utility.",
+        "Easily adaptable to new conditions.",
+        "A common and useful item."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 24,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_24.png",
+  "questions": [
+    {
+      "word": "DIALECT",
+      "correct_definition": "a variation of a language",
+      "distractors": [
+        "A formal discussion or debate between two parties.",
+        "A specialized vocabulary used within a particular profession.",
+        "A method of teaching or instructing through spoken word.",
+        "A collection of literary works from a specific cultural region.",
+        "A system of phonetic symbols for transcribing speech.",
+        "The art of public speaking and effective communication.",
+        "A written record or transcription of spoken discourse.",
+        "A comprehensive dictionary or lexicon of a language.",
+        "A set of rules for constructing grammatically correct sentences.",
+        "A channel or medium for transmitting auditory signals."
+      ]
+    },
+    {
+      "word": "DIFFUSE",
+      "correct_definition": "to scatter, thin out, break up",
+      "distractors": [
+        "To melt two separate substances together.",
+        "To consolidate distinct elements into a unified whole.",
+        "To strengthen a bond or connection between things.",
+        "To focus energy or attention into a single point.",
+        "To make a complex situation clearer or easier to understand.",
+        "To resolve an argument or ease tensions between parties.",
+        "To pour liquid into a narrow, restricted channel.",
+        "To increase the power or impact of a given force.",
+        "To prevent something from splitting or coming apart.",
+        "To cause an immediate and strong reaction."
+      ]
+    },
+    {
+      "word": "DISCERN",
+      "correct_definition": "to perceive, detect",
+      "distractors": [
+        "To dismiss a worry or concern.",
+        "To formally express disapproval.",
+        "To widely distribute or disseminate.",
+        "To intentionally ignore or neglect.",
+        "To divide into separate, distinct parts.",
+        "To misunderstand or confuse information.",
+        "To withdraw from a prior commitment.",
+        "To intentionally obscure or conceal.",
+        "To unravel or untangle a knot.",
+        "To formally declare something invalid."
+      ]
+    },
+    {
+      "word": "DISDAIN",
+      "correct_definition": "to scorn, hold in low esteem",
+      "distractors": [
+        "To separate into distinct, smaller components.",
+        "To relinquish a claim or a right.",
+        "To inflict intense physical or emotional pain.",
+        "To thoroughly clean or remove a blemish.",
+        "To lose all sense of direction or purpose.",
+        "To bring something hidden or secret into the open.",
+        "To show a lack of attention or regard.",
+        "To challenge or dispute a given statement.",
+        "To recover from a previous state of illness or distress.",
+        "To dismantle or take apart a structure."
+      ]
+    },
+    {
+      "word": "DISSENT",
+      "correct_definition": "to disagree",
+      "distractors": [
+        "To send something out or away.",
+        "To stop or reverse a feeling.",
+        "To spread information widely.",
+        "To cause a strong offensive smell.",
+        "To take something apart completely.",
+        "To formally dismiss from a position.",
+        "To make a judgment without feeling.",
+        "To divert attention from a main point.",
+        "To refrain from expressing an opinion.",
+        "To perceive something incorrectly."
+      ]
+    },
+    {
+      "word": "DISTEND",
+      "correct_definition": "to swell out",
+      "distractors": [
+        "to pull apart",
+        "to offer guidance",
+        "to prevent movement",
+        "to divide into parts",
+        "to grow smaller",
+        "to show neglect",
+        "to spread widely",
+        "to take away forcefully",
+        "to argue against",
+        "to fall into disorder"
+      ]
+    },
+    {
+      "word": "DORMANT",
+      "correct_definition": "sleeping, temporarily inactive",
+      "distractors": [
+        "A heavy, oppressive atmosphere; stifling air.",
+        "An ornate garment, a ceremonial robe.",
+        "A hidden passage, an obscured entrance.",
+        "Gloomy and sullen, severe in manner.",
+        "A forceful command, an official order.",
+        "Firmly constructed, structurally sound.",
+        "Rapidly diminishing, swiftly fading away.",
+        "A primary source, an originating point.",
+        "Intricately designed, elaborately detailed.",
+        "A strong, protective barrier; a fortified wall."
+      ]
+    },
+    {
+      "word": "DUBIOUS",
+      "correct_definition": "doubtful, of uncertain quality",
+      "distractors": [
+        "Characterized by the act of duplicating or copying.",
+        "Relating to the numerical value of two; binary.",
+        "Having a rough, uneven, or coarse texture.",
+        "Tending to be talkative or verbose.",
+        "Lacking in original thought; derivative.",
+        "Marked by a strong, unpleasant taste.",
+        "Requiring great effort or strength; arduous.",
+        "Hidden from view; concealed.",
+        "Pertaining to the act of giving a title or name.",
+        "Existing in two forms or having a dual nature."
+      ]
+    },
+    {
+      "word": "DYNAMIC",
+      "correct_definition": "actively changing",
+      "distractors": [
+        "possessing great power",
+        "constantly in motion",
+        "full of stored energy",
+        "exerting strong influence",
+        "designed for optimal performance",
+        "moving with high speed",
+        "requiring intense effort",
+        "characterized by forceful action",
+        "generating significant output",
+        "pertaining to mechanical force"
+      ]
+    },
+    {
+      "word": "EMINENT",
+      "correct_definition": "distinguished, prominent, famous",
+      "distractors": [
+        "About to occur; impending.",
+        "Of little or no importance; minor.",
+        "To dig for valuable resources; excavate.",
+        "Very small; miniature.",
+        "A fundamental or essential part; component.",
+        "Lasting or intended to last forever; permanent.",
+        "To issue a threat or warning; to menace.",
+        "To come forth or emerge; to appear.",
+        "Characterized by precision and attention to detail; meticulous.",
+        "To remove or expel from a position; to depose."
+      ]
+    }
+  ]
+}

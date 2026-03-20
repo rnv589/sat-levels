@@ -1,0 +1,167 @@
+{
+  "level": 70,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_70.png",
+  "questions": [
+    {
+      "word": "COMPELLING",
+      "correct_definition": "forceful, demanding attention",
+      "distractors": [
+        "Working well together; cooperative.",
+        "Bringing to a finished state; concluding.",
+        "Gathering data systematically; organizing.",
+        "Having many intricate parts; elaborate.",
+        "Serving as a full complement; enhancing.",
+        "Causing a strong aversion; repelling.",
+        "Requiring a specific action; mandatory.",
+        "Urging someone strongly to act; coercive.",
+        "Engaged in a rivalry; competitive.",
+        "Showing composure; self-controlled."
+      ]
+    },
+    {
+      "word": "COMPENSATE",
+      "correct_definition": "to make an appropriate payment for something",
+      "distractors": [
+        "to carefully weigh the various aspects of a complex issue.",
+        "to postpone a decision until more information is available.",
+        "to establish a mutual understanding or agreement.",
+        "to engage in deep, serious, and prolonged thought.",
+        "to combine distinct elements into a cohesive whole.",
+        "to bring an ongoing process or action to a definitive close.",
+        "to achieve a state of perfect equilibrium or balance.",
+        "to formally express appreciation for a service rendered.",
+        "to prepare a detailed and comprehensive plan of action.",
+        "to meticulously draft or formulate a written document."
+      ]
+    },
+    {
+      "word": "COMPLEMENT",
+      "correct_definition": "to complete, make perfect",
+      "distractors": [
+        "To multiply or increase in quantity.",
+        "To make something less complicated or easier to understand.",
+        "To bend or fold an object precisely.",
+        "To offer praise or admiration.",
+        "To fill a space to its maximum allowable limit.",
+        "To combine various parts into a unified structure.",
+        "To plead earnestly for forgiveness or mercy.",
+        "To act as a companion or associate.",
+        "To make a formal statement or observation.",
+        "To become overly full or saturated."
+      ]
+    },
+    {
+      "word": "COMPLIMENT",
+      "correct_definition": "an expression of esteem or approval",
+      "distractors": [
+        "A formal requirement or obligation.",
+        "The act of completing a task or project.",
+        "A supplementary part that enhances something else.",
+        "To forcefully implement a new policy.",
+        "A legal proceeding or official decree.",
+        "To fill something to its maximum capacity.",
+        "A necessary ingredient or component.",
+        "The process of bringing about a final resolution.",
+        "A forceful command or instruction.",
+        "To achieve a state of perfect harmony."
+      ]
+    },
+    {
+      "word": "CONDOLENCE",
+      "correct_definition": "an expression of sympathy in sorrow",
+      "distractors": [
+        "A severe and prolonged period of emotional distress.",
+        "The act of consolidating or firming up a fragile agreement.",
+        "A formal assembly or council for deliberation.",
+        "The state of being overcome by a sudden wave of sadness.",
+        "An involuntary muscular contraction or spasm.",
+        "A legal declaration of shared responsibility or debt.",
+        "A deep and critical analysis of a complex problem.",
+        "A ritualistic offering or sacrifice made in ancient times.",
+        "A form of elaborate and deceptive flattery.",
+        "A solemn vow or promise made under duress."
+      ]
+    },
+    {
+      "word": "CONFECTION",
+      "correct_definition": "a sweet, fancy food",
+      "distractors": [
+        "A secret gathering of conspirators.",
+        "A serious discussion or negotiation.",
+        "A formal agreement or treaty.",
+        "A tricky or deceptive maneuver.",
+        "A complex and detailed plan.",
+        "A compiled collection of writings.",
+        "A difficult or challenging task.",
+        "A false or fabricated statement.",
+        "A sudden change of direction.",
+        "A state of confusion or disarray."
+      ]
+    },
+    {
+      "word": "CONFORMIST",
+      "correct_definition": "one who behaves the same as others",
+      "distractors": [
+        "One who consistently adheres to a specific, rigid structure or design.",
+        "A person skilled in shaping materials into complex forms.",
+        "Someone who brings together disparate elements to create a cohesive form.",
+        "An individual who opposes all traditional forms of art and expression.",
+        "A specialist in the classification and categorization of natural forms.",
+        "One who is preoccupied with the formal aspects of language or ceremony.",
+        "A person who adapts readily to new shapes or environmental conditions.",
+        "Someone who advocates for the transformation of old structures into new ones.",
+        "An artist known for using unconventional or abstract forms in their work.",
+        "One who believes in the inherent perfection of the natural form."
+      ]
+    },
+    {
+      "word": "CONSECRATE",
+      "correct_definition": "to dedicate something to a holy purpose",
+      "distractors": [
+        "To unite people in a shared spiritual belief.",
+        "To keep a sacred ritual or object hidden from public view.",
+        "To create a lasting monument or symbol of faith.",
+        "To perform an act of purification before a religious ceremony.",
+        "To offer a sacrifice in accordance with divine law.",
+        "To secure a sacred relic within a protective enclosure.",
+        "To reach a unanimous agreement on a theological doctrine.",
+        "To declare a person or place to be spiritually enlightened.",
+        "To engrave sacred symbols onto a commemorative plaque.",
+        "To conduct an elaborate and formal religious procession."
+      ]
+    },
+    {
+      "word": "CONSUMMATE",
+      "correct_definition": "to complete a deal; to complete a marriage ceremony through sexual intercourse",
+      "distractors": [
+        "To merge or combine disparate elements into a unified whole; to consolidate various parts.",
+        "To perform a thorough and exhaustive review; to evaluate all aspects comprehensively.",
+        "To estimate the total value or quantity of something; to calculate a final assessment.",
+        "To engage in an intense and focused period of deep thought or contemplation; to ponder profoundly.",
+        "To exert complete control or authority over a situation; to dominate entirely.",
+        "To destroy utterly by fire or other means; to reduce to ashes.",
+        "To extract the essential meaning or summary from a text; to abridge or condense.",
+        "To enter into a solemn agreement or pact; to make a binding promise.",
+        "To reach the absolute highest point of a physical structure or ascent; to surmount a peak.",
+        "To provide expert advice or consultation on a complex matter; to offer professional guidance."
+      ]
+    },
+    {
+      "word": "CORONATION",
+      "correct_definition": "the act of crowning",
+      "distractors": [
+        "The act of surrounding a place with a protective barrier.",
+        "The process of forming a luminous ring around a celestial body.",
+        "The official classification of a rare species.",
+        "The ritual purification performed before a sacred event.",
+        "The legal annulment of a marriage or contract.",
+        "The act of compiling a comprehensive list or record.",
+        "The procedure for determining the exact circumference of an object.",
+        "The formal establishment of a new governmental agency.",
+        "The medical diagnosis of an ailment affecting the heart.",
+        "The solemn declaration of a final judgment."
+      ]
+    }
+  ]
+}

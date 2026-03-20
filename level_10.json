@@ -1,0 +1,167 @@
+{
+  "level": 10,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_10.png",
+  "questions": [
+    {
+      "word": "BENIGN",
+      "correct_definition": "favorable, not threatening, mild",
+      "distractors": [
+        "Pertaining to the very first stage or commencement.",
+        "To intentionally overlook or disregard.",
+        "Easily bent or flexible in form.",
+        "Marked by strong, unyielding determination.",
+        "To light or set ablaze with fire.",
+        "Showing a profound lack of knowledge or experience.",
+        "Deserving of public shame or disgrace.",
+        "Possessing a grand and majestic quality.",
+        "Requiring swift and decisive action.",
+        "Characterized by harsh criticism or severe judgment."
+      ]
+    },
+    {
+      "word": "BERATE",
+      "correct_definition": "to scold vehemently",
+      "distractors": [
+        "To provide a formal assessment or evaluation.",
+        "To establish a standard or quota for something.",
+        "To estimate the value or quality of something.",
+        "To tolerate or put up with a difficult situation.",
+        "To give birth to a new idea or project.",
+        "To assign a specific rank or category.",
+        "To allocate resources according to a set proportion.",
+        "To obtain a favorable position or advantage.",
+        "To provide a detailed report or account.",
+        "To thoroughly prepare for an upcoming event."
+      ]
+    },
+    {
+      "word": "BEREFT",
+      "correct_definition": "devoid of, without",
+      "distractors": [
+        "Profoundly saddened by loss.",
+        "To restore or rebuild.",
+        "Characterized by a deep fissure or split.",
+        "Kept in reserve; withheld.",
+        "To pledge or vow solemnly.",
+        "To struggle or contend vigorously.",
+        "Deeply engrossed in thought.",
+        "Widely dispersed or scattered.",
+        "To be perfectly suitable or appropriate.",
+        "To generously give or donate."
+      ]
+    },
+    {
+      "word": "BILK",
+      "correct_definition": "cheat, defraud",
+      "distractors": [
+        "To avoid or stubbornly refuse to proceed.",
+        "To make something swell or expand greatly.",
+        "To emit a sudden, loud, unrefined sound.",
+        "To conceal or hide something skillfully.",
+        "To move with a clumsy, heavy gait.",
+        "To cause a sudden, sharp pain.",
+        "To provide an abundance of something.",
+        "To utter words in a stuttering or hesitant manner.",
+        "To remove a vital component or element.",
+        "To form a thick, protective outer layer."
+      ]
+    },
+    {
+      "word": "BLIGHT",
+      "correct_definition": "a plague, disease",
+      "distractors": [
+        "A sudden burst of radiant light.",
+        "To treat someone with disrespect.",
+        "A state of blissful unawareness.",
+        "A temporary loss of vision.",
+        "A brilliant, colorful display.",
+        "To make something less visible or clear.",
+        "A rapid, evasive maneuver.",
+        "A trivial or minor concern.",
+        "A strong, sudden gust of wind.",
+        "To ignore or overlook intentionally."
+      ]
+    },
+    {
+      "word": "BUFFET",
+      "correct_definition": "to strike with force",
+      "distractors": [
+        "To arrange a lavish spread of food.",
+        "To polish a dull surface until it shines.",
+        "To provide abundant provisions.",
+        "To utter a sudden, boisterous cry.",
+        "To reinforce a structure to make it sturdy.",
+        "To cause a delay in progress.",
+        "To move with an exaggerated, swaying motion.",
+        "To offer a formal and elaborate welcome.",
+        "To accumulate a surplus of goods.",
+        "To adorn with intricate ornamentation."
+      ]
+    },
+    {
+      "word": "CANDOR",
+      "correct_definition": "honesty, frankness",
+      "distractors": [
+        "A bright, glowing light.",
+        "The state of being pure or unblemished.",
+        "A sweet, sugary coating or glaze.",
+        "The condition of being transparent or see-through.",
+        "A feeling of intense warmth or heat.",
+        "A state of simple innocence.",
+        "The process of becoming clear or refined.",
+        "A vivid or brilliant color.",
+        "A strong desire or longing.",
+        "The act of offering unsolicited advice."
+      ]
+    },
+    {
+      "word": "CAUCUS",
+      "correct_definition": "a meeting usually held by people working toward the same goal",
+      "distractors": [
+        "A formal declaration made by a government official.",
+        "A type of durable, finely woven fabric used for upholstery.",
+        "The act of carefully examining evidence in a legal proceeding.",
+        "A rare and elusive nocturnal animal known for its keen sense of smell.",
+        "A complex mathematical formula used in advanced physics.",
+        "A fortified enclosure built to withstand military siege.",
+        "The gradual accumulation of sediment at the mouth of a river.",
+        "A legal term referring to a temporary injunction or stay.",
+        "A traditional ceremonial headwear worn by indigenous leaders.",
+        "The process of preparing land for agricultural cultivation."
+      ]
+    },
+    {
+      "word": "CLAMOR",
+      "correct_definition": "loud noise",
+      "distractors": [
+        "A strong and insistent demand.",
+        "A state of complete secrecy.",
+        "To move awkwardly or with effort.",
+        "A feeling of deep remorse.",
+        "To grip something tightly.",
+        "A formal declaration of ownership.",
+        "A difficult or challenging ascent.",
+        "A sticky, muddy consistency.",
+        "A sudden sense of apprehension.",
+        "To assert one's rights forcefully."
+      ]
+    },
+    {
+      "word": "CLERGY",
+      "correct_definition": "members of Christian holy orders",
+      "distractors": [
+        "Government officials responsible for legal documentation.",
+        "Academics dedicated to the study of ancient languages.",
+        "A group of skilled artisans specializing in metalwork.",
+        "Administrators overseeing municipal services.",
+        "A highly organized system for information retrieval.",
+        "Leaders in political movements advocating for reform.",
+        "Researchers focused on understanding human cognitive processes.",
+        "Specialists in the repair and maintenance of complex machinery.",
+        "A committee established to ensure ethical business practices.",
+        "Officers tasked with the enforcement of civil ordinances."
+      ]
+    }
+  ]
+}

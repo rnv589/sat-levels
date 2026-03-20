@@ -1,0 +1,167 @@
+{
+  "level": 18,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_18.png",
+  "questions": [
+    {
+      "word": "YOKE",
+      "correct_definition": "to join, link",
+      "distractors": [
+        "To bear a heavy load or burden.",
+        "To place under rigorous control.",
+        "To give way under strain or pressure.",
+        "To divide or separate into distinct parts.",
+        "To prod or incite someone to action.",
+        "To mock or ridicule with contempt.",
+        "To apply a sudden, sharp blow.",
+        "To move with a swaying motion.",
+        "To exert considerable effort.",
+        "To release from confinement or restriction."
+      ]
+    },
+    {
+      "word": "ABRIDGE",
+      "correct_definition": "to cut down, shorten",
+      "distractors": [
+        "To construct a physical connection across a divide.",
+        "To overcome a significant barrier or challenge.",
+        "To unite two opposing sides or viewpoints.",
+        "To clear away an accumulated obstruction.",
+        "To reinforce or strengthen a weakened structure.",
+        "To span a duration or distance.",
+        "To provide a means of access or passage.",
+        "To formally declare something void or invalid.",
+        "To make something more widely accessible.",
+        "To connect a smaller structure to a larger one."
+      ]
+    },
+    {
+      "word": "ABSCOND",
+      "correct_definition": "to sneak away and hide",
+      "distractors": [
+        "To officially renounce a claim or right.",
+        "To establish a condition or prerequisite.",
+        "To assemble or collect various items.",
+        "To publicly denounce or disapprove.",
+        "To make something more dense or compact.",
+        "To formally agree to terms or conditions.",
+        "To perform a clandestine or secret task.",
+        "To skillfully avoid a difficult situation.",
+        "To store or preserve something carefully.",
+        "To construct or found a new institution."
+      ]
+    },
+    {
+      "word": "ABSTAIN",
+      "correct_definition": "to freely choose not to commit an action",
+      "distractors": [
+        "To forcibly restrain an unruly individual.",
+        "To maintain a pristine and unblemished appearance.",
+        "To remove essential parts from a complex mechanism.",
+        "To achieve a challenging goal through persistent effort.",
+        "To secure something against theft or damage.",
+        "To officially prohibit a certain type of activity.",
+        "To distance oneself from potential controversy.",
+        "To hold true to one's personal convictions.",
+        "To sustain an argument without wavering.",
+        "To be completely devoid of any specific attributes."
+      ]
+    },
+    {
+      "word": "ACCLAIM",
+      "correct_definition": "high praise",
+      "distractors": [
+        "A formal assertion of ownership.",
+        "To declare something to be true.",
+        "A loud and enthusiastic public address.",
+        "To forcefully demand attention.",
+        "A strong objection or complaint.",
+        "To make a public statement of belief.",
+        "A sudden, sharp cry of pain.",
+        "To regain possession of something.",
+        "A vigorous and sustained protest.",
+        "To loudly announce one's arrival."
+      ]
+    },
+    {
+      "word": "ACERBIC",
+      "correct_definition": "biting, bitter in tone or taste",
+      "distractors": [
+        "Possessing a keen and penetrating intellect.",
+        "Characterized by swift, precise physical movements.",
+        "Having a corrosive or dissolving quality.",
+        "Marked by an overabundance of zeal or fervor.",
+        "To make a difficult situation worse; to aggravate.",
+        "Having an extremely sensitive or acute sense of hearing.",
+        "Causing a sharp, stinging sensation on the skin.",
+        "Requiring meticulous attention to detail and accuracy.",
+        "Tending to increase in speed or intensity quickly.",
+        "Referring to a type of tree known for its sharp, pointed leaves."
+      ]
+    },
+    {
+      "word": "ADAMANT",
+      "correct_definition": "impervious, immovable, unyielding",
+      "distractors": [
+        "To obstruct or hinder progress, to impede the path.",
+        "Ancient or primitive, existing since the beginning of time.",
+        "Authoritative and exigent, requiring immediate compliance.",
+        "Obscure or indistinct, lacking clear definition.",
+        "Highly reflective or lustrous, giving off a brilliant sheen.",
+        "Extremely dense and heavy, resistant to physical displacement.",
+        "Intricate or complex, presenting significant intellectual challenge.",
+        "Fixed or predetermined, not subject to alteration by chance.",
+        "Recalcitrant or unruly, difficult to tame or subdue.",
+        "Strongly adhesive or cohesive, causing things to stick together."
+      ]
+    },
+    {
+      "word": "AFFABLE",
+      "correct_definition": "friendly, amiable",
+      "distractors": [
+        "Skilled at telling captivating stories.",
+        "Easily convinced or persuaded by others.",
+        "Capable of being achieved or accomplished with ease.",
+        "Difficult to understand or interpret clearly.",
+        "Prone to making exaggerated or fabricated claims.",
+        "Quick to anger or take offense easily.",
+        "Able to adapt quickly to new situations or environments.",
+        "Expressing strong disapproval or criticism openly.",
+        "Known for being unreliable or untrustworthy.",
+        "Easily broken or damaged; fragile."
+      ]
+    },
+    {
+      "word": "AFFRONT",
+      "correct_definition": "an insult",
+      "distractors": [
+        "A false outward appearance.",
+        "A direct confrontation.",
+        "An act of open defiance.",
+        "A bold public statement.",
+        "A leading or forward position.",
+        "A preliminary warning.",
+        "A superficial layer or covering.",
+        "An initial approach or address.",
+        "A united opposition.",
+        "A courageous display."
+      ]
+    },
+    {
+      "word": "AMENITY",
+      "correct_definition": "an item that increases comfort",
+      "distractors": [
+        "the quality of being open to persuasion.",
+        "a legal adjustment or official change.",
+        "a formal act of clemency or pardon.",
+        "a sharp and bitter expression of disapproval.",
+        "a solemn prayer or sacred affirmation.",
+        "the mental state of being calm and composed.",
+        "a small, purely ornamental object.",
+        "a temporary halt in hostilities.",
+        "the ability to adapt readily to new circumstances.",
+        "a formal declaration of intent."
+      ]
+    }
+  ]
+}

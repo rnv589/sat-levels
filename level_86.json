@@ -1,0 +1,167 @@
+{
+  "level": 86,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_86.png",
+  "questions": [
+    {
+      "word": "REGURGITATE",
+      "correct_definition": "to vomit",
+      "distractors": [
+        "To repeat information verbatim without true comprehension.",
+        "To cause a liquid to flow back towards its source.",
+        "To reabsorb a substance into the body's tissues.",
+        "To control or regulate the flow of a substance.",
+        "To make a gurgling sound deep within the throat.",
+        "To quickly consume a large quantity of food or drink.",
+        "To revert to an earlier, less developed state.",
+        "To demand the prompt return of a borrowed item.",
+        "To carefully measure out precise amounts of fluid.",
+        "To reflect upon past experiences or memories."
+      ]
+    },
+    {
+      "word": "RESERVOIR",
+      "correct_definition": "reserves, large supply",
+      "distractors": [
+        "A place where services are offered repeatedly.",
+        "To observe an event retrospectively.",
+        "A formal document requiring legal service.",
+        "To show restraint or emotional control.",
+        "An official appointed to oversee a project.",
+        "A repeated oath or declaration of loyalty.",
+        "A structure built for scenic viewing.",
+        "The act of returning a served item.",
+        "A secret chamber for important papers.",
+        "To serve as a guardian or protector again."
+      ]
+    },
+    {
+      "word": "RESPLENDENT",
+      "correct_definition": "shiny, glowing",
+      "distractors": [
+        "Quick to react or answer.",
+        "Generous with money or resources.",
+        "To fill again or restore.",
+        "Firm in purpose or opinion.",
+        "Able to recover quickly from difficulty.",
+        "To express displeasure or indignation.",
+        "Making a loud, echoing sound.",
+        "To stand in place of another.",
+        "Providing a temporary break or rest.",
+        "To hold back or restrain from action."
+      ]
+    },
+    {
+      "word": "RESTITUTION",
+      "correct_definition": "restoration to the rightful owner",
+      "distractors": [
+        "A period of mandated relaxation or inactivity.",
+        "The act of firmly establishing a new rule or order.",
+        "A formal decree or law enacted by an authority.",
+        "The process of recreating an old structure or monument.",
+        "A legal injunction preventing further action.",
+        "The establishment of an institution or organization.",
+        "The final determination or resolution of a dispute.",
+        "A formal plea for clemency or a lighter sentence.",
+        "The act of rebuilding one's reputation after a scandal.",
+        "The state of being firmly fixed in a position or place."
+      ]
+    },
+    {
+      "word": "SERENDIPITY",
+      "correct_definition": "luck, \ufb01nding good things without looking for them",
+      "distractors": [
+        "A profound state of mental calmness and clear thought.",
+        "The systematic study of ancient artifacts and their origins.",
+        "A sudden, brief decrease in value, often unexpected.",
+        "The ability to adapt quickly to new or changing environments.",
+        "A deep and lasting sense of satisfaction or emotional well-being.",
+        "The careful and precise arrangement of complex components.",
+        "A strong, often irrational, feeling of envy or covetousness.",
+        "The quality of being inherently valuable or deserving of respect.",
+        "An involuntary muscular spasm or sudden twitch.",
+        "The deliberate act of misleading or deceiving others."
+      ]
+    },
+    {
+      "word": "SOLIPSISTIC",
+      "correct_definition": "believing that oneself is all that exists",
+      "distractors": [
+        "characterized by an unyielding and firm belief system.",
+        "believing that one's own opinion is the only valid one.",
+        "prone to expressing one's thoughts and feelings without considering others' reactions.",
+        "having an unparalleled skill or talent in a specific area.",
+        "pertaining to an understanding of the earth as a living entity.",
+        "characterized by an unwavering confidence in one's own ability to find solutions independently.",
+        "pertaining to the study of the sun's influence on human behavior and destiny.",
+        "believing that one's actions are judged solely by oneself, not by any external authority.",
+        "believing that one's unique characteristics originate entirely from within oneself, not from external influences.",
+        "characterized by a firm and unshakeable belief in the inherent goodness of oneself."
+      ]
+    },
+    {
+      "word": "SOVEREIGN",
+      "correct_definition": "having absolute authority in a certain realm",
+      "distractors": [
+        "being situated at a superior physical elevation",
+        "making a final, irreversible judgment on a matter",
+        "possessing an unparalleled degree of skill or expertise",
+        "achieving a state of complete and utter self-sufficiency",
+        "demonstrating an exceptionally grand or regal appearance",
+        "exercising rigorous and unwavering control over one's emotions",
+        "establishing a widespread and influential cultural dominion",
+        "existing as the highest point or apex of a structure",
+        "imparting a sacred or spiritual blessing upon a person",
+        "bringing a difficult situation to a successful resolution"
+      ]
+    },
+    {
+      "word": "SUBJUGATE",
+      "correct_definition": "to bring under control, subdue",
+      "distractors": [
+        "To combine various components into a single, cohesive unit.",
+        "To place an object or idea within a larger, encompassing category.",
+        "To make a determination or judgment based on partial or hidden information.",
+        "To introduce a topic or proposal for consideration in a formal setting.",
+        "To remove essential parts, thereby weakening or undermining something.",
+        "To arrange items in a hierarchical order, with some being inferior to others.",
+        "To undergo a period of intense struggle or difficult circumstances.",
+        "To exchange information or goods in a secret or unofficial capacity.",
+        "To establish a foundation or base upon which something else can be built.",
+        "To create a temporary connection or bond between two separate entities."
+      ]
+    },
+    {
+      "word": "TERRESTRIAL",
+      "correct_definition": "relating to the land",
+      "distractors": [
+        "Relating to the stars or constellations.",
+        "Relating to the sea and its organisms.",
+        "Relating to the air or atmosphere.",
+        "Relating to extraterrestrial life forms.",
+        "Relating to fear, terror, or alarm.",
+        "Relating to a specific region or jurisdiction.",
+        "Relating to a series of examinations or assessments.",
+        "Relating to subterranean geological formations.",
+        "Relating to the spiritual or non-physical realm.",
+        "Relating to a path or track used for travel."
+      ]
+    },
+    {
+      "word": "TREPIDATION",
+      "correct_definition": "fear, apprehension",
+      "distractors": [
+        "Deep contemplation or thoughtful meditation.",
+        "The act of intricate, delicate work.",
+        "A state of extreme weariness or exhaustion.",
+        "A sudden, involuntary spasm or convulsion.",
+        "A feeling of profound respect or veneration.",
+        "The process of dividing into three parts.",
+        "A strong inclination toward adventure.",
+        "A sense of overwhelming delight or joy.",
+        "Stubborn opposition or defiance.",
+        "A stable condition or steady progress."
+      ]
+    }
+  ]
+}

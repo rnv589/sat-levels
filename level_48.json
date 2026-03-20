@@ -1,0 +1,167 @@
+{
+  "level": 48,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_48.png",
+  "questions": [
+    {
+      "word": "SPURIOUS",
+      "correct_definition": "false but designed to seem plausible",
+      "distractors": [
+        "Relating to a sudden, energetic burst of activity or emotion.",
+        "Characterized by a sharp, pointed projection; barbed.",
+        "Inclined to act impulsively and without prior thought; spontaneous.",
+        "Exhibiting exceptional and often unexpected skill or talent.",
+        "Marked by an erratic or inconsistent pattern of behavior or occurrence.",
+        "Pertaining to something that encourages or incites action; stimulating.",
+        "Having a thin or sparsely distributed quality; scattered.",
+        "Of a spiritual or ethereal nature; lacking physical substance.",
+        "Referring to an abundance or surplus of something; excessive.",
+        "Causing a sharp, intense sensation or feeling; acute."
+      ]
+    },
+    {
+      "word": "STAGNATE",
+      "correct_definition": "to become or remain inactive, not develop, not \ufb02ow",
+      "distractors": [
+        "To arrange or present something formally, often on a stage.",
+        "To cause a deep, lasting stain or mark on a surface.",
+        "To designate or appoint someone to a particular role or position.",
+        "To walk or move unsteadily, as if about to fall.",
+        "To overcome a significant obstacle or challenge with great effort.",
+        "To formally declare or sign an agreement or treaty.",
+        "To achieve a state of great importance or influence, like a magnate.",
+        "To establish or found a new organization or nation.",
+        "To regulate or manage the flow of a liquid or gas.",
+        "To determine or fix the precise location or position of something."
+      ]
+    },
+    {
+      "word": "STRIDENT",
+      "correct_definition": "harsh, loud",
+      "distractors": [
+        "Uncompromisingly severe or rigid.",
+        "Bitingly sarcastic or critical.",
+        "Moving with long, powerful strides.",
+        "Possessing great physical strength.",
+        "Causing emotional strain or tension.",
+        "Extremely compact or densely packed.",
+        "Marked by streaks or distinct lines.",
+        "Completely bare or stark in appearance.",
+        "Firmly established; not easily swayed.",
+        "Characterized by aggressive determination."
+      ]
+    },
+    {
+      "word": "SUCCINCT",
+      "correct_definition": "marked by compact precision",
+      "distractors": [
+        "Positioned beneath or secondary in importance.",
+        "Occurring immediately after in a sequence.",
+        "Approaching the maximum allowable extent.",
+        "Restrained by strict rules or limitations.",
+        "Completely surrounding or forming a border around.",
+        "Forcing something into a smaller, subordinate space.",
+        "Tending to decline or diminish rapidly.",
+        "Having a strong capacity for absorption or attraction.",
+        "Accomplished with minimal effort or complexity.",
+        "Marked by an unshakeable resolve or certainty."
+      ]
+    },
+    {
+      "word": "TACITURN",
+      "correct_definition": "not inclined to talk",
+      "distractors": [
+        "Lacking in social tact or diplomacy.",
+        "Prone to sudden and unpredictable changes.",
+        "Marked by a rigid and unyielding nature.",
+        "Characterized by implied or unspoken understanding.",
+        "Operating with great secrecy and discretion.",
+        "Quick to take offense or become easily angered.",
+        "Displaying a lack of self-confidence or assertiveness.",
+        "Given to revisiting past events or memories.",
+        "Unable to make decisions quickly or effectively.",
+        "Having an awkward or clumsy manner."
+      ]
+    },
+    {
+      "word": "TEMERITY",
+      "correct_definition": "audacity, recklessness",
+      "distractors": [
+        "A feeling of extreme shyness or apprehension; timidity.",
+        "An uncontrolled outburst of anger; a fit of rage.",
+        "The quality of being moderate or restrained; self-discipline.",
+        "The state of being temporary or fleeting; impermanence.",
+        "A slight trembling or shaking movement; physical instability.",
+        "The act of tempting or enticing; strong persuasion.",
+        "Inherent worth or goodness; deserved praise.",
+        "Pertaining to the earth or worldly matters; mundane existence.",
+        "The quality of being persistent or determined; stubbornness.",
+        "A state of intense emotional agitation; extreme anxiety."
+      ]
+    },
+    {
+      "word": "TIMOROUS",
+      "correct_definition": "timid, fearful",
+      "distractors": [
+        "Relating to time or a specific period.",
+        "Characterized by excessive quantity or duration.",
+        "Having a tendency to cause delay or procrastination.",
+        "Lacking clarity or distinctness; hazy.",
+        "Prone to excessive boasting or showing off.",
+        "Displaying a lack of vigor or energy; sluggish.",
+        "Marked by severe pain or suffering; agonizing.",
+        "Given to over-analysis or excessive contemplation.",
+        "Having a growth or swelling, especially an abnormal one.",
+        "Characterized by involuntary trembling or shivering."
+      ]
+    },
+    {
+      "word": "TORTUOUS",
+      "correct_definition": "winding",
+      "distractors": [
+        "Causing severe pain or suffering.",
+        "Marked by legal wrongdoing or injustice.",
+        "Characterized by a quick and witty reply.",
+        "Moving very slowly and ponderously.",
+        "Requiring immense effort and difficulty.",
+        "Displaying excessive pride or arrogance.",
+        "Flowing with great speed and force.",
+        "Strictly rigid and unyielding.",
+        "Kept secret or hidden from view.",
+        "Intricately ornamented or adorned."
+      ]
+    },
+    {
+      "word": "TRUNCATE",
+      "correct_definition": "to shorten by cutting off",
+      "distractors": [
+        "To make a substance denser or more structurally sound.",
+        "To seal contents securely within a protective container.",
+        "To lay the essential groundwork or framework for a project.",
+        "To consolidate various components into one primary system.",
+        "To deliberately distort the shape or appearance of an object.",
+        "To strip an item of its external protective covering.",
+        "To initiate the principal phase of an operation or activity.",
+        "To mend a broken item, restoring it to its original condition.",
+        "To systematically record the precise measurements of an object.",
+        "To create a primary conduit or channel for flow."
+      ]
+    },
+    {
+      "word": "UNCTUOUS",
+      "correct_definition": "smooth or greasy in texture, appearance, manner",
+      "distractors": [
+        "Lacking in structure or cohesion, often leading to disarray.",
+        "Not arriving on time; characterized by habitual tardiness.",
+        "Marked by excessive or unmerited arrogance; haughty.",
+        "Unaware of one's surroundings or the implications of one's actions.",
+        "Lacking firmness or rigidity; easily bent or molded.",
+        "Difficult to control or manage; rebellious.",
+        "Prone to excessive worry or apprehension; easily distressed.",
+        "Of an immeasurable or indefinite quantity; countless.",
+        "Characterized by unfairness or impartiality; inequitable.",
+        "Devoid of warmth or genuine emotion; cold and distant."
+      ]
+    }
+  ]
+}

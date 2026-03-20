@@ -1,0 +1,167 @@
+{
+  "level": 16,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_16.png",
+  "questions": [
+    {
+      "word": "PLACID",
+      "correct_definition": "calm, peaceful",
+      "distractors": [
+        "Lacking firmness or stiffness.",
+        "Easily molded or shaped.",
+        "A flat, open area of land.",
+        "Having a strong, sour taste.",
+        "To put or set in a particular position.",
+        "Marked by dullness or lack of spirit.",
+        "Transparent and free from impurities.",
+        "A synthetic material that can be molded.",
+        "Shallow and lacking significant depth.",
+        "To please or appease someone."
+      ]
+    },
+    {
+      "word": "PUTRID",
+      "correct_definition": "rotten, foul",
+      "distractors": [
+        "Lacking sophistication or refinement; crude.",
+        "Difficult to comprehend or explain; abstruse.",
+        "Easily broken or damaged; brittle.",
+        "Having a dense, semi-solid texture; viscous.",
+        "Engaged in deep, serious thought; reflective.",
+        "Unstable or prone to collapse; wobbly.",
+        "Excessively detailed or complicated; elaborate.",
+        "Feeling or showing a lack of courage; fearful.",
+        "Indistinct or vague in form; hazy.",
+        "Tending to provoke anger or annoyance; aggravating."
+      ]
+    },
+    {
+      "word": "RANCID",
+      "correct_definition": "having a terrible taste or smell",
+      "distractors": [
+        "spreading quickly and uncontrollably over a surface",
+        "showing deep-seated bitterness and resentment",
+        "broken into small, sharp, and irregular pieces",
+        "happening suddenly and without any warning",
+        "possessing a rough or jagged texture on its surface",
+        "prone to swaying or tipping from its base",
+        "marked by harsh and cutting critical remarks",
+        "worn out or deteriorated from age or constant use",
+        "causing irritation or inflammation in body tissues",
+        "emitting a loud, grating, and unpleasant sound"
+      ]
+    },
+    {
+      "word": "RANCOR",
+      "correct_definition": "deep, bitter resentment",
+      "distractors": [
+        "A putrid and unpleasant odor, often associated with decay.",
+        "The state of being spoiled or foul, particularly food items.",
+        "A sudden, violent outburst of anger or rage.",
+        "A profound sense of bewilderment or mental disarray.",
+        "A low and despicable social status or reputation.",
+        "A severe and recurring internal physical discomfort.",
+        "The gradual process of physical deterioration or decay.",
+        "A thorny, invasive plant species common in dry climates.",
+        "A harsh and dissonant clash of sounds or melodies.",
+        "A formal charge or accusation brought against an individual."
+      ]
+    },
+    {
+      "word": "RAZE",
+      "correct_definition": "to demolish, level",
+      "distractors": [
+        "To lift or elevate to a higher position.",
+        "To remove hair or stubble from a surface.",
+        "To cause deep confusion or bewilderment.",
+        "To speak or yell with intense anger.",
+        "To set on fire or ignite rapidly.",
+        "To sharpen a blade or cutting edge.",
+        "To scrape or abrade a surface.",
+        "To stare intently at something.",
+        "To calculate or estimate with precision.",
+        "To cause something to become thin or attenuated."
+      ]
+    },
+    {
+      "word": "REFUTE",
+      "correct_definition": "to prove wrong",
+      "distractors": [
+        "To refuse to acknowledge.",
+        "To render something useless.",
+        "To revert to an earlier form.",
+        "To reconsider a decision.",
+        "To anticipate future events.",
+        "To reunite separate parts.",
+        "To remember a forgotten fact.",
+        "To make a strong protest.",
+        "To feel deep remorse.",
+        "To build up once more."
+      ]
+    },
+    {
+      "word": "RELISH",
+      "correct_definition": "to enjoy",
+      "distractors": [
+        "To recall a past event.",
+        "To make smooth or glossy.",
+        "To restore to a new condition.",
+        "To give back what was taken.",
+        "To chew food thoroughly.",
+        "To taste a new flavor.",
+        "To re-examine carefully.",
+        "To remove something unpleasant.",
+        "To establish again.",
+        "To release from a burden."
+      ]
+    },
+    {
+      "word": "REMISS",
+      "correct_definition": "negligent, failing to take care",
+      "distractors": [
+        "prone to repeatedly missing targets or failing to achieve goals.",
+        "returned to a previous, less developed state or condition.",
+        "feeling a profound sense of longing or nostalgia for something lost.",
+        "characterized by a grave error or serious misunderstanding.",
+        "relating to the act of sending or returning something to its source.",
+        "in the process of undoing a previous failure or correcting an error.",
+        "consistently absent or missing from an expected location.",
+        "inclined to relinquish control over possessions or responsibilities.",
+        "marked by a significant and regrettable mistake or oversight.",
+        "prone to transmitting or relaying information inaccurately."
+      ]
+    },
+    {
+      "word": "REPOSE",
+      "correct_definition": "to rest, lie down",
+      "distractors": [
+        "To place an object or item back into its original spot.",
+        "To assume a particular stance or attitude for effect.",
+        "To propose an idea or plan once more for consideration.",
+        "To put an end to something definitively.",
+        "To reflect deeply on past actions or decisions.",
+        "To present oneself in a formal or dignified manner.",
+        "To re-establish order or control in a chaotic situation.",
+        "To respond to a challenge or opposition with renewed vigor.",
+        "To put forward a question or problem for discussion.",
+        "To recover from an illness or period of hardship."
+      ]
+    },
+    {
+      "word": "RIBALD",
+      "correct_definition": "coarsely, crudely humorous",
+      "distractors": [
+        "Pertaining to the rejoining or binding together of broken components.",
+        "Marked by a lack of ornamentation or extraneous detail; plain.",
+        "Characterized by deep-seated resentment or bitter indignation.",
+        "Relating to a severe and persistent physical ailment or weakness.",
+        "Indicative of a sudden, sharp, and forceful impact.",
+        "Descriptive of a narrow, confining space or passage.",
+        "Adhering strictly to traditional customs or established rituals.",
+        "Expressing profound sorrow or a mournful lament.",
+        "Pertaining to the act of removing or stripping something bare.",
+        "Tending to be unyielding or stubbornly resistant to change."
+      ]
+    }
+  ]
+}

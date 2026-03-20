@@ -1,0 +1,167 @@
+{
+  "level": 46,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_46.png",
+  "questions": [
+    {
+      "word": "PLETHORA",
+      "correct_definition": "an abundance, excess",
+      "distractors": [
+        "A formal plea or urgent request for action.",
+        "A serious medical condition affecting the respiratory system.",
+        "The careful and systematic organization of complex data.",
+        "A deep feeling of contentment or profound satisfaction.",
+        "An intricate pattern or design, often found in textiles.",
+        "A sturdy protective barrier or defensive wall.",
+        "A state of complete and utter exhaustion or weariness.",
+        "The critical analysis of historical documents.",
+        "A dense and impenetrable thicket of thorny plants.",
+        "A complex and interconnected network of ideas or concepts."
+      ]
+    },
+    {
+      "word": "POIGNANT",
+      "correct_definition": "deeply affecting, moving",
+      "distractors": [
+        "Causing a sharp, piercing physical sensation.",
+        "Having a strong, often acrid or unpleasant, odor or flavor.",
+        "Serving to indicate a precise direction or location.",
+        "Tending to ignite or catch fire easily.",
+        "To deliberately overlook or refuse to acknowledge.",
+        "Relevant to the subject under consideration; to the point.",
+        "Marked by extreme accuracy or meticulous detail.",
+        "Exhibiting elegant self-possession and composure.",
+        "Inclined to argue or fight; combative.",
+        "To criticize or denounce with sharp, pointed remarks."
+      ]
+    },
+    {
+      "word": "PRECLUDE",
+      "correct_definition": "to prevent",
+      "distractors": [
+        "To include within a group.",
+        "To make a final decision.",
+        "To give an introductory statement.",
+        "To provide a thorough explanation.",
+        "To determine the outcome in advance.",
+        "To prepare for a future event.",
+        "To shut something in securely.",
+        "To allow something to happen.",
+        "To make something obvious or clear.",
+        "To make a judgment without sufficient evidence."
+      ]
+    },
+    {
+      "word": "PRETENSE",
+      "correct_definition": "an appearance or action intended to deceive",
+      "distractors": [
+        "A state of heightened emotional or physical stress.",
+        "An introductory stage or preliminary phase of a process.",
+        "The act of stretching or extending something to its fullest extent.",
+        "A strong, unwavering belief or determined resolution.",
+        "A period of focused attention or intensive preparation.",
+        "The capacity to withstand significant pressure or adversity.",
+        "A formal claim or declaration made prior to official action.",
+        "A condition of extreme tightness or rigidity in structure.",
+        "A feeling of acute apprehension or impending urgency.",
+        "A cautious examination or assessment undertaken beforehand."
+      ]
+    },
+    {
+      "word": "PRUDENCE",
+      "correct_definition": "cautious, circumspect",
+      "distractors": [
+        "Haughty, arrogant.",
+        "Pure, undefiled.",
+        "Strong, vigorous.",
+        "Crude, unsophisticated.",
+        "Clear, verifiable evidence.",
+        "Creative, generative.",
+        "Daring, intrepid.",
+        "Stubborn, unyielding.",
+        "Formal, conventional.",
+        "Simple, unadorned."
+      ]
+    },
+    {
+      "word": "PRURIENT",
+      "correct_definition": "eliciting or possessing an extraordinary interest in sex",
+      "distractors": [
+        "Experiencing an incessant, irritating physical itch or skin irritation.",
+        "Displaying an intrusive and excessive curiosity regarding the private lives of others.",
+        "Marked by an ostentatious display of wealth or an inflated sense of self-worth.",
+        "Having an extraordinary aptitude or natural talent for creative endeavors.",
+        "Characterized by an exaggerated adherence to strict moral codes or excessive modesty.",
+        "Liable to sudden shifts or changes; lacking stability or certainty.",
+        "Pertaining to an unrefined or rudimentary state of existence; uncivilized.",
+        "Demonstrating cautious foresight and sound judgment in practical decision-making.",
+        "Demonstrating intense passion or fervent zeal for a particular cause.",
+        "Striving for moral purity or an untainted, unblemished character."
+      ]
+    },
+    {
+      "word": "QUAINT",
+      "correct_definition": "charmingly old-fashioned",
+      "distractors": [
+        "Pertaining to a difficult dilemma or perplexing situation.",
+        "Characterized by a forceful suppression or silencing.",
+        "Completely satisfying a deep thirst or desire.",
+        "Displaying exceptional skill or intricate craftsmanship.",
+        "Passing swiftly and briefly through time.",
+        "Possessing extreme shyness and reserved behavior.",
+        "Distinctively modern and cutting-edge in style.",
+        "Having a strong, unusually pungent aroma.",
+        "Difficult to comprehend or lacking in clear definition.",
+        "Causing a state of severe mental or physical suffering."
+      ]
+    },
+    {
+      "word": "REBUKE",
+      "correct_definition": "to scold, criticize",
+      "distractors": [
+        "To mend or restore something damaged.",
+        "To return an item or service.",
+        "To give a refund or discount.",
+        "To strongly deny a statement or accusation.",
+        "To book a future appointment or event.",
+        "To formally revoke an agreement or privilege.",
+        "To reinforce or strengthen a structure.",
+        "To recall a memory or past event.",
+        "To celebrate or take great pleasure in something.",
+        "To restrain or hold back from action."
+      ]
+    },
+    {
+      "word": "RELEGATE",
+      "correct_definition": "to assign to the proper place",
+      "distractors": [
+        "To legally bind an agreement again.",
+        "To read a document for a second time.",
+        "To send a representative on a special mission.",
+        "To revoke a previously established law.",
+        "To block passage through a restricted entry.",
+        "To transmit an urgent message repeatedly.",
+        "To delegate responsibility to an assistant.",
+        "To re-establish communication with an old friend.",
+        "To bring an item back to its original sender.",
+        "To reconsider a decision made in the past."
+      ]
+    },
+    {
+      "word": "REMEDIAL",
+      "correct_definition": "intended to repair gaps in students\u2019 basic knowledge",
+      "distractors": [
+        "Designed to address and correct major mechanical malfunctions.",
+        "Intended to bring about a state of calm and quiet contemplation.",
+        "Pertaining to the re-establishment of a prior legal agreement.",
+        "Focused on the restoration of damaged historical documents or artifacts.",
+        "Describing an action taken to revert to an earlier social norm.",
+        "Concerned with the precise measurement of an object's central point.",
+        "Involving the systematic improvement of public infrastructure.",
+        "Aimed at curing or alleviating symptoms of chronic medical conditions.",
+        "Referring to the process of recalling specific facts from long-term memory.",
+        "Designed to enforce strict adherence to procedural guidelines or regulations."
+      ]
+    }
+  ]
+}

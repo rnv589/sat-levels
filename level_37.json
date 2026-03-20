@@ -1,0 +1,167 @@
+{
+  "level": 37,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_37.png",
+  "questions": [
+    {
+      "word": "CAJOLE",
+      "correct_definition": "to urge, coax",
+      "distractors": [
+        "to confine or imprison",
+        "to speak loudly or boisterously",
+        "to ridicule or mock",
+        "to burn or char",
+        "to decorate lavishly",
+        "to decide impulsively",
+        "to conceal or hide",
+        "to chew or masticate",
+        "to accuse falsely or libel",
+        "to praise effusively"
+      ]
+    },
+    {
+      "word": "CALAMITY",
+      "correct_definition": "an event with disastrous consequences",
+      "distractors": [
+        "A system for evaluating the caloric content of food.",
+        "A method of precise celestial navigation using stellar patterns.",
+        "A brilliant, shimmering optical illusion seen in desert regions.",
+        "A profound state of mental clarity and tranquility.",
+        "An elaborate and decorative form of ancient writing or script.",
+        "A type of hard, crystalline mineral often used in jewelry.",
+        "The art of crafting intricate wooden objects by hand.",
+        "A formal decree or proclamation issued by an authority.",
+        "A protective outer shell or casing found on certain organisms.",
+        "A specific rhythmic pattern or cadence in poetry."
+      ]
+    },
+    {
+      "word": "CANVAS",
+      "correct_definition": "a piece of cloth on which an artist paints",
+      "distractors": [
+        "A thorough survey of opinions or votes among a group.",
+        "A small metal container used for holding liquids or preserves.",
+        "The total capacity or potential of a person or system.",
+        "A large, ornate vessel used for displaying flowers or fruits.",
+        "A person who holds land from a feudal lord and owes allegiance.",
+        "A finely woven silk fabric used for delicate garments.",
+        "The act of meticulously examining an issue or topic.",
+        "A hollow cylinder or tube for conveying fluids.",
+        "A sturdy wooden framework used to support heavy loads during construction.",
+        "A sterile bandage or dressing used to cover wounds."
+      ]
+    },
+    {
+      "word": "CAVORT",
+      "correct_definition": "to leap about, behave boisterously",
+      "distractors": [
+        "To grumble or complain about trivial matters.",
+        "To hollow out or excavate a space.",
+        "To whisper secrets or confidences.",
+        "To skillfully avoid a difficult task.",
+        "To execute a swift and sudden pivot.",
+        "To meticulously inspect for flaws.",
+        "To deliberately hide or obscure information.",
+        "To emit a harsh, guttural sound.",
+        "To display an undue amount of apprehension.",
+        "To pack or stuff an opening tightly."
+      ]
+    },
+    {
+      "word": "CEREBRAL",
+      "correct_definition": "related to the intellect",
+      "distractors": [
+        "Pertaining to the skull or cranial cavity.",
+        "Concerning the sensory processing areas of the brain.",
+        "Describing the chemical composition of brain tissue.",
+        "Involving the flow of blood to the brain.",
+        "Relating to the development of early motor skills.",
+        "Pertaining to the protective membranes around the brain.",
+        "Indicating a sudden electrical discharge in the brain.",
+        "Associated with the body's balance and coordination.",
+        "Characterized by a strong, persistent headache.",
+        "Relating to the transmission of nerve signals."
+      ]
+    },
+    {
+      "word": "CHASTISE",
+      "correct_definition": "to criticize severely",
+      "distractors": [
+        "To make something pure or undefiled.",
+        "To pursue an objective with great determination.",
+        "To physically restrain or hold captive.",
+        "To simplify a complex idea or structure.",
+        "To make a deliberate selection from many options.",
+        "To formally appoint someone to a position.",
+        "To arrange items in an organized and neat manner.",
+        "To create a lasting bond or connection.",
+        "To provide encouraging support or approval.",
+        "To remove impurities from a liquid."
+      ]
+    },
+    {
+      "word": "CLEAVE",
+      "correct_definition": "to divide into parts",
+      "distractors": [
+        "To purify by removing impurities.",
+        "To depart suddenly and without notice.",
+        "To rise sharply to a higher level.",
+        "To clarify a complex or ambiguous statement.",
+        "To produce a sharp, ringing sound.",
+        "To unite diverse elements into a single whole.",
+        "To make a solemn promise or vow.",
+        "To remove obstacles or impediments.",
+        "To conceal a secret with great care.",
+        "To carefully scrutinize or examine closely."
+      ]
+    },
+    {
+      "word": "CLEMENCY",
+      "correct_definition": "mercy",
+      "distractors": [
+        "A condition of great mental clarity.",
+        "The right to make a formal claim.",
+        "The act of holding something firmly in place.",
+        "An exceptional degree of intellectual quickness.",
+        "A profound state of peacefulness and calm.",
+        "A traditional solemn religious rite.",
+        "The state of being impeccably pure and spotless.",
+        "A binding and serious commitment.",
+        "A sharp, sudden blow or impact.",
+        "A legal entitlement or demand."
+      ]
+    },
+    {
+      "word": "COALESCE",
+      "correct_definition": "to fuse into a whole",
+      "distractors": [
+        "To cause a sudden and dramatic decrease in quantity.",
+        "To establish a formal agreement or alliance.",
+        "To provide a concise summary of complex information.",
+        "To resolve a conflict between opposing parties.",
+        "To deliberately obscure the truth or evade responsibility.",
+        "To allocate resources effectively among various departments.",
+        "To stimulate growth or development in a dormant entity.",
+        "To jointly manage a shared enterprise or venture.",
+        "To compel someone to yield under pressure or duress.",
+        "To cautiously examine the details of a contractual obligation."
+      ]
+    },
+    {
+      "word": "COHERENT",
+      "correct_definition": "logically consistent, intelligible",
+      "distractors": [
+        "Pertaining to materials that physically bond or adhere strongly.",
+        "Forming a unified whole where components are tightly connected.",
+        "Existing as an essential, intrinsic, or permanent characteristic.",
+        "Passed down through genetic or familial inheritance.",
+        "Shared or existing commonly among all members of a group.",
+        "Resistant to separation or disintegration; holding fast.",
+        "Arranged in a pleasing or aesthetically agreeable order.",
+        "The process of bringing diverse elements together into a single entity.",
+        "Clearly perceivable or visible to the senses.",
+        "Persisting in the same state or condition over time."
+      ]
+    }
+  ]
+}

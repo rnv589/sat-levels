@@ -1,0 +1,167 @@
+{
+  "level": 68,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_68.png",
+  "questions": [
+    {
+      "word": "AMALGAMATE",
+      "correct_definition": "to bring together, unite",
+      "distractors": [
+        "To make something worse or more harmful.",
+        "To express deep love or admiration.",
+        "To manage or regulate a complex system.",
+        "To assign a task or responsibility to another.",
+        "To navigate a difficult or winding path.",
+        "To judge or assess the worth of something.",
+        "To officially open a new establishment or project.",
+        "To cause confusion or disorder deliberately.",
+        "To argue against an idea or proposal.",
+        "To soften or make more pliable a rigid substance."
+      ]
+    },
+    {
+      "word": "AMELIORATE",
+      "correct_definition": "to improve",
+      "distractors": [
+        "To make worse or intensify negativity.",
+        "To dissolve or cause to melt.",
+        "To make louder or more pronounced.",
+        "To cause forgetfulness or mental confusion.",
+        "To mediate between opposing parties.",
+        "To enumerate or list items systematically.",
+        "To obscure or make less clear.",
+        "To evaluate the worth or significance of.",
+        "To allocate funds or resources.",
+        "To disseminate information widely."
+      ]
+    },
+    {
+      "word": "ANESTHESIA",
+      "correct_definition": "loss of sensation",
+      "distractors": [
+        "lack of emotional response",
+        "inability to maintain balance",
+        "temporary loss of consciousness",
+        "a state of profound calm",
+        "cessation of involuntary reflexes",
+        "severe mental fogginess",
+        "absence of muscular coordination",
+        "inability to form new memories",
+        "a feeling of extreme apathy",
+        "suppression of artistic creativity"
+      ]
+    },
+    {
+      "word": "ANTAGONISM",
+      "correct_definition": "hostility",
+      "distractors": [
+        "A philosophical doctrine emphasizing struggle.",
+        "A strong desire to achieve victory.",
+        "A condition of severe mental distress.",
+        "The practice of rigorous self-discipline.",
+        "A formal system of opposing arguments.",
+        "A deep-seated reluctance to change.",
+        "The state of being continuously challenged.",
+        "A belief in the inherent struggle for survival.",
+        "A strong reaction against new ideas.",
+        "A prolonged period of intense effort."
+      ]
+    },
+    {
+      "word": "ANTECEDENT",
+      "correct_definition": "something that came before",
+      "distractors": [
+        "A strong chemical used to prevent decay.",
+        "The formal process of giving up control.",
+        "A person who actively opposes a prevailing view.",
+        "The precise moment at which a specific action begins.",
+        "A legal document outlining a property transfer.",
+        "An object that reflects light in a unique way.",
+        "A philosophical concept dealing with absolute truths.",
+        "The act of moving forward with great determination.",
+        "A plant species that thrives in arid climates.",
+        "A statement made in direct contradiction to an earlier claim."
+      ]
+    },
+    {
+      "word": "ANTISEPTIC",
+      "correct_definition": "clean, sterile",
+      "distractors": [
+        "Opposed to common views.",
+        "Relating to a counter-attack.",
+        "A substance that causes drowsiness.",
+        "Characterized by cautious doubt.",
+        "Concerned with ancient traditions.",
+        "To act as an adversary.",
+        "Causing a mild numbing sensation.",
+        "Preventing the fusion of materials.",
+        "A strong feeling of opposition.",
+        "Lacking emotional connection."
+      ]
+    },
+    {
+      "word": "ANTITHESIS",
+      "correct_definition": "the absolute opposite",
+      "distractors": [
+        "A strong argument against a stated position.",
+        "A statement that contradicts a previous assertion.",
+        "A theory presented in direct opposition to an established one.",
+        "The act of challenging a widely accepted belief.",
+        "A critical analysis of a foundational principle.",
+        "An alternative viewpoint offered for consideration.",
+        "The refutation of a main hypothesis.",
+        "A formal objection raised during a debate.",
+        "A proposition that seeks to overturn a conclusion.",
+        "The fundamental disagreement with a core doctrine."
+      ]
+    },
+    {
+      "word": "APOCRYPHAL",
+      "correct_definition": "\ufb01ctitious, false, wrong",
+      "distractors": [
+        "Difficult to understand; enigmatic.",
+        "Intentionally kept secret; not publicly disclosed.",
+        "Situated at the outer edge; peripheral.",
+        "Pertaining to underground burial places or tombs.",
+        "Relating to a sudden, dramatic departure.",
+        "Occurring in a time period following a major event.",
+        "Beyond human comprehension; unfathomable.",
+        "Reserved or withdrawn in manner; secretive.",
+        "Deviating from the accepted standard; aberrant.",
+        "Having a concealed or symbolic inner meaning."
+      ]
+    },
+    {
+      "word": "ARCHETYPAL",
+      "correct_definition": "the most representative or typical example of something",
+      "distractors": [
+        "Pertaining to ancient forms of inscribed records or documents.",
+        "Serving as the principal leader or head of a large organization.",
+        "Describing an extreme and rarely encountered category of things.",
+        "Relating to the foundational structural design of a building or monument.",
+        "Representing an overwhelming or superior kind among others.",
+        "Bearing an ancient or original physical mark of identification.",
+        "Being the principal tool or instrument used for a specific task.",
+        "Characterized by clever, often mischievous, and secretive behavior.",
+        "Encompassing a broad or overarching style within a particular art form.",
+        "Pertaining to the careful creation of original prints or replicas from a master design."
+      ]
+    },
+    {
+      "word": "AUSPICIOUS",
+      "correct_definition": "favorable, indicative of good things",
+      "distractors": [
+        "relating to a sound that carries far; clearly audible.",
+        "keen in observation; having sharp eyesight.",
+        "possessing high monetary or intrinsic value; precious.",
+        "visually impressive or magnificent; grand in scale.",
+        "sharp-witted and quick to respond; astute.",
+        "under the protection or patronage of; guided.",
+        "openly displayed or apparent; not concealed.",
+        "showing a daring lack of respect; presumptuous.",
+        "pure and unadulterated; free from contamination.",
+        "swift in movement or action; agile."
+      ]
+    }
+  ]
+}

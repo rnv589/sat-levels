@@ -1,0 +1,167 @@
+{
+  "level": 80,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_80.png",
+  "questions": [
+    {
+      "word": "COMPUNCTION",
+      "correct_definition": "distress caused by feeling guilty",
+      "distractors": [
+        "A sudden, sharp feeling of physical discomfort.",
+        "The act of bringing disparate ideas together into a coherent whole.",
+        "A strong internal drive to achieve perfection in one's work.",
+        "A brief but intense period of deep concentration.",
+        "The practice of making careful and precise adjustments.",
+        "A sudden and forceful blow or impact.",
+        "The feeling of urgency to complete a task.",
+        "A thorough and critical examination of a subject.",
+        "A deep appreciation for punctuality and order.",
+        "The act of expressing disapproval or criticism."
+      ]
+    },
+    {
+      "word": "CONCOMITANT",
+      "correct_definition": "accompanying in a subordinate fashion",
+      "distractors": [
+        "Relating to an explicit agreement or shared commitment.",
+        "Describing a forceful and confrontational opposition.",
+        "Pertaining to a deep, reciprocal emotional connection.",
+        "Indicating a simultaneous communication or broadcast.",
+        "Suggesting a centralized system of command and control.",
+        "Describing a mutually beneficial commercial partnership.",
+        "Relating to the act of compelling agreement or conformity.",
+        "Pertaining to a highly coordinated and synchronized action.",
+        "Indicating a firm, unyielding dedication to a principle.",
+        "Describing something that is entirely consistent in nature or form."
+      ]
+    },
+    {
+      "word": "CONSOLATION",
+      "correct_definition": "an act of comforting",
+      "distractors": [
+        "an act of solemn contemplation.",
+        "the process of making something firm or solid.",
+        "a formal agreement between parties.",
+        "the state of being completely isolated.",
+        "an act of thorough investigation.",
+        "the quality of being the only existing example.",
+        "a deep-seated personal belief.",
+        "the resolution of a difficult problem.",
+        "an intense feeling of yearning.",
+        "the act of offering professional advice."
+      ]
+    },
+    {
+      "word": "CONSTITUENT",
+      "correct_definition": "an essential part",
+      "distractors": [
+        "An official decree or proclamation.",
+        "A person who establishes a new rule.",
+        "The act of formally creating a system.",
+        "A legal framework or set of laws.",
+        "Something that remains stable and unyielding.",
+        "A collective decision reached by many.",
+        "The process of bringing elements into unity.",
+        "A formal assembly of representatives.",
+        "A foundational belief or core doctrine.",
+        "An elected public official."
+      ]
+    },
+    {
+      "word": "CONSUMPTION",
+      "correct_definition": "the act of consuming",
+      "distractors": [
+        "the act of making a critical judgment.",
+        "the act of affirming a stated position.",
+        "the act of taking something for granted.",
+        "the act of gathering evidence together.",
+        "the act of bringing a matter to a close.",
+        "the act of providing a concise overview.",
+        "the act of combining separate components.",
+        "the act of making a general statement.",
+        "the act of assuming leadership.",
+        "the act of dedicating oneself fully."
+      ]
+    },
+    {
+      "word": "CONTENTIOUS",
+      "correct_definition": "having a tendency to quarrel or dispute",
+      "distractors": [
+        "Pertaining to the complete satisfaction of one's desires.",
+        "Descriptive of something that can be easily contained or held in place.",
+        "Characterized by a deep and unyielding sense of purpose or intention.",
+        "Having the quality of being provisional, uncertain, or not fully developed.",
+        "Relating to the intrinsic worth or essential meaning of an object or concept.",
+        "Marked by an inability to settle down or remain in one fixed location.",
+        "Indicating a state of being fully absorbed or deeply concentrated on a task.",
+        "Concerning the primary subject matter or essential elements of a document or speech.",
+        "Exhibiting extreme caution or a lack of confidence in one's actions.",
+        "Tending to draw multiple disparate elements together into a cohesive whole."
+      ]
+    },
+    {
+      "word": "CORROBORATE",
+      "correct_definition": "to support with evidence",
+      "distractors": [
+        "To carve or engrave deeply into a surface.",
+        "To dismantle an argument or structure.",
+        "To collect various items into a single, cohesive unit.",
+        "To deplete resources or energy from a source.",
+        "To make a situation more difficult or complex.",
+        "To remove impurities through a refining process.",
+        "To seize property unlawfully.",
+        "To spread false information widely.",
+        "To restrict freedom or movement.",
+        "To damage or weaken gradually."
+      ]
+    },
+    {
+      "word": "CORROSIVE",
+      "correct_definition": "having the tendency to erode or eat away",
+      "distractors": [
+        "affecting the emotional core or spiritual well-being.",
+        "tending to invade or spread throughout a system or organism.",
+        "causing a gradual accumulation or build-up of material or substance.",
+        "having the quality of being excessively critical or harsh in tone or manner.",
+        "pertaining to the process of correcting errors or rectifying imperfections.",
+        "causing a strong compulsion or irresistible urge to act.",
+        "characterized by a rapid and vigorous growth or expansion.",
+        "causing a deep and resonant sound or vibration.",
+        "requiring immediate and forceful action or intervention.",
+        "serving to confirm or support a statement, theory, or finding."
+      ]
+    },
+    {
+      "word": "CULMINATION",
+      "correct_definition": "the climax toward which something progresses",
+      "distractors": [
+        "The careful process of developing or refining a specific skill or art.",
+        "The act of reducing a quantity or quality to its absolute lowest point.",
+        "The sudden and clear revelation of a hidden truth or understanding.",
+        "A formal declaration of guilt or attribution of blame for an error.",
+        "The gradual assembly of disparate elements into a unified whole.",
+        "A prolonged period of deep thought or careful consideration of a problem.",
+        "The detailed and precise working out of a complex numerical problem.",
+        "The foundational principles or original source from which something originates.",
+        "The continuous aggregation of small parts into an ever-increasing total.",
+        "The systematic arrangement of facts or ideas for coherent presentation."
+      ]
+    },
+    {
+      "word": "CULTIVATE",
+      "correct_definition": "to nurture, improve, re\ufb01ne",
+      "distractors": [
+        "To form an exclusive group with shared beliefs.",
+        "To treat with excessive admiration or devotion.",
+        "To categorize into distinct classes or types.",
+        "To establish firmly in a new environment.",
+        "To make a precise determination or assessment.",
+        "To instigate or provoke a dispute or conflict.",
+        "To conceal or obscure from public knowledge.",
+        "To dismantle or break down into components.",
+        "To interpret ambiguous signs or symbols.",
+        "To provide official authorization or approval."
+      ]
+    }
+  ]
+}

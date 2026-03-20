@@ -1,0 +1,167 @@
+{
+  "level": 75,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_75.png",
+  "questions": [
+    {
+      "word": "ORTHODOX",
+      "correct_definition": "conventional, conforming to established protocol",
+      "distractors": [
+        "Pertaining to the study of correct and accurate grammatical structures.",
+        "Relating to the precise measurement and alignment of physical objects.",
+        "Characterized by an unusual and unexpected contradiction in terms.",
+        "Requiring a strictly linear and unambiguous interpretation of data.",
+        "Describing a system of belief that emphasizes individual spiritual enlightenment.",
+        "Displaying a remarkable and unparalleled level of excellence or skill.",
+        "Referring to the immediate and intuitive understanding of a complex idea.",
+        "A method of reasoning that systematically eliminates all logical inconsistencies.",
+        "Concerned with the restoration of ancient texts to their original, pristine form.",
+        "Denoting a philosophy centered on radical societal change and innovation."
+      ]
+    },
+    {
+      "word": "OSTENSIBLE",
+      "correct_definition": "appearing as such, seemingly",
+      "distractors": [
+        "Capable of being stretched or extended.",
+        "Marked by stubborn persistence or obstinacy.",
+        "Pertaining to a hidden motive or secret intent.",
+        "Relating to a firm establishment or foundation.",
+        "Having a strong inclination or natural predisposition.",
+        "Difficult to understand or interpret clearly.",
+        "Prone to causing offense or irritation.",
+        "Characterized by excessive formality or stiffness.",
+        "Serving as an obstacle or impediment.",
+        "Indicating a profound, underlying truth."
+      ]
+    },
+    {
+      "word": "PERNICIOUS",
+      "correct_definition": "extremely destructive or harmful",
+      "distractors": [
+        "Thoroughly persistent in effort or action.",
+        "Excessively precise or particular about minor details.",
+        "Lasting indefinitely; enduring without significant change.",
+        "Having a keen understanding or insight into complex matters.",
+        "Relating to the act of cutting or severing with precision.",
+        "Characterized by a strong, offensive odor or taste.",
+        "Inclined to be overly critical or fault-finding in nature.",
+        "Spreading widely or permeating thoroughly through a substance.",
+        "Causing widespread confusion or misunderstanding.",
+        "Pertaining to something that is consistently unavoidable or inevitable."
+      ]
+    },
+    {
+      "word": "PHLEGMATIC",
+      "correct_definition": "uninterested, unresponsive",
+      "distractors": [
+        "Practical and sensible in approach.",
+        "Mysterious or difficult to understand.",
+        "Prone to sudden emotional outbursts.",
+        "Characterized by extreme shyness.",
+        "Excessively formal or stiff in manner.",
+        "Easily excited or overly enthusiastic.",
+        "Strongly opinionated and unyielding.",
+        "Marked by physical frailty or illness.",
+        "Tending to cause problems or trouble.",
+        "Slow to learn or mentally dull."
+      ]
+    },
+    {
+      "word": "PRECOCIOUS",
+      "correct_definition": "advanced, developing ahead of time",
+      "distractors": [
+        "Characterized by extreme caution or carefulness.",
+        "Existing in a time period prior to a significant historical event.",
+        "Selected or determined in advance of an actual need.",
+        "Exhibiting refined manners or elegant social behavior.",
+        "Requiring intricate or highly specific preparation beforehand.",
+        "Having a strong, innate preference or inclination toward something.",
+        "Marked by a tendency to be overly critical or quick to find fault.",
+        "Lacking courage or confidence when faced with danger.",
+        "Subject to specific conditions or limitations imposed ahead of time.",
+        "Thoroughly prepared or fully brought to a state of completion."
+      ]
+    },
+    {
+      "word": "PRIMEVAL",
+      "correct_definition": "original, ancient",
+      "distractors": [
+        "Main or chief: referring to the most important or principal element.",
+        "Of excellent quality: indicating the highest standard or degree.",
+        "Essential or indispensable: absolutely necessary or crucial.",
+        "Before any value: preceding any assigned worth or significance.",
+        "First in sequence: denoting the initial item in an ordered series.",
+        "Primary calculation: an initial estimate or numerical assessment.",
+        "Unspoiled or pristine: in a state of purity, untouched by corruption.",
+        "Most influential: having the greatest impact or commanding authority.",
+        "First consideration: the initial thought or preliminary judgment.",
+        "Of peak condition: representing the finest or most vigorous state."
+      ]
+    },
+    {
+      "word": "PROMULGATE",
+      "correct_definition": "to proclaim, make known",
+      "distractors": [
+        "To multiply or increase in number.",
+        "To offer protection or safeguard.",
+        "To combine diverse elements into a whole.",
+        "To project or cast light upon.",
+        "To delay or postpone an action.",
+        "To provide or furnish with supplies.",
+        "To assess or evaluate a situation.",
+        "To instigate or provoke a reaction.",
+        "To elevate to a higher status or rank.",
+        "To suppress or keep secret."
+      ]
+    },
+    {
+      "word": "PROPENSITY",
+      "correct_definition": "an inclination, preference",
+      "distractors": [
+        "A professional skill or aptitude for a specific field.",
+        "The act of advocating for a cause or belief.",
+        "A state of being suspended or hanging precariously.",
+        "The capacity to weigh options or make careful judgments.",
+        "A substantial payment or financial disbursement.",
+        "A deep and serious period of reflection or thought.",
+        "The act of pushing something forward or propelling it.",
+        "A structural support or a stabilizing element.",
+        "The quality of being easily influenced or swayed by others.",
+        "A public declaration or a formal statement."
+      ]
+    },
+    {
+      "word": "PROPITIOUS",
+      "correct_definition": "favorable",
+      "distractors": [
+        "Relating to a deep, dark hole.",
+        "Showing great skill or proficiency.",
+        "Given to making grand, often false, claims.",
+        "Moving with great speed and urgency.",
+        "Having a strong inclination to forgive.",
+        "Dedicated to promoting a specific cause.",
+        "Marked by a sense of profound sadness.",
+        "Being remarkably productive or fertile.",
+        "Able to predict future events accurately.",
+        "Characterized by excessive or misplaced pride."
+      ]
+    },
+    {
+      "word": "PUGNACIOUS",
+      "correct_definition": "quarrelsome, combative",
+      "distractors": [
+        "Having a tough, sturdy, and compact physical structure.",
+        "Stubbornly unyielding in purpose or belief.",
+        "Characterized by strong, unpleasant sensations; offensive.",
+        "Highly resistant to change or persuasion; inflexible.",
+        "Inclined to make forceful and insistent demands.",
+        "Filled with intense dislike or aversion; repugnant.",
+        "Marked by a strong, assertive, and determined will.",
+        "Quick to react with anger or indignation to slight provocations.",
+        "Having a strong, robust constitution; hardy.",
+        "Displaying a bold, defiant, or rebellious spirit."
+      ]
+    }
+  ]
+}

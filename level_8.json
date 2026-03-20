@@ -1,0 +1,167 @@
+{
+  "level": 8,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_8.png",
+  "questions": [
+    {
+      "word": "USURP",
+      "correct_definition": "to seize by force, take possession of without right",
+      "distractors": [
+        "To make excessive or improper use of a resource or privilege.",
+        "To unexpectedly appear or emerge from concealment or obscurity.",
+        "To rise above or overcome a significant challenge or obstacle.",
+        "To forcefully suppress or put down a rebellion or dissent.",
+        "To state an opinion or belief with unwavering conviction and certainty.",
+        "To allocate funds or resources for a specific and urgent purpose.",
+        "To legally transfer the title or ownership of property to another party.",
+        "To establish an undisputed claim or right to something through evidence.",
+        "To exert influence or authority over a particular domain or group.",
+        "To maintain a position or uphold a standard against strong opposition."
+      ]
+    },
+    {
+      "word": "ABDUCT",
+      "correct_definition": "to kidnap, take by force",
+      "distractors": [
+        "To divert attention from a significant issue.",
+        "To withdraw support from a cooperative venture.",
+        "To cause a process to stop prematurely.",
+        "To guide a substance through a narrow conduit.",
+        "To formally renounce a previously held belief.",
+        "To decrease the overall volume or intensity.",
+        "To lead someone astray with false information.",
+        "To remove impurities by filtering them out.",
+        "To separate components that were previously joined.",
+        "To prevent a fluid from flowing into an area."
+      ]
+    },
+    {
+      "word": "ACCEDE",
+      "correct_definition": "to agree",
+      "distractors": [
+        "to surrender territory",
+        "to approach a destination",
+        "to provide access",
+        "to stop an action",
+        "to praise publicly",
+        "to go past a limit",
+        "to make space for",
+        "to withdraw from a debate",
+        "to acquire a privilege",
+        "to gather information"
+      ]
+    },
+    {
+      "word": "ACCORD",
+      "correct_definition": "an agreement",
+      "distractors": [
+        "A long, thin flexible strip.",
+        "A system for organizing information.",
+        "A specific set of musical notes.",
+        "To adapt to new circumstances.",
+        "To collect or gather together.",
+        "A formal accusation or charge.",
+        "The central support structure.",
+        "To acknowledge a debt or favor.",
+        "A sudden sharp pain.",
+        "To adjust something precisely."
+      ]
+    },
+    {
+      "word": "ACCOST",
+      "correct_definition": "to confront verbally",
+      "distractors": [
+        "To assess the monetary worth of.",
+        "To determine the financial outlay for.",
+        "To walk alongside someone courteously.",
+        "To offer goods at a competitive rate.",
+        "To provide solace and assistance.",
+        "To pay a hefty fine promptly.",
+        "To cling closely to a companion.",
+        "To make a sound audible to others.",
+        "To greet someone cordially.",
+        "To create a precise financial ledger."
+      ]
+    },
+    {
+      "word": "ACUMEN",
+      "correct_definition": "keen insight",
+      "distractors": [
+        "A specialized instrument for fine cutting.",
+        "The gradual gathering of resources.",
+        "A sudden, intense feeling or sensation.",
+        "Knowledge of ancient historical texts.",
+        "The practice of rigorous self-discipline.",
+        "An exact and precise numerical value.",
+        "The capacity for clear auditory perception.",
+        "A profound sense of peaceful contentment.",
+        "The skillful art of negotiating agreements.",
+        "A state of complete mental blankness."
+      ]
+    },
+    {
+      "word": "ADHERE",
+      "correct_definition": "to stick to something",
+      "distractors": [
+        "To arrive at a specified location.",
+        "To listen intently to a speaker.",
+        "To formally declare one's presence.",
+        "To offer guidance or counsel.",
+        "To carefully examine a complex issue.",
+        "To append data to an existing record.",
+        "To inherit traits from a predecessor.",
+        "To allocate resources to a specific task.",
+        "To make a necessary adjustment.",
+        "To endure a difficult situation patiently."
+      ]
+    },
+    {
+      "word": "ADROIT",
+      "correct_definition": "skillful, dexterous",
+      "distractors": [
+        "To officially declare or make known.",
+        "Marked by sincere devotion or loyalty.",
+        "Upholding moral principles; righteous.",
+        "Moving in a direct and purposeful manner.",
+        "Possessing a special privilege or entitlement.",
+        "To adjust or adapt to new conditions quickly.",
+        "Having a strong, appealing aroma.",
+        "Highly organized and systematic.",
+        "To make something straight or align properly.",
+        "Exhibiting admirable courage or bravery."
+      ]
+    },
+    {
+      "word": "AERIAL",
+      "correct_definition": "somehow related to the air",
+      "distractors": [
+        "somehow related to the sense of hearing or sound.",
+        "somehow related to the surface measurement of a region.",
+        "somehow related to a feeling of strangeness or uneasiness.",
+        "somehow related to a distinct period of history.",
+        "somehow related to making a mistake or being incorrect.",
+        "somehow related to tangible items or physical possessions.",
+        "somehow related to a state of ultimate perfection or excellence.",
+        "somehow related to extreme dryness or lack of moisture.",
+        "somehow related to the circulatory system or blood flow.",
+        "somehow related to very swift or accelerated motion."
+      ]
+    },
+    {
+      "word": "ALLEGE",
+      "correct_definition": "to assert, usually without proof",
+      "distractors": [
+        "To combine various elements into a single whole.",
+        "To establish a rule or law by official decree.",
+        "To lessen the severity of a problem or pain.",
+        "To make something clear and easy to understand.",
+        "To formally appoint someone to a position of authority.",
+        "To collect all available resources or data.",
+        "To declare one's unwavering loyalty or fidelity.",
+        "To systematically record transactions or events.",
+        "To bring various parts into a unified and harmonious arrangement.",
+        "To relate a story with a deeper, symbolic meaning."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 76,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_76.png",
+  "questions": [
+    {
+      "word": "PUNITIVE",
+      "correct_definition": "involving punishment",
+      "distractors": [
+        "Relating to the act of making something precise.",
+        "Describing something very small or trivial.",
+        "Pertaining to an innate or intuitive understanding.",
+        "Characterized by keen observation and insight.",
+        "Involving the initiation of a new idea or phase.",
+        "Tending to unite or bring elements together.",
+        "Marked by a strong, assertive quality.",
+        "Indicating a basic or primitive stage.",
+        "Concerned with setting foundational principles.",
+        "Describing something sharply defined or distinct."
+      ]
+    },
+    {
+      "word": "QUAGMIRE",
+      "correct_definition": "a dif\ufb01cult situation",
+      "distractors": [
+        "A soft, yielding type of clay soil.",
+        "A shallow, muddy depression in the ground.",
+        "A thick, viscous, organic sludge.",
+        "A low, guttural, croaking sound.",
+        "A sudden, involuntary trembling or shaking.",
+        "A dense, tangled mass of swamp vegetation.",
+        "A dark, brooding, and overcast sky.",
+        "A sluggish, slow-moving current of water.",
+        "A worn-out, waterlogged piece of timber.",
+        "A remote, uninhabited wetland area."
+      ]
+    },
+    {
+      "word": "QUANDARY",
+      "correct_definition": "a perplexed, unresolvable state",
+      "distractors": [
+        "A definitive statement or legal ruling.",
+        "A measurement of an unknown or variable amount.",
+        "A significant financial obligation or debt.",
+        "A fundamental principle or underlying truth.",
+        "A period of mandated isolation or confinement.",
+        "A precise scientific observation or finding.",
+        "A sudden, strong urge or impulse.",
+        "A formal inquiry or official investigation.",
+        "A state of complete emotional detachment.",
+        "An inevitable and irreversible outcome."
+      ]
+    },
+    {
+      "word": "RENOVATE",
+      "correct_definition": "restore, return to original state",
+      "distractors": [
+        "To introduce entirely new features.",
+        "To reconstruct something completely differently.",
+        "To remove obsolete parts or systems.",
+        "To publicly denounce or reject something.",
+        "To narrate an event from recent memory.",
+        "To re-examine a previous finding.",
+        "To invent a novel method or procedure.",
+        "To revise a document for clarity.",
+        "To discard everything old and start anew.",
+        "To recall information from the past."
+      ]
+    },
+    {
+      "word": "REPRIEVE",
+      "correct_definition": "a temporary delay of punishment",
+      "distractors": [
+        "A harsh scolding or strong disapproval.",
+        "To recover or regain something lost.",
+        "To feel intense sorrow or grief.",
+        "An exclusive right or special advantage.",
+        "A re-evaluation or new assessment of a situation.",
+        "To revoke or cancel a law or agreement.",
+        "To restore to life or consciousness.",
+        "To restrain or hold back a feeling or action.",
+        "To reconsider a past decision or action.",
+        "To refuse to accept or be associated with something."
+      ]
+    },
+    {
+      "word": "REVOKE",
+      "correct_definition": "to take back",
+      "distractors": [
+        "To call forth a response.",
+        "To repeat a declaration.",
+        "To provoke a strong reaction.",
+        "To bring into being or existence.",
+        "To formally announce a policy.",
+        "To summon someone to return.",
+        "To challenge an established rule.",
+        "To stir up past memories.",
+        "To return to an earlier condition.",
+        "To make a renewed appeal."
+      ]
+    },
+    {
+      "word": "SACCHARINE",
+      "correct_definition": "sickeningly sweet",
+      "distractors": [
+        "Producing a harsh, grating sound.",
+        "Marked by an overly cynical disposition.",
+        "Easily broken into small fragments.",
+        "Having a coarse and abrasive texture.",
+        "Indicating deep respect or reverence.",
+        "The act of preserving in a protective casing.",
+        "Experiencing intense, overwhelming sadness.",
+        "Pertaining to things found deep within the earth.",
+        "Being of a dull, unremarkable color.",
+        "Causing a sensation of extreme dizziness."
+      ]
+    },
+    {
+      "word": "SACROSANCT",
+      "correct_definition": "holy, something that should not be criticized",
+      "distractors": [
+        "A solemn vow or promise, especially one made in a religious context.",
+        "Relating to ancient religious rituals involving offerings or sacrifices.",
+        "To be granted official permission or approval, often by a religious authority.",
+        "A place of refuge or protection, often with religious significance.",
+        "A severe penalty or punishment for violating a religious law.",
+        "Pertaining to something that is kept secret or hidden due to its profound spiritual importance.",
+        "Requiring extreme personal sacrifice or self-denial for spiritual enlightenment.",
+        "An object or artifact believed to possess divine powers, often revered in a religious cult.",
+        "To be made pure or clean through a religious ceremony or purification rite.",
+        "A set of rigid, unbending rules or doctrines within a spiritual belief system."
+      ]
+    },
+    {
+      "word": "SALUTATION",
+      "correct_definition": "a greeting",
+      "distractors": [
+        "The act of safeguarding something",
+        "A formal declaration of well-being",
+        "A condition of perfect health",
+        "A ceremonial offering of thanks",
+        "The process of making something secure",
+        "A solemn blessing or prayer",
+        "An official statement of approval",
+        "A gesture of reverence or worship",
+        "The restoration of order or peace",
+        "A remedy or cure for an illness"
+      ]
+    },
+    {
+      "word": "SCRUPULOUS",
+      "correct_definition": "painstaking, careful",
+      "distractors": [
+        "Given to feelings of doubt or uncertainty.",
+        "Characterized by a rough or jagged surface.",
+        "Difficult to detect or perceive.",
+        "Excessively rigid in adherence to rules.",
+        "Deeply religious or devout in practice.",
+        "Inclined to pass harsh or severe judgments.",
+        "Composed of many distinct, fragmented units.",
+        "Marked by a tendency toward indecision.",
+        "Unwilling to compromise one's moral standards.",
+        "Displaying an exceptional degree of purity or cleanliness."
+      ]
+    }
+  ]
+}

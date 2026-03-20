@@ -1,0 +1,167 @@
+{
+  "level": 54,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_54.png",
+  "questions": [
+    {
+      "word": "CONUNDRUM",
+      "correct_definition": "puzzle, problem",
+      "distractors": [
+        "A solemn agreement or pact.",
+        "A public declaration or decree.",
+        "A noisy, chaotic gathering.",
+        "A subtle difference or distinction.",
+        "A hidden passage or secret route.",
+        "A severe reprimand or scolding.",
+        "A prolonged dispute or argument.",
+        "A false assumption or belief.",
+        "A ceremonial object or artifact.",
+        "A feeling of deep regret or remorse."
+      ]
+    },
+    {
+      "word": "CONVENE",
+      "correct_definition": "to call together",
+      "distractors": [
+        "To arrive at a common understanding.",
+        "To transform or alter significantly.",
+        "To act in accordance with tradition.",
+        "To persuade someone thoroughly.",
+        "To provide a necessary service.",
+        "To bring to a final resolution.",
+        "To come upon something unexpectedly.",
+        "To devise or invent a plan.",
+        "To ensure something is fitting.",
+        "To hold firmly to a principle."
+      ]
+    },
+    {
+      "word": "CREDULITY",
+      "correct_definition": "readiness to believe",
+      "distractors": [
+        "The quality of being easily trusted.",
+        "The state of inspiring confidence in others.",
+        "The capacity for original artistic expression.",
+        "A tendency to doubt others' motives.",
+        "The practice of endorsing official policies.",
+        "A condition of intellectual dullness.",
+        "The ability to make accurate predictions.",
+        "The act of granting official recognition.",
+        "The strength of one's moral convictions.",
+        "The process of establishing a new belief system."
+      ]
+    },
+    {
+      "word": "CRESCENDO",
+      "correct_definition": "a steady increase in intensity or volume",
+      "distractors": [
+        "The highest point or climax of a musical performance or dramatic narrative.",
+        "A sudden and unexpected change in the tempo or rhythm of a musical piece.",
+        "A specialized technique for playing string instruments with a bow, producing a rich tone.",
+        "The initial introductory section of a classical musical composition.",
+        "A unique melodic phrase that is repeated and developed throughout a piece of music.",
+        "A state of perfect balance and harmony between different musical voices or instruments.",
+        "A gradual and controlled reduction in the loudness or force of sound.",
+        "An intricate decorative pattern found on the edges of musical scores or instrument cases.",
+        "A sustained, resonant echo that reverberates through a performance hall.",
+        "A written notation indicating a section to be played with a very slow and deliberate tempo."
+      ]
+    },
+    {
+      "word": "DELINEATE",
+      "correct_definition": "to describe, outline, shed light on",
+      "distractors": [
+        "To erase or remove marks or lines from a surface.",
+        "To establish a clear boundary or division between things.",
+        "To determine the precise ancestry or lineage of a subject.",
+        "To delay or postpone an important task or decision.",
+        "To break down into smaller, interconnected segments.",
+        "To stray from the intended path or course of action.",
+        "To make something appear less significant or prominent.",
+        "To connect or link various points into a continuous sequence.",
+        "To make a deliberate error or mistake in judgment.",
+        "To strip away unnecessary embellishments, revealing the core."
+      ]
+    },
+    {
+      "word": "DEMAGOGUE",
+      "correct_definition": "a leader who appeals to a people\u2019s prejudices",
+      "distractors": [
+        "A leader whose primary goal is to establish a direct democracy.",
+        "One who expertly manages the logistical aspects of large public events.",
+        "A highly skilled orator known for his calm and reasoned public addresses.",
+        "A scholar who specializes in the historical development of political systems.",
+        "An advocate for policies designed to promote population growth.",
+        "A figurehead leader who holds ceremonial power without real authority.",
+        "A person dedicated to documenting the oral traditions of indigenous cultures.",
+        "A type of ancient Greek vessel designed for transporting large groups of people.",
+        "An instructor or guide who trains people for athletic competitions.",
+        "A writer or journalist who critically analyzes societal trends and issues."
+      ]
+    },
+    {
+      "word": "DENIGRATE",
+      "correct_definition": "to belittle, diminish the opinion of",
+      "distractors": [
+        "to darken or stain something with a black pigment",
+        "to cause an object to descend or fall downward",
+        "to formally deny the truth or validity of a statement",
+        "to obscure a view by making it dim or shadowy",
+        "to revoke or annul a previous declaration or order",
+        "to remove the inherent color from a fabric or surface",
+        "to decrease the speed or rate at which something occurs",
+        "to prevent growth or development by blocking essential elements",
+        "to reduce the potency or effectiveness of a substance",
+        "to declare someone ineligible for a particular role or position"
+      ]
+    },
+    {
+      "word": "DEPRECATE",
+      "correct_definition": "to belittle, depreciate",
+      "distractors": [
+        "To calculate or assess the precise worth of an item.",
+        "To remove all prior conditions or stipulations.",
+        "To exhaust or deplete resources gradually.",
+        "To make something more precarious or unstable.",
+        "To formally declare something obsolete or outmoded.",
+        "To anticipate and prevent a future problem.",
+        "To extract or remove precious metals from ore.",
+        "To lower an existing structure or barrier.",
+        "To postpone a previously scheduled event.",
+        "To insist on a specific procedure or protocol."
+      ]
+    },
+    {
+      "word": "DESECRATE",
+      "correct_definition": "to violate the sacredness of a thing or place",
+      "distractors": [
+        "To make something no longer secret or hidden.",
+        "To diminish the value or importance of something.",
+        "To lower the social standing or reputation of a person.",
+        "To divide into distinct parts or sections.",
+        "To dismantle an object into its component parts.",
+        "To remove a feeling of safety or security.",
+        "To undo a previously established order or system.",
+        "To severely damage or destroy something, rendering it useless.",
+        "To erase a mark or score from a record.",
+        "To cancel or put an end to a formal ceremony."
+      ]
+    },
+    {
+      "word": "DESTITUTE",
+      "correct_definition": "impoverished, utterly lacking",
+      "distractors": [
+        "To formally revoke or annul; invalidate.",
+        "Morally unrestrained or profligate; dissolute.",
+        "Having a predetermined or inescapable fate; fated.",
+        "To remove from a position of power or authority.",
+        "To cease from action; desist.",
+        "Lacking a firm foundation; unstable.",
+        "To dismantle or break apart a structure.",
+        "To prevent from being established; to hinder.",
+        "To take away a right or privilege by force.",
+        "Illegally constituted or formed; unlawful."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 33,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_33.png",
+  "questions": [
+    {
+      "word": "SOLUBLE",
+      "correct_definition": "able to dissolve",
+      "distractors": [
+        "Able to be solved or resolved.",
+        "Capable of being loosened or untangled.",
+        "Being the sole or only one of its kind.",
+        "Easy to understand or comprehend.",
+        "Providing a definitive answer or explanation.",
+        "Capable of existing independently.",
+        "Having a fixed and unyielding form.",
+        "Able to be released from an obligation.",
+        "Requiring a single, unified effort.",
+        "Capable of being separated into distinct segments."
+      ]
+    },
+    {
+      "word": "STUPEFY",
+      "correct_definition": "to astonish, make insensible",
+      "distractors": [
+        "To make something dull or uninteresting.",
+        "To solidify or harden a substance.",
+        "To cause a person to become stubborn or obstinate.",
+        "To silence or suppress a voice or opinion.",
+        "To make something less intense or severe.",
+        "To construct or erect a building or structure.",
+        "To remove impurities or cleanse thoroughly.",
+        "To delay or impede the progress of an action.",
+        "To affirm or confirm the truth of a statement.",
+        "To provide sustenance or nourishment to."
+      ]
+    },
+    {
+      "word": "SUBLIME",
+      "correct_definition": "lofty, grand, exalted",
+      "distractors": [
+        "To undergo a gradual process of change or transformation.",
+        "Hidden or operating beneath the surface; not immediately obvious.",
+        "To cause to become less intense, severe, or difficult; to calm.",
+        "Secondary or inferior in rank, quality, or importance.",
+        "To illuminate or brighten with a soft, pale glow.",
+        "Precisely outlined or defined; exact and clear.",
+        "So subtle as to be difficult to detect or analyze.",
+        "To yield to the authority or power of another; to surrender.",
+        "Pertaining to the fundamental or essential nature of something.",
+        "To purify or refine by separating unwanted elements."
+      ]
+    },
+    {
+      "word": "SURFEIT",
+      "correct_definition": "an overabundant supply or indulgence",
+      "distractors": [
+        "A cleverly crafted deception or an artificial facade presented to mislead.",
+        "The successful act of overcoming a significant barrier or impediment.",
+        "A state of profound fatigue or mental weariness brought on by prolonged exertion.",
+        "A sudden and powerful rush of feeling or an unexpected surge of activity.",
+        "To execute a difficult task with remarkable proficiency or artistic flair.",
+        "A binding compact or formal declaration established between two or more entities.",
+        "The deliberate act of hiding one's actual thoughts or motivations behind a pretense.",
+        "The apex or climatic point of a long and arduous process or endeavor.",
+        "A profound and agonizing sense of sorrow or remorse for past misdeeds or errors.",
+        "To renovate or re-equip something, returning it to its former optimal state."
+      ]
+    },
+    {
+      "word": "SURMISE",
+      "correct_definition": "to infer with little evidence",
+      "distractors": [
+        "To evaluate a situation from a superior vantage point.",
+        "To place something in a position of power or authority.",
+        "To cause a situation to become worse through oversight.",
+        "To allocate resources in an excessive manner.",
+        "To subject oneself to a higher power or authority.",
+        "To prepare a formal presentation for review.",
+        "To overcome a difficult obstacle with cunning.",
+        "To perform a task with meticulous precision.",
+        "To commit an error due to a miscalculation.",
+        "To impose a burden or tax upon another."
+      ]
+    },
+    {
+      "word": "TEDIOUS",
+      "correct_definition": "dull, boring",
+      "distractors": [
+        "Demanding considerable effort or sustained application.",
+        "Requiring meticulous attention to fine detail.",
+        "Extended over an unusually long or protracted period.",
+        "Indicating a state of extreme mental or physical exhaustion.",
+        "Characterized by an abundance of complex or intricate elements.",
+        "Causing a deep sense of unease or apprehension.",
+        "Marked by a sluggish pace or lack of momentum.",
+        "Pertaining to tasks that are inherently difficult to master.",
+        "Dealing with matters considered trivial or insignificant.",
+        "Suggesting an approach that is overly cautious or tentative."
+      ]
+    },
+    {
+      "word": "TENABLE",
+      "correct_definition": "able to be defended or maintained",
+      "distractors": [
+        "Able to be stretched or extended to a greater length.",
+        "Capable of being held or grasped firmly in place.",
+        "Having a natural tendency to occur or develop in a certain way.",
+        "Easily obtained or acquired without much effort.",
+        "Pertaining to a period of occupation or the holding of an office.",
+        "Requiring close attention or careful observation.",
+        "Capable of being tightened or made taut under pressure.",
+        "Able to resist breaking or tearing easily; durable.",
+        "Easily broken or torn apart; lacking substance or strength.",
+        "Able to be sustained or continued for a long period."
+      ]
+    },
+    {
+      "word": "TENUOUS",
+      "correct_definition": "having little substance or strength",
+      "distractors": [
+        "Characterized by a firm grip or persistent hold.",
+        "Causing considerable strain or extreme tightness.",
+        "Displaying a notable inclination or propensity.",
+        "Maintaining a steady and unvarying course over time.",
+        "Adhering strictly to a fundamental principle or belief.",
+        "Possessing a dense and compact structure.",
+        "Spreading widely across a vast area or expanse.",
+        "Emitting a continuous, low-pitched hum.",
+        "Granted ownership or occupation for a fixed period.",
+        "Experiencing a profound sense of calm and tranquility."
+      ]
+    },
+    {
+      "word": "UMBRAGE",
+      "correct_definition": "resentment, offense",
+      "distractors": [
+        "A deeply shaded or shadowed area.",
+        "A protective covering, such as an awning or canopy.",
+        "A state of dimness or obscurity.",
+        "A feeling of foreboding or impending gloom.",
+        "A sudden, light rainfall.",
+        "A large, decorative parasol.",
+        "The dark, central part of a sunspot.",
+        "A type of ancient Roman war shield.",
+        "A brief, fleeting appearance or illusion.",
+        "A dense, low-lying fog."
+      ]
+    },
+    {
+      "word": "UNCANNY",
+      "correct_definition": "of supernatural character or origin",
+      "distractors": [
+        "Lacking shrewdness or good judgment.",
+        "Not cautious or careful in one's actions.",
+        "Impossible to predict or foresee.",
+        "Of an extraordinary or exceptional nature.",
+        "Characterized by an inability to be contained.",
+        "Not conforming to accepted social conventions.",
+        "Marked by a surprising or unexpected quality.",
+        "Of an unfamiliar or strange appearance.",
+        "Difficult to comprehend or fully grasp.",
+        "Lacking a clear or definite course of action."
+      ]
+    }
+  ]
+}

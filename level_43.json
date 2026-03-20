@@ -1,0 +1,167 @@
+{
+  "level": 43,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_43.png",
+  "questions": [
+    {
+      "word": "INIMICAL",
+      "correct_definition": "hostile, enemylike",
+      "distractors": [
+        "Impossible to imitate; unique.",
+        "Difficult to overcome; unconquerable.",
+        "Causing great inconvenience or hindrance.",
+        "Lacking moral character; depraved.",
+        "Relating to one's inner nature or being.",
+        "Pertaining to primitive or wild instincts.",
+        "Not easily perceived or understood; elusive.",
+        "Of immense or grand proportions.",
+        "Unable to be controlled or contained; wild.",
+        "Having a corrosive or destructive quality."
+      ]
+    },
+    {
+      "word": "INNUENDO",
+      "correct_definition": "an insinuation",
+      "distractors": [
+        "A deeply personal belief or principle.",
+        "A state of complete mental emptiness.",
+        "An abrupt and conclusive termination.",
+        "A newly discovered scientific principle.",
+        "A profound and perceptive insight.",
+        "A formal declaration of guilt or wrongdoing.",
+        "A marked deficiency in understanding.",
+        "An intense feeling of homesickness.",
+        "A period of intense self-reflection.",
+        "A confidential or clandestine arrangement."
+      ]
+    },
+    {
+      "word": "INSOLENT",
+      "correct_definition": "rude, arrogant, overbearing",
+      "distractors": [
+        "Difficult to comprehend or explain fully.",
+        "Characterized by a preference for solitude and isolation.",
+        "Unable to find comfort or solace during distress.",
+        "Marked by an unyielding and firm resolve.",
+        "Not accustomed to or familiar with typical social customs.",
+        "Pertaining to a substance that cannot be dissolved in a liquid.",
+        "Having an unconventional or unique quality; unusual.",
+        "Exhibiting a strong resistance to change or influence.",
+        "Displaying a complete lack of concern or worry.",
+        "Marked by excessive seriousness or gravity in demeanor."
+      ]
+    },
+    {
+      "word": "INTEGRAL",
+      "correct_definition": "necessary for completeness",
+      "distractors": [
+        "Pertaining to unwavering moral rectitude.",
+        "Serving to combine disparate elements into a cohesive unit.",
+        "Relating to the mathematical operation of summing infinitesimal parts.",
+        "Characterized by an undivided or whole condition.",
+        "Located deep within the interior of something.",
+        "Designed specifically to fulfill a particular function.",
+        "Existing or occurring between different groups or parts.",
+        "A quality that ensures efficiency and smooth functioning.",
+        "Constituting the fundamental basis or primary component.",
+        "Encompassing every possible item or detail."
+      ]
+    },
+    {
+      "word": "INTREPID",
+      "correct_definition": "brave in the face of danger",
+      "distractors": [
+        "Not easily angered or provoked by insults.",
+        "Moving or acting with extreme speed and agility.",
+        "Unable to be persuaded or convinced to change one's mind.",
+        "Showing a lack of enthusiasm or strong emotional response.",
+        "Exhibiting a clear and unclouded state of mind.",
+        "Remaining steadfast and resistant to change or decay.",
+        "Characterized by a deep and profound sense of sadness.",
+        "Acting impulsively without careful thought or consideration.",
+        "Possessing extraordinary physical strength and endurance.",
+        "Difficult to understand or interpret due to complexity."
+      ]
+    },
+    {
+      "word": "INUNDATE",
+      "correct_definition": "to \ufb02ood with abundance",
+      "distractors": [
+        "To determine the precise historical period or age of an artifact.",
+        "To formally begin or introduce a new process or concept.",
+        "To subtly suggest or provoke an action or response.",
+        "To reverse a previous course of action or decision entirely.",
+        "To place something deeply beneath a surface or layer.",
+        "To render something outdated or no longer relevant.",
+        "To engrave or impress a mark deeply onto a surface.",
+        "To establish a specific time or deadline for an event.",
+        "To conceal or keep hidden from public knowledge.",
+        "To make something timeless or remove its temporal context."
+      ]
+    },
+    {
+      "word": "LAVISH",
+      "correct_definition": "given without limits",
+      "distractors": [
+        "thoroughly cleansed or purified",
+        "to seize or carry away by force",
+        "inflicting harsh criticism",
+        "intensely passionate and fiery",
+        "to abandon or desert a cause",
+        "weighing heavily on the mind",
+        "lacking seriousness or depth",
+        "displaying great affection",
+        "requiring diligent and arduous labor",
+        "smoothly flowing and coherent"
+      ]
+    },
+    {
+      "word": "LINCHPIN",
+      "correct_definition": "something that holds separate parts together",
+      "distractors": [
+        "A structural support designed to absorb sudden impacts.",
+        "A slender rod designed to maintain a precise linear path.",
+        "A decorative clasp used to adorn a garment or a hat.",
+        "A sharp, metallic spike used to secure tent ropes into the ground.",
+        "A primary pivot point around which a larger system rotates freely.",
+        "A regulatory device that limits the speed or range of a machine.",
+        "A type of clamp used to temporarily hold two objects side-by-side.",
+        "A precise measurement tool used for calibrating delicate instruments.",
+        "A small, retractable lever that locks a wheel in place.",
+        "An ornate fixture resembling a small, pointed key."
+      ]
+    },
+    {
+      "word": "LITIGANT",
+      "correct_definition": "someone engaged in a lawsuit",
+      "distractors": [
+        "Someone who works with artificial light sources.",
+        "Someone who creates or publishes literary content.",
+        "Someone who handles very small or minor components.",
+        "Someone characterized by quick and nimble movements.",
+        "Someone who studies the history of written language.",
+        "Someone responsible for illuminating public spaces.",
+        "Someone bound by a formal oath or strong commitment.",
+        "Someone who is elegantly dressed and refined.",
+        "Someone specializing in the repair of delicate items.",
+        "Someone who composes poetry or prose."
+      ]
+    },
+    {
+      "word": "LUMINOUS",
+      "correct_definition": "brightly shining",
+      "distractors": [
+        "Having a large or impressive volume.",
+        "Characterized by constant, gentle movement.",
+        "Possessing a keen and perceptive intellect.",
+        "Composed of many small, intricate pieces.",
+        "Having a distinctly noticeable aroma.",
+        "Marked by an uneven or lumpy texture.",
+        "Displaying a profound and solemn seriousness.",
+        "Expressing a deep sense of agreement.",
+        "Producing a soft, melodic sound.",
+        "Causing a feeling of great delight."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "level": 62,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_62.png",
+  "questions": [
+    {
+      "word": "PARADOX",
+      "correct_definition": "an apparently contradictory statement that is perhaps true",
+      "distractors": [
+        "A statement that expresses a widely accepted and conventional opinion.",
+        "A firmly established doctrine or belief system.",
+        "A philosophical argument that presents a false conclusion from true premises.",
+        "A deviation from what is considered normal, typical, or expected.",
+        "A ceremonial public declaration or formal proclamation.",
+        "A type of poetic device involving a clever play on words.",
+        "An ancient text or manuscript containing sacred wisdom.",
+        "A strong personal conviction that is not easily changed.",
+        "A logical deduction that is undeniably true based on given facts.",
+        "A formal summary or outline of a specific academic subject."
+      ]
+    },
+    {
+      "word": "PARAMOUNT",
+      "correct_definition": "greatest in importance, rank, character",
+      "distractors": [
+        "Referring to a protective barrier situated at an elevated position.",
+        "Situated at the highest physical point of a building or landform.",
+        "A device or structure used to support or display another item.",
+        "Exceeding the normal or customary amount; overly abundant.",
+        "Occupying a position directly alongside or parallel to something else.",
+        "To ascend or climb to a significant height, like scaling a peak.",
+        "A decorative casing or frame used to set a gem or picture.",
+        "Marked by a sudden and dramatic increase in number or degree.",
+        "Serving as a shield or defense against harmful external elements.",
+        "Positioned directly above the fundamental base or support."
+      ]
+    },
+    {
+      "word": "PARSIMONY",
+      "correct_definition": "frugality, stinginess",
+      "distractors": [
+        "The careful dissection and examination of a complex subject.",
+        "A solemn formal observance or ritual.",
+        "The ability to divide something into its constituent parts for analysis.",
+        "A public declaration or affirmation of belief.",
+        "Meticulous attention to detail and precision.",
+        "The establishment of equal value or status.",
+        "A state of perfect agreement or accord between parties.",
+        "The systematic study of ancient texts or languages.",
+        "A customary practice or tradition passed down through generations.",
+        "The formal management or administration of an organization."
+      ]
+    },
+    {
+      "word": "PATHOLOGY",
+      "correct_definition": "a deviation from the normal",
+      "distractors": [
+        "The scientific study of human emotions.",
+        "A branch of medicine focused on mental health.",
+        "The philosophical study of suffering.",
+        "An intricate method for diagnosing illnesses.",
+        "The medical process of disease identification.",
+        "A formal classification of infectious diseases.",
+        "The logical sequence of arguments or events.",
+        "An overwhelming and intense sense of sadness.",
+        "The systematic documentation of medical histories.",
+        "A comprehensive theory of disease causation."
+      ]
+    },
+    {
+      "word": "PENURIOUS",
+      "correct_definition": "miserly, stingy",
+      "distractors": [
+        "Given to deep, serious thought; reflective.",
+        "Relating to or consisting of money; financial.",
+        "Feeling or showing sorrow and regret for having done wrong; repentant.",
+        "Suffering from extreme poverty; destitute.",
+        "Childishly sulky or bad-tempered; irritable.",
+        "Extremely small or weak; insignificant.",
+        "Pertaining to a penalty or punishment; punitive.",
+        "Spreading widely throughout an area or a group of people; prevalent.",
+        "Deserving of pity or compassion; pitiable.",
+        "Marked by a lack of clarity or precision; obscure."
+      ]
+    },
+    {
+      "word": "PERPLEX",
+      "correct_definition": "to confuse",
+      "distractors": [
+        "To arrange in an intricate design.",
+        "To examine with meticulous care.",
+        "To penetrate completely.",
+        "To weave together multiple strands.",
+        "To overcome a difficult obstacle.",
+        "To endure a challenging situation.",
+        "To apply a thorough investigation.",
+        "To press firmly and continuously.",
+        "To reflect deeply on a subject.",
+        "To create a multi-layered structure."
+      ]
+    },
+    {
+      "word": "PETULANCE",
+      "correct_definition": "rudeness, irritability",
+      "distractors": [
+        "A strong, inherent desire or inclination for something.",
+        "The formal presentation of a request or plea.",
+        "A display of exaggerated sorrow or self-pity.",
+        "An unusual affection or favoritism toward a specific object.",
+        "A deep sense of longing or wistful nostalgia.",
+        "The process of hardening or turning to stone.",
+        "A persistent, nagging physical ache or discomfort.",
+        "The quality of being easily manipulated or tricked.",
+        "A natural inclination to procrastinate or put things off.",
+        "The characteristic of being overly cautious or timid."
+      ]
+    },
+    {
+      "word": "PLATITUDE",
+      "correct_definition": "an uninspired remark, clich\u00e9",
+      "distractors": [
+        "A wide, level stretch of land.",
+        "The maximum extent or scope of something.",
+        "A highly polished, decorative metal surface.",
+        "A state of profound intellectual understanding.",
+        "A formal decree issued by a governing body.",
+        "A heavy, non-corrosive metallic element.",
+        "The horizontal dimension or measurement of an area.",
+        "A feeling of deep satisfaction or contentment.",
+        "A flat, elevated area of land, such as a tabletop mountain.",
+        "A protective covering or layer, often rigid."
+      ]
+    },
+    {
+      "word": "PLAUSIBLE",
+      "correct_definition": "believable, reasonable",
+      "distractors": [
+        "Capable of receiving public applause or recognition.",
+        "Able to cause or provide great pleasure.",
+        "Deserving of high commendation or approval.",
+        "Easily shaped or bent without breaking; flexible.",
+        "Subject to temporary cessation or interruption.",
+        "Possessing a calm and undisturbed temperament.",
+        "Inclined to please or accommodate others readily.",
+        "A distinct and self-contained part of a written work.",
+        "Straightforward and unambiguous; easy to grasp.",
+        "Capable of being arranged or charted in a coherent sequence."
+      ]
+    },
+    {
+      "word": "PLENITUDE",
+      "correct_definition": "an abundance",
+      "distractors": [
+        "A feeling of deep contentment.",
+        "The state of being entirely finished.",
+        "A quality of profound tranquility.",
+        "The characteristic of being easily bent.",
+        "A high degree of elevation.",
+        "A natural ability or skill.",
+        "A condition of complete isolation.",
+        "The act of thoroughly completing a task.",
+        "A strong feeling of thankfulness.",
+        "The capacity for sustained effort."
+      ]
+    }
+  ]
+}

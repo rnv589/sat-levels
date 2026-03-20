@@ -1,0 +1,167 @@
+{
+  "level": 77,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_77.png",
+  "questions": [
+    {
+      "word": "SCURRILOUS",
+      "correct_definition": "vulgar, coarse",
+      "distractors": [
+        "Relating to quick, frantic movement.",
+        "Thoroughly cleaning or scrubbing.",
+        "Having a mean or aggressive disposition, like a cur.",
+        "Causing great fear or alarm.",
+        "Filled with intense anger or rage.",
+        "Marked by a noticeable scar or defect.",
+        "Seeking knowledge with great eagerness.",
+        "Characterized by illegible or hasty writing.",
+        "Pertaining to something rare, unusual, or ornamental.",
+        "Moving stealthily or secretly."
+      ]
+    },
+    {
+      "word": "SOLICITOUS",
+      "correct_definition": "concerned, attentive",
+      "distractors": [
+        "isolated, solitary",
+        "firm, unyielding",
+        "proclaiming, announcing",
+        "demanding, insistent",
+        "enticing, luring",
+        "civic-minded, community-focused",
+        "restless, agitated",
+        "unique, singular",
+        "meddling, intrusive",
+        "official, formal"
+      ]
+    },
+    {
+      "word": "SOPHOMORIC",
+      "correct_definition": "immature, uninformed",
+      "distractors": [
+        "Displaying an affected or pretentious show of intellectualism.",
+        "Pertaining to the systematic study of ancient philosophical texts.",
+        "Marked by a significant and unexpected drop in academic achievement.",
+        "Exhibiting a persistently gloomy or ill-tempered disposition.",
+        "Characterized by clever but misleading or specious arguments.",
+        "Requiring a highly advanced degree of skill or understanding.",
+        "Given to excessive instruction or overly detailed explanation.",
+        "Referring to something that is secondary in importance or quality.",
+        "Prone to making trivial or easily avoidable errors due to carelessness.",
+        "Focused on the pursuit of knowledge purely for its own sake."
+      ]
+    },
+    {
+      "word": "TANGENTIAL",
+      "correct_definition": "incidental, peripheral, divergent",
+      "distractors": [
+        "Perceptible by touch; physically concrete.",
+        "Exhibiting a strong, often bitter, taste or aroma.",
+        "Impossible to grasp or comprehend readily.",
+        "Marked by a state of intense eagerness or desire.",
+        "Highly sensitive or easily affected by contact.",
+        "Directly confronting or addressing an issue.",
+        "Characterized by meticulous detail and precision.",
+        "Capable of being easily understood or explained.",
+        "Forming a complex or intertwined mass.",
+        "Having a clear and definite boundary or outline."
+      ]
+    },
+    {
+      "word": "TANTAMOUNT",
+      "correct_definition": "equivalent in value or signi\ufb01cance",
+      "distractors": [
+        "To reach a culminating point or highest level.",
+        "An extremely large quantity or sum.",
+        "To tease or entice someone with something desired yet out of reach.",
+        "Requiring great effort or a substantial expenditure.",
+        "A sudden, forceful expression of anger or frustration.",
+        "To organize and initiate a complex operation.",
+        "Characterized by a hesitant or wavering demeanor.",
+        "To fix securely in an elevated position.",
+        "A precise measurement of capacity or volume.",
+        "To increase in degree or intensity."
+      ]
+    },
+    {
+      "word": "TEMPERANCE",
+      "correct_definition": "moderation in action or thought",
+      "distractors": [
+        "The capacity to endure significant fluctuations in environmental temperature.",
+        "A sudden and intense display of anger or frustration.",
+        "The characteristic disposition or prevailing mood of an individual.",
+        "The act of softening or strengthening a metal through heat treatment.",
+        "A measurement of heat or coldness in a specific environment.",
+        "The quality of being existing for only a limited period of time.",
+        "The delicate adjustment of various components to achieve a perfect blend.",
+        "A general inclination towards an agreeable and pleasant demeanor.",
+        "The principle of strict adherence to established rules or procedures.",
+        "The state of being able to control one's physical reactions to pain."
+      ]
+    },
+    {
+      "word": "TRANQUIL",
+      "correct_definition": "calm",
+      "distractors": [
+        "Relating to passage or transition.",
+        "Moving swiftly through space.",
+        "Having a sharp, pointed end.",
+        "Marked by constant, rapid change.",
+        "Extremely fragile or delicate.",
+        "Producing a high-pitched, clear sound.",
+        "Difficult to understand or explain.",
+        "Characterized by vigorous activity.",
+        "Pertaining to a brief, temporary state.",
+        "Causing irritation or disturbance."
+      ]
+    },
+    {
+      "word": "TRANSGRESS",
+      "correct_definition": "to violate, go over a limit",
+      "distractors": [
+        "To move across a great distance.",
+        "To make gradual improvements.",
+        "To change something fundamentally.",
+        "To transfer ownership or control.",
+        "To step down from a position of power.",
+        "To become fully transparent or clear.",
+        "To intensely regret a past action.",
+        "To conduct a formal meeting or assembly.",
+        "To carry goods or people across a barrier.",
+        "To examine an object or situation thoroughly."
+      ]
+    },
+    {
+      "word": "TRAVESTY",
+      "correct_definition": "a grossly inferior imitation",
+      "distractors": [
+        "A long and arduous journey, often fraught with peril.",
+        "A secret meeting or clandestine gathering for illicit purposes.",
+        "A sudden and unexpected reversal of fortune or circumstances.",
+        "An emotional outburst marked by great sadness or lamentation.",
+        "A formal and elaborate public ceremony or procession.",
+        "A small, private room or chamber, typically found in a large estate.",
+        "A severe and unexpected hardship or misfortune.",
+        "The careful and meticulous arrangement of details or facts.",
+        "A strong and irrational fear of travel or long journeys.",
+        "A historical record or account, often written with great detail."
+      ]
+    },
+    {
+      "word": "VALIDATE",
+      "correct_definition": "to con\ufb01rm, support, corroborate",
+      "distractors": [
+        "to weaken, undermine, destabilize",
+        "to empty, deplete, render void",
+        "to heal, restore, invigorate",
+        "to appraise, assess, estimate value",
+        "to excuse, pardon, absolve from blame",
+        "to repeal, revoke, nullify",
+        "to bravely resist, defy, withstand",
+        "to magnify, amplify, enhance",
+        "to consecrate, sanctify, hallow",
+        "to commend, extol, laud"
+      ]
+    }
+  ]
+}

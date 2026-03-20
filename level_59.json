@@ -1,0 +1,167 @@
+{
+  "level": 59,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_59.png",
+  "questions": [
+    {
+      "word": "INCESSANT",
+      "correct_definition": "unending",
+      "distractors": [
+        "lacking proper access",
+        "pertaining to a deep indentation",
+        "having no successful conclusion",
+        "occurring only at specific times",
+        "characterized by intense study",
+        "not allowing for movement",
+        "unable to be processed or analyzed",
+        "relating to an internal struggle",
+        "causing excessive delay",
+        "marked by a sudden cessation"
+      ]
+    },
+    {
+      "word": "INCREMENT",
+      "correct_definition": "an enlargement; the process of increasing",
+      "distractors": [
+        "A severe punishment or strong disapproval.",
+        "The act of becoming ingrained or deeply fixed.",
+        "A deep cut or sharp incision.",
+        "An intricate decoration or embellishment.",
+        "A sudden and significant decrease.",
+        "The quality of being essential or intrinsic.",
+        "A formal statement of belief or principle.",
+        "The process of establishing a firm foundation.",
+        "An internal component or vital part.",
+        "A precise and measured calculation."
+      ]
+    },
+    {
+      "word": "INCUMBENT",
+      "correct_definition": "one who holds an of\ufb01ce",
+      "distractors": [
+        "one who is perpetually in a state of rest or repose",
+        "a person who leans heavily on others for support or guidance",
+        "one who refuses to give way or yield under any circumstance",
+        "a person known for their extremely rigid or unbending character",
+        "one who is confined to bed due to chronic illness or injury",
+        "a persistent and bothersome presence in a particular location",
+        "a person who is unable to rise to a challenge or occasion",
+        "one who is habitually slow-moving and sluggish in their actions",
+        "a person who assumes a deferential or subservient posture",
+        "one who is subject to an overwhelming physical or mental burden"
+      ]
+    },
+    {
+      "word": "INEFFABLE",
+      "correct_definition": "unspeakable, incapable of being expressed through words",
+      "distractors": [
+        "Incapable of being wrong or making mistakes; infallible.",
+        "Unable to be wearied or exhausted; indefatigable.",
+        "Impossible to avoid or prevent; inevitable.",
+        "Not producing the desired effect; ineffective.",
+        "Not based on verifiable facts or truth; legendary.",
+        "Incapable of being easily fabricated or assembled; complex.",
+        "Unable to be fully understood by the mind; incomprehensible.",
+        "Incapable of producing clear, articulate sounds; mute.",
+        "Not able to be influenced or altered; unyielding.",
+        "Lacking in substance or reality; fanciful."
+      ]
+    },
+    {
+      "word": "INGENIOUS",
+      "correct_definition": "clever, resourceful",
+      "distractors": [
+        "Free from deceit; innocent and trusting.",
+        "Native or inherent; naturally occurring.",
+        "Authentic and unfeigned; truly original.",
+        "Relating to general knowledge or common understanding.",
+        "Deeply felt or experienced; internal.",
+        "Characteristic of one's origin or lineage.",
+        "Simple and unadorned; lacking complexity.",
+        "Pertaining to the initial stage or beginning.",
+        "Lacking in artificiality or sophistication.",
+        "Pertaining to the act of originating or giving birth."
+      ]
+    },
+    {
+      "word": "INGENUOUS",
+      "correct_definition": "not devious; innocent and candid",
+      "distractors": [
+        "Not genuine; fabricated or counterfeit.",
+        "Native to a specific region or environment; indigenous.",
+        "Lacking in quick wit or cleverness; dull-witted.",
+        "Pertaining to one's inherited characteristics or lineage; hereditary.",
+        "Not formed naturally; synthetic or man-made.",
+        "Characterized by being fundamental or intrinsic to something; essential.",
+        "Relating to the process of creation or generation; productive.",
+        "Possessing an inherent or inborn quality; innate.",
+        "Having a simplistic design or structure; uncomplicated.",
+        "Not easily perceived or comprehended; obscure."
+      ]
+    },
+    {
+      "word": "INNOCUOUS",
+      "correct_definition": "harmless, inoffensive",
+      "distractors": [
+        "Existing entirely within; not outwardly expressed.",
+        "Difficult to perceive or distinguish clearly.",
+        "Lacking significant impact or importance.",
+        "Related to the darkness or phenomena of night.",
+        "Prone to collapsing or breaking easily.",
+        "Unable to be corrected or reformed.",
+        "Existing only in theory; not practically applicable.",
+        "Marked by a complete absence of sound.",
+        "Causing sleepiness or a state of drowsiness.",
+        "Characterized by a lack of original thought."
+      ]
+    },
+    {
+      "word": "INOCULATE",
+      "correct_definition": "to introduce a microorganism, serum, or vaccine into an organism in order to increase immunity to illness; to vaccinate",
+      "distractors": [
+        "To observe something with extreme scrutiny; to fix one's gaze intently upon an object.",
+        "To cause temporary blindness or impaired vision; to obscure the optical field.",
+        "To create a small, piercing mark on a surface; to indent or puncture lightly.",
+        "To implant a core concept or idea into a belief system; to establish a foundational principle.",
+        "To enclose completely within a protective casing; to seal or encase firmly.",
+        "To cause something to grow or develop internally; to cultivate an innate quality.",
+        "To make a subtle, almost invisible mark or incision; to score a surface minutely.",
+        "To direct one's full attention inward; to focus intensely on one's thoughts or feelings.",
+        "To adjust the focus of a lens or optical instrument; to bring an image into clear view.",
+        "To initiate the cultivation of a specific crop or plant species in new soil; to begin an agricultural cycle."
+      ]
+    },
+    {
+      "word": "INSIDIOUS",
+      "correct_definition": "appealing but imperceptibly harmful, seductive",
+      "distractors": [
+        "Characterized by constant motion or an inability to remain still.",
+        "Referring to something deeply entrenched or firmly established.",
+        "Pertaining to actions taken from a concealed or peripheral position.",
+        "Describing a restless or agitated state of mind.",
+        "Relating to a process or condition originating entirely from within.",
+        "Displaying a strong bias or a one-sided viewpoint.",
+        "Expressing sharp disapproval or harsh criticism.",
+        "Marked by a lack of sincerity or genuine emotion.",
+        "Characterized by a secretive or surreptitious nature.",
+        "Tending to be unyielding or stubborn in opinion or course of action."
+      ]
+    },
+    {
+      "word": "INSINUATE",
+      "correct_definition": "to suggest indirectly or subtly",
+      "distractors": [
+        "To cause to bend or curve inward.",
+        "To wind or twist into a complex or intricate pattern.",
+        "To introduce or infuse a substance slowly and gradually.",
+        "To penetrate or permeate deeply, as a scent, feeling, or idea.",
+        "To create a hidden or internal passage or cavity.",
+        "To enclose or envelop completely within something.",
+        "To make a situation or argument unnecessarily complicated or difficult to follow.",
+        "To slowly and carefully enter a narrow or confined space.",
+        "To subtly undermine or weaken the power or effectiveness of something.",
+        "To flow slowly and gently into an opening."
+      ]
+    }
+  ]
+}

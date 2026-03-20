@@ -1,0 +1,167 @@
+{
+  "level": 74,
+  "rarity_tier": "Epic",
+  "cosmetic_reward": "purple_tier_item_74.png",
+  "questions": [
+    {
+      "word": "INNOVATE",
+      "correct_definition": "to do something in an unprecedented way",
+      "distractors": [
+        "To formally introduce a new fictional work.",
+        "To cause a situation to become strange or unusual.",
+        "To begin a task or project for the very first time.",
+        "To renew or restore an old structure or system.",
+        "To introduce a concept from outside into a new field.",
+        "To make something appear fresh or unused once more.",
+        "To make an incremental improvement to an established process.",
+        "To influence the internal development of an organization.",
+        "To bring forth a new legal decree or declaration.",
+        "To endorse or support a newly proposed initiative."
+      ]
+    },
+    {
+      "word": "INSATIABLE",
+      "correct_definition": "incapable of being satis\ufb01ed",
+      "distractors": [
+        "Incapable of being easily set aside.",
+        "Unable to attain a stable position.",
+        "Not able to be seen or perceived.",
+        "Difficult to incorporate into a group.",
+        "Incapable of being fully understood.",
+        "Not able to be made suitable for use.",
+        "Unable to be seated or accommodated.",
+        "Resistant to being influenced or changed.",
+        "Incapable of forming a coherent statement.",
+        "Not able to be maintained over time."
+      ]
+    },
+    {
+      "word": "INTIMATION",
+      "correct_definition": "an indirect suggestion",
+      "distractors": [
+        "A deeply personal revelation.",
+        "The act of forming a close bond.",
+        "A formal announcement of an upcoming event.",
+        "The process of internalizing new information.",
+        "A feeling of extreme anxiety or fear.",
+        "The precise calculation of an interval.",
+        "A profound state of meditation.",
+        "The initial phase of a project.",
+        "A covert understanding between parties.",
+        "The urgent call to action."
+      ]
+    },
+    {
+      "word": "IRIDESCENT",
+      "correct_definition": "showing rainbow colors",
+      "distractors": [
+        "relating to the human eye's colored part",
+        "gradually decreasing in intensity",
+        "emitting a faint, shimmering glow",
+        "characterized by a deep, singular color",
+        "causing extreme annoyance or anger",
+        "appearing hazy or vaguely defined",
+        "of distinguished and ancient ancestry",
+        "moving downwards in a rapid manner",
+        "having a smooth, polished surface",
+        "pertaining to certain types of exotic flowers"
+      ]
+    },
+    {
+      "word": "JUBILANT",
+      "correct_definition": "extremely joyful, happy",
+      "distractors": [
+        "Relating to a legal claim or right, especially an inherited one.",
+        "Characterized by a state of being unorganized or confused.",
+        "Pertaining to a sudden and violent impact or sensation.",
+        "Exhibiting careful and sensible judgment in decision-making.",
+        "Skilled at balancing or manipulating multiple items at once.",
+        "Designating something placed alongside another for comparison.",
+        "Marked by an official declaration or public announcement.",
+        "Showing an undeveloped or childish quality; immature.",
+        "Referring to a severe and unexpected setback or misfortune.",
+        "Indicating a strong sense of duty or responsibility."
+      ]
+    },
+    {
+      "word": "LACERATION",
+      "correct_definition": "a cut, tear",
+      "distractors": [
+        "A feeling of profound joy or contentment.",
+        "The act of securing something tightly with a cord.",
+        "A state of being completely relaxed and at ease.",
+        "A decorative trimming, often made of interwoven threads.",
+        "The process of making something lucid or clear.",
+        "A sudden, uncontrollable fit of anger.",
+        "The gradual decay or weakening of a structure.",
+        "An intricate knot or tangle.",
+        "The act of spreading widely or profusely.",
+        "A state of intense focus and concentration."
+      ]
+    },
+    {
+      "word": "LICENTIOUS",
+      "correct_definition": "displaying a lack of moral or legal restraints",
+      "distractors": [
+        "Pertaining to the official granting of a permit or authorization.",
+        "Being officially recognized or certified for a specific skill or profession.",
+        "Allowing for extensive creative interpretation in artistic or literary works.",
+        "Characterized by a cheerful and carefree disposition without deep concern.",
+        "Characterized by an unusual degree of flexibility or adaptability in application.",
+        "Granting unrestricted freedom of thought and expression within a designated sphere.",
+        "Requiring painstaking attention to detail and precise execution.",
+        "Marked by an abundance of resources or opportunities for varied choices.",
+        "Pertaining to a systematic process of review and approval by an authority.",
+        "Exhibiting a strong inclination towards academic pursuits and intellectual rigor."
+      ]
+    },
+    {
+      "word": "MENDACIOUS",
+      "correct_definition": "having a lying, false character",
+      "distractors": [
+        "Characterized by being in constant need of repair or mending.",
+        "Describing something that is inherently flawed or damaged.",
+        "Suffering from a significant decline in mental acuity.",
+        "Having a disposition towards irrational or unsound thinking.",
+        "Exhibiting a threatening or hostile presence.",
+        "Characterized by extreme need or a state of beggary.",
+        "Prone to causing minor errors or inconveniences.",
+        "Lacking in strength or structural integrity.",
+        "Describing something that is fragmented or incomplete in nature.",
+        "Having an excessively critical or fault-finding attitude."
+      ]
+    },
+    {
+      "word": "METICULOUS",
+      "correct_definition": "extremely careful with details",
+      "distractors": [
+        "pertaining to the measurement of time or distance",
+        "difficult to understand or interpret clearly",
+        "undergoing a complete and profound transformation",
+        "characterized by solemnity or formal ceremony",
+        "extremely small in quantity or significance",
+        "repeatedly performing actions without conscious thought",
+        "prone to causing or experiencing extreme anxiety",
+        "deliberately concealing one's true intentions",
+        "unwilling to compromise or yield to persuasion",
+        "requiring great physical strength or endurance"
+      ]
+    },
+    {
+      "word": "NONCHALANT",
+      "correct_definition": "having a lack of concern, indifference",
+      "distractors": [
+        "Having no particular skill or aptitude in a given area.",
+        "Displaying an unwillingness to conform to social norms.",
+        "Being without a clear sense of purpose or moral direction.",
+        "Characterized by an excessive need for attention or praise.",
+        "Exhibiting a tendency to be indecisive or hesitant in action.",
+        "A person who struggles to express emotions or communicate effectively.",
+        "Marked by a preference for solitude and avoidance of social interaction.",
+        "Having an aggressive or confrontational demeanor towards others.",
+        "Displaying a lack of physical coordination or agility.",
+        "Being habitually disobedient or defiant towards authority."
+      ]
+    }
+  ]
+}

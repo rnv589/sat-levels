@@ -1,0 +1,167 @@
+{
+  "level": 27,
+  "rarity_tier": "Rare",
+  "cosmetic_reward": "blue_tier_item_27.png",
+  "questions": [
+    {
+      "word": "KNELL",
+      "correct_definition": "the solemn sound of a bell, often indicating a death",
+      "distractors": [
+        "A small, rounded hill or mound of earth.",
+        "To press and work dough or other soft material with the hands.",
+        "The joint connecting the thigh and the lower part of the leg.",
+        "A sharp, throbbing pain, often experienced in a joint or muscle.",
+        "A tightly drawn or intricate fastening made by interlacing cords or ropes.",
+        "A deep, seated feeling of resentment or anger that persists over time.",
+        "A low, guttural growl made by an animal, typically as a warning.",
+        "To fall or rest on one's bent knee as a sign of reverence or submission.",
+        "A specialized tool with a sharp edge used for carving or shaping wood.",
+        "A dense thicket or tangled mass of thorny bushes and undergrowth."
+      ]
+    },
+    {
+      "word": "KUDOS",
+      "correct_definition": "praise for an achievement",
+      "distractors": [
+        "A strong, usually negative, emotional reaction.",
+        "A system of organized beliefs or principles.",
+        "A state of complete and utter confusion.",
+        "The final, decisive blow in a conflict.",
+        "A rare and valuable ancient manuscript.",
+        "A large, decorative vessel used for public display.",
+        "The deep root system of a particularly sturdy plant.",
+        "A type of complex mathematical equation or formula.",
+        "A traditional form of martial arts combat.",
+        "A sudden, unexpected turn of events or fortune."
+      ]
+    },
+    {
+      "word": "LACONIC",
+      "correct_definition": "terse in speech or writing",
+      "distractors": [
+        "having a deep and resonant voice",
+        "tending to suppress emotional expression",
+        "speaking with pronounced and distinct articulation",
+        "displaying a lack of enthusiasm or energy",
+        "characterized by an extensive use of technical jargon",
+        "proceeding with deliberate slowness and caution",
+        "eager to please or quick to agree with others",
+        "tending to be overly critical or judgmental",
+        "possessing unusual physical strength or endurance",
+        "difficult to understand due to philosophical depth"
+      ]
+    },
+    {
+      "word": "LANGUID",
+      "correct_definition": "sluggish from fatigue or weakness",
+      "distractors": [
+        "Pertaining to the study or use of many different languages.",
+        "Having a tendency to speak slowly and with a heavy accent.",
+        "Shining with a clear, sparkling quality.",
+        "Characterized by a stale, unpleasant taste or smell.",
+        "Soft and easily bent or molded; pliable.",
+        "Displaying keen enthusiasm and energy.",
+        "Strongly opinionated and resistant to guidance.",
+        "Marked by a deliberate slowness or reluctance to act.",
+        "Capable of holding or absorbing large amounts of liquid.",
+        "A state of deep, insightful contemplation."
+      ]
+    },
+    {
+      "word": "LARCENY",
+      "correct_definition": "obtaining another\u2019s property by theft or trickery",
+      "distractors": [
+        "A formal accusation brought against an individual in a court of law.",
+        "The deliberate destruction or defacement of public property.",
+        "The practice of using flattery to gain personal advantage.",
+        "A sudden, violent outburst of anger or rage.",
+        "The intentional propagation of false or misleading rumors.",
+        "The act of openly defying or challenging established authority.",
+        "A strong, innate aversion or repugnance towards something.",
+        "The inability to clearly articulate one's thoughts or feelings.",
+        "A severe and prolonged period of extreme scarcity or famine.",
+        "A complex and winding path or journey with many obstacles."
+      ]
+    },
+    {
+      "word": "LARGESS",
+      "correct_definition": "the generous giving of lavish gifts",
+      "distractors": [
+        "A vast and impressive array of accumulated knowledge or information.",
+        "The art of making an educated estimation or projection without full data.",
+        "An elaborate and somewhat exaggerated form of public display or show.",
+        "The unlawful taking of personal property without consent, with intent to permanently deprive.",
+        "A grand and imposing architectural structure, often one that spans a great distance.",
+        "The state of being excessively large or cumbersome, often referring to an object's physical mass.",
+        "A pompous or exaggerated manner of speech intended to impress or mislead.",
+        "The deliberate act of misrepresenting facts to achieve a deceitful purpose.",
+        "A theatrical performance characterized by boisterous humor and playful jesting.",
+        "The overwhelming sensation of being physically stretched or expanded beyond normal limits."
+      ]
+    },
+    {
+      "word": "LENIENT",
+      "correct_definition": "demonstrating tolerance or gentleness",
+      "distractors": [
+        "Referring to something that can be easily lengthened or stretched.",
+        "Characterized by a tendency to prolong or extend a process.",
+        "Exhibiting a noticeable inclination or slope in its design.",
+        "Indicating a reliance or dependence on external support or aid.",
+        "Following a direct, unbroken, or continuous sequence of events.",
+        "Pertaining to the act of giving or providing something on loan.",
+        "Relating to a legal claim or right over property as security.",
+        "Demonstrating an acute awareness or sharp perceptiveness.",
+        "Characterized by a deliberate and unhurried pace of movement.",
+        "Possessing a clear and easily understood quality or nature."
+      ]
+    },
+    {
+      "word": "MANDATE",
+      "correct_definition": "an authoritative command",
+      "distractors": [
+        "A skilled manual operation.",
+        "A specific historical period.",
+        "A system for managing complex data.",
+        "A form of handwritten declaration.",
+        "An official prearranged meeting.",
+        "The act of bestowing a formal gift.",
+        "A fundamental human characteristic.",
+        "An outdated legal document.",
+        "A detailed financial ledger.",
+        "A strong personal conviction."
+      ]
+    },
+    {
+      "word": "MAUDLIN",
+      "correct_definition": "weakly sentimental",
+      "distractors": [
+        "excessively praising",
+        "characterized by confusion",
+        "stubbornly resistant",
+        "easily broken or damaged",
+        "harmful in nature",
+        "lacking excitement or interest",
+        "showing signs of decay",
+        "violently attacking",
+        "deliberately disobedient",
+        "overly imaginative"
+      ]
+    },
+    {
+      "word": "MAXIM",
+      "correct_definition": "a common saying expressing a principle of conduct",
+      "distractors": [
+        "The highest possible achievement or goal in a particular field.",
+        "A vast and complex system of interconnected ideas or theories.",
+        "The absolute greatest quantity or amount obtainable under specific conditions.",
+        "A device used for measuring extreme distances or magnitudes.",
+        "The most severe form of punishment or penalty for a transgression.",
+        "An intense or overwhelming feeling of joy or despair.",
+        "A large, impressive structure designed for public gatherings or ceremonies.",
+        "The peak or summit of a mountain range, often difficult to ascend.",
+        "A state of extreme mental clarity or unwavering focus.",
+        "A type of advanced scientific instrument used for magnified observation."
+      ]
+    }
+  ]
+}

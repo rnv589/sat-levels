@@ -1,0 +1,167 @@
+{
+  "level": 93,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_93.png",
+  "questions": [
+    {
+      "word": "QUIXOTIC",
+      "correct_definition": "idealistic, impractical",
+      "distractors": [
+        "Characterized by eccentric and unpredictable behavior.",
+        "Marked by extreme speed and suddenness.",
+        "Exotic and strikingly unusual in appearance.",
+        "Requiring great precision and delicate handling.",
+        "Excessively intricate and difficult to comprehend.",
+        "Having a keen and penetrating intellect.",
+        "Displaying an overly inquisitive or questioning nature.",
+        "Swiftly passing; temporary or fleeting.",
+        "Mysterious and difficult to explain or interpret.",
+        "Causing a sharp, piercing sensation."
+      ]
+    },
+    {
+      "word": "RECALCITRANT",
+      "correct_definition": "de\ufb01ant, unapologetic",
+      "distractors": [
+        "meticulously calculated; extremely precise",
+        "becoming firm or inflexible; resistant to molding",
+        "drawing back from conflict; timid or hesitant",
+        "repeatedly recalling facts; possessing an excellent memory",
+        "treading heavily; oppressive or dominant",
+        "prone to developing mineral deposits; medically complicated",
+        "requiring re-examination; open to revision",
+        "eroding into a chalky substance; deteriorating",
+        "reduced to ash or powder; disintegrated",
+        "returning to a state of peace; tranquil or serene"
+      ]
+    },
+    {
+      "word": "RECAPITULATE",
+      "correct_definition": "to sum up, repeat",
+      "distractors": [
+        "to surrender or yield again",
+        "to restore to a position of leadership",
+        "to re-emphasize a chief or primary point",
+        "to infuse new capital into an enterprise",
+        "to begin a narrative or argument anew",
+        "to reconsider a fundamental tenet",
+        "to make a new agreement or treaty",
+        "to restructure the main components",
+        "to review the principal sections of a text",
+        "to return to the head of a procession"
+      ]
+    },
+    {
+      "word": "RENUNCIATION",
+      "correct_definition": "to reject",
+      "distractors": [
+        "To announce again.",
+        "To retract a previous statement.",
+        "To make a public declaration.",
+        "To speak with distinct clarity.",
+        "To formally condemn another.",
+        "To reaffirm a commitment.",
+        "To recall a past memory.",
+        "To formally rename.",
+        "To issue a public warning.",
+        "To record an official statement."
+      ]
+    },
+    {
+      "word": "RHAPSODIZE",
+      "correct_definition": "to engage in excessive enthusiasm",
+      "distractors": [
+        "To compose an elaborate musical piece or overture.",
+        "To recite a lengthy and intricate poem from memory.",
+        "To construct a detailed and highly ornate narrative.",
+        "To arrange words into a complex and rhythmic structure.",
+        "To make a solemn and formal public declaration.",
+        "To present a topic with extensive and precise detail.",
+        "To transform a simple idea into a grand, complex theory.",
+        "To articulate a profound thought in a poetic manner.",
+        "To engage in a long, meandering discourse.",
+        "To create a decorative and highly embellished design."
+      ]
+    },
+    {
+      "word": "SUBMISSIVE",
+      "correct_definition": "easily yielding to authority",
+      "distractors": [
+        "Sending a message with an indirect or hidden meaning.",
+        "Failing to accomplish a task due to a lack of resolve.",
+        "Tending to remain unseen or hidden from public view.",
+        "Exhibiting characteristics that fall below an acceptable standard.",
+        "Engaging in actions meant to undermine existing structures.",
+        "Acting as a temporary replacement for an absent principal.",
+        "Relinquishing possession or control of valuable assets.",
+        "Referring to a minor or secondary component of a system.",
+        "Undertaking a challenging or difficult secret mission.",
+        "Perceiving stimuli that are below the threshold of awareness."
+      ]
+    },
+    {
+      "word": "UBIQUITOUS",
+      "correct_definition": "existing everywhere, widespread",
+      "distractors": [
+        "Characterized by a sudden and complete departure.",
+        "Pertaining to a state of profound silence or stillness.",
+        "Existing only in theoretical or abstract concepts, not reality.",
+        "Found in isolated or extremely rare instances.",
+        "Moving with exceptional speed and agility.",
+        "Marked by fairness and impartiality in judgment.",
+        "Relating to an inherent quality that cannot be changed.",
+        "Being of an unknown or mysterious origin.",
+        "Pertaining to things found deep within the earth.",
+        "Having the capacity to resist change or decay over time."
+      ]
+    },
+    {
+      "word": "VARIEGATED",
+      "correct_definition": "diversi\ufb01ed, distinctly marked",
+      "distractors": [
+        "Subject to frequent and unpredictable changes, often unstable.",
+        "Lacking uniformity or a stable, consistent structure.",
+        "Composed of many different and often incompatible elements.",
+        "Restricted or confined to a specific, often guarded, area.",
+        "Protected or secured from external influences or dangers.",
+        "Unpredictable in outcome, often uncertain or doubtful.",
+        "Showing slight but significant deviations from a common standard.",
+        "Ostentatious or excessively showy, often in a tasteless way.",
+        "Obscure or indistinct in form, often lacking clear definition.",
+        "Having fluctuating or uncertain monetary worth or value."
+      ]
+    },
+    {
+      "word": "VEHEMENTLY",
+      "correct_definition": "marked by intense force or emotion",
+      "distractors": [
+        "Carried out with extreme exactness and attention to detail.",
+        "Performed in a secretive or deliberately hidden fashion.",
+        "Executed with swiftness or a high degree of momentum.",
+        "Approached with daring or a significant element of hazard.",
+        "Handled with extreme gentleness to prevent damage.",
+        "Uttered with great volume or resonant quality.",
+        "Recalled with an unusually sharp and detailed memory.",
+        "Stated with the solemnity of a binding promise.",
+        "Observed with keen perceptiveness or sharp visual focus.",
+        "Conveyed with a sense of utter emptiness or hollowness."
+      ]
+    },
+    {
+      "word": "VITUPERATE",
+      "correct_definition": "to berate",
+      "distractors": [
+        "To invigorate thoroughly.",
+        "To recuperate fully.",
+        "To operate skillfully.",
+        "To prepare diligently.",
+        "To achieve triumph.",
+        "To exasperate greatly.",
+        "To vitiate or corrupt.",
+        "To cooperate effectively.",
+        "To tolerate patiently.",
+        "To perpetuate something."
+      ]
+    }
+  ]
+}

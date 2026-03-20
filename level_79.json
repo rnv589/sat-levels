@@ -1,0 +1,167 @@
+{
+  "level": 79,
+  "rarity_tier": "Legendary",
+  "cosmetic_reward": "gold_tier_item_79.png",
+  "questions": [
+    {
+      "word": "ALTERCATION",
+      "correct_definition": "a dispute, \ufb01ght",
+      "distractors": [
+        "A major change or adjustment.",
+        "The process of offering an alternative choice.",
+        "A formal modification to a document.",
+        "The act of shifting one's position or stance.",
+        "A complete transformation or conversion.",
+        "The replacement of a part or component.",
+        "A decision to pursue a different course of action.",
+        "The intricate art of tailoring or mending clothes.",
+        "A significant amendment or revision.",
+        "The act of changing the appearance of something."
+      ]
+    },
+    {
+      "word": "APPROBATION",
+      "correct_definition": "praise",
+      "distractors": [
+        "A period of observation to determine suitability.",
+        "A thorough and official examination of facts.",
+        "The act of taking possession of something, often illicitly.",
+        "A perplexing or challenging predicament.",
+        "Strict adherence to moral principles.",
+        "The process of establishing the truth or validity of a claim.",
+        "A temporary suspension from a position or privilege.",
+        "The faculty of discerning right from wrong.",
+        "A formal request or appeal for something.",
+        "The condition of being appropriate or suitable for a purpose."
+      ]
+    },
+    {
+      "word": "APPROPRIATE",
+      "correct_definition": "to take, make use of",
+      "distractors": [
+        "To make something proper or suitable for an occasion.",
+        "To give formal approval or sanction to a proposal.",
+        "To cause to become part of a larger whole or group.",
+        "To attribute something correctly to its rightful owner.",
+        "To make a situation more conducive to success.",
+        "To find the correct or proper solution to a problem.",
+        "To adjust one's behavior to fit a particular context.",
+        "To declare something to be owned privately by an individual.",
+        "To adapt something to a new or different environment.",
+        "To establish a sense of personal ownership over an object."
+      ]
+    },
+    {
+      "word": "ARBITRATION",
+      "correct_definition": "the process or act of resolving a dispute",
+      "distractors": [
+        "The act of making decisions based on personal inclination rather than objective facts.",
+        "The exercise of absolute and unrestrained power by a ruling authority.",
+        "The process of randomly assigning individuals to specific roles without explicit criteria.",
+        "The systematic cultivation and care of trees, shrubs, and other woody plants.",
+        "The legal process of seizing private property for public use without the owner's consent.",
+        "The inherent right of an individual to make independent choices about their own life path.",
+        "The state of being subject to the unpredictable whims or actions of others.",
+        "The process or act of unilaterally imposing a decision without seeking input or consensus.",
+        "The act of a judge delivering a verdict based solely on personal intuition rather than evidence.",
+        "The power of an individual to dictate the fate or outcome of events for others."
+      ]
+    },
+    {
+      "word": "CAMARADERIE",
+      "correct_definition": "brotherhood, jovial unity",
+      "distractors": [
+        "A private, enclosed chamber for contemplation.",
+        "A clandestine assembly for secret discussions.",
+        "An elaborate, intricately carved wooden chest.",
+        "A complex, strategic game involving multiple players.",
+        "A meticulous recording of historical events or data.",
+        "An overwhelming sense of fear or unease.",
+        "A legal or formal pact binding individuals.",
+        "A type of intricate, repetitive decorative pattern.",
+        "A close-knit group of influential advisors.",
+        "The art of skilled illusion or deceptive trickery."
+      ]
+    },
+    {
+      "word": "CAPTIVATE",
+      "correct_definition": "to get the attention of, hold",
+      "distractors": [
+        "To physically seize and hold prisoner.",
+        "To seal or close off with a protective cover.",
+        "To estimate the maximum potential or quantity of something.",
+        "To deprive someone of their ability to function.",
+        "To make an exact duplicate or copy of something.",
+        "To empty a space or position; to leave vacant.",
+        "To confirm the truth or accuracy of a statement.",
+        "To prepare and work land for growing plants.",
+        "To assume the leading position in a group or project.",
+        "To restrain the movement or action of another."
+      ]
+    },
+    {
+      "word": "CIRCUMSPECT",
+      "correct_definition": "cautious",
+      "distractors": [
+        "Having a perfectly circular form.",
+        "Possessing keen visual acuity.",
+        "Observing every minute detail.",
+        "Encompassing all relevant aspects.",
+        "Moving along a circuitous route.",
+        "Indirect or evasive in communication.",
+        "Thoroughly scrutinizing an object.",
+        "Anticipating future developments.",
+        "Completely surrounding an area.",
+        "Possessing a wide range of knowledge."
+      ]
+    },
+    {
+      "word": "CLANDESTINE",
+      "correct_definition": "secret",
+      "distractors": [
+        "Relating to a closed family group.",
+        "Determined by an inescapable fate.",
+        "Marked by a loud, harsh metallic sound.",
+        "Intended to deceive or mislead others.",
+        "Having a tendency to decline or worsen.",
+        "Pertaining to a specific tract of land.",
+        "Characterized by extreme difficulty.",
+        "Concerned with the study of ancient cultures.",
+        "Characterized by overwhelming force or power.",
+        "Serving as a temporary or provisional measure."
+      ]
+    },
+    {
+      "word": "COGNIZANT",
+      "correct_definition": "aware, mindful",
+      "distractors": [
+        "skilled in complex problem-solving",
+        "inclined to deep philosophical thought",
+        "quick to understand difficult subjects",
+        "having the ability to vividly recall past events",
+        "capable of forming new and innovative ideas",
+        "demonstrating exceptional intellectual capacity",
+        "eager to acquire knowledge or learn new things",
+        "recognized or acknowledged by an authority",
+        "having a clear understanding of abstract concepts",
+        "dedicated to the study of mental processes"
+      ]
+    },
+    {
+      "word": "COMPLACENCY",
+      "correct_definition": "self-satis\ufb01ed ignorance of danger",
+      "distractors": [
+        "The state of being agreeable or eager to please others.",
+        "A strong desire to achieve a state of inner peace and tranquility.",
+        "An excessive preoccupation with physical comfort and leisure.",
+        "The act of expressing dissatisfaction or making a formal protest.",
+        "The careful arrangement or positioning of elements for optimal effect.",
+        "A tendency to avoid confrontation or difficult situations.",
+        "The condition of being fully prepared or complete for a task.",
+        "A forced or feigned attitude of cheerfulness despite inner turmoil.",
+        "The process of making something simple or less complicated.",
+        "A mutual agreement or understanding reached between opposing parties."
+      ]
+    }
+  ]
+}

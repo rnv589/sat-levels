@@ -1,0 +1,167 @@
+{
+  "level": 19,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_19.png",
+  "questions": [
+    {
+      "word": "AMIABLE",
+      "correct_definition": "friendly",
+      "distractors": [
+        "Capable of being easily repaired.",
+        "Having a strong artistic inclination.",
+        "Prone to wandering aimlessly.",
+        "Easily influenced by others.",
+        "Able to recall past events.",
+        "Given to sudden changes of mood.",
+        "Possessing an unusual sense of humor.",
+        "Excessively concerned with oneself.",
+        "Marked by a strong sense of purpose.",
+        "Tending to be overly critical."
+      ]
+    },
+    {
+      "word": "AMOROUS",
+      "correct_definition": "showing love, particularly sexual",
+      "distractors": [
+        "Devoid of moral sensibility or ethical considerations.",
+        "Exhibiting no distinct form or clear structure.",
+        "Intended to improve or make a situation more tolerable.",
+        "Relating to a significant and generalized loss of memory.",
+        "The act of granting an official pardon or a general forgiveness.",
+        "Demonstrating an intense drive for achievement or elevated status.",
+        "Characterized by a large quantity or sufficient amount.",
+        "Providing strong protection or a defensive covering.",
+        "Deviating from what is standard, normal, or expected.",
+        "Lacking professional skill or experience; dabbling in an activity."
+      ]
+    },
+    {
+      "word": "ANGUISH",
+      "correct_definition": "extreme sadness, torment",
+      "distractors": [
+        "A strong, overwhelming feeling of resentment or bitterness.",
+        "The physical sensation of acute, throbbing pain.",
+        "A state of prolonged physical weakness or fatigue.",
+        "The profound desire for something unattainable or lost.",
+        "A sudden, powerful surge of anger or rage.",
+        "The inability to communicate thoughts or feelings effectively.",
+        "A persistent feeling of intense longing or nostalgia for the past.",
+        "A state of deep mental confusion or disarray.",
+        "The sensation of being tightly constricted or held captive.",
+        "An overwhelming sense of helplessness in a difficult situation."
+      ]
+    },
+    {
+      "word": "ANNEX",
+      "correct_definition": "to incorporate territory or space",
+      "distractors": [
+        "to securely fasten or tie two disparate objects together",
+        "to make a formal public announcement or declaration",
+        "to add a supplementary document or non-essential item to a main body",
+        "to officially invalidate or repeal a previous law or agreement",
+        "to arrange events in a chronological sequence, typically on an annual basis",
+        "to initiate a completely new and independent phase of development",
+        "to deny or restrict entry to a specific area or building",
+        "to place an object immediately adjacent to another without full integration",
+        "to firmly adhere a label or notice to a surface",
+        "to connect or link distinct ideas or concepts logically"
+      ]
+    },
+    {
+      "word": "ANOMALY",
+      "correct_definition": "something that does not \ufb01t into the normal order",
+      "distractors": [
+        "something that cannot be given a specific name or category.",
+        "a legal principle that is intentionally left undefined.",
+        "the condition of being entirely without any established rules.",
+        "something that lacks any clear historical precedent.",
+        "a situation characterized by an absence of fair distribution.",
+        "the study of phenomena that defy conventional explanation.",
+        "a severe form of mental distress caused by isolation.",
+        "a statement that directly contradicts a previously held belief.",
+        "the act of refusing to comply with a given directive.",
+        "a lack of recognition for a significant accomplishment."
+      ]
+    },
+    {
+      "word": "APPEASE",
+      "correct_definition": "to calm, satisfy",
+      "distractors": [
+        "to make a formal request or petition",
+        "to put together fragmented parts",
+        "to become clearly visible or apparent",
+        "to imitate or mimic an action",
+        "to make something easier to understand",
+        "to assign a specific task or duty",
+        "to separate into distinct sections",
+        "to seek approval or commendation",
+        "to grant special privileges or rights",
+        "to reduce the complexity of a system"
+      ]
+    },
+    {
+      "word": "ARBITER",
+      "correct_definition": "one who can resolve a dispute, make a decision",
+      "distractors": [
+        "One who acts on impulse rather than reasoned judgment.",
+        "A person responsible for the meticulous arrangement of objects.",
+        "An individual known for their profound knowledge of ancient rituals.",
+        "One who charts the movement and positions of stars and planets.",
+        "A speaker renowned for delivering eloquent and persuasive arguments.",
+        "A custodian tasked with preserving the integrity of historical documents.",
+        "One skilled in the creation of highly detailed architectural models.",
+        "A high-ranking officer in charge of military strategy and deployment.",
+        "A scholar dedicated to deciphering obscure or archaic languages.",
+        "A person who meticulously records and analyzes financial transactions."
+      ]
+    },
+    {
+      "word": "ARCHAIC",
+      "correct_definition": "of or relating to an earlier period in time, outdated",
+      "distractors": [
+        "Relating to the study of ancient architectural designs or foundational structures.",
+        "Pertaining to the fundamental principles or chief components of a complex system.",
+        "Characterized by a highly structured or rigidly hierarchical form of social organization.",
+        "Indicating a mastery of a specific skill or craft, often related to historical artistic techniques.",
+        "Describing an individual highly skilled in the use of a bow and arrow or other ancient weaponry.",
+        "Referring to the initial, foundational stage or beginning of a significant development or process.",
+        "Having a distinctive curved shape or a gracefully arched structural element.",
+        "Of or pertaining to a complex system for classifying, organizing, or indexing information.",
+        "Characterized by an intricate and elaborate design, often involving multiple interwoven layers.",
+        "Referring to a supreme ruler or leader who exercises absolute authority."
+      ]
+    },
+    {
+      "word": "ARTISAN",
+      "correct_definition": "a craftsman",
+      "distractors": [
+        "a connoisseur of fine art",
+        "a master of subtle deception",
+        "one who studies historical artifacts",
+        "a person skilled in political maneuvering",
+        "a creator of artificial intelligence",
+        "one who designs elaborate theories",
+        "a specialist in ancient Roman architecture",
+        "a person of refined cultural tastes",
+        "a professional performing artist",
+        "a proponent of avant-garde movements"
+      ]
+    },
+    {
+      "word": "ASCETIC",
+      "correct_definition": "practicing restraint as a means of self-discipline, usually religious",
+      "distractors": [
+        "Relating to the appreciation and understanding of beauty, especially in art.",
+        "Characterized by a sharp, pungent, or sour taste or smell.",
+        "Pertaining to the systematic study and analysis of a particular subject.",
+        "Marked by an upward movement or a gradual increase in intensity.",
+        "Given to severe criticism or harsh judgment of others.",
+        "Displaying meticulous attention to detail and precision in work.",
+        "Seeking spiritual understanding through intense sensory experiences and pleasure.",
+        "A type of ancient script or system of writing used for sacred texts.",
+        "Concerned with the principles of morality and the ethics of human behavior.",
+        "Strictly adhering to a rigid set of rules or formal procedures."
+      ]
+    }
+  ]
+}

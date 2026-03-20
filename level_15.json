@@ -1,0 +1,167 @@
+{
+  "level": 15,
+  "rarity_tier": "Common",
+  "cosmetic_reward": "grey_tier_item_15.png",
+  "questions": [
+    {
+      "word": "MYRIAD",
+      "correct_definition": "consisting of a very great number",
+      "distractors": [
+        "relating to something enigmatic or difficult to understand.",
+        "characterized by the property of reflecting light or sound.",
+        "a group or collection of exactly three distinct units.",
+        "denoting a brief and intense period of activity.",
+        "possessing a rich and aromatic scent or perfume.",
+        "being deeply entangled or stuck in a difficult predicament.",
+        "composed of a singular and incomparable element.",
+        "pertaining to the faculty or act of seeing clearly.",
+        "a fixed unit of measurement for a specific quantity.",
+        "relating to ancient myths, legends, or folklore."
+      ]
+    },
+    {
+      "word": "NUANCE",
+      "correct_definition": "a slight variation in meaning, tone, expression",
+      "distractors": [
+        "A freshly conceived idea or novel concept.",
+        "The state of being revealed or made clearly visible.",
+        "A specific measurement or numerical value.",
+        "A position of deliberate impartiality or non-alignment.",
+        "A sudden, forceful impact or striking blow.",
+        "The capacity to adapt quickly to new circumstances.",
+        "A profound and complete absence of sound.",
+        "A formal declaration of denial or rejection.",
+        "A faint, indistinct outline or impression.",
+        "A strong, vivid burst of chromatic intensity."
+      ]
+    },
+    {
+      "word": "OBTUSE",
+      "correct_definition": "lacking quickness of sensibility or intellect",
+      "distractors": [
+        "Possessing an angle greater than 90 degrees; not acute.",
+        "Having a dull or rounded edge; not sharp.",
+        "Tending to obstruct or block a path or view.",
+        "Difficult to comprehend or articulate clearly.",
+        "Exhibiting a strong resistance to change or persuasion.",
+        "Causing confusion or mental bewilderment.",
+        "Physically cumbersome or difficult to handle.",
+        "Lacking sensitivity to pain or discomfort.",
+        "Having a thick or dense texture; not permeable.",
+        "Tending to be overlooked or disregarded by others."
+      ]
+    },
+    {
+      "word": "ODIOUS",
+      "correct_definition": "instilling hatred or intense displeasure",
+      "distractors": [
+        "Relating to the sense of hearing; auditory.",
+        "Describing something that is difficult to see through; opaque.",
+        "Characterized by a heavy burden or obligation; oppressive.",
+        "Indicating a bad omen or threat; ominous.",
+        "Pertaining to a formal lyrical poem or song of praise.",
+        "Marked by an unusual or unpleasant scent; malodorous.",
+        "Displaying a strong sense of duty or moral imperative.",
+        "Suggesting a long and adventurous journey or experience.",
+        "Excessively proud or arrogant, showing disdain for others.",
+        "Tending to resist authority or control; disobedient."
+      ]
+    },
+    {
+      "word": "ORNATE",
+      "correct_definition": "highly elaborate, excessively decorated",
+      "distractors": [
+        "Arranged in a precise and methodical sequence.",
+        "Serving as the initial or fundamental basis for something.",
+        "To determine the proper position or direction of something.",
+        "Stubbornly resistant to authority or difficult to manage.",
+        "Characterized by highly expressive or formal public speaking.",
+        "Pertaining to official functions or a sense of solemn duty.",
+        "To fit out with necessary provisions or equipment.",
+        "To set apart as distinct or noteworthy by a specific mark.",
+        "Displaying a strong sense of personal integrity or honor.",
+        "To formally declare or command with legal authority."
+      ]
+    },
+    {
+      "word": "PALLID",
+      "correct_definition": "lacking color",
+      "distractors": [
+        "Serving to excuse or mitigate.",
+        "Marked by shrewdness and cunning.",
+        "Occurring in an abundant quantity.",
+        "Relating to a dark, heavy covering.",
+        "Implying a sense of deep melancholy.",
+        "Exhibiting careful social graces.",
+        "Tending to cause irritation or distress.",
+        "Possessing strong conviction or validity.",
+        "Designed to alleviate pain or symptoms.",
+        "Readily persuaded or manipulated."
+      ]
+    },
+    {
+      "word": "PARIAH",
+      "correct_definition": "an outcast",
+      "distractors": [
+        "a state of perfect equality",
+        "a type of elaborate operatic song",
+        "a protective outer layer of skin",
+        "a communal place of worship",
+        "a guiding principle or doctrine",
+        "a small, intricate detail",
+        "a strong, defensive fortification",
+        "a deep-seated hatred or prejudice",
+        "a measure of statistical variation",
+        "a swift, sudden attack"
+      ]
+    },
+    {
+      "word": "PARODY",
+      "correct_definition": "a satirical imitation",
+      "distractors": [
+        "A solemn and profound musical composition.",
+        "A detailed scholarly commentary on a literary work.",
+        "A formal and precise arrangement of structural elements.",
+        "An emotional and heartfelt lyrical poem.",
+        "A public declaration of one's guiding principles.",
+        "An auxiliary or secondary element within a larger whole.",
+        "A dramatic monologue delivered by a single performer.",
+        "A traditional form of epic poetry passed down orally.",
+        "A statement or argument presented in opposition to another.",
+        "A ritualistic chant or song performed during a ceremony."
+      ]
+    },
+    {
+      "word": "PATENT",
+      "correct_definition": "readily seen or understood, clear",
+      "distractors": [
+        "A legal right granting exclusive control over an invention for a period.",
+        "To secure sole intellectual property rights for a novel creation.",
+        "Possessing great strength, influence, or effectiveness.",
+        "Existing in a concealed or undeveloped state, awaiting emergence.",
+        "To endure difficulties or delays without expressing irritation or anxiety.",
+        "A formal document issued by a government authority, conferring a right or title.",
+        "To apply a shiny, durable coating to a material, especially leather.",
+        "A deep-seated emotional attachment or personal affinity.",
+        "To officially register or record ownership of an asset.",
+        "To bring into existence or cause to develop rapidly."
+      ]
+    },
+    {
+      "word": "PATHOS",
+      "correct_definition": "an emotion of sympathy",
+      "distractors": [
+        "A severe and chronic physical illness.",
+        "A predetermined course of action or destiny.",
+        "An overwhelming feeling of extreme joy.",
+        "The study of ancient road systems and trails.",
+        "A sudden and uncontrollable outburst of anger.",
+        "A secret or hidden passage in a building.",
+        "A distinctive manner or style of walking.",
+        "A profound sense of longing for something lost.",
+        "A fundamental principle of effective persuasion.",
+        "A philosophical system focused on human suffering."
+      ]
+    }
+  ]
+}
