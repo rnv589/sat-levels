@@ -4,7 +4,7 @@
   "cosmetic_reward": "grey_tier_item_2.png",
   "questions": [
     {
-      "word": "DEFT",
+      "word": "DEFT(adj)",
       "correct_definition": "skillful, capable",
       "distractors": [
         "Having a profound or intense quality; deeply felt.",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "word": "DOUR",
+      "word": "DOUR(adj)",
       "correct_definition": "stern, joyless",
       "distractors": [
         "Stubborn, unyielding",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "word": "FOIL",
+      "word": "FOIL(v)",
       "correct_definition": "to thwart, frustrate, defeat",
       "distractors": [
         "To serve as a strong contrast, thereby enhancing the qualities of something else.",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "word": "GOAD",
+      "word": "GOAD(v)",
       "correct_definition": "to urge, spur, incite to action",
       "distractors": [
         "To measure, estimate, or determine size.",
@@ -85,7 +85,7 @@
     },
     {
       "word": "PERT",
-      "correct_definition": "\ufb02ippant, bold",
+      "correct_definition": "flippant, bold",
       "distractors": [
         "Alert, watchful",
         "Skilled, adept",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "word": "RAIL",
+      "word": "RAIL(v)",
       "correct_definition": "to scold, protest",
       "distractors": [
         "to guide along a fixed course",
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "word": "RASH",
+      "word": "RASH(adj)",
       "correct_definition": "hasty, incautious",
       "distractors": [
         "A sudden, widespread eruption on the skin.",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "word": "RIFE",
+      "word": "RIFE(adj)",
       "correct_definition": "abundant",
       "distractors": [
         "Full of discord or contention.",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "word": "RUSE",
+      "word": "RUSE(n)",
       "correct_definition": "a trick",
       "distractors": [
         "a sudden forceful movement",
